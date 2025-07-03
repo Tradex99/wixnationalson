@@ -1,0 +1,6707 @@
+  _____           _   _           _ _   _____ _      _                         ____                                   _                      ___  __            _   _                                  
+ |  ___|__   ___ | |_| |__   __ _| | | |  ___(_)_  _| |_ _   _ _ __ ___  ___  / ___|  ___ _ __ __ _ _ __   ___ _ __  | |__  _   _  __      _(_) \/ /_ __   __ _| |_(_) ___  _ __    ___ ___  _ __ ___  
+ | |_ / _ \ / _ \| __| '_ \ / _` | | | | |_  | \ \/ / __| | | | '__/ _ \/ __| \___ \ / __| '__/ _` | '_ \ / _ \ '__| | '_ \| | | | \ \ /\ / / |\  /| '_ \ / _` | __| |/ _ \| '_ \  / __/ _ \| '_ ` _ \ 
+ |  _| (_) | (_) | |_| |_) | (_| | | | |  _| | |>  <| |_| |_| | | |  __/\__ \  ___) | (__| | | (_| | |_) |  __/ |    | |_) | |_| |  \ V  V /| |/  \| | | | (_| | |_| | (_) | | | || (_| (_) | | | | | |
+ |_|  \___/ \___/ \__|_.__/ \__,_|_|_| |_|   |_/_/\_\\__|\__,_|_|  \___||___/ |____/ \___|_|  \__,_| .__/ \___|_|    |_.__/ \__, |   \_/\_/ |_/_/\_\_| |_|\__,_|\__|_|\___/|_| |_(_)___\___/|_| |_| |_|
+                                                                                                   |_|                      |___/                                                                      
+=== FOOTBALL FIXTURES SCRAPER ===
+=== Scraping Today's Fixtures ===
+Loaded build ID from key.txt: 0l-Y-GLpr1GdDBSKiBvS4
+Total Matches Found for today: 90
+
+Processing Fixtures 1 for today: Belgium Women vs Italy Women
+"Belgium Women" vs "Italy Women"
+H2H 1:
+Stage Name: Women's Friendlies
+Score: Italy Women 1 - 2 Belgium Women
+H2H 2:
+Stage Name: Group D 2022
+Score: Italy Women 0 - 1 Belgium Women
+H2H 3:
+Stage Name: Women's World Cup Qualification UEFA Grp. 6
+Score: Belgium Women 2 - 1 Italy Women
+H2H 4:
+Stage Name: Women's World Cup Qualification UEFA Grp. 6
+Score: Italy Women 2 - 1 Belgium Women
+
+Home last matches:
+HLM 1:
+Stage Name: Women's Friendlies
+Score: Belgium Women 2 - 0 Greece W
+HLM 2:
+Stage Name: Women's Friendlies
+Score: France Women 5 - 0 Belgium Women
+HLM 3:
+Stage Name: League A: Group 3
+Score: Portugal Women 0 - 3 Belgium Women
+HLM 4:
+Stage Name: League A: Group 3
+Score: Belgium Women 1 - 5 Spain Women
+HLM 5:
+Stage Name: League A: Group 3
+Score: Belgium Women 3 - 2 England Women
+HLM 6:
+Stage Name: League A: Group 3
+Score: England Women 5 - 0 Belgium Women
+HLM 7:
+Stage Name: League A: Group 3
+Score: Belgium Women 0 - 1 Portugal Women
+HLM 8:
+Stage Name: League A: Group 3
+Score: Spain Women 3 - 2 Belgium Women
+HLM 9:
+Stage Name: Qualification: Play-off
+Score: Belgium Women 2 - 1 Ukraine Women
+HLM 10:
+Stage Name: Qualification: Play-off
+Score: Ukraine Women 0 - 2 Belgium Women
+
+Away last matches:
+ALM 1:
+Stage Name: League A: Group 4
+Score: Wales Women 1 - 4 Italy Women
+ALM 2:
+Stage Name: League A: Group 4
+Score: Italy Women 0 - 0 Sweden Women
+ALM 3:
+Stage Name: League A: Group 4
+Score: Denmark Women 0 - 3 Italy Women
+ALM 4:
+Stage Name: League A: Group 4
+Score: Sweden Women 3 - 2 Italy Women
+ALM 5:
+Stage Name: League A: Group 4
+Score: Italy Women 1 - 3 Denmark Women
+ALM 6:
+Stage Name: League A: Group 4
+Score: Italy Women 1 - 0 Wales Women
+ALM 7:
+Stage Name: Women's Friendlies 2024
+Score: Germany Women 1 - 2 Italy Women
+ALM 8:
+Stage Name: Women's Friendlies 2024
+Score: Italy Women 1 - 1 Spain Women
+ALM 9:
+Stage Name: Women's Friendlies 2024
+Score: Italy Women 5 - 0 Malta W
+ALM 10:
+Stage Name: Qualification League A Grp. 1
+Score: Italy Women 4 - 0 Finland Women
+today.json updated
+
+Processing Fixtures 2 for today: Spain Women vs Portugal Women
+"Spain Women" vs "Portugal Women"
+H2H 1:
+Stage Name: League A: Group 3
+Score: Spain Women 7 - 1 Portugal Women
+H2H 2:
+Stage Name: League A: Group 3
+Score: Portugal Women 2 - 4 Spain Women
+H2H 3:
+Stage Name: Women's EURO Grp. D
+Score: Spain Women 2 - 0 Portugal Women
+H2H 4:
+Stage Name: Women's EURO Qualification Grp. B
+Score: Portugal Women 1 - 4 Spain Women
+H2H 5:
+Stage Name: Women's EURO Qualification Grp. B
+Score: Spain Women 2 - 0 Portugal Women
+
+Home last matches:
+HLM 1:
+Stage Name: Women's Friendlies
+Score: Spain Women 3 - 1 Japan W
+HLM 2:
+Stage Name: League A: Group 3
+Score: Spain Women 2 - 1 England Women
+HLM 3:
+Stage Name: League A: Group 3
+Score: Belgium Women 1 - 5 Spain Women
+HLM 4:
+Stage Name: League A: Group 3
+Score: Spain Women 7 - 1 Portugal Women
+HLM 5:
+Stage Name: League A: Group 3
+Score: Portugal Women 2 - 4 Spain Women
+HLM 6:
+Stage Name: League A: Group 3
+Score: England Women 1 - 0 Spain Women
+HLM 7:
+Stage Name: League A: Group 3
+Score: Spain Women 3 - 2 Belgium Women
+HLM 8:
+Stage Name: Women's Friendlies 2024
+Score: France Women 2 - 4 Spain Women
+HLM 9:
+Stage Name: Women's Friendlies 2024
+Score: Spain Women 5 - 0 South Korea W
+HLM 10:
+Stage Name: Women's Friendlies 2024
+Score: Italy Women 1 - 1 Spain Women
+
+Away last matches:
+ALM 1:
+Stage Name: Women's Friendlies
+Score: Portugal Women 0 - 0 Nigeria W
+ALM 2:
+Stage Name: League A: Group 3
+Score: Portugal Women 0 - 3 Belgium Women
+ALM 3:
+Stage Name: League A: Group 3
+Score: England Women 6 - 0 Portugal Women
+ALM 4:
+Stage Name: League A: Group 3
+Score: Spain Women 7 - 1 Portugal Women
+ALM 5:
+Stage Name: League A: Group 3
+Score: Portugal Women 2 - 4 Spain Women
+ALM 6:
+Stage Name: League A: Group 3
+Score: Belgium Women 0 - 1 Portugal Women
+ALM 7:
+Stage Name: League A: Group 3
+Score: Portugal Women 1 - 1 England Women
+ALM 8:
+Stage Name: Qualification: Play-off
+Score: Czechia Women 1 - 2 Portugal Women
+ALM 9:
+Stage Name: Qualification: Play-off
+Score: Portugal Women 1 - 1 Czechia Women
+ALM 10:
+Stage Name: Qualification: Play-off
+Score: Portugal Women 4 - 0 Azerbaijan Women
+today.json updated
+
+Processing Fixtures 3 for today: New York City FC vs Toronto FC
+"New York City FC" vs "Toronto FC"
+H2H 1:
+Stage Name: MLS
+Score: Toronto FC 0 - 1 New York City FC
+H2H 2:
+Stage Name: MLS 2024
+Score: Toronto FC 2 - 3 New York City FC
+H2H 3:
+Stage Name: MLS 2024
+Score: New York City FC 2 - 1 Toronto FC
+H2H 4:
+Stage Name: MLS 2023
+Score: New York City FC 3 - 0 Toronto FC
+H2H 5:
+Stage Name: Leagues Cup East Group 3
+Score: New York City FC 5 - 0 Toronto FC
+H2H 6:
+Stage Name: MLS 2023
+Score: Toronto FC 1 - 0 New York City FC
+H2H 7:
+Stage Name: Major League Soccer 2022
+Score: New York City FC 5 - 4 Toronto FC
+H2H 8:
+Stage Name: Major League Soccer 2022
+Score: Toronto FC 2 - 1 New York City FC
+H2H 9:
+Stage Name: Major League Soccer 2021
+Score: Toronto FC 2 - 2 New York City FC
+H2H 10:
+Stage Name: Major League Soccer 2021
+Score: New York City FC 1 - 1 Toronto FC
+
+Home last matches:
+HLM 1:
+Stage Name: MLS
+Score: CF Montreal 1 - 0 New York City FC
+HLM 2:
+Stage Name: MLS
+Score: New York City FC 4 - 0 Atlanta United
+HLM 3:
+Stage Name: MLS
+Score: Nashville SC 2 - 2 New York City FC
+HLM 4:
+Stage Name: MLS
+Score: New York City FC 0 - 3 Houston Dynamo
+HLM 5:
+Stage Name: MLS
+Score: New York City FC 3 - 1 Chicago Fire
+HLM 6:
+Stage Name: MLS
+Score: New York City FC 2 - 0 New York Red Bulls
+HLM 7:
+Stage Name: MLS
+Score: DC United 0 - 0 New York City FC
+HLM 8:
+Stage Name: MLS
+Score: New York City FC 0 - 1 CF Montreal
+HLM 9:
+Stage Name: US Open Cup
+Score: Pittsburgh Riverhounds 1 - 0 New York City FC
+HLM 10:
+Stage Name: MLS
+Score: New York City FC 1 - 0 FC Cincinnati
+
+Away last matches:
+ALM 1:
+Stage Name: MLS
+Score: Toronto FC 3 - 0 Portland Timbers
+ALM 2:
+Stage Name: MLS
+Score: Toronto FC 1 - 1 New York Red Bulls
+ALM 3:
+Stage Name: MLS
+Score: Toronto FC 0 - 2 Charlotte
+ALM 4:
+Stage Name: MLS
+Score: Toronto FC 1 - 2 Philadelphia Union
+ALM 5:
+Stage Name: MLS
+Score: Toronto FC 1 - 2 Nashville SC
+ALM 6:
+Stage Name: MLS
+Score: CF Montreal 1 - 6 Toronto FC
+ALM 7:
+Stage Name: MLS
+Score: Toronto FC 0 - 1 FC Cincinnati
+ALM 8:
+Stage Name: MLS
+Score: Toronto FC 2 - 0 DC United
+ALM 9:
+Stage Name: MLS
+Score: Toronto FC 0 - 2 New England Revolution
+ALM 10:
+Stage Name: Canadian Championship
+Score: Toronto FC 2 - 2 CF Montreal
+today.json updated
+
+Processing Fixtures 4 for today: Club Atletico Platense vs Independiente Rivadavia
+"Club Atletico Platense" vs "Independiente Rivadavia"
+H2H 1:
+Stage Name: Primera Division 2024
+Score: Independiente Rivadavia 0 - 2 Club Atletico Platense
+H2H 2:
+Stage Name: Primera Nacional: Group A
+Score: Independiente Rivadavia 4 - 1 Club Atletico Platense
+H2H 3:
+Stage Name: Primera B Nacional
+Score: Independiente Rivadavia 1 - 0 Club Atletico Platense
+H2H 4:
+Stage Name: Primera B Nacional
+Score: Independiente Rivadavia 2 - 1 Club Atletico Platense
+H2H 5:
+Stage Name: Primera B Nacional
+Score: Club Atletico Platense 0 - 0 Independiente Rivadavia
+H2H 6:
+Stage Name: Primera B Nacional
+Score: Independiente Rivadavia 1 - 2 Club Atletico Platense
+H2H 7:
+Stage Name: Primera B Nacional
+Score: Club Atletico Platense 2 - 1 Independiente Rivadavia
+
+Home last matches:
+HLM 1:
+Stage Name: Copa Argentina
+Score: Club Atletico Platense 2 - 2 Independiente Rivadavia
+HLM 2:
+Stage Name: Primera Division: Apertura Playoff
+Score: CA Huracan 0 - 1 Club Atletico Platense
+HLM 3:
+Stage Name: Primera Division: Apertura Playoff
+Score: San Lorenzo de Almagro 0 - 1 Club Atletico Platense
+HLM 4:
+Stage Name: Primera Division: Apertura Playoff
+Score: River Plate 1 - 1 Club Atletico Platense
+HLM 5:
+Stage Name: Primera Division: Apertura Playoff
+Score: Racing Club 0 - 1 Club Atletico Platense
+HLM 6:
+Stage Name: Primera Division: Apertura
+Score: Gimnasia LP 1 - 0 Club Atletico Platense
+HLM 7:
+Stage Name: Primera Division: Apertura
+Score: Club Atletico Platense 2 - 1 Talleres
+HLM 8:
+Stage Name: Primera Division: Apertura
+Score: Sarmiento 0 - 1 Club Atletico Platense
+HLM 9:
+Stage Name: Primera Division: Apertura
+Score: Club Atletico Platense 0 - 0 Rosario Central
+HLM 10:
+Stage Name: Primera Division: Apertura
+Score: Deportivo Riestra 1 - 0 Club Atletico Platense
+
+Away last matches:
+ALM 1:
+Stage Name: Copa Argentina
+Score: Club Atletico Platense 2 - 2 Independiente Rivadavia
+ALM 2:
+Stage Name: Primera Division: Apertura Playoff
+Score: Independiente 1 - 0 Independiente Rivadavia
+ALM 3:
+Stage Name: Primera Division: Apertura
+Score: Independiente Rivadavia 3 - 2 Defensa y Justicia
+ALM 4:
+Stage Name: Primera Division: Apertura
+Score: Central Cordoba de Santiago 1 - 2 Independiente Rivadavia
+ALM 5:
+Stage Name: Primera Division: Apertura
+Score: Independiente Rivadavia 1 - 0 Aldosivi
+ALM 6:
+Stage Name: Copa Argentina
+Score: Independiente Rivadavia 1 - 0 Club Atletico Estudiantes
+ALM 7:
+Stage Name: Primera Division: Apertura
+Score: Banfield 1 - 1 Independiente Rivadavia
+ALM 8:
+Stage Name: Primera Division: Apertura
+Score: Godoy Cruz 1 - 1 Independiente Rivadavia
+ALM 9:
+Stage Name: Primera Division: Apertura
+Score: Independiente Rivadavia 2 - 1 Racing Club
+ALM 10:
+Stage Name: Primera Division: Apertura
+Score: CA Huracan 2 - 0 Independiente Rivadavia
+today.json updated
+
+Processing Fixtures 5 for today: Instituto Cordoba vs CA Huracan
+"Instituto Cordoba" vs "CA Huracan"
+H2H 1:
+Stage Name: Primera Division 2024
+Score: CA Huracan 1 - 0 Instituto Cordoba
+H2H 2:
+Stage Name: Copa de la Liga Profesional
+Score: Instituto Cordoba 2 - 0 CA Huracan
+H2H 3:
+Stage Name: Copa de la Liga Profesional
+Score: CA Huracan 1 - 3 Instituto Cordoba
+H2H 4:
+Stage Name: Cup
+Score: Instituto Cordoba 0 - 2 CA Huracan
+H2H 5:
+Stage Name: Primera Division 2023
+Score: Instituto Cordoba 0 - 0 CA Huracan
+H2H 6:
+Stage Name: Primera B Nacional
+Score: Instituto Cordoba 1 - 0 CA Huracan
+H2H 7:
+Stage Name: Primera B Nacional
+Score: CA Huracan 1 - 3 Instituto Cordoba
+H2H 8:
+Stage Name: Primera B Nacional
+Score: CA Huracan 2 - 2 Instituto Cordoba
+H2H 9:
+Stage Name: Primera B Nacional
+Score: Instituto Cordoba 1 - 0 CA Huracan
+H2H 10:
+Stage Name: Primera B Nacional
+Score: CA Huracan 0 - 0 Instituto Cordoba
+
+Home last matches:
+HLM 1:
+Stage Name: Primera Division: Apertura Playoff
+Score: Argentinos Juniors 3 - 1 Instituto Cordoba
+HLM 2:
+Stage Name: Primera Division: Apertura
+Score: Talleres 1 - 2 Instituto Cordoba
+HLM 3:
+Stage Name: Primera Division: Apertura
+Score: Instituto Cordoba 1 - 1 Sarmiento
+HLM 4:
+Stage Name: Primera Division: Apertura
+Score: Rosario Central 3 - 0 Instituto Cordoba
+HLM 5:
+Stage Name: Primera Division: Apertura
+Score: Instituto Cordoba 3 - 0 Deportivo Riestra
+HLM 6:
+Stage Name: Primera Division: Apertura
+Score: Atletico Tucuman 3 - 2 Instituto Cordoba
+HLM 7:
+Stage Name: Copa Argentina
+Score: Instituto Cordoba 3 - 0 Deportivo Madryn
+HLM 8:
+Stage Name: Primera Division: Apertura
+Score: Instituto Cordoba 1 - 0 San Martin San Juan
+HLM 9:
+Stage Name: Primera Division: Apertura
+Score: Lanus 4 - 1 Instituto Cordoba
+HLM 10:
+Stage Name: Primera Division: Apertura
+Score: Instituto Cordoba 1 - 1 Godoy Cruz
+
+Away last matches:
+ALM 1:
+Stage Name: Primera Division: Apertura Playoff
+Score: CA Huracan 0 - 1 Club Atletico Platense
+ALM 2:
+Stage Name: Group C
+Score: CA Huracan 1 - 0 Corinthians
+ALM 3:
+Stage Name: Primera Division: Apertura Playoff
+Score: Independiente 0 - 0 CA Huracan
+ALM 4:
+Stage Name: Primera Division: Apertura Playoff
+Score: Rosario Central 0 - 1 CA Huracan
+ALM 5:
+Stage Name: Group C
+Score: America de Cali 0 - 0 CA Huracan
+ALM 6:
+Stage Name: Primera Division: Apertura Playoff
+Score: CA Huracan 3 - 2 Deportivo Riestra
+ALM 7:
+Stage Name: Group C
+Score: Racing 1 - 3 CA Huracan
+ALM 8:
+Stage Name: Primera Division: Apertura
+Score: CA Huracan 0 - 1 Barracas Central
+ALM 9:
+Stage Name: Primera Division: Apertura
+Score: Newell's Old Boys 2 - 0 CA Huracan
+ALM 10:
+Stage Name: Group C
+Score: CA Huracan 0 - 0 America de Cali
+today.json updated
+
+Processing Fixtures 6 for today: FC Utrecht vs SV Rodinghausen
+"FC Utrecht" vs "SV Rodinghausen"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Club Friendlies 2025
+Score: FC Utrecht 0 - 1 SV Rodinghausen
+HLM 2:
+Stage Name: Club Friendlies 2025
+Score: FC Utrecht 1 - 3 FCSB
+HLM 3:
+Stage Name: Eredivisie
+Score: Fortuna Sittard 0 - 0 FC Utrecht
+HLM 4:
+Stage Name: Eredivisie
+Score: FC Utrecht 1 - 1 Sparta Rotterdam
+HLM 5:
+Stage Name: Eredivisie
+Score: FC Twente 2 - 0 FC Utrecht
+HLM 6:
+Stage Name: Eredivisie
+Score: RKC Waalwijk 0 - 4 FC Utrecht
+HLM 7:
+Stage Name: Eredivisie
+Score: FC Utrecht 4 - 0 Ajax
+HLM 8:
+Stage Name: Eredivisie
+Score: FC Utrecht 3 - 1 FC Groningen
+HLM 9:
+Stage Name: Eredivisie
+Score: Go Ahead Eagles 2 - 2 FC Utrecht
+HLM 10:
+Stage Name: Eredivisie
+Score: FC Utrecht 2 - 0 SC Heerenveen
+
+Away last matches:
+ALM 1:
+Stage Name: Club Friendlies 2025
+Score: FC Utrecht 0 - 1 SV Rodinghausen
+ALM 2:
+Stage Name: Club Friendlies 2024
+Score: SV Rodinghausen 0 - 4 VfL Osnabrück
+ALM 3:
+Stage Name: Club Friendlies 2024
+Score: De Graafschap 4 - 2 SV Rodinghausen
+ALM 4:
+Stage Name: Club Friendlies 2024
+Score: Jong FC Utrecht 1 - 2 SV Rodinghausen
+ALM 5:
+Stage Name: Club Friendlies 2024
+Score: Eintracht Rheine 1 - 5 SV Rodinghausen
+ALM 6:
+Stage Name: Club Friendlies 2024
+Score: Arminia Bielefeld 0 - 3 SV Rodinghausen
+ALM 7:
+Stage Name: Club Friendlies 2023
+Score: SV Rodinghausen 8 - 0 Meppen
+ALM 8:
+Stage Name: Club Friendlies 2023
+Score: TSV Havelse 1 - 4 SV Rodinghausen
+ALM 9:
+Stage Name: Club Friendlies 2023
+Score: Blau-Weiss Lohne 2 - 2 SV Rodinghausen
+today.json updated
+
+Processing Fixtures 7 for today: Aris vs Livingston
+"Aris" vs "Livingston"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Super League: Conference League Group
+Score: Aris 4 - 2 Asteras Tripolis
+HLM 2:
+Stage Name: Super League: Conference League Group
+Score: OFI Crete 1 - 1 Aris
+HLM 3:
+Stage Name: Super League: Conference League Group
+Score: Atromitos 1 - 1 Aris
+HLM 4:
+Stage Name: Super League: Conference League Group
+Score: Aris 1 - 0 Atromitos
+HLM 5:
+Stage Name: Super League: Conference League Group
+Score: Aris 2 - 0 OFI Crete
+HLM 6:
+Stage Name: Super League: Conference League Group
+Score: Asteras Tripolis 0 - 2 Aris
+HLM 7:
+Stage Name: Super League
+Score: Aris 0 - 0 AEK Athens
+HLM 8:
+Stage Name: Super League
+Score: NFC Volos 1 - 1 Aris
+HLM 9:
+Stage Name: Super League
+Score: Aris 2 - 1 Panetolikos
+HLM 10:
+Stage Name: Super League
+Score: Levadiakos 4 - 1 Aris
+
+Away last matches:
+ALM 1:
+Stage Name: Club Friendlies 2025
+Score: Alloa Athletic 1 - 3 Livingston
+ALM 2:
+Stage Name: Premiership: Qualification
+Score: Ross County 2 - 4 Livingston
+ALM 3:
+Stage Name: Premiership: Qualification
+Score: Livingston 1 - 1 Ross County
+ALM 4:
+Stage Name: Premiership: Qualification
+Score: Livingston 2 - 0 Partick Thistle
+ALM 5:
+Stage Name: Premiership: Qualification
+Score: Partick Thistle 0 - 2 Livingston
+ALM 6:
+Stage Name: Championship
+Score: Livingston 0 - 1 Partick Thistle
+ALM 7:
+Stage Name: Championship
+Score: Hamilton Academical 0 - 3 Livingston
+ALM 8:
+Stage Name: Championship
+Score: Livingston 5 - 0 Ayr United
+ALM 9:
+Stage Name: Championship
+Score: Greenock Morton 1 - 2 Livingston
+ALM 10:
+Stage Name: Championship
+Score: Livingston 3 - 0 Queen's Park
+today.json updated
+
+Processing Fixtures 8 for today: Aris vs Livingston
+"Aris" vs "Livingston"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Club Friendlies 2025
+Score: Aris 1 - 3 Livingston
+HLM 2:
+Stage Name: Super League: Conference League Group
+Score: Aris 4 - 2 Asteras Tripolis
+HLM 3:
+Stage Name: Super League: Conference League Group
+Score: OFI Crete 1 - 1 Aris
+HLM 4:
+Stage Name: Super League: Conference League Group
+Score: Atromitos 1 - 1 Aris
+HLM 5:
+Stage Name: Super League: Conference League Group
+Score: Aris 1 - 0 Atromitos
+HLM 6:
+Stage Name: Super League: Conference League Group
+Score: Aris 2 - 0 OFI Crete
+HLM 7:
+Stage Name: Super League: Conference League Group
+Score: Asteras Tripolis 0 - 2 Aris
+HLM 8:
+Stage Name: Super League
+Score: Aris 0 - 0 AEK Athens
+HLM 9:
+Stage Name: Super League
+Score: NFC Volos 1 - 1 Aris
+HLM 10:
+Stage Name: Super League
+Score: Aris 2 - 1 Panetolikos
+
+Away last matches:
+ALM 1:
+Stage Name: Club Friendlies 2025
+Score: Aris 1 - 3 Livingston
+ALM 2:
+Stage Name: Club Friendlies 2025
+Score: Alloa Athletic 1 - 3 Livingston
+ALM 3:
+Stage Name: Premiership: Qualification
+Score: Ross County 2 - 4 Livingston
+ALM 4:
+Stage Name: Premiership: Qualification
+Score: Livingston 1 - 1 Ross County
+ALM 5:
+Stage Name: Premiership: Qualification
+Score: Livingston 2 - 0 Partick Thistle
+ALM 6:
+Stage Name: Premiership: Qualification
+Score: Partick Thistle 0 - 2 Livingston
+ALM 7:
+Stage Name: Championship
+Score: Livingston 0 - 1 Partick Thistle
+ALM 8:
+Stage Name: Championship
+Score: Hamilton Academical 0 - 3 Livingston
+ALM 9:
+Stage Name: Championship
+Score: Livingston 5 - 0 Ayr United
+ALM 10:
+Stage Name: Championship
+Score: Greenock Morton 1 - 2 Livingston
+today.json updated
+
+Processing Fixtures 9 for today: FC Copenhagen vs Sparta Prague
+"FC Copenhagen" vs "Sparta Prague"
+H2H 1:
+Stage Name: Club Friendlies 2024
+Score: Sparta Prague 2 - 0 FC Copenhagen
+H2H 2:
+Stage Name: Qualification 23/24
+Score: Sparta Prague 3 - 3 FC Copenhagen
+H2H 3:
+Stage Name: Qualification 23/24
+Score: FC Copenhagen 0 - 0 Sparta Prague
+H2H 4:
+Stage Name: Europa League Grp. K
+Score: Sparta Prague 0 - 3 FC Copenhagen
+H2H 5:
+Stage Name: Europa League Grp. K
+Score: FC Copenhagen 1 - 0 Sparta Prague
+
+Home last matches:
+HLM 1:
+Stage Name: Club Friendlies 2025
+Score: Ludogorets Razgrad 0 - 0 FC Copenhagen
+HLM 2:
+Stage Name: DBU Pokalen
+Score: FC Copenhagen 3 - 0 Silkeborg
+HLM 3:
+Stage Name: Superliga: Championship Group
+Score: FC Copenhagen 3 - 0 FC Nordsjaelland
+HLM 4:
+Stage Name: Superliga: Championship Group
+Score: Randers FC 0 - 4 FC Copenhagen
+HLM 5:
+Stage Name: Superliga: Championship Group
+Score: FC Copenhagen 1 - 1 FC Midtjylland
+HLM 6:
+Stage Name: DBU Pokalen
+Score: FC Copenhagen 1 - 0 Viborg
+HLM 7:
+Stage Name: Superliga: Championship Group
+Score: Broendby IF 0 - 3 FC Copenhagen
+HLM 8:
+Stage Name: DBU Pokalen
+Score: Viborg 0 - 1 FC Copenhagen
+HLM 9:
+Stage Name: Superliga: Championship Group
+Score: AGF 1 - 3 FC Copenhagen
+HLM 10:
+Stage Name: Superliga: Championship Group
+Score: FC Copenhagen 3 - 1 AGF
+
+Away last matches:
+ALM 1:
+Stage Name: 1st League: Championship
+Score: Sparta Prague 1 - 1 SK Sigma Olomouc
+ALM 2:
+Stage Name: 1st League: Championship
+Score: Banik Ostrava 3 - 2 Sparta Prague
+ALM 3:
+Stage Name: Cup
+Score: SK Sigma Olomouc 3 - 1 Sparta Prague
+ALM 4:
+Stage Name: 1st League: Championship
+Score: Slavia Prague 2 - 1 Sparta Prague
+ALM 5:
+Stage Name: 1st League: Championship
+Score: Sparta Prague 1 - 3 Jablonec
+ALM 6:
+Stage Name: 1st League: Championship
+Score: Viktoria Plzen 2 - 0 Sparta Prague
+ALM 7:
+Stage Name: Cup
+Score: Sparta Prague 1 - 0 Viktoria Plzen
+ALM 8:
+Stage Name: 1st League
+Score: Pardubice 1 - 2 Sparta Prague
+ALM 9:
+Stage Name: 1st League
+Score: Sparta Prague 2 - 0 Mlada Boleslav
+ALM 10:
+Stage Name: Cup
+Score: Sparta Prague 3 - 2 Teplice
+today.json updated
+
+Processing Fixtures 10 for today: Rubin Kazan vs FC Yenisey Krasnoyarsk
+"Rubin Kazan" vs "FC Yenisey Krasnoyarsk"
+H2H 1:
+Stage Name: Club Friendlies 2024
+Score: Rubin Kazan 3 - 1 FC Yenisey Krasnoyarsk
+
+Home last matches:
+HLM 1:
+Stage Name: Club Friendlies 2025
+Score: Rubin Kazan 1 - 1 KamAZ
+HLM 2:
+Stage Name: Club Friendlies 2025
+Score: FC Orenburg 3 - 5 Rubin Kazan
+HLM 3:
+Stage Name: Club Friendlies 2025
+Score: Rubin Kazan 0 - 1 Neftchi Fargona
+HLM 4:
+Stage Name: Club Friendlies 2025
+Score: Rubin Kazan 2 - 2 Surkhon-2011
+HLM 5:
+Stage Name: Club Friendlies 2025
+Score: Torpedo Moscow 0 - 2 Rubin Kazan
+HLM 6:
+Stage Name: Club Friendlies 2025
+Score: FK Struga 0 - 1 Rubin Kazan
+HLM 7:
+Stage Name: Club Friendlies 2024
+Score: Rubin Kazan 2 - 1 KamAZ
+HLM 8:
+Stage Name: Club Friendlies 2024
+Score: Rubin Kazan 1 - 2 Arda Kardzhali
+HLM 9:
+Stage Name: Club Friendlies 2024
+Score: Rubin Kazan 0 - 2 FC Volgar
+HLM 10:
+Stage Name: Club Friendlies 2024
+Score: Rubin Kazan 5 - 2 Napredak
+
+Away last matches:
+ALM 1:
+Stage Name: Club Friendlies 2025
+Score: FK Akhmat 2 - 0 FC Yenisey Krasnoyarsk
+ALM 2:
+Stage Name: Club Friendlies 2024
+Score: FC Yenisey Krasnoyarsk 0 - 2 FC Ufa
+ALM 3:
+Stage Name: Club Friendlies 2022
+Score: Spartak Moscow 3 - 0 FC Yenisey Krasnoyarsk
+ALM 4:
+Stage Name: Club Friendlies 2022
+Score: Dinamo Moscow 2 - 0 FC Yenisey Krasnoyarsk
+ALM 5:
+Stage Name: Russian Cup: Group 9
+Score: FC Yenisey Krasnoyarsk 1 - 0 Krylya Sovetov Samara
+ALM 6:
+Stage Name: Russian Cup: Group 9
+Score: Znamya Noginsk 0 - 4 FC Yenisey Krasnoyarsk
+ALM 7:
+Stage Name: Russian Cup: Qualification
+Score: FC Yenisey Krasnoyarsk 2 - 1 Akron Tolyatti
+ALM 8:
+Stage Name: FNL
+Score: FC Yenisey Krasnoyarsk 2 - 1 Irtysh
+ALM 9:
+Stage Name: FNL
+Score: Tom Tomsk 1 - 0 FC Yenisey Krasnoyarsk
+ALM 10:
+Stage Name: FNL
+Score: FC Yenisey Krasnoyarsk 1 - 1 Chertanovo Moscow
+today.json updated
+
+Processing Fixtures 11 for today: Levski Sofia vs Beroe
+"Levski Sofia" vs "Beroe"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Club Friendlies 2025
+Score: Levski Sofia 5 - 1 Spartak Pleven
+HLM 2:
+Stage Name: Parva Liga: Championship Play-off
+Score: Cherno More Varna 0 - 0 Levski Sofia
+HLM 3:
+Stage Name: Parva Liga: Championship Play-off
+Score: Levski Sofia 2 - 2 Ludogorets Razgrad
+HLM 4:
+Stage Name: Parva Liga: Championship Play-off
+Score: Arda Kardzhali 0 - 3 Levski Sofia
+HLM 5:
+Stage Name: Parva Liga: Championship Play-off
+Score: Levski Sofia 2 - 0 Cherno More Varna
+HLM 6:
+Stage Name: Parva Liga: Championship Play-off
+Score: Ludogorets Razgrad 1 - 1 Levski Sofia
+HLM 7:
+Stage Name: Parva Liga: Championship Play-off
+Score: Levski Sofia 1 - 1 Arda Kardzhali
+HLM 8:
+Stage Name: Parva Liga
+Score: Septemvri Sofia 0 - 1 Levski Sofia
+HLM 9:
+Stage Name: Parva Liga
+Score: Levski Sofia 1 - 2 Cherno More Varna
+HLM 10:
+Stage Name: Parva Liga
+Score: Beroe 0 - 1 Levski Sofia
+
+Away last matches:
+ALM 1:
+Stage Name: Parva Liga: UECL Group
+Score: Beroe 3 - 1 Spartak Varna
+ALM 2:
+Stage Name: Parva Liga: UECL Group
+Score: PFC CSKA-Sofia 2 - 1 Beroe
+ALM 3:
+Stage Name: Parva Liga: UECL Group
+Score: Beroe 0 - 6 Botev Plovdiv
+ALM 4:
+Stage Name: Parva Liga: UECL Group
+Score: Spartak Varna 1 - 2 Beroe
+ALM 5:
+Stage Name: Parva Liga: UECL Group
+Score: Beroe 0 - 3 PFC CSKA-Sofia
+ALM 6:
+Stage Name: Parva Liga: UECL Group
+Score: Botev Plovdiv 1 - 1 Beroe
+ALM 7:
+Stage Name: Parva Liga
+Score: Cherno More Varna 1 - 1 Beroe
+ALM 8:
+Stage Name: Parva Liga
+Score: Beroe 2 - 0 CSKA 1948 Sofia
+ALM 9:
+Stage Name: Parva Liga
+Score: Beroe 0 - 1 Levski Sofia
+ALM 10:
+Stage Name: Parva Liga
+Score: Botev Plovdiv 0 - 0 Beroe
+today.json updated
+
+Processing Fixtures 12 for today: Young Boys vs Kriens
+"Young Boys" vs "Kriens"
+H2H 1:
+Stage Name: Club Friendlies 2021
+Score: Young Boys 2 - 1 Kriens
+H2H 2:
+Stage Name: Club Friendlies 2020
+Score: Young Boys 5 - 1 Kriens
+H2H 3:
+Stage Name: Club Friendlies 2019
+Score: Young Boys 0 - 2 Kriens
+H2H 4:
+Stage Name: Club Friendlies
+Score: Young Boys 0 - 1 Kriens
+H2H 5:
+Stage Name: Cup
+Score: Kriens 1 - 2 Young Boys
+H2H 6:
+Stage Name: Switzerland Cup
+Score: Kriens 1 - 2 Young Boys
+H2H 7:
+Stage Name: Club Friendlies
+Score: Kriens 1 - 2 Young Boys
+H2H 8:
+Stage Name: Switzerland Cup
+Score: Kriens 1 - 2 Young Boys
+H2H 9:
+Stage Name: Challenge League
+Score: Kriens 1 - 0 Young Boys
+H2H 10:
+Stage Name: Challenge League
+Score: Young Boys 1 - 0 Kriens
+
+Home last matches:
+HLM 1:
+Stage Name: Club Friendlies 2025
+Score: Young Boys 1 - 2 Thun
+HLM 2:
+Stage Name: Club Friendlies 2025
+Score: Young Boys 1 - 0 Breitenrain
+HLM 3:
+Stage Name: Super League: Championship Group
+Score: Lugano 1 - 1 Young Boys
+HLM 4:
+Stage Name: Super League: Championship Group
+Score: Young Boys 6 - 2 Basel
+HLM 5:
+Stage Name: Super League: Championship Group
+Score: Young Boys 2 - 1 Luzern
+HLM 6:
+Stage Name: Super League: Championship Group
+Score: Servette 0 - 0 Young Boys
+HLM 7:
+Stage Name: Super League: Championship Group
+Score: Lausanne 3 - 2 Young Boys
+HLM 8:
+Stage Name: Cup
+Score: Biel/Bienne 1 - 0 Young Boys
+HLM 9:
+Stage Name: Super League
+Score: Young Boys 2 - 1 FC Zurich
+HLM 10:
+Stage Name: Super League
+Score: Luzern 5 - 0 Young Boys
+
+Away last matches:
+ALM 1:
+Stage Name: Club Friendlies 2025
+Score: Thun 3 - 4 Kriens
+ALM 2:
+Stage Name: Promotion League
+Score: Kriens 4 - 2 FC Grand-Saconnex
+ALM 3:
+Stage Name: Promotion League
+Score: Young Boys II 0 - 1 Kriens
+ALM 4:
+Stage Name: Promotion League
+Score: Kriens 3 - 2 Luzern II
+ALM 5:
+Stage Name: Promotion League
+Score: Bulle 2 - 3 Kriens
+ALM 6:
+Stage Name: Promotion League
+Score: Kriens 1 - 5 FC Rapperswil-Jona
+ALM 7:
+Stage Name: Promotion League
+Score: Vevey 2 - 1 Kriens
+ALM 8:
+Stage Name: Promotion League
+Score: Kriens 2 - 1 FC Zurich II
+ALM 9:
+Stage Name: Promotion League
+Score: Delemont 1 - 0 Kriens
+ALM 10:
+Stage Name: Promotion League
+Score: Kriens 1 - 0 Biel/Bienne
+today.json updated
+
+Processing Fixtures 13 for today: Zenit St. Petersburg vs FC Dynamo-Makhachkala
+"Zenit St. Petersburg" vs "FC Dynamo-Makhachkala"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Club Friendlies 2025
+Score: Zenit St. Petersburg 3 - 0 FK Crvena Zvezda
+HLM 2:
+Stage Name: Club Friendlies 2025
+Score: Zenit St. Petersburg 5 - 0 BATE Borisov
+HLM 3:
+Stage Name: Club Friendlies 2025
+Score: Zenit St. Petersburg 3 - 0 Spartak Moscow
+HLM 4:
+Stage Name: Club Friendlies 2025
+Score: Zenit St. Petersburg 2 - 0 Pyunik
+HLM 5:
+Stage Name: Club Friendlies 2025
+Score: FC Rostov 1 - 2 Zenit St. Petersburg
+HLM 6:
+Stage Name: Club Friendlies 2025
+Score: Zenit St. Petersburg 2 - 2 CSKA Moscow
+HLM 7:
+Stage Name: Club Friendlies 2025
+Score: Zenit St. Petersburg 1 - 2 FC Noah
+HLM 8:
+Stage Name: Club Friendlies 2025
+Score: Zenit St. Petersburg 1 - 3 Dinamo Moscow
+HLM 9:
+Stage Name: Club Friendlies 2024
+Score: Zenit St. Petersburg 2 - 4 Al-Rayyan
+HLM 10:
+Stage Name: Club Friendlies 2023
+Score: FK Crvena Zvezda 2 - 1 Zenit St. Petersburg
+
+Away last matches:
+ALM 1:
+Stage Name: Club Friendlies 2025
+Score: FC Krasnodar 4 - 1 FC Dynamo-Makhachkala
+ALM 2:
+Stage Name: Club Friendlies 2025
+Score: FC Dynamo-Makhachkala 3 - 1 FC Rotor Volgograd
+ALM 3:
+Stage Name: Club Friendlies 2025
+Score: FC Dynamo-Makhachkala 1 - 0 Kairat Almaty
+ALM 4:
+Stage Name: Club Friendlies 2025
+Score: FC Dynamo-Makhachkala 0 - 1 Khimki
+ALM 5:
+Stage Name: Club Friendlies 2025
+Score: FC Dynamo-Makhachkala 1 - 2 KamAZ
+ALM 6:
+Stage Name: Club Friendlies 2025
+Score: FC Dynamo-Makhachkala 1 - 1 Fakel Voronezh
+ALM 7:
+Stage Name: Club Friendlies 2025
+Score: FC Dynamo-Makhachkala 3 - 2 Arda Kardzhali
+ALM 8:
+Stage Name: Club Friendlies 2025
+Score: FC Dynamo-Makhachkala 3 - 2 Slavia Sofia
+ALM 9:
+Stage Name: Club Friendlies 2024
+Score: FC Dynamo-Makhachkala 0 - 0 Fakel Voronezh
+ALM 10:
+Stage Name: Russian Cup: Qualification
+Score: Spartak Nalchik 3 - 2 FC Dynamo-Makhachkala
+today.json updated
+
+Processing Fixtures 14 for today: VfL Bochum vs TUS Harpen
+"VfL Bochum" vs "TUS Harpen"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Bundesliga 24/25
+Score: St. Pauli 0 - 2 VfL Bochum
+HLM 2:
+Stage Name: Bundesliga 24/25
+Score: VfL Bochum 1 - 4 Mainz 05
+HLM 3:
+Stage Name: Bundesliga 24/25
+Score: FC Heidenheim 0 - 0 VfL Bochum
+HLM 4:
+Stage Name: Bundesliga 24/25
+Score: VfL Bochum 1 - 1 Union Berlin
+HLM 5:
+Stage Name: Bundesliga 24/25
+Score: Werder Bremen 1 - 0 VfL Bochum
+HLM 6:
+Stage Name: Bundesliga 24/25
+Score: VfL Bochum 1 - 2 Augsburg
+HLM 7:
+Stage Name: Bundesliga 24/25
+Score: VfL Bochum 0 - 4 VfB Stuttgart
+HLM 8:
+Stage Name: Bundesliga 24/25
+Score: Bayer Leverkusen 3 - 1 VfL Bochum
+HLM 9:
+Stage Name: Club Friendlies 2025
+Score: VfL Bochum 4 - 2 Preussen Muenster
+HLM 10:
+Stage Name: Bundesliga 24/25
+Score: VfL Bochum 1 - 3 Eintracht Frankfurt
+No Away last matches found
+today.json updated
+
+Processing Fixtures 15 for today: SC Heerenveen vs Almere City FC
+"SC Heerenveen" vs "Almere City FC"
+H2H 1:
+Stage Name: Eredivisie
+Score: SC Heerenveen 2 - 1 Almere City FC
+H2H 2:
+Stage Name: Eredivisie
+Score: Almere City FC 3 - 0 SC Heerenveen
+H2H 3:
+Stage Name: Club Friendlies 2024
+Score: SC Heerenveen 1 - 0 Almere City FC
+H2H 4:
+Stage Name: Eredivisie 23/24
+Score: Almere City FC 1 - 1 SC Heerenveen
+H2H 5:
+Stage Name: Club Friendlies 2024
+Score: SC Heerenveen 2 - 4 Almere City FC
+H2H 6:
+Stage Name: Eredivisie 23/24
+Score: SC Heerenveen 3 - 0 Almere City FC
+H2H 7:
+Stage Name: Club Friendlies
+Score: Almere City FC 1 - 1 SC Heerenveen
+H2H 8:
+Stage Name: Club Friendlies
+Score: Almere City FC 0 - 0 SC Heerenveen
+H2H 9:
+Stage Name: Club Friendlies
+Score: SC Heerenveen 4 - 1 Almere City FC
+
+Home last matches:
+HLM 1:
+Stage Name: Eredivisie: UECL Play-off
+Score: AZ Alkmaar 4 - 1 SC Heerenveen
+HLM 2:
+Stage Name: Eredivisie
+Score: SC Heerenveen 2 - 0 Feyenoord
+HLM 3:
+Stage Name: Eredivisie
+Score: Go Ahead Eagles 1 - 0 SC Heerenveen
+HLM 4:
+Stage Name: Eredivisie
+Score: RKC Waalwijk 3 - 1 SC Heerenveen
+HLM 5:
+Stage Name: Eredivisie
+Score: SC Heerenveen 1 - 0 NEC Nijmegen
+HLM 6:
+Stage Name: Eredivisie
+Score: SC Heerenveen 2 - 1 Almere City FC
+HLM 7:
+Stage Name: Eredivisie
+Score: Sparta Rotterdam 3 - 1 SC Heerenveen
+HLM 8:
+Stage Name: Eredivisie
+Score: SC Heerenveen 3 - 1 Willem II
+HLM 9:
+Stage Name: Eredivisie
+Score: FC Utrecht 2 - 0 SC Heerenveen
+HLM 10:
+Stage Name: Eredivisie
+Score: SC Heerenveen 1 - 1 Heracles
+
+Away last matches:
+ALM 1:
+Stage Name: Eredivisie
+Score: AZ Alkmaar 1 - 1 Almere City FC
+ALM 2:
+Stage Name: Eredivisie
+Score: Almere City FC 1 - 1 Fortuna Sittard
+ALM 3:
+Stage Name: Eredivisie
+Score: Almere City FC 0 - 3 Sparta Rotterdam
+ALM 4:
+Stage Name: Eredivisie
+Score: Almere City FC 0 - 0 Go Ahead Eagles
+ALM 5:
+Stage Name: Eredivisie
+Score: SC Heerenveen 2 - 1 Almere City FC
+ALM 6:
+Stage Name: Eredivisie
+Score: PSV Eindhoven 5 - 0 Almere City FC
+ALM 7:
+Stage Name: Eredivisie
+Score: Almere City FC 2 - 2 PEC Zwolle
+ALM 8:
+Stage Name: Eredivisie
+Score: Willem II 0 - 2 Almere City FC
+ALM 9:
+Stage Name: Eredivisie
+Score: Almere City FC 1 - 1 NAC Breda
+ALM 10:
+Stage Name: Eredivisie
+Score: FC Twente 1 - 0 Almere City FC
+today.json updated
+
+Processing Fixtures 16 for today: Baronie vs NAC Breda
+"Baronie" vs "NAC Breda"
+No H2H data found
+No Home last matches found
+
+Away last matches:
+ALM 1:
+Stage Name: Club Friendlies 2025
+Score: Terheijden 0 - 9 NAC Breda
+ALM 2:
+Stage Name: Eredivisie
+Score: NAC Breda 1 - 1 Willem II
+ALM 3:
+Stage Name: Eredivisie
+Score: NEC Nijmegen 3 - 0 NAC Breda
+ALM 4:
+Stage Name: Eredivisie
+Score: Fortuna Sittard 1 - 0 NAC Breda
+ALM 5:
+Stage Name: Eredivisie
+Score: NAC Breda 1 - 3 PEC Zwolle
+ALM 6:
+Stage Name: Eredivisie
+Score: AZ Alkmaar 1 - 1 NAC Breda
+ALM 7:
+Stage Name: Eredivisie
+Score: NAC Breda 1 - 1 Go Ahead Eagles
+ALM 8:
+Stage Name: Eredivisie
+Score: Ajax 3 - 1 NAC Breda
+ALM 9:
+Stage Name: Eredivisie
+Score: NAC Breda 1 - 1 FC Groningen
+ALM 10:
+Stage Name: Club Friendlies 2025
+Score: Club Brugge 2 - 1 NAC Breda
+today.json updated
+
+Processing Fixtures 17 for today: Chile W vs Bolivia W
+"Chile W" vs "Bolivia W"
+H2H 1:
+Stage Name: Copa America Femenina Group A
+Score: Chile W 5 - 0 Bolivia W
+
+Home last matches:
+HLM 1:
+Stage Name: Women's Friendlies
+Score: Chile W 2 - 1 Haiti W
+HLM 2:
+Stage Name: Women's Friendlies
+Score: Chile W 0 - 1 Haiti W
+HLM 3:
+Stage Name: Women's Friendlies
+Score: Chile W 0 - 0 Argentina Women
+HLM 4:
+Stage Name: Women's Friendlies
+Score: Chile W 0 - 3 Argentina Women
+HLM 5:
+Stage Name: Women's Friendlies 2024
+Score: Chile W 0 - 1 Uruguay W
+HLM 6:
+Stage Name: Women's Friendlies 2024
+Score: Chile W 1 - 0 Uruguay W
+HLM 7:
+Stage Name: Women's Friendlies 2024
+Score: Ecuador W 1 - 2 Chile W
+HLM 8:
+Stage Name: Women's Friendlies 2024
+Score: Ecuador W 1 - 1 Chile W
+HLM 9:
+Stage Name: Women's Friendlies 2024
+Score: Paraguay W 0 - 5 Chile W
+HLM 10:
+Stage Name: Women's Friendlies 2024
+Score: Paraguay W 1 - 4 Chile W
+
+Away last matches:
+ALM 1:
+Stage Name: Women's Friendlies
+Score: Panama W 5 - 1 Bolivia W
+ALM 2:
+Stage Name: Women's Friendlies
+Score: Panama W 2 - 0 Bolivia W
+ALM 3:
+Stage Name: Women's Friendlies 2024
+Score: Peru W 2 - 1 Bolivia W
+ALM 4:
+Stage Name: Women's Friendlies 2024
+Score: Peru W 1 - 0 Bolivia W
+ALM 5:
+Stage Name: Women's Friendlies 2024
+Score: Bolivia W 0 - 2 El Salvador W
+ALM 6:
+Stage Name: Women's Friendlies 2024
+Score: Bolivia W 1 - 2 El Salvador W
+ALM 7:
+Stage Name: Women's Friendlies 2024
+Score: Bolivia W 0 - 1 Peru W
+ALM 8:
+Stage Name: Pan American Games Women: Placement Matches
+Score: Jamaica W 1 - 2 Bolivia W
+ALM 9:
+Stage Name: Pan American Games Women: Group B
+Score: Costa Rica W 0 - 0 Bolivia W
+ALM 10:
+Stage Name: Pan American Games Women: Group B
+Score: Bolivia W 0 - 3 Argentina Women
+today.json updated
+
+Processing Fixtures 18 for today: Mexico vs Honduras
+"Mexico" vs "Honduras"
+H2H 1:
+Stage Name: Quarter-Finals
+Score: Mexico 4 - 0 Honduras
+H2H 2:
+Stage Name: Quarter-Finals
+Score: Honduras 2 - 0 Mexico
+H2H 3:
+Stage Name: Quarter-Finals
+Score: Mexico 2 - 0 Honduras
+H2H 4:
+Stage Name: Quarter-Finals
+Score: Honduras 2 - 0 Mexico
+H2H 5:
+Stage Name: Gold Cup: Group B
+Score: Mexico 4 - 0 Honduras
+H2H 6:
+Stage Name: CONCACAF Qualification: Play-off
+Score: Honduras 0 - 1 Mexico
+H2H 7:
+Stage Name: CONCACAF Qualification: Play-off
+Score: Mexico 3 - 0 Honduras
+H2H 8:
+Stage Name: Gold Cup: Play-off
+Score: Mexico 3 - 0 Honduras
+H2H 9:
+Stage Name: Friendlies
+Score: Mexico 0 - 0 Honduras
+H2H 10:
+Stage Name: World Cup Qualification CONCACAF Final Stage
+Score: Honduras 3 - 2 Mexico
+
+Home last matches:
+HLM 1:
+Stage Name: Gold Cup: Semi-Finals
+Score: Mexico 1 - 0 Honduras
+HLM 2:
+Stage Name: Gold Cup: Quarter-Finals
+Score: Mexico 2 - 0 Saudi Arabia
+HLM 3:
+Stage Name: Gold Cup: Group A
+Score: Mexico 0 - 0 Costa Rica
+HLM 4:
+Stage Name: Gold Cup: Group A
+Score: Suriname 0 - 2 Mexico
+HLM 5:
+Stage Name: Gold Cup: Group A
+Score: Mexico 3 - 2 Dominican Republic
+HLM 6:
+Stage Name: Featured International Friendlies
+Score: Mexico 1 - 0 Turkiye
+HLM 7:
+Stage Name: Featured International Friendlies
+Score: Mexico 2 - 4 Switzerland
+HLM 8:
+Stage Name: Final
+Score: Mexico 2 - 1 Panama
+HLM 9:
+Stage Name: Semi-Finals
+Score: Canada 0 - 2 Mexico
+HLM 10:
+Stage Name: Friendlies 2025
+Score: Mexico 0 - 2 River Plate
+
+Away last matches:
+ALM 1:
+Stage Name: Gold Cup: Semi-Finals
+Score: Mexico 1 - 0 Honduras
+ALM 2:
+Stage Name: Gold Cup: Quarter-Finals
+Score: Panama 1 - 1 Honduras
+ALM 3:
+Stage Name: Gold Cup: Group B
+Score: Honduras 2 - 1 Curacao
+ALM 4:
+Stage Name: Gold Cup: Group B
+Score: Honduras 2 - 0 El Salvador
+ALM 5:
+Stage Name: Gold Cup: Group B
+Score: Canada 6 - 0 Honduras
+ALM 6:
+Stage Name: CONCACAF Qualification: 2nd Round: Group A
+Score: Honduras 2 - 0 Antigua and Barbuda
+ALM 7:
+Stage Name: CONCACAF Qualification: 2nd Round: Group A
+Score: Cayman Islands 0 - 1 Honduras
+ALM 8:
+Stage Name: Gold Cup: Qualification
+Score: Honduras 2 - 0 Bermuda
+ALM 9:
+Stage Name: Gold Cup: Qualification
+Score: Bermuda 3 - 5 Honduras
+ALM 10:
+Stage Name: Friendlies 2025
+Score: Guatemala 2 - 1 Honduras
+today.json updated
+
+Processing Fixtures 19 for today: Maxline Vitebsk vs Dinamo Minsk
+"Maxline Vitebsk" vs "Dinamo Minsk"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Premier League
+Score: Gomel 0 - 2 Maxline Vitebsk
+HLM 2:
+Stage Name: Premier League
+Score: Maxline Vitebsk 0 - 0 FK Molodechno
+HLM 3:
+Stage Name: Premier League
+Score: Isloch 0 - 1 Maxline Vitebsk
+HLM 4:
+Stage Name: Premier League
+Score: Maxline Vitebsk 2 - 0 FK Vitebsk
+HLM 5:
+Stage Name: Premier League
+Score: FC Minsk 1 - 2 Maxline Vitebsk
+HLM 6:
+Stage Name: Premier League
+Score: Maxline Vitebsk 2 - 1 BATE Borisov
+HLM 7:
+Stage Name: Premier League
+Score: Slavia Mozyr 0 - 2 Maxline Vitebsk
+HLM 8:
+Stage Name: Cup
+Score: Maxline Vitebsk 0 - 1 Torpedo Zhodino
+HLM 9:
+Stage Name: Premier League
+Score: Maxline Vitebsk 1 - 0 Neman Grodno
+HLM 10:
+Stage Name: Premier League
+Score: Torpedo Zhodino 1 - 1 Maxline Vitebsk
+
+Away last matches:
+ALM 1:
+Stage Name: Premier League
+Score: Dinamo Minsk 5 - 0 Dinamo Brest
+ALM 2:
+Stage Name: Premier League
+Score: Arsenal Dzerzhinsk 2 - 1 Dinamo Minsk
+ALM 3:
+Stage Name: Premier League
+Score: Dinamo Minsk 0 - 1 Neman Grodno
+ALM 4:
+Stage Name: Premier League
+Score: FK Slutsk 0 - 1 Dinamo Minsk
+ALM 5:
+Stage Name: Premier League
+Score: Dinamo Minsk 1 - 0 Naftan Novopolotsk
+ALM 6:
+Stage Name: Premier League
+Score: Gomel 0 - 1 Dinamo Minsk
+ALM 7:
+Stage Name: Premier League
+Score: Dinamo Minsk 3 - 2 FK Molodechno
+ALM 8:
+Stage Name: Premier League
+Score: Isloch 2 - 2 Dinamo Minsk
+ALM 9:
+Stage Name: Premier League
+Score: Dinamo Minsk 2 - 1 FK Vitebsk
+ALM 10:
+Stage Name: Premier League
+Score: Dinamo Minsk 4 - 1 FC Minsk
+today.json updated
+
+Processing Fixtures 20 for today: The Strongest vs CDT Real Oruro
+"The Strongest" vs "CDT Real Oruro"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Primera División: Apertura
+Score: The Strongest 3 - 2 Universitario de Vinto
+HLM 2:
+Stage Name: Copa Division Profesional: Group B
+Score: Always Ready 2 - 1 The Strongest
+HLM 3:
+Stage Name: Primera División: Apertura
+Score: Bolivar 1 - 2 The Strongest
+HLM 4:
+Stage Name: Primera División: Apertura
+Score: CDT Real Oruro 1 - 2 The Strongest
+HLM 5:
+Stage Name: Primera División: Apertura
+Score: The Strongest 3 - 2 ABB
+HLM 6:
+Stage Name: Copa Division Profesional: Group B
+Score: CDT Real Oruro 1 - 1 The Strongest
+HLM 7:
+Stage Name: Primera División: Apertura
+Score: Oriente Petrolero 3 - 2 The Strongest
+HLM 8:
+Stage Name: Primera División: Apertura
+Score: The Strongest 6 - 3 San Antonio Bulo Bulo
+HLM 9:
+Stage Name: Primera División: Apertura
+Score: The Strongest 5 - 1 Guabira
+HLM 10:
+Stage Name: Copa Division Profesional: Group B
+Score: The Strongest 5 - 0 Real Tomayapo
+
+Away last matches:
+ALM 1:
+Stage Name: Primera División: Apertura
+Score: CDT Real Oruro 3 - 1 Jorge Wilstermann
+ALM 2:
+Stage Name: Copa Division Profesional: Group B
+Score: CDT Real Oruro 2 - 0 Real Tomayapo
+ALM 3:
+Stage Name: Primera División: Apertura
+Score: Real Tomayapo 3 - 2 CDT Real Oruro
+ALM 4:
+Stage Name: Primera División: Apertura
+Score: CDT Real Oruro 1 - 2 The Strongest
+ALM 5:
+Stage Name: Primera División: Apertura
+Score: GV San Jose 0 - 0 CDT Real Oruro
+ALM 6:
+Stage Name: Copa Division Profesional: Group B
+Score: CDT Real Oruro 1 - 1 The Strongest
+ALM 7:
+Stage Name: Primera División: Apertura
+Score: CDT Real Oruro 2 - 2 Always Ready
+ALM 8:
+Stage Name: Primera División: Apertura
+Score: Guabira 3 - 1 CDT Real Oruro
+ALM 9:
+Stage Name: Primera División: Apertura
+Score: CDT Real Oruro 2 - 0 Universitario de Vinto
+ALM 10:
+Stage Name: Copa Division Profesional: Group B
+Score: Always Ready 1 - 1 CDT Real Oruro
+today.json updated
+
+Processing Fixtures 21 for today: GV San Jose vs Academia del Balompie Boliviano
+"GV San Jose" vs "Academia del Balompie Boliviano"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Primera División: Apertura
+Score: San Antonio Bulo Bulo 2 - 0 GV San Jose
+HLM 2:
+Stage Name: Copa Division Profesional: Group C
+Score: FBC Aurora 2 - 2 GV San Jose
+HLM 3:
+Stage Name: Primera División: Apertura
+Score: GV San Jose 4 - 1 Guabira
+HLM 4:
+Stage Name: Primera División: Apertura
+Score: Aurora 3 - 1 GV San Jose
+HLM 5:
+Stage Name: Primera División: Apertura
+Score: Bolivar 1 - 3 GV San Jose
+HLM 6:
+Stage Name: Primera División: Apertura
+Score: GV San Jose 1 - 0 Nacional Potosi
+HLM 7:
+Stage Name: Group F
+Score: Union Espanola 4 - 0 GV San Jose
+HLM 8:
+Stage Name: Primera División: Apertura
+Score: GV San Jose 0 - 0 CDT Real Oruro
+HLM 9:
+Stage Name: Copa Division Profesional: Group C
+Score: Academia del Balompie Boliviano 2 - 1 GV San Jose
+HLM 10:
+Stage Name: Group F
+Score: Once Caldas 2 - 1 GV San Jose
+
+Away last matches:
+ALM 1:
+Stage Name: Copa Division Profesional: Group C
+Score: Academia del Balompie Boliviano 3 - 1 San Antonio Bulo Bulo
+ALM 2:
+Stage Name: Copa Division Profesional: Group C
+Score: Academia del Balompie Boliviano 2 - 1 GV San Jose
+ALM 3:
+Stage Name: Copa Division Profesional: Group C
+Score: FBC Aurora 2 - 1 Academia del Balompie Boliviano
+today.json updated
+
+Processing Fixtures 22 for today: Oriente Petrolero vs Universitario de Vinto
+"Oriente Petrolero" vs "Universitario de Vinto"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Copa Division Profesional: Group D
+Score: Oriente Petrolero 3 - 2 Universitario de Vinto
+HLM 2:
+Stage Name: Primera División: Apertura
+Score: Oriente Petrolero 2 - 1 Real Tomayapo
+HLM 3:
+Stage Name: Copa Division Profesional: Group D
+Score: Guabira 3 - 3 Oriente Petrolero
+HLM 4:
+Stage Name: Primera División: Apertura
+Score: Blooming 2 - 1 Oriente Petrolero
+HLM 5:
+Stage Name: Primera División: Apertura
+Score: Oriente Petrolero 2 - 0 Jorge Wilstermann
+HLM 6:
+Stage Name: Primera División: Apertura
+Score: Guabira 1 - 3 Oriente Petrolero
+HLM 7:
+Stage Name: Copa Division Profesional: Group D
+Score: Universitario de Vinto 1 - 1 Oriente Petrolero
+HLM 8:
+Stage Name: Primera División: Apertura
+Score: Oriente Petrolero 3 - 2 The Strongest
+HLM 9:
+Stage Name: Primera División: Apertura
+Score: Independiente Petrolero 5 - 2 Oriente Petrolero
+HLM 10:
+Stage Name: Copa Division Profesional: Group D
+Score: Oriente Petrolero 2 - 0 Independiente Petrolero
+
+Away last matches:
+ALM 1:
+Stage Name: Copa Division Profesional: Group D
+Score: Oriente Petrolero 3 - 2 Universitario de Vinto
+ALM 2:
+Stage Name: Primera División: Apertura
+Score: The Strongest 3 - 2 Universitario de Vinto
+ALM 3:
+Stage Name: Copa Division Profesional: Group D
+Score: Universitario de Vinto 3 - 0 Independiente Petrolero
+ALM 4:
+Stage Name: Primera División: Apertura
+Score: Universitario de Vinto 1 - 1 San Antonio Bulo Bulo
+ALM 5:
+Stage Name: Primera División: Apertura
+Score: Universitario de Vinto 1 - 1 Bolivar
+ALM 6:
+Stage Name: Copa Division Profesional: Group D
+Score: Universitario de Vinto 1 - 1 Oriente Petrolero
+ALM 7:
+Stage Name: Primera División: Apertura
+Score: Jorge Wilstermann 0 - 2 Universitario de Vinto
+ALM 8:
+Stage Name: Primera División: Apertura
+Score: Universitario de Vinto 2 - 0 ABB
+ALM 9:
+Stage Name: Primera División: Apertura
+Score: CDT Real Oruro 2 - 0 Universitario de Vinto
+ALM 10:
+Stage Name: Copa Division Profesional: Group D
+Score: Guabira 2 - 0 Universitario de Vinto
+today.json updated
+
+Processing Fixtures 23 for today: Internacional U20 vs Corinthians U20
+"Internacional U20" vs "Corinthians U20"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: U20 Brasileiro
+Score: Internacional U20 1 - 0 Corinthians U20
+HLM 2:
+Stage Name: Gaucho U20: Serie A1: Play-offs
+Score: Internacional U20 1 - 0 Real SC RS U20
+HLM 3:
+Stage Name: U20 Brasileiro
+Score: Gremio U20 2 - 1 Internacional U20
+HLM 4:
+Stage Name: Gaucho U20: Serie A1: Play-offs
+Score: Real SC RS U20 0 - 1 Internacional U20
+HLM 5:
+Stage Name: U20 Brasileiro
+Score: Internacional U20 0 - 2 Cruzeiro U20
+HLM 6:
+Stage Name: Gaucho U20: Serie A1: Play-offs
+Score: Internacional U20 3 - 1 Ypiranga RS U20
+HLM 7:
+Stage Name: U20 Brasileiro
+Score: Internacional U20 1 - 1 Vasco da Gama U20
+HLM 8:
+Stage Name: Gaucho U20: Serie A1: Play-offs
+Score: Ypiranga RS U20 1 - 1 Internacional U20
+HLM 9:
+Stage Name: Gaucho U20: Serie A1: Group B
+Score: Internacional U20 1 - 0 EC Novo Hamburgo RS U20
+HLM 10:
+Stage Name: U20 Brasileiro
+Score: Sao Paulo U20 1 - 1 Internacional U20
+
+Away last matches:
+ALM 1:
+Stage Name: U20 Brasileiro
+Score: Internacional U20 1 - 0 Corinthians U20
+ALM 2:
+Stage Name: Paulista U20: Group 2
+Score: Corinthians U20 2 - 1 Portuguesa U20
+ALM 3:
+Stage Name: U20 Brasileiro
+Score: Corinthians U20 1 - 1 Vasco da Gama U20
+ALM 4:
+Stage Name: Paulista U20: Group 2
+Score: Corinthians U20 2 - 1 Sao Bento U20
+ALM 5:
+Stage Name: U20 Brasileiro
+Score: Corinthians U20 0 - 3 RB Bragantino SP U20
+ALM 6:
+Stage Name: U20 Brasileiro
+Score: Flamengo U20 1 - 2 Corinthians U20
+ALM 7:
+Stage Name: Paulista U20: Group 2
+Score: Rio Claro U20 0 - 2 Corinthians U20
+ALM 8:
+Stage Name: Paulista U20: Group 2
+Score: Corinthians U20 2 - 2 Ituano FC U20
+ALM 9:
+Stage Name: U20 Brasileiro
+Score: Corinthians U20 4 - 4 Santos FC U20
+ALM 10:
+Stage Name: Paulista U20: Group 2
+Score: Agua Santa U20 1 - 2 Corinthians U20
+today.json updated
+
+Processing Fixtures 24 for today: Brusque vs Criciuma U20
+"Brusque" vs "Criciuma U20"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Serie C: 1st Stage
+Score: Floresta 2 - 1 Brusque
+HLM 2:
+Stage Name: U20 Catarinense, Serie A
+Score: Cn Marcilio Dias SC U20 1 - 1 Brusque
+HLM 3:
+Stage Name: Serie C: 1st Stage
+Score: Brusque 0 - 0 Tombense FC
+HLM 4:
+Stage Name: U20 Catarinense, Serie A
+Score: Brusque 0 - 1 Concordia SC U20
+HLM 5:
+Stage Name: U20 Catarinense, Serie A
+Score: Barra FC SC U20 6 - 1 Brusque
+HLM 6:
+Stage Name: Serie C: 1st Stage
+Score: Confianca 4 - 1 Brusque
+HLM 7:
+Stage Name: U20 Catarinense, Serie A
+Score: Brusque 2 - 3 Figueirense SC U20
+HLM 8:
+Stage Name: Serie C: 1st Stage
+Score: Brusque 1 - 0 Sao Bernardo
+HLM 9:
+Stage Name: U20 Catarinense, Serie A
+Score: Chapecoense U20 5 - 1 Brusque
+HLM 10:
+Stage Name: Copa do Brasil
+Score: Athletico Paranaense 1 - 0 Brusque
+
+Away last matches:
+ALM 1:
+Stage Name: U20 Catarinense, Serie A
+Score: Criciuma U20 1 - 0 Avai FC U20
+ALM 2:
+Stage Name: U20 Catarinense, Serie A
+Score: Criciuma U20 2 - 2 Chapecoense U20
+ALM 3:
+Stage Name: U20 Catarinense, Serie A
+Score: Criciuma U20 1 - 0 Barra FC SC U20
+ALM 4:
+Stage Name: U20 Catarinense, Serie A
+Score: Figueirense SC U20 0 - 2 Criciuma U20
+ALM 5:
+Stage Name: U20 Catarinense, Serie A
+Score: Cn Marcilio Dias SC U20 0 - 0 Criciuma U20
+ALM 6:
+Stage Name: U20 Brasileiro Serie B: Play-offs
+Score: Criciuma U20 2 - 2 Vitoria U20
+ALM 7:
+Stage Name: U20 Brasileiro Serie B: Play-offs
+Score: Criciuma U20 1 - 0 Goias U20
+ALM 8:
+Stage Name: U20 Brasileiro Serie B: Group B
+Score: Criciuma U20 1 - 0 Ituano FC U20
+ALM 9:
+Stage Name: U20 Catarinense, Serie A
+Score: Concordia SC U20 0 - 0 Criciuma U20
+ALM 10:
+Stage Name: U20 Catarinense, Serie A
+Score: Criciuma U20 1 - 0 Brusque
+today.json updated
+
+Processing Fixtures 25 for today: Guayaquil City vs Chacaritas
+"Guayaquil City" vs "Chacaritas"
+H2H 1:
+Stage Name: Serie B
+Score: Chacaritas 1 - 1 Guayaquil City
+H2H 2:
+Stage Name: Serie B
+Score: Chacaritas 0 - 0 Guayaquil City
+H2H 3:
+Stage Name: Serie B
+Score: Guayaquil City 3 - 0 Chacaritas
+H2H 4:
+Stage Name: Serie B
+Score: Guayaquil City 5 - 0 Chacaritas
+H2H 5:
+Stage Name: Serie B
+Score: Chacaritas 2 - 1 Guayaquil City
+
+Home last matches:
+HLM 1:
+Stage Name: Serie B
+Score: Guayaquil City 6 - 0 Chacaritas
+HLM 2:
+Stage Name: Serie B
+Score: Club Atletico Vinotinto 3 - 2 Guayaquil City
+HLM 3:
+Stage Name: Serie B
+Score: Nueve de Octubre 0 - 1 Guayaquil City
+HLM 4:
+Stage Name: Serie B
+Score: Guayaquil City 1 - 0 Independiente Juniors
+HLM 5:
+Stage Name: Serie B
+Score: San Antonio 0 - 1 Guayaquil City
+HLM 6:
+Stage Name: Copa Ecuador
+Score: Cscd San Camilo 0 - 0 Guayaquil City
+HLM 7:
+Stage Name: Serie B
+Score: Guayaquil City 2 - 0 Gualaceo SC
+HLM 8:
+Stage Name: Serie B
+Score: Cumbaya 0 - 0 Guayaquil City
+HLM 9:
+Stage Name: Serie B
+Score: Guayaquil City 0 - 1 Club Leones Del Norte
+HLM 10:
+Stage Name: Serie B
+Score: Imbabura S.C. 0 - 0 Guayaquil City
+
+Away last matches:
+ALM 1:
+Stage Name: Serie B
+Score: Guayaquil City 6 - 0 Chacaritas
+ALM 2:
+Stage Name: Serie B
+Score: Chacaritas 0 - 2 Independiente Juniors
+ALM 3:
+Stage Name: Serie B
+Score: San Antonio 2 - 0 Chacaritas
+ALM 4:
+Stage Name: Serie B
+Score: Chacaritas 3 - 3 Vargas Torres
+ALM 5:
+Stage Name: Serie B
+Score: Imbabura S.C. 4 - 1 Chacaritas
+ALM 6:
+Stage Name: Serie B
+Score: Chacaritas 1 - 1 Cumbaya
+ALM 7:
+Stage Name: Serie B
+Score: Nueve de Octubre 2 - 0 Chacaritas
+ALM 8:
+Stage Name: Serie B
+Score: Chacaritas 3 - 2 22 de Julio
+ALM 9:
+Stage Name: Serie B
+Score: Club Leones Del Norte 1 - 0 Chacaritas
+ALM 10:
+Stage Name: Serie B
+Score: Club Atletico Vinotinto 4 - 0 Chacaritas
+today.json updated
+
+Processing Fixtures 26 for today: Club Atletico Vinotinto vs Club Leones Del Norte
+"Club Atletico Vinotinto" vs "Club Leones Del Norte"
+H2H 1:
+Stage Name: Serie B
+Score: Club Leones Del Norte 2 - 0 Club Atletico Vinotinto
+
+Home last matches:
+HLM 1:
+Stage Name: Serie B
+Score: Club Atletico Vinotinto 3 - 2 Guayaquil City
+HLM 2:
+Stage Name: Serie B
+Score: Independiente Juniors 3 - 0 Club Atletico Vinotinto
+HLM 3:
+Stage Name: Serie B
+Score: Club Atletico Vinotinto 1 - 1 San Antonio
+HLM 4:
+Stage Name: Copa Ecuador
+Score: Club Deportivo Cuenca Juniors 2 - 2 Club Atletico Vinotinto
+HLM 5:
+Stage Name: Serie B
+Score: Vargas Torres 2 - 2 Club Atletico Vinotinto
+HLM 6:
+Stage Name: Serie B
+Score: Club Atletico Vinotinto 0 - 1 Nueve de Octubre
+HLM 7:
+Stage Name: Serie B
+Score: Gualaceo SC 2 - 1 Club Atletico Vinotinto
+HLM 8:
+Stage Name: Serie B
+Score: Club Atletico Vinotinto 3 - 1 Imbabura S.C.
+HLM 9:
+Stage Name: Serie B
+Score: 22 de Julio 0 - 0 Club Atletico Vinotinto
+HLM 10:
+Stage Name: Serie B
+Score: Club Atletico Vinotinto 4 - 0 Chacaritas
+
+Away last matches:
+ALM 1:
+Stage Name: Serie B
+Score: Club Leones Del Norte 3 - 2 Vargas Torres
+ALM 2:
+Stage Name: Serie B
+Score: Cumbaya 0 - 0 Club Leones Del Norte
+ALM 3:
+Stage Name: Serie B
+Score: Club Leones Del Norte 0 - 0 Gualaceo SC
+ALM 4:
+Stage Name: Serie B
+Score: Nueve de Octubre 1 - 0 Club Leones Del Norte
+ALM 5:
+Stage Name: Copa Ecuador
+Score: CD Sembrando Buenos Campeones 0 - 4 Club Leones Del Norte
+ALM 6:
+Stage Name: Serie B
+Score: Club Leones Del Norte 1 - 0 San Antonio
+ALM 7:
+Stage Name: Serie B
+Score: Club Leones Del Norte 2 - 0 22 de Julio
+ALM 8:
+Stage Name: Serie B
+Score: Guayaquil City 0 - 1 Club Leones Del Norte
+ALM 9:
+Stage Name: Serie B
+Score: Club Leones Del Norte 1 - 0 Chacaritas
+ALM 10:
+Stage Name: Serie B
+Score: Independiente Juniors 1 - 0 Club Leones Del Norte
+today.json updated
+
+Processing Fixtures 27 for today: Nomme Kalju U21 vs Nomme United
+"Nomme Kalju U21" vs "Nomme United"
+H2H 1:
+Stage Name: Esiliiga
+Score: Nomme United 3 - 2 Nomme Kalju U21
+
+Home last matches:
+HLM 1:
+Stage Name: Esiliiga
+Score: Nomme Kalju U21 3 - 2 FCI Levadia U21
+HLM 2:
+Stage Name: Esiliiga
+Score: Tartu JK Welco 0 - 1 Nomme Kalju U21
+HLM 3:
+Stage Name: Esiliiga
+Score: Nomme Kalju U21 3 - 0 Tammeka U21
+HLM 4:
+Stage Name: Esiliiga
+Score: FC Tallinn 7 - 0 Nomme Kalju U21
+HLM 5:
+Stage Name: Esiliiga
+Score: Nomme Kalju U21 3 - 3 Talinna Kalev U21
+HLM 6:
+Stage Name: Esiliiga
+Score: Nomme Kalju U21 2 - 4 Viimsi JK
+HLM 7:
+Stage Name: Esiliiga
+Score: Flora Tallinn U21 3 - 0 Nomme Kalju U21
+HLM 8:
+Stage Name: Esiliiga
+Score: FC Elva 2 - 1 Nomme Kalju U21
+HLM 9:
+Stage Name: Esiliiga
+Score: Nomme Kalju U21 0 - 4 Tartu JK Welco
+HLM 10:
+Stage Name: Esiliiga
+Score: Nomme Kalju U21 0 - 1 FCI Levadia U21
+
+Away last matches:
+ALM 1:
+Stage Name: Esiliiga
+Score: Nomme United 4 - 1 FC Elva
+ALM 2:
+Stage Name: Esiliiga
+Score: Tammeka U21 0 - 12 Nomme United
+ALM 3:
+Stage Name: Esiliiga
+Score: Nomme United 4 - 0 Talinna Kalev U21
+ALM 4:
+Stage Name: Esiliiga
+Score: Viimsi JK 1 - 0 Nomme United
+ALM 5:
+Stage Name: Esiliiga
+Score: Nomme United 3 - 0 FCI Levadia U21
+ALM 6:
+Stage Name: Esiliiga
+Score: Tartu JK Welco 1 - 1 Nomme United
+ALM 7:
+Stage Name: Esiliiga
+Score: Nomme United 4 - 0 FC Tallinn
+ALM 8:
+Stage Name: Esiliiga
+Score: Nomme United 6 - 2 Tammeka U21
+ALM 9:
+Stage Name: Esiliiga
+Score: Talinna Kalev U21 1 - 3 Nomme United
+ALM 10:
+Stage Name: Esiliiga
+Score: FC Elva 0 - 2 Nomme United
+today.json updated
+
+Processing Fixtures 28 for today: Vikingur vs Klaksvik
+"Vikingur" vs "Klaksvik"
+H2H 1:
+Stage Name: Premier League
+Score: Klaksvik 2 - 0 Vikingur
+H2H 2:
+Stage Name: Premier League
+Score: Vikingur 1 - 2 Klaksvik
+H2H 3:
+Stage Name: Premier League
+Score: Klaksvik 0 - 2 Vikingur
+H2H 4:
+Stage Name: Premier League
+Score: Klaksvik 2 - 1 Vikingur
+H2H 5:
+Stage Name: Premier League
+Score: Klaksvik 1 - 2 Vikingur
+H2H 6:
+Stage Name: Premier League
+Score: Vikingur 2 - 1 Klaksvik
+H2H 7:
+Stage Name: Premier League
+Score: Klaksvik 2 - 0 Vikingur
+H2H 8:
+Stage Name: Cup
+Score: Klaksvik 0 - 1 Vikingur
+H2H 9:
+Stage Name: Premier League
+Score: Vikingur 1 - 2 Klaksvik
+H2H 10:
+Stage Name: Premier League
+Score: Vikingur 0 - 0 Klaksvik
+
+Home last matches:
+HLM 1:
+Stage Name: Premier League
+Score: Vikingur 2 - 1 B68 Toftir
+HLM 2:
+Stage Name: Premier League
+Score: NSI Runavik 1 - 1 Vikingur
+HLM 3:
+Stage Name: Cup
+Score: Vikingur 2 - 0 B68 Toftir
+HLM 4:
+Stage Name: Premier League
+Score: TB Tvoeroyri 0 - 3 Vikingur
+HLM 5:
+Stage Name: Premier League
+Score: HB Torshavn 2 - 1 Vikingur
+HLM 6:
+Stage Name: Premier League
+Score: Vikingur 3 - 1 FC Suduroy
+HLM 7:
+Stage Name: Cup
+Score: B68 Toftir 0 - 2 Vikingur
+HLM 8:
+Stage Name: Premier League
+Score: EB/Streymur 1 - 2 Vikingur
+HLM 9:
+Stage Name: Premier League
+Score: Vikingur 0 - 1 HB Torshavn
+HLM 10:
+Stage Name: Premier League
+Score: FC Suduroy 0 - 2 Vikingur
+
+Away last matches:
+ALM 1:
+Stage Name: Premier League
+Score: Klaksvik 4 - 0 FC Suduroy
+ALM 2:
+Stage Name: Premier League
+Score: Klaksvik 2 - 1 B36 Torshavn
+ALM 3:
+Stage Name: Cup
+Score: AB Argir 1 - 2 Klaksvik
+ALM 4:
+Stage Name: Premier League
+Score: 07 Vestur Sorvagur 0 - 4 Klaksvik
+ALM 5:
+Stage Name: Premier League
+Score: Klaksvik 3 - 2 NSI Runavik
+ALM 6:
+Stage Name: Premier League
+Score: TB Tvoeroyri 0 - 5 Klaksvik
+ALM 7:
+Stage Name: Cup
+Score: Klaksvik 4 - 0 AB Argir
+ALM 8:
+Stage Name: Premier League
+Score: HB Torshavn 1 - 1 Klaksvik
+ALM 9:
+Stage Name: Premier League
+Score: NSI Runavik 1 - 2 Klaksvik
+ALM 10:
+Stage Name: Premier League
+Score: Klaksvik 10 - 0 TB Tvoeroyri
+today.json updated
+
+Processing Fixtures 29 for today: B71 Sandoy vs EB / Streymur II
+Skipping URL 29 for today due to error: Request failed with status code 404
+today.json updated
+
+Processing Fixtures 30 for today: FC Lahti vs JIPPO
+"FC Lahti" vs "JIPPO"
+H2H 1:
+Stage Name: Ykkosliiga
+Score: JIPPO 3 - 1 FC Lahti
+H2H 2:
+Stage Name: Ykkonen
+Score: FC Lahti 2 - 1 JIPPO
+H2H 3:
+Stage Name: Ykkonen
+Score: JIPPO 0 - 0 FC Lahti
+
+Home last matches:
+HLM 1:
+Stage Name: Ykkosliiga
+Score: SalPa 1 - 2 FC Lahti
+HLM 2:
+Stage Name: Ykkosliiga
+Score: FC Lahti 2 - 1 Klubi 04
+HLM 3:
+Stage Name: Ykkosliiga
+Score: FC Lahti 2 - 1 PK-35 Helsinki
+HLM 4:
+Stage Name: Ykkosliiga
+Score: EIF 0 - 1 FC Lahti
+HLM 5:
+Stage Name: Ykkosliiga
+Score: FC Lahti 2 - 0 JaePS
+HLM 6:
+Stage Name: Ykkosliiga
+Score: FC Lahti 5 - 3 KaPa Kapylan Pallo
+HLM 7:
+Stage Name: Ykkosliiga
+Score: TPS 2 - 2 FC Lahti
+HLM 8:
+Stage Name: Ykkosliiga
+Score: FC Lahti 1 - 0 SJK Akatemia
+HLM 9:
+Stage Name: Ykkosliiga
+Score: JIPPO 3 - 1 FC Lahti
+HLM 10:
+Stage Name: Ykkosliiga
+Score: FC Lahti 1 - 0 SalPa
+
+Away last matches:
+ALM 1:
+Stage Name: Ykkosliiga
+Score: JIPPO 3 - 1 KaPa Kapylan Pallo
+ALM 2:
+Stage Name: Ykkosliiga
+Score: JIPPO 1 - 2 TPS
+ALM 3:
+Stage Name: Ykkosliiga
+Score: SalPa 0 - 0 JIPPO
+ALM 4:
+Stage Name: Ykkosliiga
+Score: SJK Akatemia 3 - 1 JIPPO
+ALM 5:
+Stage Name: Ykkosliiga
+Score: JIPPO 1 - 1 PK-35 Helsinki
+ALM 6:
+Stage Name: Ykkosliiga
+Score: EIF 1 - 1 JIPPO
+ALM 7:
+Stage Name: Ykkosliiga
+Score: JIPPO 0 - 3 Klubi 04
+ALM 8:
+Stage Name: Ykkosliiga
+Score: JaePS 1 - 1 JIPPO
+ALM 9:
+Stage Name: Ykkosliiga
+Score: JIPPO 3 - 1 FC Lahti
+ALM 10:
+Stage Name: Suomen Cup
+Score: JIPPO 1 - 1 FC KTP
+today.json updated
+
+Processing Fixtures 31 for today: KaPa Kapylan Pallo vs TPS
+"KaPa Kapylan Pallo" vs "TPS"
+H2H 1:
+Stage Name: Ykkosliiga
+Score: TPS 4 - 2 KaPa Kapylan Pallo
+H2H 2:
+Stage Name: Ykkosliiga
+Score: TPS 5 - 3 KaPa Kapylan Pallo
+H2H 3:
+Stage Name: Ykkosliiga
+Score: KaPa Kapylan Pallo 0 - 0 TPS
+H2H 4:
+Stage Name: Ykkosliiga
+Score: TPS 2 - 1 KaPa Kapylan Pallo
+H2H 5:
+Stage Name: Ykkonen
+Score: KaPa Kapylan Pallo 2 - 0 TPS
+H2H 6:
+Stage Name: Ykkonen
+Score: TPS 4 - 1 KaPa Kapylan Pallo
+
+Home last matches:
+HLM 1:
+Stage Name: Ykkosliiga
+Score: JIPPO 3 - 1 KaPa Kapylan Pallo
+HLM 2:
+Stage Name: Ykkosliiga
+Score: SJK Akatemia 5 - 3 KaPa Kapylan Pallo
+HLM 3:
+Stage Name: Ykkosliiga
+Score: KaPa Kapylan Pallo 1 - 3 EIF
+HLM 4:
+Stage Name: Ykkosliiga
+Score: JaePS 2 - 2 KaPa Kapylan Pallo
+HLM 5:
+Stage Name: Ykkosliiga
+Score: KaPa Kapylan Pallo 0 - 5 Klubi 04
+HLM 6:
+Stage Name: Ykkosliiga
+Score: FC Lahti 5 - 3 KaPa Kapylan Pallo
+HLM 7:
+Stage Name: Ykkosliiga
+Score: KaPa Kapylan Pallo 3 - 1 SalPa
+HLM 8:
+Stage Name: Ykkosliiga
+Score: PK-35 Helsinki 4 - 0 KaPa Kapylan Pallo
+HLM 9:
+Stage Name: Ykkosliiga
+Score: TPS 4 - 2 KaPa Kapylan Pallo
+HLM 10:
+Stage Name: Suomen Cup
+Score: Atlantis 2 - 1 KaPa Kapylan Pallo
+
+Away last matches:
+ALM 1:
+Stage Name: Ykkosliiga
+Score: TPS 4 - 2 JaePS
+ALM 2:
+Stage Name: Ykkosliiga
+Score: JIPPO 1 - 2 TPS
+ALM 3:
+Stage Name: Ykkosliiga
+Score: TPS 3 - 2 SJK Akatemia
+ALM 4:
+Stage Name: Ykkosliiga
+Score: PK-35 Helsinki 2 - 3 TPS
+ALM 5:
+Stage Name: Ykkosliiga
+Score: TPS 2 - 0 EIF
+ALM 6:
+Stage Name: Suomen Cup
+Score: IFK Mariehamn 2 - 2 TPS
+ALM 7:
+Stage Name: Ykkosliiga
+Score: SalPa 1 - 2 TPS
+ALM 8:
+Stage Name: Ykkosliiga
+Score: TPS 2 - 2 FC Lahti
+ALM 9:
+Stage Name: Ykkosliiga
+Score: Klubi 04 3 - 1 TPS
+ALM 10:
+Stage Name: Ykkosliiga
+Score: TPS 4 - 2 KaPa Kapylan Pallo
+today.json updated
+
+Processing Fixtures 32 for today: FC Kiffen vs Hjs Akatemia
+"FC Kiffen" vs "Hjs Akatemia"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kakkonen: Group B
+Score: TPV Tampere 0 - 2 FC Kiffen
+HLM 2:
+Stage Name: Kakkonen: Group B
+Score: FC Kiffen 2 - 0 PPJ
+HLM 3:
+Stage Name: Kakkonen: Group B
+Score: Pallo-Iirot 4 - 1 FC Kiffen
+HLM 4:
+Stage Name: Kakkonen: Group B
+Score: Musan Salama 1 - 0 FC Kiffen
+HLM 5:
+Stage Name: Kakkonen: Group B
+Score: FC Kiffen 3 - 1 HPS
+HLM 6:
+Stage Name: Kakkonen: Group B
+Score: NJS 1 - 3 FC Kiffen
+HLM 7:
+Stage Name: Kakkonen: Group B
+Score: FC Kiffen 2 - 0 Atlantis FC / Akatemia
+HLM 8:
+Stage Name: Suomen Cup
+Score: FC Kiffen 0 - 6 JaePS
+HLM 9:
+Stage Name: Kakkonen: Group B
+Score: FC Kiffen 1 - 2 Ilves II
+HLM 10:
+Stage Name: Kakkonen: Group B
+Score: Hjs Akatemia 2 - 4 FC Kiffen
+
+Away last matches:
+ALM 1:
+Stage Name: Kakkonen: Group B
+Score: Hjs Akatemia 4 - 2 HPS
+ALM 2:
+Stage Name: Kakkonen: Group B
+Score: Musan Salama 0 - 2 Hjs Akatemia
+ALM 3:
+Stage Name: Kakkonen: Group B
+Score: Hjs Akatemia 2 - 2 Ilves II
+ALM 4:
+Stage Name: Kakkonen: Group B
+Score: NJS 1 - 1 Hjs Akatemia
+ALM 5:
+Stage Name: Suomen Cup
+Score: Hjs Akatemia 0 - 1 PK-35 Helsinki
+ALM 6:
+Stage Name: Kakkonen: Group B
+Score: Hjs Akatemia 0 - 1 Pallo-Iirot
+ALM 7:
+Stage Name: Kakkonen: Group B
+Score: Atlantis FC / Akatemia 0 - 5 Hjs Akatemia
+ALM 8:
+Stage Name: Kakkonen: Group B
+Score: TPV Tampere 1 - 1 Hjs Akatemia
+ALM 9:
+Stage Name: Suomen Cup
+Score: Hjs Akatemia 1 - 1 SalPa
+ALM 10:
+Stage Name: Kakkonen: Group B
+Score: Hjs Akatemia 3 - 3 PPJ
+today.json updated
+
+Processing Fixtures 33 for today: Musan Salama vs HPS
+"Musan Salama" vs "HPS"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kakkonen: Group B
+Score: Musan Salama 0 - 2 Ilves II
+HLM 2:
+Stage Name: Kakkonen: Group B
+Score: Pallo-Iirot 0 - 3 Musan Salama
+HLM 3:
+Stage Name: Kakkonen: Group B
+Score: Musan Salama 0 - 2 Hjs Akatemia
+HLM 4:
+Stage Name: Kakkonen: Group B
+Score: NJS 1 - 1 Musan Salama
+HLM 5:
+Stage Name: Kakkonen: Group B
+Score: Musan Salama 1 - 0 FC Kiffen
+HLM 6:
+Stage Name: Kakkonen: Group B
+Score: Atlantis FC / Akatemia 1 - 7 Musan Salama
+HLM 7:
+Stage Name: Kakkonen: Group B
+Score: Musan Salama 2 - 1 PPJ
+HLM 8:
+Stage Name: Kakkonen: Group B
+Score: Musan Salama 1 - 2 TPV Tampere
+HLM 9:
+Stage Name: Kakkonen: Group B
+Score: HPS 1 - 3 Musan Salama
+HLM 10:
+Stage Name: Kakkonen: Group B
+Score: Ilves II 2 - 1 Musan Salama
+
+Away last matches:
+ALM 1:
+Stage Name: Kakkonen: Group B
+Score: Hjs Akatemia 4 - 2 HPS
+ALM 2:
+Stage Name: Kakkonen: Group B
+Score: HPS 1 - 0 NJS
+ALM 3:
+Stage Name: Kakkonen: Group B
+Score: TPV Tampere 3 - 0 HPS
+ALM 4:
+Stage Name: Kakkonen: Group B
+Score: HPS 1 - 0 PPJ
+ALM 5:
+Stage Name: Kakkonen: Group B
+Score: FC Kiffen 3 - 1 HPS
+ALM 6:
+Stage Name: Kakkonen: Group B
+Score: Pallo-Iirot 1 - 2 HPS
+ALM 7:
+Stage Name: Kakkonen: Group B
+Score: HPS 3 - 1 Ilves II
+ALM 8:
+Stage Name: Kakkonen: Group B
+Score: Atlantis FC / Akatemia 3 - 2 HPS
+ALM 9:
+Stage Name: Kakkonen: Group B
+Score: HPS 1 - 3 Musan Salama
+ALM 10:
+Stage Name: Kakkonen: Group B
+Score: HPS 0 - 1 Hjs Akatemia
+today.json updated
+
+Processing Fixtures 34 for today: Hoogee vs EIF Akademi
+"Hoogee" vs "EIF Akademi"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Southern Group 1
+Score: Espoo 3 - 4 Hoogee
+HLM 2:
+Stage Name: Kolmonen: Southern Group 1
+Score: Renat 1 - 10 Hoogee
+HLM 3:
+Stage Name: Kolmonen: Southern Group 1
+Score: Hoogee 3 - 0 EPS Reservi
+HLM 4:
+Stage Name: Kolmonen: Southern Group 1
+Score: Hoogee 4 - 1 Poexyt
+HLM 5:
+Stage Name: Kolmonen: Southern Group 1
+Score: Nups 2 - 6 Hoogee
+HLM 6:
+Stage Name: Kolmonen: Southern Group 1
+Score: Hoogee 6 - 0 Tikka
+HLM 7:
+Stage Name: Kolmonen: Southern Group 1
+Score: GrIFK/Akatemia 3 - 2 Hoogee
+HLM 8:
+Stage Name: Kolmonen: Southern Group 1
+Score: Hoogee 12 - 0 Finnkurd
+HLM 9:
+Stage Name: Kolmonen: Southern Group 1
+Score: Vantaan Jalkapalloseura 2 3 - 1 Hoogee
+HLM 10:
+Stage Name: Kolmonen: Southern Group 1
+Score: Hoogee 1 - 8 Esbo Bollklubb
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Southern Group 1
+Score: EIF Akademi 2 - 4 Poexyt
+ALM 2:
+Stage Name: Kolmonen: Southern Group 1
+Score: Espoo 1 - 6 EIF Akademi
+ALM 3:
+Stage Name: Kolmonen: Southern Group 1
+Score: EIF Akademi 2 - 3 Vantaan Jalkapalloseura 2
+ALM 4:
+Stage Name: Kolmonen: Southern Group 1
+Score: EIF Akademi 7 - 0 Renat
+ALM 5:
+Stage Name: Kolmonen: Southern Group 1
+Score: GrIFK/Akatemia 1 - 1 EIF Akademi
+ALM 6:
+Stage Name: Kolmonen: Southern Group 1
+Score: Nups 2 - 2 EIF Akademi
+ALM 7:
+Stage Name: Kolmonen: Southern Group 1
+Score: EIF Akademi 3 - 2 Esbo Bollklubb
+ALM 8:
+Stage Name: Kolmonen: Southern Group 1
+Score: Tikka 0 - 3 EIF Akademi
+ALM 9:
+Stage Name: Kolmonen: Southern Group 1
+Score: EIF Akademi 2 - 4 EPS Reservi
+ALM 10:
+Stage Name: Kolmonen: Southern Group 1
+Score: Finnkurd 0 - 7 EIF Akademi
+today.json updated
+
+Processing Fixtures 35 for today: Tups vs FC Lahti 69
+"Tups" vs "FC Lahti 69"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Southern Group 3
+Score: Japs 47 1 - 2 Tups
+HLM 2:
+Stage Name: Kolmonen: Southern Group 3
+Score: Tups 0 - 2 TiPS
+HLM 3:
+Stage Name: Kolmonen: Southern Group 3
+Score: HIFK Helsinki II 4 - 0 Tups
+HLM 4:
+Stage Name: Kolmonen: Southern Group 3
+Score: HJK Kantsu 0 - 3 Tups
+HLM 5:
+Stage Name: Kolmonen: Southern Group 3
+Score: Tups 2 - 0 Ppj Lauttasaari
+HLM 6:
+Stage Name: Kolmonen: Southern Group 3
+Score: Tups 0 - 0 PK Keski-Uusimaa 2
+HLM 7:
+Stage Name: Kolmonen: Southern Group 3
+Score: Riihimaen Palloseura 3 - 2 Tups
+HLM 8:
+Stage Name: Kolmonen: Southern Group 3
+Score: Tups 1 - 2 MPS / Atletico Malmi
+HLM 9:
+Stage Name: Kolmonen: Southern Group 3
+Score: Toeoeloen Taisto 2 - 2 Tups
+HLM 10:
+Stage Name: Kolmonen: Southern Group 3
+Score: LPS Laajasalon 2 - 2 Tups
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Southern Group 3
+Score: FC Lahti 69 1 - 6 TiPS
+ALM 2:
+Stage Name: Kolmonen: Southern Group 3
+Score: Riihimaen Palloseura 0 - 1 FC Lahti 69
+ALM 3:
+Stage Name: Kolmonen: Southern Group 3
+Score: FC Lahti 69 2 - 1 Toeoeloen Taisto
+ALM 4:
+Stage Name: Kolmonen: Southern Group 3
+Score: Japs 47 2 - 1 FC Lahti 69
+ALM 5:
+Stage Name: Kolmonen: Southern Group 3
+Score: FC Lahti 69 0 - 1 HJK Kantsu
+ALM 6:
+Stage Name: Kolmonen: Southern Group 3
+Score: Ppj Lauttasaari 2 - 2 FC Lahti 69
+ALM 7:
+Stage Name: Kolmonen: Southern Group 3
+Score: LPS Laajasalon 5 - 2 FC Lahti 69
+ALM 8:
+Stage Name: Kolmonen: Southern Group 3
+Score: FC Lahti 69 1 - 2 PK Keski-Uusimaa 2
+ALM 9:
+Stage Name: Kolmonen: Southern Group 3
+Score: FC Lahti 69 1 - 5 HIFK Helsinki II
+ALM 10:
+Stage Name: Suomen Cup
+Score: FC Lahti 69 1 - 5 FC KTP
+today.json updated
+
+Processing Fixtures 36 for today: Ppj Lauttasaari vs PK Keski-Uusimaa 2
+"Ppj Lauttasaari" vs "PK Keski-Uusimaa 2"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Southern Group 3
+Score: Ppj Lauttasaari 3 - 2 LPS Laajasalon
+HLM 2:
+Stage Name: Kolmonen: Southern Group 3
+Score: Toeoeloen Taisto 0 - 3 Ppj Lauttasaari
+HLM 3:
+Stage Name: Kolmonen: Southern Group 3
+Score: Ppj Lauttasaari 2 - 4 Riihimaen Palloseura
+HLM 4:
+Stage Name: Kolmonen: Southern Group 3
+Score: Tups 2 - 0 Ppj Lauttasaari
+HLM 5:
+Stage Name: Kolmonen: Southern Group 3
+Score: Ppj Lauttasaari 2 - 2 FC Lahti 69
+HLM 6:
+Stage Name: Kolmonen: Southern Group 3
+Score: MPS / Atletico Malmi 2 - 2 Ppj Lauttasaari
+HLM 7:
+Stage Name: Kolmonen: Southern Group 3
+Score: Ppj Lauttasaari 2 - 2 TiPS
+HLM 8:
+Stage Name: Kolmonen: Southern Group 3
+Score: Japs 47 3 - 0 Ppj Lauttasaari
+HLM 9:
+Stage Name: Kolmonen: Southern Group 3
+Score: Ppj Lauttasaari 2 - 1 HJK Kantsu
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Southern Group 3
+Score: PK Keski-Uusimaa 2 1 - 4 HIFK Helsinki II
+ALM 2:
+Stage Name: Kolmonen: Southern Group 3
+Score: LPS Laajasalon 2 - 1 PK Keski-Uusimaa 2
+ALM 3:
+Stage Name: Kolmonen: Southern Group 3
+Score: PK Keski-Uusimaa 2 0 - 2 Japs 47
+ALM 4:
+Stage Name: Kolmonen: Southern Group 3
+Score: PK Keski-Uusimaa 2 0 - 2 Toeoeloen Taisto
+ALM 5:
+Stage Name: Kolmonen: Southern Group 3
+Score: MPS / Atletico Malmi 2 - 1 PK Keski-Uusimaa 2
+ALM 6:
+Stage Name: Kolmonen: Southern Group 3
+Score: Tups 0 - 0 PK Keski-Uusimaa 2
+ALM 7:
+Stage Name: Kolmonen: Southern Group 3
+Score: PK Keski-Uusimaa 2 3 - 2 HJK Kantsu
+ALM 8:
+Stage Name: Kolmonen: Southern Group 3
+Score: FC Lahti 69 1 - 2 PK Keski-Uusimaa 2
+ALM 9:
+Stage Name: Kolmonen: Southern Group 3
+Score: PK Keski-Uusimaa 2 1 - 2 Riihimaen Palloseura
+ALM 10:
+Stage Name: Kolmonen: Southern Group 3
+Score: TiPS 1 - 2 PK Keski-Uusimaa 2
+today.json updated
+
+Processing Fixtures 37 for today: Ponkilan Pantterit vs Ajax Sarkkiranta
+"Ponkilan Pantterit" vs "Ajax Sarkkiranta"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: North Group
+Score: Oulun Palloseura 0 - 2 Ponkilan Pantterit
+HLM 2:
+Stage Name: Kolmonen: North Group
+Score: Ponkilan Pantterit 3 - 1 Kemin Palloseura
+HLM 3:
+Stage Name: Kolmonen: North Group
+Score: Villan Pojat 1 - 1 Ponkilan Pantterit
+HLM 4:
+Stage Name: Kolmonen: North Group
+Score: Haukiputaan Pallo 1 - 4 Ponkilan Pantterit
+HLM 5:
+Stage Name: Kolmonen: North Group
+Score: Kajaanin Palloilijat 0 - 1 Ponkilan Pantterit
+HLM 6:
+Stage Name: Kolmonen: North Group
+Score: OTP 3 - 1 Ponkilan Pantterit
+HLM 7:
+Stage Name: Kolmonen: North Group
+Score: Kajha 2 - 0 Ponkilan Pantterit
+HLM 8:
+Stage Name: Suomen Cup
+Score: Ponkilan Pantterit 1 - 3 AC Oulu
+HLM 9:
+Stage Name: Suomen Cup
+Score: SJK 7 - 1 Ponkilan Pantterit
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: North Group
+Score: Ajax Sarkkiranta 2 - 6 Villan Pojat
+ALM 2:
+Stage Name: Kolmonen: North Group
+Score: RoPo 3 - 0 Ajax Sarkkiranta
+ALM 3:
+Stage Name: Kolmonen: North Group
+Score: Ajax Sarkkiranta 1 - 4 Haukiputaan Pallo
+ALM 4:
+Stage Name: Kolmonen: North Group
+Score: Kajha 8 - 0 Ajax Sarkkiranta
+ALM 5:
+Stage Name: Kolmonen: North Group
+Score: Ajax Sarkkiranta 2 - 2 OTP
+ALM 6:
+Stage Name: Kolmonen: North Group
+Score: Oulun Palloseura 1 - 1 Ajax Sarkkiranta
+ALM 7:
+Stage Name: Kolmonen: North Group
+Score: Ajax Sarkkiranta 5 - 1 Kemin Palloseura
+today.json updated
+
+Processing Fixtures 38 for today: AC Estudiantes vs Yloejarvi United FC
+"AC Estudiantes" vs "Yloejarvi United FC"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Western Group 2
+Score: Tampereen Peli-Toverit 4 - 1 AC Estudiantes
+HLM 2:
+Stage Name: Kolmonen: Western Group 2
+Score: Tervakosken Pato 2 - 1 AC Estudiantes
+HLM 3:
+Stage Name: Kolmonen: Western Group 2
+Score: AC Estudiantes 2 - 2 Toip-49
+HLM 4:
+Stage Name: Kolmonen: Western Group 2
+Score: AC Estudiantes 0 - 4 Saaksjaerven Loiske
+HLM 5:
+Stage Name: Kolmonen: Western Group 2
+Score: NOPS 4 - 2 AC Estudiantes
+HLM 6:
+Stage Name: Kolmonen: Western Group 2
+Score: AC Estudiantes 1 - 2 Tampere United 2
+HLM 7:
+Stage Name: Kolmonen: Western Group 2
+Score: FC Lasten 3 - 0 AC Estudiantes
+HLM 8:
+Stage Name: Kolmonen: Western Group 2
+Score: AC Estudiantes 2 - 6 FC Haka J
+HLM 9:
+Stage Name: Kolmonen: Western Group 2
+Score: TPV 2 5 - 3 AC Estudiantes
+HLM 10:
+Stage Name: Suomen Cup
+Score: AC Estudiantes 0 - 4 Hjs Akatemia
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Western Group 2
+Score: Yloejarvi United FC 2 - 2 NOPS
+ALM 2:
+Stage Name: Kolmonen: Western Group 2
+Score: Tampere United 2 3 - 2 Yloejarvi United FC
+ALM 3:
+Stage Name: Kolmonen: Western Group 2
+Score: Yloejarvi United FC 0 - 2 FC Lasten
+ALM 4:
+Stage Name: Kolmonen: Western Group 2
+Score: FC Haka J 0 - 0 Yloejarvi United FC
+ALM 5:
+Stage Name: Kolmonen: Western Group 2
+Score: Yloejarvi United FC 2 - 3 TPV 2
+ALM 6:
+Stage Name: Kolmonen: Western Group 2
+Score: Saaksjaerven Loiske 2 - 8 Yloejarvi United FC
+ALM 7:
+Stage Name: Kolmonen: Western Group 2
+Score: Yloejarvi United FC 2 - 0 Tampereen Peli-Toverit
+ALM 8:
+Stage Name: Kolmonen: Western Group 2
+Score: Tervakosken Pato 0 - 2 Yloejarvi United FC
+ALM 9:
+Stage Name: Kolmonen: Western Group 2
+Score: Yloejarvi United FC 8 - 0 Toip-49
+ALM 10:
+Stage Name: Suomen Cup
+Score: Yloejarvi United FC 0 - 4 KaaPo
+today.json updated
+
+Processing Fixtures 39 for today: FC Lasten vs Saaksjaerven Loiske
+"FC Lasten" vs "Saaksjaerven Loiske"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Western Group 2
+Score: Tampere United 2 2 - 2 FC Lasten
+HLM 2:
+Stage Name: Kolmonen: Western Group 2
+Score: FC Lasten 2 - 1 TPV 2
+HLM 3:
+Stage Name: Kolmonen: Western Group 2
+Score: Yloejarvi United FC 0 - 2 FC Lasten
+HLM 4:
+Stage Name: Kolmonen: Western Group 2
+Score: FC Lasten 1 - 1 Tampereen Peli-Toverit
+HLM 5:
+Stage Name: Kolmonen: Western Group 2
+Score: FC Lasten 6 - 3 Tervakosken Pato
+HLM 6:
+Stage Name: Kolmonen: Western Group 2
+Score: Toip-49 0 - 1 FC Lasten
+HLM 7:
+Stage Name: Kolmonen: Western Group 2
+Score: FC Lasten 3 - 0 AC Estudiantes
+HLM 8:
+Stage Name: Kolmonen: Western Group 2
+Score: NOPS 0 - 2 FC Lasten
+HLM 9:
+Stage Name: Suomen Cup
+Score: FC Lasten 0 - 4 FC Inter Turku
+HLM 10:
+Stage Name: Suomen Cup
+Score: FC Lasten 1 - 3 Pargas IF
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Western Group 2
+Score: Saaksjaerven Loiske 5 - 0 Tervakosken Pato
+ALM 2:
+Stage Name: Kolmonen: Western Group 2
+Score: Saaksjaerven Loiske 2 - 2 FC Haka J
+ALM 3:
+Stage Name: Kolmonen: Western Group 2
+Score: Toip-49 2 - 2 Saaksjaerven Loiske
+ALM 4:
+Stage Name: Kolmonen: Western Group 2
+Score: Saaksjaerven Loiske 1 - 0 TPV 2
+ALM 5:
+Stage Name: Kolmonen: Western Group 2
+Score: AC Estudiantes 0 - 4 Saaksjaerven Loiske
+ALM 6:
+Stage Name: Kolmonen: Western Group 2
+Score: Saaksjaerven Loiske 2 - 8 Yloejarvi United FC
+ALM 7:
+Stage Name: Kolmonen: Western Group 2
+Score: NOPS 3 - 2 Saaksjaerven Loiske
+ALM 8:
+Stage Name: Kolmonen: Western Group 2
+Score: Saaksjaerven Loiske 1 - 5 Tampereen Peli-Toverit
+ALM 9:
+Stage Name: Kolmonen: Western Group 2
+Score: Tampere United 2 1 - 2 Saaksjaerven Loiske
+today.json updated
+
+Processing Fixtures 40 for today: FC Kiisto vs FC Saaripotku
+"FC Kiisto" vs "FC Saaripotku"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Ylivieska 1 - 5 FC Kiisto
+HLM 2:
+Stage Name: Kolmonen: Western Group 3
+Score: Seinaajoen Sisu 0 - 1 FC Kiisto
+HLM 3:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Kiisto 2 - 3 Larsmo Bollklubb
+HLM 4:
+Stage Name: Kolmonen: Western Group 3
+Score: Sporting Kristina 0 - 0 FC Kiisto
+HLM 5:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Kiisto 9 - 1 Vpv
+HLM 6:
+Stage Name: Kolmonen: Western Group 3
+Score: KPV Akatemia 1 - 4 FC Kiisto
+HLM 7:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Kiisto 5 - 2 SJK-J
+HLM 8:
+Stage Name: Kolmonen: Western Group 3
+Score: FF Jaro Akademia 3 - 2 FC Kiisto
+HLM 9:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Kiisto 7 - 1 Korsnas FF
+HLM 10:
+Stage Name: Kolmonen: Western Group 3
+Score: SIF 1 - 2 FC Kiisto
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Saaripotku 1 - 3 Seinaajoen Sisu
+ALM 2:
+Stage Name: Kolmonen: Western Group 3
+Score: Larsmo Bollklubb 3 - 2 FC Saaripotku
+ALM 3:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Saaripotku 2 - 3 Sporting Kristina
+ALM 4:
+Stage Name: Kolmonen: Western Group 3
+Score: Vpv 0 - 2 FC Saaripotku
+ALM 5:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Saaripotku 2 - 2 KPV Akatemia
+ALM 6:
+Stage Name: Kolmonen: Western Group 3
+Score: SJK-J 1 - 2 FC Saaripotku
+ALM 7:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Saaripotku 1 - 3 FF Jaro Akademia
+ALM 8:
+Stage Name: Kolmonen: Western Group 3
+Score: Korsnas FF 0 - 6 FC Saaripotku
+ALM 9:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Saaripotku 1 - 1 SIF
+ALM 10:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Ylivieska 8 - 2 FC Saaripotku
+today.json updated
+
+Processing Fixtures 41 for today: KPV Akatemia vs FC Ylivieska
+"KPV Akatemia" vs "FC Ylivieska"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Western Group 3
+Score: SJK-J 1 - 0 KPV Akatemia
+HLM 2:
+Stage Name: Kolmonen: Western Group 3
+Score: KPV Akatemia 0 - 3 FF Jaro Akademia
+HLM 3:
+Stage Name: Kolmonen: Western Group 3
+Score: Korsnas FF 3 - 0 KPV Akatemia
+HLM 4:
+Stage Name: Kolmonen: Western Group 3
+Score: KPV Akatemia 4 - 0 SIF
+HLM 5:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Saaripotku 2 - 2 KPV Akatemia
+HLM 6:
+Stage Name: Kolmonen: Western Group 3
+Score: KPV Akatemia 1 - 4 FC Kiisto
+HLM 7:
+Stage Name: Kolmonen: Western Group 3
+Score: Seinaajoen Sisu 0 - 2 KPV Akatemia
+HLM 8:
+Stage Name: Kolmonen: Western Group 3
+Score: KPV Akatemia 0 - 1 Larsmo Bollklubb
+HLM 9:
+Stage Name: Kolmonen: Western Group 3
+Score: Sporting Kristina 3 - 2 KPV Akatemia
+HLM 10:
+Stage Name: Kolmonen: Western Group 3
+Score: KPV Akatemia 2 - 0 Vpv
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Ylivieska 1 - 5 FC Kiisto
+ALM 2:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Ylivieska 0 - 3 SJK-J
+ALM 3:
+Stage Name: Kolmonen: Western Group 3
+Score: Seinaajoen Sisu 2 - 5 FC Ylivieska
+ALM 4:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Ylivieska 3 - 5 FF Jaro Akademia
+ALM 5:
+Stage Name: Kolmonen: Western Group 3
+Score: Larsmo Bollklubb 2 - 3 FC Ylivieska
+ALM 6:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Ylivieska 3 - 0 Korsnas FF
+ALM 7:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Ylivieska 2 - 3 SIF
+ALM 8:
+Stage Name: Kolmonen: Western Group 3
+Score: Vpv 2 - 1 FC Ylivieska
+ALM 9:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Ylivieska 8 - 2 FC Saaripotku
+today.json updated
+
+Processing Fixtures 42 for today: Larsmo Bollklubb vs Korsnas FF
+"Larsmo Bollklubb" vs "Korsnas FF"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Western Group 3
+Score: SIF 2 - 1 Larsmo Bollklubb
+HLM 2:
+Stage Name: Kolmonen: Western Group 3
+Score: Larsmo Bollklubb 3 - 2 FC Saaripotku
+HLM 3:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Kiisto 2 - 3 Larsmo Bollklubb
+HLM 4:
+Stage Name: Kolmonen: Western Group 3
+Score: Larsmo Bollklubb 2 - 1 Seinaajoen Sisu
+HLM 5:
+Stage Name: Kolmonen: Western Group 3
+Score: Larsmo Bollklubb 2 - 3 FC Ylivieska
+HLM 6:
+Stage Name: Kolmonen: Western Group 3
+Score: Sporting Kristina 3 - 0 Larsmo Bollklubb
+HLM 7:
+Stage Name: Kolmonen: Western Group 3
+Score: Larsmo Bollklubb 3 - 1 Vpv
+HLM 8:
+Stage Name: Kolmonen: Western Group 3
+Score: KPV Akatemia 0 - 1 Larsmo Bollklubb
+HLM 9:
+Stage Name: Kolmonen: Western Group 3
+Score: Larsmo Bollklubb 6 - 3 SJK-J
+HLM 10:
+Stage Name: Kolmonen: Western Group 3
+Score: FF Jaro Akademia 2 - 1 Larsmo Bollklubb
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Western Group 3
+Score: Korsnas FF 3 - 2 Sporting Kristina
+ALM 2:
+Stage Name: Kolmonen: Western Group 3
+Score: Vpv 6 - 1 Korsnas FF
+ALM 3:
+Stage Name: Kolmonen: Western Group 3
+Score: Korsnas FF 3 - 0 KPV Akatemia
+ALM 4:
+Stage Name: Kolmonen: Western Group 3
+Score: SJK-J 2 - 3 Korsnas FF
+ALM 5:
+Stage Name: Kolmonen: Western Group 3
+Score: Korsnas FF 1 - 1 FF Jaro Akademia
+ALM 6:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Ylivieska 3 - 0 Korsnas FF
+ALM 7:
+Stage Name: Kolmonen: Western Group 3
+Score: SIF 10 - 2 Korsnas FF
+ALM 8:
+Stage Name: Kolmonen: Western Group 3
+Score: Korsnas FF 0 - 6 FC Saaripotku
+ALM 9:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Kiisto 7 - 1 Korsnas FF
+ALM 10:
+Stage Name: Kolmonen: Western Group 3
+Score: Seinaajoen Sisu 4 - 3 Korsnas FF
+today.json updated
+
+Processing Fixtures 43 for today: Seinaajoen Sisu vs SIF
+"Seinaajoen Sisu" vs "SIF"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Saaripotku 1 - 3 Seinaajoen Sisu
+HLM 2:
+Stage Name: Kolmonen: Western Group 3
+Score: Seinaajoen Sisu 0 - 1 FC Kiisto
+HLM 3:
+Stage Name: Kolmonen: Western Group 3
+Score: Seinaajoen Sisu 2 - 5 FC Ylivieska
+HLM 4:
+Stage Name: Kolmonen: Western Group 3
+Score: Larsmo Bollklubb 2 - 1 Seinaajoen Sisu
+HLM 5:
+Stage Name: Kolmonen: Western Group 3
+Score: Seinaajoen Sisu 2 - 0 Sporting Kristina
+HLM 6:
+Stage Name: Kolmonen: Western Group 3
+Score: Vpv 5 - 0 Seinaajoen Sisu
+HLM 7:
+Stage Name: Kolmonen: Western Group 3
+Score: Seinaajoen Sisu 0 - 2 KPV Akatemia
+HLM 8:
+Stage Name: Kolmonen: Western Group 3
+Score: SJK-J 3 - 3 Seinaajoen Sisu
+HLM 9:
+Stage Name: Kolmonen: Western Group 3
+Score: Seinaajoen Sisu 3 - 9 FF Jaro Akademia
+HLM 10:
+Stage Name: Kolmonen: Western Group 3
+Score: Seinaajoen Sisu 4 - 3 Korsnas FF
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Western Group 3
+Score: SIF 2 - 1 Larsmo Bollklubb
+ALM 2:
+Stage Name: Kolmonen: Western Group 3
+Score: Sporting Kristina 1 - 1 SIF
+ALM 3:
+Stage Name: Kolmonen: Western Group 3
+Score: SIF 2 - 2 Vpv
+ALM 4:
+Stage Name: Kolmonen: Western Group 3
+Score: KPV Akatemia 4 - 0 SIF
+ALM 5:
+Stage Name: Kolmonen: Western Group 3
+Score: SIF 3 - 2 SJK-J
+ALM 6:
+Stage Name: Kolmonen: Western Group 3
+Score: FF Jaro Akademia 5 - 0 SIF
+ALM 7:
+Stage Name: Kolmonen: Western Group 3
+Score: SIF 10 - 2 Korsnas FF
+ALM 8:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Ylivieska 2 - 3 SIF
+ALM 9:
+Stage Name: Kolmonen: Western Group 3
+Score: FC Saaripotku 1 - 1 SIF
+ALM 10:
+Stage Name: Kolmonen: Western Group 3
+Score: SIF 1 - 2 FC Kiisto
+today.json updated
+
+Processing Fixtures 44 for today: Tou vs Niemisen Urheilijat
+"Tou" vs "Niemisen Urheilijat"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Kings SC Kuopio 8 - 1 Tou
+HLM 2:
+Stage Name: Kolmonen: Eastern Group 2
+Score: PK-37 4 - 1 Tou
+HLM 3:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Tou 0 - 3 JIPPO-J/Punamusta
+HLM 4:
+Stage Name: Kolmonen: Eastern Group 2
+Score: SC Zulimanit 3 - 2 Tou
+HLM 5:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Wjk Varkaus 3 - 3 Tou
+HLM 6:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Yllatys 7 - 2 Tou
+HLM 7:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Tou 2 - 2 Kings SC Kuopio
+HLM 8:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Niemisen Urheilijat 2 - 0 Tou
+HLM 9:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Tou 1 - 1 PK-37
+HLM 10:
+Stage Name: Kolmonen: Eastern Group 2
+Score: JIPPO-J/Punamusta 3 - 0 Tou
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Eastern Group 2
+Score: PK-37 3 - 2 Niemisen Urheilijat
+ALM 2:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Kings SC Kuopio 0 - 2 Niemisen Urheilijat
+ALM 3:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Wjk Varkaus 0 - 2 Niemisen Urheilijat
+ALM 4:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Niemisen Urheilijat 1 - 1 PK-37
+ALM 5:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Niemisen Urheilijat 0 - 0 JIPPO-J/Punamusta
+ALM 6:
+Stage Name: Kolmonen: Eastern Group 2
+Score: SC Zulimanit 2 - 1 Niemisen Urheilijat
+ALM 7:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Niemisen Urheilijat 2 - 0 Tou
+ALM 8:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Yllatys 1 - 1 Niemisen Urheilijat
+ALM 9:
+Stage Name: Suomen Cup
+Score: Niemisen Urheilijat 1 - 2 Hapk
+ALM 10:
+Stage Name: Kolmonen: Eastern Group 2
+Score: Niemisen Urheilijat 1 - 3 Kings SC Kuopio
+today.json updated
+
+Processing Fixtures 45 for today: Kultsu vs Mikkelin Kissat
+"Kultsu" vs "Mikkelin Kissat"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Edustus IPS 0 - 6 Kultsu
+HLM 2:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Kultsu 1 - 0 LAUTP
+HLM 3:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Kultsu 2 - 0 Kopa
+HLM 4:
+Stage Name: Suomen Cup
+Score: Kultsu 0 - 7 FC Lahti
+HLM 5:
+Stage Name: Suomen Cup
+Score: PK-37 2 - 2 Kultsu
+HLM 6:
+Stage Name: Suomen Cup
+Score: Kultsu 1 - 5 Mikkelin Palloilijat
+HLM 7:
+Stage Name: Kakkonen: Group A
+Score: Kultsu 1 - 2 Honka (A)
+HLM 8:
+Stage Name: Kakkonen: Group A
+Score: Mikkelin Kissat 4 - 4 Kultsu
+HLM 9:
+Stage Name: Kakkonen: Group A
+Score: PK-35 Helsinki 6 - 0 Kultsu
+HLM 10:
+Stage Name: Kakkonen: Group A
+Score: Kultsu 0 - 4 PEPO Lappeenranta
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Mikkelin Kissat 10 - 1 Edustus Stps
+ALM 2:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Mikkelin Palloilijat 2 3 - 3 Mikkelin Kissat
+ALM 3:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Mikkelin Kissat 5 - 1 Purha
+ALM 4:
+Stage Name: Suomen Cup
+Score: Mikkelin Kissat 1 - 4 PEPO Lappeenranta
+ALM 5:
+Stage Name: Suomen Cup
+Score: Edustus IPS 0 - 1 Mikkelin Kissat
+ALM 6:
+Stage Name: Kakkonen: Group A
+Score: PEPO Lappeenranta 5 - 2 Mikkelin Kissat
+ALM 7:
+Stage Name: Kakkonen: Group A
+Score: FC Reipas 4 - 2 Mikkelin Kissat
+ALM 8:
+Stage Name: Kakkonen: Group A
+Score: FC Kiffen 3 - 1 Mikkelin Kissat
+ALM 9:
+Stage Name: Kakkonen: Group A
+Score: Mikkelin Kissat 0 - 2 FC Reipas
+ALM 10:
+Stage Name: Kakkonen: Group A
+Score: NJS 2 - 1 Mikkelin Kissat
+today.json updated
+
+Processing Fixtures 46 for today: Purha vs LaPa
+"Purha" vs "LaPa"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Kouvolan Jalkapallo 9 - 0 Purha
+HLM 2:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Purha 2 - 4 Peka
+HLM 3:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Mikkelin Kissat 5 - 1 Purha
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Kouvolan Jalkapallo 9 - 1 LaPa
+ALM 2:
+Stage Name: Kolmonen: Eastern Group 3
+Score: LaPa 1 - 2 Peka
+ALM 3:
+Stage Name: Kakkonen: Group A
+Score: LaPa 0 - 2 NJS
+ALM 4:
+Stage Name: Kakkonen: Group A
+Score: PK Keski-Uusimaa 4 - 0 LaPa
+ALM 5:
+Stage Name: Kakkonen: Group A
+Score: LaPa 0 - 6 FC Reipas
+ALM 6:
+Stage Name: Kakkonen: Group A
+Score: FC Kiffen 5 - 0 LaPa
+ALM 7:
+Stage Name: Kakkonen: Group A
+Score: LaPa 3 - 3 KuPS Akatemia
+ALM 8:
+Stage Name: Kakkonen: Group A
+Score: LaPa 1 - 2 FC Futura
+ALM 9:
+Stage Name: Kakkonen: Group A
+Score: Atlantis 2 - 0 LaPa
+ALM 10:
+Stage Name: Kakkonen: Group A
+Score: LaPa 0 - 4 JIPPO
+today.json updated
+
+Processing Fixtures 47 for today: Union Plaani vs Kopa
+"Union Plaani" vs "Kopa"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Union Plaani 3 - 2 Kouvolan Jalkapallo
+HLM 2:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Peka 0 - 1 Union Plaani
+HLM 3:
+Stage Name: Suomen Cup
+Score: Haka 6 - 0 Union Plaani
+HLM 4:
+Stage Name: Suomen Cup
+Score: Union Plaani 2 - 0 FCV
+HLM 5:
+Stage Name: Suomen Cup
+Score: Keupa 1 - 2 Union Plaani
+HLM 6:
+Stage Name: Club Friendlies 2020
+Score: Nastolan Nopsa 5 - 2 Union Plaani
+
+Away last matches:
+ALM 1:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Kopa 1 - 0 LAUTP
+ALM 2:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Kultsu 2 - 0 Kopa
+ALM 3:
+Stage Name: Kolmonen: Eastern Group 3
+Score: Kopa 3 - 6 Kouvolan Jalkapallo
+today.json updated
+
+Processing Fixtures 48 for today: Afturelding vs Breidablik
+"Afturelding" vs "Breidablik"
+H2H 1:
+Stage Name: Besta deildin
+Score: Breidablik 2 - 0 Afturelding
+H2H 2:
+Stage Name: League Cup A: Group 1
+Score: Afturelding 1 - 3 Breidablik
+
+Home last matches:
+HLM 1:
+Stage Name: Besta deildin
+Score: Vikingur Reykjavik 2 - 1 Afturelding
+HLM 2:
+Stage Name: Besta deildin
+Score: IBV Vestmannaeyjar 1 - 2 Afturelding
+HLM 3:
+Stage Name: Cup
+Score: Afturelding 0 - 1 Fram Reykjavik
+HLM 4:
+Stage Name: Besta deildin
+Score: Afturelding 4 - 1 IA Akranes
+HLM 5:
+Stage Name: Besta deildin
+Score: FH Hafnarfjordur 0 - 0 Afturelding
+HLM 6:
+Stage Name: Besta deildin
+Score: Afturelding 0 - 2 Valur
+HLM 7:
+Stage Name: Besta deildin
+Score: KA Akureyri 1 - 0 Afturelding
+HLM 8:
+Stage Name: Besta deildin
+Score: Afturelding 4 - 3 KR Reykjavik
+HLM 9:
+Stage Name: Cup
+Score: IA Akranes 0 - 1 Afturelding
+HLM 10:
+Stage Name: Besta deildin
+Score: Vestri 2 - 0 Afturelding
+
+Away last matches:
+ALM 1:
+Stage Name: Besta deildin
+Score: Stjarnan 1 - 4 Breidablik
+ALM 2:
+Stage Name: Besta deildin
+Score: Breidablik 1 - 1 Fram Reykjavik
+ALM 3:
+Stage Name: Besta deildin
+Score: IBV Vestmannaeyjar 0 - 2 Breidablik
+ALM 4:
+Stage Name: Besta deildin
+Score: Breidablik 3 - 1 Vikingur Reykjavik
+ALM 5:
+Stage Name: Besta deildin
+Score: Breidablik 1 - 4 IA Akranes
+ALM 6:
+Stage Name: Besta deildin
+Score: FH Hafnarfjordur 2 - 0 Breidablik
+ALM 7:
+Stage Name: Besta deildin
+Score: Breidablik 2 - 1 Valur
+ALM 8:
+Stage Name: Cup
+Score: Breidablik 1 - 2 Vestri
+ALM 9:
+Stage Name: Besta deildin
+Score: KA Akureyri 0 - 1 Breidablik
+ALM 10:
+Stage Name: Besta deildin
+Score: Breidablik 3 - 3 KR Reykjavik
+today.json updated
+
+Processing Fixtures 49 for today: Thor Akureyri vs Throttur Reykjavik
+"Thor Akureyri" vs "Throttur Reykjavik"
+H2H 1:
+Stage Name: 1. Deild
+Score: Thor Akureyri 0 - 1 Throttur Reykjavik
+H2H 2:
+Stage Name: 1. Deild
+Score: Throttur Reykjavik 1 - 1 Thor Akureyri
+H2H 3:
+Stage Name: 1. Deild
+Score: Thor Akureyri 2 - 1 Throttur Reykjavik
+H2H 4:
+Stage Name: 1. Deild
+Score: Throttur Reykjavik 3 - 0 Thor Akureyri
+H2H 5:
+Stage Name: League Cup: Group 4
+Score: Throttur Reykjavik 3 - 4 Thor Akureyri
+H2H 6:
+Stage Name: 1. Deild
+Score: Throttur Reykjavik 2 - 3 Thor Akureyri
+H2H 7:
+Stage Name: 1. Deild
+Score: Thor Akureyri 5 - 1 Throttur Reykjavik
+H2H 8:
+Stage Name: 1. Deild
+Score: Thor Akureyri 3 - 0 Throttur Reykjavik
+H2H 9:
+Stage Name: 1. Deild
+Score: Throttur Reykjavik 0 - 2 Thor Akureyri
+H2H 10:
+Stage Name: League Cup A: Group 3
+Score: Thor Akureyri 3 - 1 Throttur Reykjavik
+
+Home last matches:
+HLM 1:
+Stage Name: 1. Deild
+Score: Fjoelnir 0 - 5 Thor Akureyri
+HLM 2:
+Stage Name: 1. Deild
+Score: Thor Akureyri 2 - 0 UMF Selfoss
+HLM 3:
+Stage Name: Cup
+Score: Vestri 2 - 0 Thor Akureyri
+HLM 4:
+Stage Name: 1. Deild
+Score: Njardvik 3 - 1 Thor Akureyri
+HLM 5:
+Stage Name: 1. Deild
+Score: Thor Akureyri 1 - 1 IR Reykjavik
+HLM 6:
+Stage Name: 1. Deild
+Score: Thor Akureyri 1 - 3 Volsungur
+HLM 7:
+Stage Name: 1. Deild
+Score: Thor Akureyri 4 - 1 Fylkir
+HLM 8:
+Stage Name: 1. Deild
+Score: Grindavik 3 - 4 Thor Akureyri
+HLM 9:
+Stage Name: 1. Deild
+Score: Thor Akureyri 2 - 4 Keflavik
+HLM 10:
+Stage Name: Cup
+Score: UMF Selfoss 1 - 4 Thor Akureyri
+
+Away last matches:
+ALM 1:
+Stage Name: 1. Deild
+Score: Throttur Reykjavik 2 - 2 HK Kopavogs
+ALM 2:
+Stage Name: 1. Deild
+Score: Throttur Reykjavik 1 - 4 Fjoelnir
+ALM 3:
+Stage Name: 1. Deild
+Score: UMF Selfoss 0 - 2 Throttur Reykjavik
+ALM 4:
+Stage Name: 1. Deild
+Score: Throttur Reykjavik 2 - 2 Njardvik
+ALM 5:
+Stage Name: 1. Deild
+Score: IR Reykjavik 2 - 1 Throttur Reykjavik
+ALM 6:
+Stage Name: 1. Deild
+Score: Throttur Reykjavik 4 - 1 Volsungur
+ALM 7:
+Stage Name: 1. Deild
+Score: Fylkir 1 - 2 Throttur Reykjavik
+ALM 8:
+Stage Name: 1. Deild
+Score: Throttur Reykjavik 2 - 4 Grindavik
+ALM 9:
+Stage Name: Cup
+Score: Valur 2 - 1 Throttur Reykjavik
+ALM 10:
+Stage Name: 1. Deild
+Score: Keflavik 0 - 1 Throttur Reykjavik
+today.json updated
+
+Processing Fixtures 50 for today: Grindavik vs Njardvik
+"Grindavik" vs "Njardvik"
+H2H 1:
+Stage Name: 1. Deild
+Score: Grindavik 2 - 2 Njardvik
+H2H 2:
+Stage Name: 1. Deild
+Score: Njardvik 0 - 1 Grindavik
+H2H 3:
+Stage Name: 1. Deild
+Score: Njardvik 4 - 1 Grindavik
+H2H 4:
+Stage Name: 1. Deild
+Score: Grindavik 1 - 0 Njardvik
+H2H 5:
+Stage Name: 1. Deild
+Score: Njardvik 0 - 1 Grindavik
+H2H 6:
+Stage Name: 1. Deild
+Score: Grindavik 3 - 2 Njardvik
+
+Home last matches:
+HLM 1:
+Stage Name: 1. Deild
+Score: IR Reykjavik 6 - 1 Grindavik
+HLM 2:
+Stage Name: 1. Deild
+Score: Grindavik 2 - 4 Volsungur
+HLM 3:
+Stage Name: 1. Deild
+Score: Fylkir 1 - 1 Grindavik
+HLM 4:
+Stage Name: 1. Deild
+Score: Grindavik 2 - 1 HK Kopavogs
+HLM 5:
+Stage Name: 1. Deild
+Score: Leiknir Reykjavik 2 - 6 Grindavik
+HLM 6:
+Stage Name: 1. Deild
+Score: Grindavik 3 - 4 Thor Akureyri
+HLM 7:
+Stage Name: 1. Deild
+Score: Throttur Reykjavik 2 - 4 Grindavik
+HLM 8:
+Stage Name: 1. Deild
+Score: Grindavik 3 - 3 Fjoelnir
+HLM 9:
+Stage Name: 1. Deild
+Score: UMF Selfoss 2 - 1 Grindavik
+HLM 10:
+Stage Name: Cup
+Score: Grindavik 1 - 3 Valur
+
+Away last matches:
+ALM 1:
+Stage Name: 1. Deild
+Score: Njardvik 3 - 1 Keflavik
+ALM 2:
+Stage Name: 1. Deild
+Score: Leiknir Reykjavik 1 - 1 Njardvik
+ALM 3:
+Stage Name: 1. Deild
+Score: Njardvik 3 - 1 Thor Akureyri
+ALM 4:
+Stage Name: 1. Deild
+Score: Throttur Reykjavik 2 - 2 Njardvik
+ALM 5:
+Stage Name: 1. Deild
+Score: Njardvik 1 - 1 Fjoelnir
+ALM 6:
+Stage Name: 1. Deild
+Score: UMF Selfoss 0 - 4 Njardvik
+ALM 7:
+Stage Name: 1. Deild
+Score: HK Kopavogs 1 - 3 Njardvik
+ALM 8:
+Stage Name: 1. Deild
+Score: Njardvik 1 - 1 IR Reykjavik
+ALM 9:
+Stage Name: 1. Deild
+Score: Njardvik 5 - 1 Volsungur
+ALM 10:
+Stage Name: 1. Deild
+Score: Njardvik 1 - 1 Fylkir
+today.json updated
+
+Processing Fixtures 51 for today: Keflavik vs UMF Selfoss
+"Keflavik" vs "UMF Selfoss"
+H2H 1:
+Stage Name: League Cup: Group 4
+Score: Keflavik 3 - 0 UMF Selfoss
+H2H 2:
+Stage Name: League Cup: Group 3
+Score: Keflavik 2 - 0 UMF Selfoss
+H2H 3:
+Stage Name: 1. Deild
+Score: UMF Selfoss 1 - 2 Keflavik
+H2H 4:
+Stage Name: 1. Deild
+Score: Keflavik 2 - 2 UMF Selfoss
+H2H 5:
+Stage Name: 1. Deild
+Score: UMF Selfoss 0 - 0 Keflavik
+H2H 6:
+Stage Name: 1. Deild
+Score: Keflavik 3 - 0 UMF Selfoss
+H2H 7:
+Stage Name: PEPSI deildin
+Score: UMF Selfoss 2 - 1 Keflavik
+H2H 8:
+Stage Name: PEPSI deildin
+Score: Keflavik 2 - 2 UMF Selfoss
+H2H 9:
+Stage Name: PEPSI deildin
+Score: UMF Selfoss 3 - 2 Keflavik
+H2H 10:
+Stage Name: PEPSI deildin
+Score: Keflavik 2 - 1 UMF Selfoss
+
+Home last matches:
+HLM 1:
+Stage Name: 1. Deild
+Score: Njardvik 3 - 1 Keflavik
+HLM 2:
+Stage Name: 1. Deild
+Score: Keflavik 0 - 0 IR Reykjavik
+HLM 3:
+Stage Name: Cup
+Score: Stjarnan 4 - 2 Keflavik
+HLM 4:
+Stage Name: 1. Deild
+Score: Volsungur 1 - 1 Keflavik
+HLM 5:
+Stage Name: 1. Deild
+Score: Keflavik 1 - 1 Fylkir
+HLM 6:
+Stage Name: 1. Deild
+Score: Keflavik 0 - 3 HK Kopavogs
+HLM 7:
+Stage Name: 1. Deild
+Score: Keflavik 6 - 0 Leiknir Reykjavik
+HLM 8:
+Stage Name: 1. Deild
+Score: Thor Akureyri 2 - 4 Keflavik
+HLM 9:
+Stage Name: Cup
+Score: Keflavik 5 - 2 Vikingur Olafsvik
+HLM 10:
+Stage Name: 1. Deild
+Score: Keflavik 0 - 1 Throttur Reykjavik
+
+Away last matches:
+ALM 1:
+Stage Name: 1. Deild
+Score: UMF Selfoss 2 - 2 Leiknir Reykjavik
+ALM 2:
+Stage Name: 1. Deild
+Score: Thor Akureyri 2 - 0 UMF Selfoss
+ALM 3:
+Stage Name: 1. Deild
+Score: UMF Selfoss 0 - 2 Throttur Reykjavik
+ALM 4:
+Stage Name: 1. Deild
+Score: Fjoelnir 0 - 2 UMF Selfoss
+ALM 5:
+Stage Name: 1. Deild
+Score: HK Kopavogs 4 - 1 UMF Selfoss
+ALM 6:
+Stage Name: 1. Deild
+Score: UMF Selfoss 0 - 4 Njardvik
+ALM 7:
+Stage Name: 1. Deild
+Score: IR Reykjavik 2 - 0 UMF Selfoss
+ALM 8:
+Stage Name: 1. Deild
+Score: UMF Selfoss 1 - 2 Volsungur
+ALM 9:
+Stage Name: Cup
+Score: UMF Selfoss 1 - 4 Thor Akureyri
+ALM 10:
+Stage Name: 1. Deild
+Score: Fylkir 2 - 0 UMF Selfoss
+today.json updated
+
+Processing Fixtures 52 for today: KFS Vestmannaeyjar vs Arborg
+"KFS Vestmannaeyjar" vs "Arborg"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: 4. Deild
+Score: Hafnir 6 - 3 KFS Vestmannaeyjar
+HLM 2:
+Stage Name: 4. Deild
+Score: KFS Vestmannaeyjar 1 - 5 Ellidi
+HLM 3:
+Stage Name: 4. Deild
+Score: Alftanes 1 - 2 KFS Vestmannaeyjar
+HLM 4:
+Stage Name: 4. Deild
+Score: KFS Vestmannaeyjar 3 - 0 Hamar
+HLM 5:
+Stage Name: 4. Deild
+Score: Knattspyrnufelagid Kria 2 - 2 KFS Vestmannaeyjar
+HLM 6:
+Stage Name: 4. Deild
+Score: Vaengir Jupiters 1 - 2 KFS Vestmannaeyjar
+HLM 7:
+Stage Name: 4. Deild
+Score: KH Hlidarendi 3 - 1 KFS Vestmannaeyjar
+HLM 8:
+Stage Name: 4. Deild
+Score: KA Asvellir 7 - 0 KFS Vestmannaeyjar
+HLM 9:
+Stage Name: Cup
+Score: Kari 7 - 1 KFS Vestmannaeyjar
+HLM 10:
+Stage Name: Cup
+Score: KV Vesturbaer 3 - 0 KFS Vestmannaeyjar
+
+Away last matches:
+ALM 1:
+Stage Name: 4. Deild
+Score: Arborg 2 - 2 Vaengir Jupiters
+ALM 2:
+Stage Name: 4. Deild
+Score: KH Hlidarendi 3 - 2 Arborg
+ALM 3:
+Stage Name: 4. Deild
+Score: Arborg 2 - 2 KA Asvellir
+ALM 4:
+Stage Name: 4. Deild
+Score: Arborg 2 - 4 Knattspyrnufelagid Kria
+ALM 5:
+Stage Name: 4. Deild
+Score: Hafnir 1 - 4 Arborg
+ALM 6:
+Stage Name: 4. Deild
+Score: Arborg 2 - 2 Ellidi
+ALM 7:
+Stage Name: 4. Deild
+Score: Alftanes 1 - 4 Arborg
+ALM 8:
+Stage Name: 4. Deild
+Score: Arborg 2 - 1 Hamar
+ALM 9:
+Stage Name: Cup
+Score: Arborg 0 - 4 Augnablik
+ALM 10:
+Stage Name: Cup
+Score: Arborg 1 - 2 Arbaer
+today.json updated
+
+Processing Fixtures 53 for today: Alftanes vs Ellidi
+"Alftanes" vs "Ellidi"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: 4. Deild
+Score: Knattspyrnufelagid Kria 1 - 2 Alftanes
+HLM 2:
+Stage Name: 4. Deild
+Score: Hamar 1 - 1 Alftanes
+HLM 3:
+Stage Name: 4. Deild
+Score: Alftanes 1 - 2 KFS Vestmannaeyjar
+HLM 4:
+Stage Name: 4. Deild
+Score: Vaengir Jupiters 2 - 1 Alftanes
+HLM 5:
+Stage Name: 4. Deild
+Score: Alftanes 1 - 5 KH Hlidarendi
+HLM 6:
+Stage Name: 4. Deild
+Score: KA Asvellir 2 - 1 Alftanes
+HLM 7:
+Stage Name: 4. Deild
+Score: Alftanes 1 - 4 Arborg
+HLM 8:
+Stage Name: 4. Deild
+Score: Hafnir 0 - 3 Alftanes
+HLM 9:
+Stage Name: Cup
+Score: Augnablik 7 - 1 Alftanes
+HLM 10:
+Stage Name: Cup
+Score: UMF Selfoss 7 - 1 Alftanes
+
+Away last matches:
+ALM 1:
+Stage Name: 4. Deild
+Score: Ellidi 3 - 2 Hamar
+ALM 2:
+Stage Name: 4. Deild
+Score: KFS Vestmannaeyjar 1 - 5 Ellidi
+ALM 3:
+Stage Name: 4. Deild
+Score: Ellidi 1 - 1 Vaengir Jupiters
+ALM 4:
+Stage Name: 4. Deild
+Score: KH Hlidarendi 2 - 2 Ellidi
+ALM 5:
+Stage Name: 4. Deild
+Score: Ellidi 0 - 0 KA Asvellir
+ALM 6:
+Stage Name: 4. Deild
+Score: Arborg 2 - 2 Ellidi
+ALM 7:
+Stage Name: 4. Deild
+Score: Ellidi 5 - 4 Hafnir
+ALM 8:
+Stage Name: 4. Deild
+Score: Ellidi 2 - 3 Knattspyrnufelagid Kria
+ALM 9:
+Stage Name: Cup
+Score: Ellidi 1 - 3 Haukar
+ALM 10:
+Stage Name: Cup
+Score: KFK 1 - 5 Ellidi
+today.json updated
+
+Processing Fixtures 54 for today: HK Kopavogur W vs Grotta W
+"HK Kopavogur W" vs "Grotta W"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: Women's 1. Deild
+Score: HK Kopavogur W 0 - 0 Grindavik/Njarovik W
+HLM 2:
+Stage Name: Women's 1. Deild
+Score: Fylkir Reykjavik W 2 - 3 HK Kopavogur W
+HLM 3:
+Stage Name: Women's 1. Deild
+Score: HK Kopavogur W 2 - 5 IBV Vestmannaeyjar W
+HLM 4:
+Stage Name: Women's Cup
+Score: Breidablik W 5 - 1 HK Kopavogur W
+HLM 5:
+Stage Name: Women's 1. Deild
+Score: IA Akranes W 1 - 5 HK Kopavogur W
+HLM 6:
+Stage Name: Women's 1. Deild
+Score: Keflavik W 0 - 1 HK Kopavogur W
+HLM 7:
+Stage Name: Women's 1. Deild
+Score: HK Kopavogur W 3 - 0 Afturelding Mosfellsbaer W
+HLM 8:
+Stage Name: Women's 1. Deild
+Score: KR Reykjavik W 5 - 4 HK Kopavogur W
+HLM 9:
+Stage Name: Women's Cup
+Score: HK Kopavogur W 2 - 0 Grindavik/Njarovik W
+HLM 10:
+Stage Name: Women's 1. Deild
+Score: HK Kopavogur W 1 - 0 Haukar W
+
+Away last matches:
+ALM 1:
+Stage Name: Women's 1. Deild
+Score: Grotta W 5 - 0 Afturelding Mosfellsbaer W
+ALM 2:
+Stage Name: Women's 1. Deild
+Score: KR Reykjavik W 2 - 4 Grotta W
+ALM 3:
+Stage Name: Women's 1. Deild
+Score: Grotta W 5 - 1 Haukar W
+ALM 4:
+Stage Name: Women's 1. Deild
+Score: Grotta W 2 - 1 IA Akranes W
+ALM 5:
+Stage Name: Women's 1. Deild
+Score: Grindavik/Njarovik W 3 - 2 Grotta W
+ALM 6:
+Stage Name: Women's 1. Deild
+Score: Grotta W 3 - 0 Fylkir Reykjavik W
+ALM 7:
+Stage Name: Women's 1. Deild
+Score: IBV Vestmannaeyjar W 5 - 1 Grotta W
+ALM 8:
+Stage Name: Women's 1. Deild
+Score: Grotta W 1 - 2 HK Kopavogur W
+ALM 9:
+Stage Name: Women's Cup
+Score: IBV Vestmannaeyjar W 4 - 0 Grotta W
+ALM 10:
+Stage Name: Women's Cup
+Score: Ih Hafnarfjordur W 1 - 9 Grotta W
+today.json updated
+
+Processing Fixtures 55 for today: Al Karkh vs Duhok
+"Al Karkh" vs "Duhok"
+H2H 1:
+Stage Name: Iraq Stars League
+Score: Duhok 1 - 3 Al Karkh
+H2H 2:
+Stage Name: Iraq Stars League
+Score: Duhok 0 - 0 Al Karkh
+H2H 3:
+Stage Name: Iraq Stars League
+Score: Al Karkh 1 - 0 Duhok
+H2H 4:
+Stage Name: Premier League
+Score: Al Karkh 0 - 0 Duhok
+H2H 5:
+Stage Name: Premier League
+Score: Duhok 0 - 2 Al Karkh
+H2H 6:
+Stage Name: Premier League Grp. 1
+Score: Duhok 1 - 0 Al Karkh
+H2H 7:
+Stage Name: Super League
+Score: Duhok 1 - 0 Al Karkh
+H2H 8:
+Stage Name: Super League
+Score: Al Karkh 1 - 2 Duhok
+H2H 9:
+Stage Name: Super League
+Score: Al Karkh 1 - 2 Duhok
+H2H 10:
+Stage Name: Super League
+Score: Duhok 1 - 0 Al Karkh
+
+Home last matches:
+HLM 1:
+Stage Name: Iraq Stars League
+Score: Erbil 1 - 3 Al Karkh
+HLM 2:
+Stage Name: Iraq Stars League
+Score: Al Karkh 2 - 1 Al Zawraa
+HLM 3:
+Stage Name: Iraq Stars League
+Score: Diyala 2 - 0 Al Karkh
+HLM 4:
+Stage Name: Iraq Stars League
+Score: Al Karkh 0 - 1 Al-Karma
+HLM 5:
+Stage Name: Iraq Stars League
+Score: Al Karkh 1 - 1 Al Minaa
+HLM 6:
+Stage Name: Iraq Stars League
+Score: Al Shorta 1 - 0 Al Karkh
+HLM 7:
+Stage Name: Iraq Stars League
+Score: Al Karkh 1 - 4 Al Talaba
+HLM 8:
+Stage Name: Iraq Stars League
+Score: Al Karkh 1 - 1 Al Naft
+HLM 9:
+Stage Name: Iraq Stars League
+Score: Al Hedood 2 - 1 Al Karkh
+HLM 10:
+Stage Name: Iraq Stars League
+Score: Al Karkh 2 - 2 Newroz
+
+Away last matches:
+ALM 1:
+Stage Name: Iraq Stars League
+Score: Duhok 1 - 4 Newroz
+ALM 2:
+Stage Name: Iraq Stars League
+Score: Erbil 2 - 1 Duhok
+ALM 3:
+Stage Name: Iraq Stars League
+Score: Al-Karma 1 - 0 Duhok
+ALM 4:
+Stage Name: Iraq Stars League
+Score: Duhok 1 - 1 Al Minaa
+ALM 5:
+Stage Name: Iraq Stars League
+Score: Duhok 1 - 1 Al Najaf
+ALM 6:
+Stage Name: Iraq Stars League
+Score: Diyala 2 - 1 Duhok
+ALM 7:
+Stage Name: Iraq Stars League
+Score: Duhok 0 - 0 Naft Maysan
+ALM 8:
+Stage Name: Iraq Stars League
+Score: Duhok 1 - 3 Al Shorta
+ALM 9:
+Stage Name: Iraq Stars League
+Score: Al Quwa Al Jawiya 4 - 0 Duhok
+ALM 10:
+Stage Name: Iraq Stars League
+Score: Duhok 1 - 0 Al Talaba
+today.json updated
+
+Processing Fixtures 56 for today: Newroz vs Al Kahrabaa
+"Newroz" vs "Al Kahrabaa"
+H2H 1:
+Stage Name: Iraq Stars League
+Score: Al Kahrabaa 2 - 1 Newroz
+H2H 2:
+Stage Name: Iraq Stars League
+Score: Al Kahrabaa 1 - 1 Newroz
+H2H 3:
+Stage Name: Iraq Stars League
+Score: Newroz 1 - 1 Al Kahrabaa
+H2H 4:
+Stage Name: Premier League
+Score: Al Kahrabaa 0 - 0 Newroz
+H2H 5:
+Stage Name: Premier League
+Score: Newroz 1 - 2 Al Kahrabaa
+H2H 6:
+Stage Name: Premier League
+Score: Al Kahrabaa 1 - 0 Newroz
+H2H 7:
+Stage Name: Premier League
+Score: Newroz 2 - 1 Al Kahrabaa
+
+Home last matches:
+HLM 1:
+Stage Name: Iraq Stars League
+Score: Duhok 1 - 4 Newroz
+HLM 2:
+Stage Name: Iraq Stars League
+Score: Newroz 1 - 0 Karbalaa
+HLM 3:
+Stage Name: Iraq Stars League
+Score: Erbil 0 - 1 Newroz
+HLM 4:
+Stage Name: Iraq Stars League
+Score: Newroz 0 - 0 Zakho
+HLM 5:
+Stage Name: Iraq Stars League
+Score: Newroz 1 - 1 Naft Al Junoob
+HLM 6:
+Stage Name: Iraq Stars League
+Score: Newroz 0 - 1 Al Naft
+HLM 7:
+Stage Name: Iraq Stars League
+Score: Al Najaf 0 - 1 Newroz
+HLM 8:
+Stage Name: Iraq Stars League
+Score: Newroz 0 - 1 Al Shorta
+HLM 9:
+Stage Name: Iraq Stars League
+Score: Al Hedood 1 - 2 Newroz
+HLM 10:
+Stage Name: Iraq Stars League
+Score: Al Karkh 2 - 2 Newroz
+
+Away last matches:
+ALM 1:
+Stage Name: Iraq Stars League
+Score: Al Kahrabaa 4 - 1 Al-Karma
+ALM 2:
+Stage Name: Iraq Stars League
+Score: Al Kahrabaa 1 - 1 Al Naft
+ALM 3:
+Stage Name: Iraq Stars League
+Score: Al Kahrabaa 1 - 2 Al Hedood
+ALM 4:
+Stage Name: Iraq Stars League
+Score: Al Najaf 2 - 0 Al Kahrabaa
+ALM 5:
+Stage Name: Iraq Stars League
+Score: Al Kahrabaa 2 - 1 Al-Qasim
+ALM 6:
+Stage Name: Iraq Stars League
+Score: Al Kahrabaa 0 - 3 Zakho
+ALM 7:
+Stage Name: Iraq Stars League
+Score: Al Quwa Al Jawiya 2 - 2 Al Kahrabaa
+ALM 8:
+Stage Name: Iraq Stars League
+Score: Al Minaa 0 - 2 Al Kahrabaa
+ALM 9:
+Stage Name: Iraq Stars League
+Score: Al Kahrabaa 1 - 0 Duhok
+ALM 10:
+Stage Name: Iraq Stars League
+Score: Al Talaba 1 - 0 Al Kahrabaa
+today.json updated
+
+Processing Fixtures 57 for today: Al Najaf vs Al Talaba
+"Al Najaf" vs "Al Talaba"
+H2H 1:
+Stage Name: Iraq Stars League
+Score: Al Talaba 2 - 1 Al Najaf
+H2H 2:
+Stage Name: Iraq Stars League
+Score: Al Najaf 2 - 0 Al Talaba
+H2H 3:
+Stage Name: Iraq Stars League
+Score: Al Talaba 2 - 1 Al Najaf
+H2H 4:
+Stage Name: Premier League
+Score: Al Najaf 1 - 2 Al Talaba
+H2H 5:
+Stage Name: Premier League
+Score: Al Talaba 1 - 1 Al Najaf
+H2H 6:
+Stage Name: Premier League
+Score: Al Najaf 1 - 3 Al Talaba
+H2H 7:
+Stage Name: Premier League
+Score: Al Talaba 1 - 0 Al Najaf
+H2H 8:
+Stage Name: Premier League
+Score: Al Najaf 2 - 0 Al Talaba
+H2H 9:
+Stage Name: Premier League
+Score: Al Talaba 0 - 2 Al Najaf
+H2H 10:
+Stage Name: Premier League
+Score: Al Talaba 1 - 1 Al Najaf
+
+Home last matches:
+HLM 1:
+Stage Name: Iraq Stars League
+Score: Naft Maysan 3 - 1 Al Najaf
+HLM 2:
+Stage Name: Iraq Stars League
+Score: Al Najaf 0 - 0 Zakho
+HLM 3:
+Stage Name: Iraq Stars League
+Score: Duhok 1 - 1 Al Najaf
+HLM 4:
+Stage Name: Iraq Stars League
+Score: Al Najaf 2 - 0 Al Kahrabaa
+HLM 5:
+Stage Name: Iraq Stars League
+Score: Naft Al Junoob 0 - 0 Al Najaf
+HLM 6:
+Stage Name: Iraq Stars League
+Score: Al Najaf 0 - 1 Newroz
+HLM 7:
+Stage Name: Iraq Stars League
+Score: Diyala 0 - 0 Al Najaf
+HLM 8:
+Stage Name: Iraq Stars League
+Score: Al Najaf 0 - 3 Al-Karma
+HLM 9:
+Stage Name: Iraq Stars League
+Score: Al Quwa Al Jawiya 3 - 0 Al Najaf
+HLM 10:
+Stage Name: Iraq Stars League
+Score: Al Najaf 3 - 2 Karbalaa
+
+Away last matches:
+ALM 1:
+Stage Name: Iraq Stars League
+Score: Al Talaba 1 - 0 Al-Qasim
+ALM 2:
+Stage Name: Iraq Stars League
+Score: Al Minaa 2 - 3 Al Talaba
+ALM 3:
+Stage Name: Iraq Stars League
+Score: Al Talaba 1 - 1 Al Quwa Al Jawiya
+ALM 4:
+Stage Name: Iraq Stars League
+Score: Erbil 1 - 0 Al Talaba
+ALM 5:
+Stage Name: Iraq Stars League
+Score: Duhok 1 - 0 Al Talaba
+ALM 6:
+Stage Name: Iraq Stars League
+Score: Al Talaba 0 - 0 Duhok
+ALM 7:
+Stage Name: Iraq Stars League
+Score: Al Talaba 2 - 0 Karbalaa
+ALM 8:
+Stage Name: Iraq Stars League
+Score: Al Karkh 1 - 4 Al Talaba
+ALM 9:
+Stage Name: Iraq Stars League
+Score: Al Talaba 1 - 1 Naft Maysan
+ALM 10:
+Stage Name: Iraq Stars League
+Score: Al Naft 0 - 0 Al Talaba
+today.json updated
+
+Processing Fixtures 58 for today: Al Quwa Al Jawiya vs Naft Maysan
+"Al Quwa Al Jawiya" vs "Naft Maysan"
+H2H 1:
+Stage Name: Iraq Stars League
+Score: Naft Maysan 0 - 1 Al Quwa Al Jawiya
+H2H 2:
+Stage Name: Iraq Stars League
+Score: Al Quwa Al Jawiya 1 - 1 Naft Maysan
+H2H 3:
+Stage Name: Iraq Stars League
+Score: Naft Maysan 0 - 4 Al Quwa Al Jawiya
+H2H 4:
+Stage Name: Premier League
+Score: Al Quwa Al Jawiya 1 - 1 Naft Maysan
+H2H 5:
+Stage Name: Premier League
+Score: Naft Maysan 0 - 4 Al Quwa Al Jawiya
+H2H 6:
+Stage Name: Premier League
+Score: Naft Maysan 1 - 2 Al Quwa Al Jawiya
+H2H 7:
+Stage Name: Premier League
+Score: Al Quwa Al Jawiya 2 - 0 Naft Maysan
+H2H 8:
+Stage Name: Premier League
+Score: Naft Maysan 0 - 4 Al Quwa Al Jawiya
+H2H 9:
+Stage Name: Premier League
+Score: Al Quwa Al Jawiya 3 - 1 Naft Maysan
+H2H 10:
+Stage Name: Premier League
+Score: Al Quwa Al Jawiya 2 - 1 Naft Maysan
+
+Home last matches:
+HLM 1:
+Stage Name: Iraq Stars League
+Score: Zakho 2 - 0 Al Quwa Al Jawiya
+HLM 2:
+Stage Name: Iraq Stars League
+Score: Al Quwa Al Jawiya 1 - 2 Erbil
+HLM 3:
+Stage Name: Iraq Stars League
+Score: Al Talaba 1 - 1 Al Quwa Al Jawiya
+HLM 4:
+Stage Name: Iraq Stars League
+Score: Al Quwa Al Jawiya 4 - 0 Duhok
+HLM 5:
+Stage Name: Iraq Stars League
+Score: Karbalaa 1 - 4 Al Quwa Al Jawiya
+HLM 6:
+Stage Name: Iraq Stars League
+Score: Al Minaa 2 - 2 Al Quwa Al Jawiya
+HLM 7:
+Stage Name: Iraq Stars League
+Score: Al Quwa Al Jawiya 2 - 2 Al Kahrabaa
+HLM 8:
+Stage Name: Iraq Stars League
+Score: Al-Qasim 1 - 1 Al Quwa Al Jawiya
+HLM 9:
+Stage Name: Iraq Stars League
+Score: Al Quwa Al Jawiya 3 - 0 Al Najaf
+HLM 10:
+Stage Name: Iraq Stars League
+Score: Diyala 2 - 1 Al Quwa Al Jawiya
+
+Away last matches:
+ALM 1:
+Stage Name: Iraq Stars League
+Score: Naft Maysan 3 - 1 Al Najaf
+ALM 2:
+Stage Name: Iraq Stars League
+Score: Al Hedood 1 - 0 Naft Maysan
+ALM 3:
+Stage Name: Iraq Stars League
+Score: Naft Maysan 2 - 0 Al Minaa
+ALM 4:
+Stage Name: Iraq Stars League
+Score: Duhok 0 - 0 Naft Maysan
+ALM 5:
+Stage Name: Iraq Stars League
+Score: Al Naft 0 - 0 Naft Maysan
+ALM 6:
+Stage Name: Iraq Stars League
+Score: Naft Maysan 0 - 2 Al Zawraa
+ALM 7:
+Stage Name: Iraq Stars League
+Score: Erbil 3 - 2 Naft Maysan
+ALM 8:
+Stage Name: Iraq Stars League
+Score: Naft Maysan 0 - 1 Al-Qasim
+ALM 9:
+Stage Name: Iraq Stars League
+Score: Al Talaba 1 - 1 Naft Maysan
+ALM 10:
+Stage Name: Iraq Stars League
+Score: Naft Maysan 0 - 1 Diyala
+today.json updated
+
+Processing Fixtures 59 for today: Akademia Ontustyk vs Akas FC
+"Akademia Ontustyk" vs "Akas FC"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: 1st Division
+Score: Akademia Ontustyk 2 - 0 Akas FC
+HLM 2:
+Stage Name: 1st Division
+Score: Shakhter Karagandy 4 - 1 Akademia Ontustyk
+HLM 3:
+Stage Name: 1st Division
+Score: Akademia Ontustyk 3 - 5 Kairat-Zhastar
+HLM 4:
+Stage Name: 1st Division
+Score: Aktobe Reserves 1 - 2 Akademia Ontustyk
+HLM 5:
+Stage Name: 1st Division
+Score: Akademia Ontustyk 0 - 1 FK Ekibastuz
+HLM 6:
+Stage Name: 1st Division
+Score: Irtysh Pavlodar 2 - 2 Akademia Ontustyk
+HLM 7:
+Stage Name: 1st Division
+Score: Akademia Ontustyk 4 - 2 Khan Tengri
+HLM 8:
+Stage Name: 1st Division
+Score: SD Family 0 - 3 Akademia Ontustyk
+HLM 9:
+Stage Name: 1st Division
+Score: Akademia Ontustyk 3 - 0 Turkistan FC
+HLM 10:
+Stage Name: 1st Division
+Score: Kaspyi Aktau 3 - 1 Akademia Ontustyk
+
+Away last matches:
+ALM 1:
+Stage Name: 1st Division
+Score: Akademia Ontustyk 2 - 0 Akas FC
+ALM 2:
+Stage Name: 1st Division
+Score: Akas FC 0 - 1 Jetisay FC
+ALM 3:
+Stage Name: 1st Division
+Score: Altai Semey 1 - 2 Akas FC
+ALM 4:
+Stage Name: 1st Division
+Score: Shakhter Karagandy 4 - 2 Akas FC
+ALM 5:
+Stage Name: 1st Division
+Score: Akas FC 3 - 0 Kairat-Zhastar
+ALM 6:
+Stage Name: 1st Division
+Score: Aktobe Reserves 1 - 3 Akas FC
+ALM 7:
+Stage Name: 1st Division
+Score: Akas FC 2 - 0 FK Ekibastuz
+ALM 8:
+Stage Name: 1st Division
+Score: Irtysh Pavlodar 1 - 0 Akas FC
+ALM 9:
+Stage Name: 1st Division
+Score: Akas FC 1 - 1 Khan Tengri
+ALM 10:
+Stage Name: 1st Division
+Score: SD Family 1 - 0 Akas FC
+today.json updated
+
+Processing Fixtures 60 for today: Turkistan FC vs Aktobe Reserves
+"Turkistan FC" vs "Aktobe Reserves"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: 1st Division
+Score: FK Ekibastuz 1 - 1 Turkistan FC
+HLM 2:
+Stage Name: 1st Division
+Score: Turkistan FC 1 - 7 Irtysh Pavlodar
+HLM 3:
+Stage Name: 1st Division
+Score: Khan Tengri 4 - 3 Turkistan FC
+HLM 4:
+Stage Name: 1st Division
+Score: Turkistan FC 0 - 1 SD Family
+HLM 5:
+Stage Name: 1st Division
+Score: Turkistan FC 0 - 3 Altai Semey
+HLM 6:
+Stage Name: 1st Division
+Score: Kaspyi Aktau 4 - 0 Turkistan FC
+HLM 7:
+Stage Name: 1st Division
+Score: Turkistan FC 1 - 0 Taraz
+HLM 8:
+Stage Name: 1st Division
+Score: Akademia Ontustyk 3 - 0 Turkistan FC
+HLM 9:
+Stage Name: 1st Division
+Score: Turkistan FC 0 - 1 Jetisay FC
+HLM 10:
+Stage Name: 1st Division
+Score: Akas FC 3 - 1 Turkistan FC
+
+Away last matches:
+ALM 1:
+Stage Name: 1st Division
+Score: Aktobe Reserves 0 - 3 Kaspyi Aktau
+ALM 2:
+Stage Name: 1st Division
+Score: Taraz 3 - 3 Aktobe Reserves
+ALM 3:
+Stage Name: 1st Division
+Score: Aktobe Reserves 1 - 2 Akademia Ontustyk
+ALM 4:
+Stage Name: 1st Division
+Score: Jetisay FC 3 - 0 Aktobe Reserves
+ALM 5:
+Stage Name: 1st Division
+Score: Aktobe Reserves 1 - 3 Akas FC
+ALM 6:
+Stage Name: 1st Division
+Score: Shakhter Karagandy 3 - 1 Aktobe Reserves
+ALM 7:
+Stage Name: 1st Division
+Score: Aktobe Reserves 1 - 1 Kairat-Zhastar
+ALM 8:
+Stage Name: 1st Division
+Score: Altai Semey 0 - 0 Aktobe Reserves
+ALM 9:
+Stage Name: 1st Division
+Score: FK Ekibastuz 3 - 3 Aktobe Reserves
+ALM 10:
+Stage Name: 1st Division
+Score: Aktobe Reserves 0 - 1 Irtysh Pavlodar
+today.json updated
+
+Processing Fixtures 61 for today: SD Family vs FK Ekibastuz
+"SD Family" vs "FK Ekibastuz"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: 1st Division
+Score: Irtysh Pavlodar 3 - 0 SD Family
+HLM 2:
+Stage Name: 1st Division
+Score: SD Family 0 - 3 Khan Tengri
+HLM 3:
+Stage Name: 1st Division
+Score: SD Family 0 - 1 Altai Semey
+HLM 4:
+Stage Name: 1st Division
+Score: Turkistan FC 0 - 1 SD Family
+HLM 5:
+Stage Name: 1st Division
+Score: SD Family 0 - 3 Kaspyi Aktau
+HLM 6:
+Stage Name: 1st Division
+Score: Taraz 1 - 1 SD Family
+HLM 7:
+Stage Name: 1st Division
+Score: SD Family 0 - 3 Akademia Ontustyk
+HLM 8:
+Stage Name: 1st Division
+Score: Jetisay FC 1 - 2 SD Family
+HLM 9:
+Stage Name: 1st Division
+Score: SD Family 1 - 0 Akas FC
+HLM 10:
+Stage Name: 1st Division
+Score: Shakhter Karagandy 4 - 1 SD Family
+
+Away last matches:
+ALM 1:
+Stage Name: 1st Division
+Score: FK Ekibastuz 1 - 1 Turkistan FC
+ALM 2:
+Stage Name: 1st Division
+Score: Kaspyi Aktau 5 - 3 FK Ekibastuz
+ALM 3:
+Stage Name: 1st Division
+Score: FK Ekibastuz 4 - 1 Taraz
+ALM 4:
+Stage Name: 1st Division
+Score: Akademia Ontustyk 0 - 1 FK Ekibastuz
+ALM 5:
+Stage Name: 1st Division
+Score: FK Ekibastuz 0 - 1 Jetisay FC
+ALM 6:
+Stage Name: 1st Division
+Score: Akas FC 2 - 0 FK Ekibastuz
+ALM 7:
+Stage Name: 1st Division
+Score: FK Ekibastuz 2 - 2 Shakhter Karagandy
+ALM 8:
+Stage Name: 1st Division
+Score: Kairat-Zhastar 7 - 0 FK Ekibastuz
+ALM 9:
+Stage Name: 1st Division
+Score: FK Ekibastuz 3 - 3 Aktobe Reserves
+ALM 10:
+Stage Name: 1st Division
+Score: Altai Semey 0 - 0 FK Ekibastuz
+today.json updated
+
+Processing Fixtures 62 for today: Renaissance de Boukoki vs Espoir
+"Renaissance de Boukoki" vs "Espoir"
+H2H 1:
+Stage Name: Super Ligue
+Score: Espoir 1 - 0 Renaissance de Boukoki
+H2H 2:
+Stage Name: Super Ligue
+Score: Espoir 0 - 0 Renaissance de Boukoki
+H2H 3:
+Stage Name: Super Ligue
+Score: Renaissance de Boukoki 1 - 3 Espoir
+
+Home last matches:
+HLM 1:
+Stage Name: Super Ligue
+Score: Renaissance de Boukoki 0 - 0 Wombeye
+HLM 2:
+Stage Name: Super Ligue
+Score: Jangorzo 2 - 1 Renaissance de Boukoki
+HLM 3:
+Stage Name: Super Ligue
+Score: Nigelec 1 - 3 Renaissance de Boukoki
+HLM 4:
+Stage Name: Super Ligue
+Score: Renaissance de Boukoki 1 - 2 US Gendarmerie
+HLM 5:
+Stage Name: Super Ligue
+Score: Renaissance de Boukoki 0 - 4 Douanes Niamey
+HLM 6:
+Stage Name: Super Ligue
+Score: Sahel 0 - 1 Renaissance de Boukoki
+HLM 7:
+Stage Name: Super Ligue
+Score: AS GNN 1 - 1 Renaissance de Boukoki
+HLM 8:
+Stage Name: Super Ligue
+Score: Liberte 0 - 0 Renaissance de Boukoki
+HLM 9:
+Stage Name: Super Ligue
+Score: Urana 0 - 0 Renaissance de Boukoki
+HLM 10:
+Stage Name: Super Ligue
+Score: Renaissance de Boukoki 1 - 2 AS UAM
+
+Away last matches:
+ALM 1:
+Stage Name: Super Ligue
+Score: Espoir 1 - 1 Nigelec
+ALM 2:
+Stage Name: Super Ligue
+Score: AS GNN 2 - 1 Espoir
+ALM 3:
+Stage Name: Super Ligue
+Score: Espoir 0 - 0 Sahel
+ALM 4:
+Stage Name: Super Ligue
+Score: AS UAM 1 - 2 Espoir
+ALM 5:
+Stage Name: Super Ligue
+Score: Espoir 0 - 2 Olympic Niamey
+ALM 6:
+Stage Name: Super Ligue
+Score: Tahoua 0 - 1 Espoir
+ALM 7:
+Stage Name: Super Ligue
+Score: Espoir 2 - 1 Wombeye
+ALM 8:
+Stage Name: Super Ligue
+Score: Espoir 0 - 1 Jangorzo
+ALM 9:
+Stage Name: Super Ligue
+Score: Espoir 1 - 1 AS FAN
+ALM 10:
+Stage Name: Super Ligue
+Score: Espoir 0 - 3 As Police
+today.json updated
+
+Processing Fixtures 63 for today: Sahel vs Wombeye
+"Sahel" vs "Wombeye"
+H2H 1:
+Stage Name: Super Ligue
+Score: Wombeye 0 - 1 Sahel
+
+Home last matches:
+HLM 1:
+Stage Name: Super Ligue
+Score: Douanes Niamey 1 - 1 Sahel
+HLM 2:
+Stage Name: Super Ligue
+Score: Sahel 1 - 3 AS FAN
+HLM 3:
+Stage Name: Super Ligue
+Score: Espoir 0 - 0 Sahel
+HLM 4:
+Stage Name: Super Ligue
+Score: AS GNN 0 - 1 Sahel
+HLM 5:
+Stage Name: Super Ligue
+Score: As Police 0 - 2 Sahel
+HLM 6:
+Stage Name: Super Ligue
+Score: Sahel 0 - 1 Renaissance de Boukoki
+HLM 7:
+Stage Name: Super Ligue
+Score: Sahel 0 - 2 Tahoua
+HLM 8:
+Stage Name: Super Ligue
+Score: US Gendarmerie 0 - 1 Sahel
+HLM 9:
+Stage Name: Super Ligue
+Score: Sahel 2 - 1 Olympic Niamey
+HLM 10:
+Stage Name: Super Ligue
+Score: Jangorzo 0 - 1 Sahel
+
+Away last matches:
+ALM 1:
+Stage Name: Super Ligue
+Score: Renaissance de Boukoki 0 - 0 Wombeye
+ALM 2:
+Stage Name: Super Ligue
+Score: Wombeye 4 - 2 Olympic Niamey
+ALM 3:
+Stage Name: Super Ligue
+Score: Wombeye 0 - 0 AS UAM
+ALM 4:
+Stage Name: Super Ligue
+Score: Jangorzo 0 - 0 Wombeye
+ALM 5:
+Stage Name: Super Ligue
+Score: Wombeye 0 - 1 AS GNN
+ALM 6:
+Stage Name: Super Ligue
+Score: Wombeye 1 - 1 AS FAN
+ALM 7:
+Stage Name: Super Ligue
+Score: Espoir 2 - 1 Wombeye
+ALM 8:
+Stage Name: Super Ligue
+Score: Wombeye 1 - 0 Urana
+ALM 9:
+Stage Name: Super Ligue
+Score: As Police 4 - 1 Wombeye
+ALM 10:
+Stage Name: Super Ligue
+Score: Wombeye 1 - 1 Nigelec
+today.json updated
+
+Processing Fixtures 64 for today: Birmingham Legion vs Charleston Battery
+"Birmingham Legion" vs "Charleston Battery"
+H2H 1:
+Stage Name: USL Championship
+Score: Charleston Battery 2 - 0 Birmingham Legion
+H2H 2:
+Stage Name: USL Championship
+Score: Birmingham Legion 0 - 1 Charleston Battery
+H2H 3:
+Stage Name: USL Championship: Play-off
+Score: Charleston Battery 2 - 1 Birmingham Legion
+H2H 4:
+Stage Name: USL Championship
+Score: Charleston Battery 1 - 0 Birmingham Legion
+H2H 5:
+Stage Name: USL Championship
+Score: Birmingham Legion 1 - 2 Charleston Battery
+H2H 6:
+Stage Name: USL Championship
+Score: Charleston Battery 0 - 3 Birmingham Legion
+H2H 7:
+Stage Name: USL Championship
+Score: Birmingham Legion 2 - 1 Charleston Battery
+H2H 8:
+Stage Name: USL Championship
+Score: Charleston Battery 1 - 2 Birmingham Legion
+H2H 9:
+Stage Name: USL Championship
+Score: Birmingham Legion 0 - 0 Charleston Battery
+H2H 10:
+Stage Name: USL Championship
+Score: Charleston Battery 3 - 1 Birmingham Legion
+
+Home last matches:
+HLM 1:
+Stage Name: USL Championship
+Score: Birmingham Legion 0 - 0 Charleston Battery
+HLM 2:
+Stage Name: USL Cup: Group 3
+Score: Indy Eleven 1 - 1 Birmingham Legion
+HLM 3:
+Stage Name: USL Championship
+Score: Birmingham Legion 0 - 1 Oakland Roots
+HLM 4:
+Stage Name: USL Championship
+Score: Birmingham Legion 1 - 0 Sacramento Republic FC
+HLM 5:
+Stage Name: USL Championship
+Score: Louisville City FC 4 - 2 Birmingham Legion
+HLM 6:
+Stage Name: USL Championship
+Score: Birmingham Legion 0 - 1 Indy Eleven
+HLM 7:
+Stage Name: USL Cup: Group 3
+Score: FC Tulsa 1 - 2 Birmingham Legion
+HLM 8:
+Stage Name: USL Championship
+Score: Miami FC 1 - 2 Birmingham Legion
+HLM 9:
+Stage Name: USL Championship
+Score: Birmingham Legion 1 - 1 Detroit City FC
+HLM 10:
+Stage Name: USL Championship
+Score: Birmingham Legion 0 - 1 Rhode Island
+
+Away last matches:
+ALM 1:
+Stage Name: USL Championship
+Score: Birmingham Legion 0 - 0 Charleston Battery
+ALM 2:
+Stage Name: USL Cup: Group 6
+Score: South Georgia Tormenta FC 3 - 3 Charleston Battery
+ALM 3:
+Stage Name: USL Championship
+Score: Charleston Battery 4 - 1 Phoenix Rising FC
+ALM 4:
+Stage Name: USL Championship
+Score: Miami FC 1 - 0 Charleston Battery
+ALM 5:
+Stage Name: USL Championship
+Score: Hartford Athletic 1 - 2 Charleston Battery
+ALM 6:
+Stage Name: USL Championship
+Score: Loudoun United 1 - 1 Charleston Battery
+ALM 7:
+Stage Name: USL Cup: Group 6
+Score: Charleston Battery 0 - 1 Greenville Triumph SC
+ALM 8:
+Stage Name: USL Championship
+Score: Detroit City FC 1 - 3 Charleston Battery
+ALM 9:
+Stage Name: USL Championship
+Score: Charleston Battery 4 - 0 San Antonio FC
+ALM 10:
+Stage Name: USL Championship
+Score: Tampa Bay Rowdies 1 - 3 Charleston Battery
+today.json updated
+
+Processing Fixtures 65 for today: Loudoun United vs Orange County SC
+"Loudoun United" vs "Orange County SC"
+H2H 1:
+Stage Name: USL Championship
+Score: Orange County SC 0 - 2 Loudoun United
+H2H 2:
+Stage Name: US Open Cup
+Score: Orange County SC 1 - 2 Loudoun United
+H2H 3:
+Stage Name: USL Championship
+Score: Loudoun United 1 - 3 Orange County SC
+H2H 4:
+Stage Name: USL Championship
+Score: Orange County SC 3 - 1 Loudoun United
+
+Home last matches:
+HLM 1:
+Stage Name: USL Cup: Group 5
+Score: Loudoun United 1 - 1 Charlotte Independence
+HLM 2:
+Stage Name: USL Championship
+Score: Loudoun United 1 - 4 Louisville City FC
+HLM 3:
+Stage Name: USL Championship
+Score: Hartford Athletic 3 - 0 Loudoun United
+HLM 4:
+Stage Name: USL Championship
+Score: Loudoun United 3 - 2 Detroit City FC
+HLM 5:
+Stage Name: USL Championship
+Score: Loudoun United 1 - 1 Charleston Battery
+HLM 6:
+Stage Name: USL Cup: Group 5
+Score: Loudoun United 2 - 1 Louisville City FC
+HLM 7:
+Stage Name: USL Championship
+Score: Miami FC 2 - 1 Loudoun United
+HLM 8:
+Stage Name: USL Championship
+Score: Loudoun United 5 - 1 Lexington SC
+HLM 9:
+Stage Name: USL Championship
+Score: Las Vegas Lights FC 1 - 0 Loudoun United
+HLM 10:
+Stage Name: USL Cup: Group 5
+Score: Lexington SC 0 - 1 Loudoun United
+
+Away last matches:
+ALM 1:
+Stage Name: USL Cup: Group 1
+Score: Orange County SC 1 - 0 Sacramento Republic FC
+ALM 2:
+Stage Name: USL Championship
+Score: El Paso Locomotive 0 - 3 Orange County SC
+ALM 3:
+Stage Name: USL Championship
+Score: Phoenix Rising FC 3 - 1 Orange County SC
+ALM 4:
+Stage Name: USL Cup: Group 1
+Score: Monterey Bay FC 3 - 2 Orange County SC
+ALM 5:
+Stage Name: USL Championship
+Score: Orange County SC 3 - 1 Colorado Springs Switchbacks FC
+ALM 6:
+Stage Name: USL Championship
+Score: Orange County SC 0 - 3 New Mexico United
+ALM 7:
+Stage Name: USL Championship
+Score: North Carolina FC 1 - 0 Orange County SC
+ALM 8:
+Stage Name: USL Championship
+Score: Orange County SC 2 - 1 FC Tulsa
+ALM 9:
+Stage Name: USL Cup: Group 1
+Score: Orange County SC 1 - 3 Las Vegas Lights FC
+ALM 10:
+Stage Name: USL Championship
+Score: Oakland Roots 2 - 0 Orange County SC
+today.json updated
+
+Processing Fixtures 66 for today: Spokane Velocity vs Texoma
+"Spokane Velocity" vs "Texoma"
+H2H 1:
+Stage Name: USL League One
+Score: Spokane Velocity 4 - 1 Texoma
+
+Home last matches:
+HLM 1:
+Stage Name: USL League One
+Score: Spokane Velocity 1 - 1 Texoma
+HLM 2:
+Stage Name: USL Cup: Group 1
+Score: Las Vegas Lights FC 2 - 0 Spokane Velocity
+HLM 3:
+Stage Name: USL League One
+Score: Richmond Kickers 0 - 1 Spokane Velocity
+HLM 4:
+Stage Name: USL League One
+Score: Spokane Velocity 2 - 1 Forward Madison FC
+HLM 5:
+Stage Name: USL League One
+Score: Spokane Velocity 1 - 1 Charlotte Independence
+HLM 6:
+Stage Name: USL League One
+Score: AV Alta 0 - 0 Spokane Velocity
+HLM 7:
+Stage Name: USL Cup: Group 1
+Score: Monterey Bay FC 1 - 0 Spokane Velocity
+HLM 8:
+Stage Name: USL League One
+Score: Spokane Velocity 1 - 0 Richmond Kickers
+HLM 9:
+Stage Name: USL League One
+Score: South Georgia Tormenta FC 0 - 1 Spokane Velocity
+HLM 10:
+Stage Name: USL League One
+Score: Spokane Velocity 3 - 1 Westchester SC
+
+Away last matches:
+ALM 1:
+Stage Name: USL League One
+Score: Spokane Velocity 1 - 1 Texoma
+ALM 2:
+Stage Name: USL Cup: Group 2
+Score: Texoma 4 - 5 Phoenix Rising FC
+ALM 3:
+Stage Name: USL League One
+Score: Texoma 3 - 2 Charlotte Independence
+ALM 4:
+Stage Name: USL League One
+Score: Texoma 2 - 2 South Georgia Tormenta FC
+ALM 5:
+Stage Name: USL League One
+Score: Richmond Kickers 1 - 2 Texoma
+ALM 6:
+Stage Name: USL League One
+Score: Texoma 1 - 0 Greenville Triumph SC
+ALM 7:
+Stage Name: USL League One
+Score: Texoma 2 - 1 Union Omaha
+ALM 8:
+Stage Name: USL League One
+Score: AV Alta 0 - 0 Texoma
+ALM 9:
+Stage Name: USL League One
+Score: Texoma 3 - 4 Charlotte Independence
+ALM 10:
+Stage Name: USL Cup: Group 2
+Score: Texoma 0 - 0 El Paso Locomotive
+today.json updated
+
+Processing Fixtures 67 for today: St. Croix SC vs Minneapolis City
+"St. Croix SC" vs "Minneapolis City"
+H2H 1:
+Stage Name: USL League 2: Heartland Division
+Score: Minneapolis City 3 - 1 St. Croix SC
+H2H 2:
+Stage Name: USL League Two
+Score: St. Croix SC 0 - 2 Minneapolis City
+H2H 3:
+Stage Name: USL League Two
+Score: Minneapolis City 0 - 3 St. Croix SC
+H2H 4:
+Stage Name: USL League Two
+Score: St. Croix SC 2 - 1 Minneapolis City
+H2H 5:
+Stage Name: USL League Two
+Score: Minneapolis City 1 - 2 St. Croix SC
+H2H 6:
+Stage Name: USL League Two: Deep North Division
+Score: Minneapolis City 1 - 0 St. Croix SC
+H2H 7:
+Stage Name: USL League Two: Deep North Division
+Score: St. Croix SC 3 - 3 Minneapolis City
+H2H 8:
+Stage Name: USL League Two: Deep North Division
+Score: St. Croix SC 1 - 0 Minneapolis City
+
+Home last matches:
+HLM 1:
+Stage Name: USL League Two
+Score: St. Croix SC 1 - 2 Minneapolis City
+HLM 2:
+Stage Name: USL League Two
+Score: River Light FC 2 - 1 St. Croix SC
+HLM 3:
+Stage Name: USL League 2: Heartland Division
+Score: Minneapolis City 3 - 1 St. Croix SC
+HLM 4:
+Stage Name: USL League 2: Heartland Division
+Score: RKC Third Coast 5 - 0 St. Croix SC
+HLM 5:
+Stage Name: USL League 2: Heartland Division
+Score: St. Croix SC 2 - 3 Rochester
+HLM 6:
+Stage Name: USL League 2: Heartland Division
+Score: Sueno FC 3 - 2 St. Croix SC
+HLM 7:
+Stage Name: USL League 2: Heartland Division
+Score: St. Croix SC 2 - 0 Chicago Dutch Lions FC
+HLM 8:
+Stage Name: USL League 2: Heartland Division
+Score: St. Croix SC 2 - 2 River Light FC
+HLM 9:
+Stage Name: USL League 2: Heartland Division
+Score: St. Croix SC 1 - 2 Sueno FC
+HLM 10:
+Stage Name: USL League Two
+Score: St. Croix SC 0 - 2 Minneapolis City
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: St. Croix SC 1 - 2 Minneapolis City
+ALM 2:
+Stage Name: USL League Two
+Score: Minneapolis City 2 - 0 Rochester
+ALM 3:
+Stage Name: USL League Two
+Score: Minneapolis City 5 - 1 River Light FC
+ALM 4:
+Stage Name: USL League 2: Heartland Division
+Score: Minneapolis City 3 - 1 St. Croix SC
+ALM 5:
+Stage Name: USL League Two
+Score: Minneapolis City 3 - 1 St. Croix Legends
+ALM 6:
+Stage Name: USL League 2: Heartland Division
+Score: Rochester 1 - 2 Minneapolis City
+ALM 7:
+Stage Name: USL League 2: Heartland Division
+Score: Chicago Dutch Lions FC 1 - 2 Minneapolis City
+ALM 8:
+Stage Name: USL League 2: Heartland Division
+Score: Sueno FC 3 - 2 Minneapolis City
+ALM 9:
+Stage Name: USL League 2: Heartland Division
+Score: Minneapolis City 4 - 0 Chicago Dutch Lions FC
+ALM 10:
+Stage Name: USL League Two
+Score: River Light FC 1 - 1 Minneapolis City
+today.json updated
+
+Processing Fixtures 68 for today: Westchester Flames vs FC Motown 2
+"Westchester Flames" vs "FC Motown 2"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: USL League 2: Metropolitan Division
+Score: Westchester Flames 0 - 1 FC Motown II
+HLM 2:
+Stage Name: USL League Two
+Score: Westchester Flames 0 - 1 FC Motown 2
+HLM 3:
+Stage Name: USL League Two
+Score: Staten Island ASC 1 - 1 Westchester Flames
+HLM 4:
+Stage Name: USL League Two
+Score: Westchester Flames 0 - 2 Staten Island ASC
+HLM 5:
+Stage Name: USL League Two
+Score: Morris Elite SC 2 - 2 Westchester Flames
+HLM 6:
+Stage Name: USL League 2: Metropolitan Division
+Score: Morris Elite SC 2 - 2 Westchester Flames
+HLM 7:
+Stage Name: USL League 2: Metropolitan Division
+Score: Hudson Valley Hammers 1 - 0 Westchester Flames
+HLM 8:
+Stage Name: USL League 2: Metropolitan Division
+Score: Ironbound 0 - 2 Westchester Flames
+HLM 9:
+Stage Name: USL League 2: Metropolitan Division
+Score: Cedar Stars Rush 3 - 1 Westchester Flames
+HLM 10:
+Stage Name: USL League 2: Metropolitan Division
+Score: Westchester Flames 1 - 3 Manhattan SC
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: Westchester Flames 0 - 1 FC Motown 2
+ALM 2:
+Stage Name: USL League Two
+Score: Morris Elite SC 1 - 4 FC Motown 2
+ALM 3:
+Stage Name: USL League Two
+Score: Manhattan SC 3 - 4 FC Motown 2
+ALM 4:
+Stage Name: USL League Two
+Score: FC Motown 2 3 - 1 Manhattan SC
+ALM 5:
+Stage Name: USL League Two
+Score: FC Motown 2 0 - 0 Hudson Valley Hammers
+ALM 6:
+Stage Name: US Open Cup
+Score: FC Motown 2 0 - 1 Westchester SC
+ALM 7:
+Stage Name: US Open Cup
+Score: FC Motown 2 0 - 3 New York City FC II
+ALM 8:
+Stage Name: USL League Two
+Score: FC Motown 2 1 - 4 Cedar Stars Rush
+ALM 9:
+Stage Name: USL League Two
+Score: Ironbound 0 - 6 FC Motown 2
+ALM 10:
+Stage Name: USL League Two
+Score: FC Motown 2 4 - 4 Westchester Flames
+today.json updated
+
+Processing Fixtures 69 for today: Hill Country Lobos vs Houston FC
+"Hill Country Lobos" vs "Houston FC"
+H2H 1:
+Stage Name: USL League Two
+Score: Hill Country Lobos 4 - 1 Houston FC
+H2H 2:
+Stage Name: USL League Two
+Score: Houston FC 4 - 3 Hill Country Lobos
+
+Home last matches:
+HLM 1:
+Stage Name: USL League Two
+Score: Hill Country Lobos 1 - 2 Houston FC
+HLM 2:
+Stage Name: USL League Two
+Score: AC Houston Sur 1 - 1 Hill Country Lobos
+HLM 3:
+Stage Name: USL League Two
+Score: Hill Country Lobos 2 - 2 Corpus Christi
+HLM 4:
+Stage Name: USL League Two
+Score: Hill Country Lobos 5 - 1 AC Houston Sur
+HLM 5:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Lonestar 4 - 1 Hill Country Lobos
+HLM 6:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Twin City Toucans 3 - 2 Hill Country Lobos
+HLM 7:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Hill Country Lobos 3 - 5 Lonestar
+HLM 8:
+Stage Name: USL League Two
+Score: Hill Country Lobos 3 - 5 Lonestar
+HLM 9:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Hill Country Lobos 1 - 3 Laredo Heat
+HLM 10:
+Stage Name: USL League Two
+Score: Hill Country Lobos 1 - 3 Laredo Heat
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: Hill Country Lobos 1 - 2 Houston FC
+ALM 2:
+Stage Name: USL League Two
+Score: Houston FC 2 - 1 Lonestar
+ALM 3:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Houston FC 2 - 1 Lonestar
+ALM 4:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Houston FC 2 - 2 Twin City Toucans
+ALM 5:
+Stage Name: USL League Two
+Score: Houston FC 2 - 2 Twin City Toucans
+ALM 6:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Laredo Heat 3 - 1 Houston FC
+ALM 7:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Houston FC 0 - 0 Global Football Innovation Academy
+ALM 8:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Houston FC 0 - 2 Laredo Heat
+ALM 9:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Houston FC 0 - 2 AHFC Royals
+ALM 10:
+Stage Name: USL League Two
+Score: AHFC Royals 1 - 1 Houston FC
+today.json updated
+
+Processing Fixtures 70 for today: Peoria City vs Des Moines Menace
+"Peoria City" vs "Des Moines Menace"
+H2H 1:
+Stage Name: USL League 2: Great Plains Division
+Score: Des Moines Menace 3 - 1 Peoria City
+H2H 2:
+Stage Name: USL League Two: Play-off
+Score: Peoria City 5 - 5 Des Moines Menace
+H2H 3:
+Stage Name: USL League Two
+Score: Peoria City 2 - 2 Des Moines Menace
+H2H 4:
+Stage Name: USL League Two
+Score: Des Moines Menace 1 - 1 Peoria City
+H2H 5:
+Stage Name: USL League Two
+Score: Des Moines Menace 3 - 2 Peoria City
+H2H 6:
+Stage Name: USL League Two
+Score: Peoria City 0 - 2 Des Moines Menace
+H2H 7:
+Stage Name: USL League Two: Deep North Division
+Score: Des Moines Menace 2 - 0 Peoria City
+H2H 8:
+Stage Name: USL League Two: Deep North Division
+Score: Peoria City 1 - 4 Des Moines Menace
+H2H 9:
+Stage Name: USL League Two: Deep North Division
+Score: Peoria City 2 - 4 Des Moines Menace
+
+Home last matches:
+HLM 1:
+Stage Name: USL League Two
+Score: Peoria City 0 - 0 Des Moines Menace
+HLM 2:
+Stage Name: USL League Two
+Score: Peoria City 6 - 0 Santafe Wanderers
+HLM 3:
+Stage Name: USL League 2: Great Plains Division
+Score: St. Louis Ambush 1 - 3 Peoria City
+HLM 4:
+Stage Name: USL League Two
+Score: St. Louis Ambush 1 - 3 Peoria City
+HLM 5:
+Stage Name: USL League 2: Great Plains Division
+Score: Des Moines Menace 3 - 1 Peoria City
+HLM 6:
+Stage Name: USL League 2: Great Plains Division
+Score: Sunflower State 2 - 1 Peoria City
+HLM 7:
+Stage Name: USL League Two
+Score: Peoria City 6 - 0 Springfield FC
+HLM 8:
+Stage Name: USL League 2: Great Plains Division
+Score: Peoria City 6 - 0 Springfield FC
+HLM 9:
+Stage Name: USL League Two
+Score: Springfield FC 0 - 1 Peoria City
+HLM 10:
+Stage Name: USL League 2: Great Plains Division
+Score: Springfield FC 0 - 1 Peoria City
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: Peoria City 0 - 0 Des Moines Menace
+ALM 2:
+Stage Name: USL League Two
+Score: Santafe Wanderers 0 - 3 Des Moines Menace
+ALM 3:
+Stage Name: USL League 2: Great Plains Division
+Score: Springfield FC 1 - 3 Des Moines Menace
+ALM 4:
+Stage Name: USL League 2: Great Plains Division
+Score: Des Moines Menace 3 - 1 Peoria City
+ALM 5:
+Stage Name: USL League 2: Great Plains Division
+Score: Des Moines Menace 5 - 1 Springfield FC
+ALM 6:
+Stage Name: USL League Two
+Score: Santafe Wanderers 3 - 4 Des Moines Menace
+ALM 7:
+Stage Name: USL League 2: Great Plains Division
+Score: Santafe Wanderers 3 - 4 Des Moines Menace
+ALM 8:
+Stage Name: USL League Two
+Score: Des Moines Menace 4 - 1 Sunflower State
+ALM 9:
+Stage Name: USL League 2: Great Plains Division
+Score: Des Moines Menace 4 - 1 Sunflower State FC
+ALM 10:
+Stage Name: USL League 2: Great Plains Division
+Score: Sunflower State FC 2 - 1 Des Moines Menace
+today.json updated
+
+Processing Fixtures 71 for today: San Francisco City vs San Francisco Glens SC
+"San Francisco City" vs "San Francisco Glens SC"
+H2H 1:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Francisco Glens SC 1 - 1 San Francisco City
+H2H 2:
+Stage Name: USL League Two
+Score: San Francisco City 1 - 0 San Francisco Glens SC
+H2H 3:
+Stage Name: USL League Two
+Score: San Francisco Glens SC 1 - 2 San Francisco City
+H2H 4:
+Stage Name: USL League Two
+Score: San Francisco City 1 - 2 San Francisco Glens SC
+H2H 5:
+Stage Name: USL League Two
+Score: San Francisco Glens SC 2 - 0 San Francisco City
+H2H 6:
+Stage Name: USL League Two: Southwest Division
+Score: San Francisco City 1 - 4 San Francisco Glens SC
+
+Home last matches:
+HLM 1:
+Stage Name: USL League Two
+Score: San Francisco City 2 - 1 San Francisco Glens SC
+HLM 2:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Francisco City 2 - 3 Academica SC
+HLM 3:
+Stage Name: USL League Two
+Score: San Francisco City 2 - 3 Academica SC
+HLM 4:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Francisco City 1 - 2 Marin FC Legends
+HLM 5:
+Stage Name: USL League Two
+Score: San Francisco City 1 - 2 Marin FC Legends
+HLM 6:
+Stage Name: USL League Two
+Score: San Francisco City 2 - 0 Davis Legacy
+HLM 7:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Francisco Glens SC 1 - 1 San Francisco City
+HLM 8:
+Stage Name: USL League 2: Nor Cal Division
+Score: Almaden FC 1 - 2 San Francisco City
+HLM 9:
+Stage Name: USL League 2: Nor Cal Division
+Score: Academica SC 2 - 2 San Francisco City
+HLM 10:
+Stage Name: USL League Two
+Score: Marin FC Legends 0 - 3 San Francisco City
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: San Francisco City 2 - 1 San Francisco Glens SC
+ALM 2:
+Stage Name: USL League Two
+Score: San Francisco Glens SC 2 - 2 Project 51O
+ALM 3:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Francisco Glens SC 6 - 0 Academica SC
+ALM 4:
+Stage Name: USL League Two
+Score: San Francisco Glens SC 6 - 0 Academica SC
+ALM 5:
+Stage Name: USL League Two
+Score: San Francisco Glens SC 2 - 1 Marin FC Legends
+ALM 6:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Francisco Glens SC 0 - 2 Davis Legacy
+ALM 7:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Francisco Glens SC 1 - 1 San Francisco City
+ALM 8:
+Stage Name: USL League 2: Nor Cal Division
+Score: Project 51O 1 - 1 San Francisco Glens SC
+ALM 9:
+Stage Name: USL League 2: Nor Cal Division
+Score: Monterey Bay FC 2 1 - 1 San Francisco Glens SC
+ALM 10:
+Stage Name: USL League Two
+Score: Almaden FC 1 - 3 San Francisco Glens SC
+today.json updated
+
+Processing Fixtures 72 for today: Kings Hammer Sun City vs Weston FC
+"Kings Hammer Sun City" vs "Weston FC"
+H2H 1:
+Stage Name: USL League 2: South Florida Division
+Score: Weston FC 0 - 3 Kings Hammer Sun City
+
+Home last matches:
+HLM 1:
+Stage Name: USL League Two
+Score: Kings Hammer Sun City 1 - 0 Weston FC
+HLM 2:
+Stage Name: USL League Two
+Score: Miami AC W 0 - 1 Kings Hammer Sun City
+HLM 3:
+Stage Name: USL League Two
+Score: Sarasota Paradise 1 - 0 Kings Hammer Sun City
+HLM 4:
+Stage Name: USL League 2: South Florida Division
+Score: Kings Hammer Sun City 1 - 2 Fort Lauderdale United W
+HLM 5:
+Stage Name: USL League Two
+Score: Kings Hammer Sun City 1 - 2 Fort Lauderdale United FC
+HLM 6:
+Stage Name: USL League 2: South Florida Division
+Score: Kings Hammer Sun City 1 - 4 St. Petersburg FC
+HLM 7:
+Stage Name: USL League Two
+Score: Kings Hammer Sun City 1 - 4 St. Petersburg FC
+HLM 8:
+Stage Name: USL League 2: South Florida Division
+Score: Kings Hammer Sun City 2 - 2 FC Miami City Champions
+HLM 9:
+Stage Name: USL League Two
+Score: Weston FC 0 - 3 Kings Hammer Sun City
+HLM 10:
+Stage Name: USL League 2: South Florida Division
+Score: Weston FC 0 - 3 Kings Hammer Sun City
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: Kings Hammer Sun City 1 - 0 Weston FC
+ALM 2:
+Stage Name: USL League Two
+Score: Sarasota Paradise 3 - 0 Weston FC
+ALM 3:
+Stage Name: USL League Two
+Score: Weston FC 2 - 2 Fort Lauderdale United FC
+ALM 4:
+Stage Name: USL League 2: South Florida Division
+Score: Weston FC 2 - 2 Fort Lauderdale United W
+ALM 5:
+Stage Name: USL League 2: South Florida Division
+Score: Weston FC 1 - 6 St. Petersburg FC
+ALM 6:
+Stage Name: USL League Two
+Score: Weston FC 0 - 3 Kings Hammer Sun City
+ALM 7:
+Stage Name: USL League 2: South Florida Division
+Score: Weston FC 0 - 3 Kings Hammer Sun City
+ALM 8:
+Stage Name: USL League 2: South Florida Division
+Score: Weston FC 2 - 2 FC Miami City Champions
+ALM 9:
+Stage Name: USL League Two
+Score: Weston FC 4 - 1 Miami AC
+ALM 10:
+Stage Name: USL League 2: South Florida Division
+Score: Weston FC 1 - 2 Sarasota Paradise
+today.json updated
+
+Processing Fixtures 73 for today: CISA vs Colorado Storm
+"CISA" vs "Colorado Storm"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: USL League 2: Mountain Division
+Score: CISA 1 - 5 Colorado Storm
+HLM 2:
+Stage Name: USL League Two
+Score: CISA 1 - 5 Colorado Storm
+HLM 3:
+Stage Name: USL League 2: Mountain Division
+Score: CISA 0 - 4 Colorado Storm
+HLM 4:
+Stage Name: USL League Two
+Score: CISA 0 - 4 Colorado Storm
+HLM 5:
+Stage Name: USL League Two
+Score: CISA 2 - 3 Albion SC Colorado
+HLM 6:
+Stage Name: USL League Two
+Score: Utah United 2 - 0 CISA
+HLM 7:
+Stage Name: USL League Two
+Score: Utah United 8 - 0 CISA
+HLM 8:
+Stage Name: USL League Two
+Score: Flatirons Rush 0 - 0 CISA
+HLM 9:
+Stage Name: USL League Two
+Score: CISA 0 - 1 Flatirons Rush
+HLM 10:
+Stage Name: USL League 2: Mountain Division
+Score: CISA 0 - 1 Flatirons Rush
+
+Away last matches:
+ALM 1:
+Stage Name: USL League 2: Mountain Division
+Score: CISA 1 - 5 Colorado Storm
+ALM 2:
+Stage Name: USL League Two
+Score: CISA 1 - 5 Colorado Storm
+ALM 3:
+Stage Name: USL League 2: Mountain Division
+Score: CISA 0 - 4 Colorado Storm
+ALM 4:
+Stage Name: USL League Two
+Score: CISA 0 - 4 Colorado Storm
+ALM 5:
+Stage Name: USL League Two
+Score: Colorado Storm 2 - 0 Albion SC Colorado
+ALM 6:
+Stage Name: USL League 2: Mountain Division
+Score: Colorado Storm 2 - 2 Flatirons Rush
+ALM 7:
+Stage Name: USL League Two
+Score: Colorado Storm 2 - 2 Flatirons Rush
+ALM 8:
+Stage Name: USL League 2: Mountain Division
+Score: Utah United 1 - 0 Colorado Storm
+ALM 9:
+Stage Name: USL League 2: Mountain Division
+Score: Utah United 1 - 2 Colorado Storm
+ALM 10:
+Stage Name: USL League Two
+Score: Albion SC Colorado 3 - 2 Colorado Storm
+today.json updated
+
+Processing Fixtures 74 for today: Project 51O vs Marin FC Legends
+"Project 51O" vs "Marin FC Legends"
+H2H 1:
+Stage Name: USL League Two
+Score: Project 51O 4 - 0 Marin FC Legends
+H2H 2:
+Stage Name: USL League Two
+Score: Marin FC Legends 1 - 2 Project 51O
+H2H 3:
+Stage Name: USL League Two
+Score: Marin FC Legends 1 - 0 Project 51O
+H2H 4:
+Stage Name: USL League Two
+Score: Project 51O 3 - 2 Marin FC Legends
+H2H 5:
+Stage Name: USL League Two: Southwest Division
+Score: Project 51O 2 - 1 Marin FC Legends
+H2H 6:
+Stage Name: USL League Two: Southwest Division
+Score: Marin FC Legends 0 - 1 Project 51O
+
+Home last matches:
+HLM 1:
+Stage Name: USL League Two
+Score: Project 51O 2 - 1 Marin FC Legends
+HLM 2:
+Stage Name: USL League Two
+Score: San Francisco Glens SC 2 - 2 Project 51O
+HLM 3:
+Stage Name: USL League 2: Nor Cal Division
+Score: Project 51O 1 - 2 Almaden FC
+HLM 4:
+Stage Name: USL League Two
+Score: Project 51O 1 - 2 Almaden FC
+HLM 5:
+Stage Name: USL League Two
+Score: Project 51O 2 - 2 San Juan SC
+HLM 6:
+Stage Name: USL League 2: Nor Cal Division
+Score: Project 51O 2 - 2 Monterey Bay FC 2
+HLM 7:
+Stage Name: USL League Two
+Score: Project 51O 2 - 2 Monterey Bay FC 2
+HLM 8:
+Stage Name: USL League 2: Nor Cal Division
+Score: Almaden FC 1 - 2 Project 51O
+HLM 9:
+Stage Name: USL League 2: Nor Cal Division
+Score: Project 51O 1 - 1 San Francisco Glens SC
+HLM 10:
+Stage Name: USL League 2: Nor Cal Division
+Score: Project 51O 4 - 0 Davis Legacy
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: Project 51O 2 - 1 Marin FC Legends
+ALM 2:
+Stage Name: USL League Two
+Score: Marin FC Legends 1 - 2 Monterey Bay FC 2
+ALM 3:
+Stage Name: USL League Two
+Score: San Francisco City 1 - 2 Marin FC Legends
+ALM 4:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Francisco City 1 - 2 Marin FC Legends
+ALM 5:
+Stage Name: USL League Two
+Score: San Francisco Glens SC 2 - 1 Marin FC Legends
+ALM 6:
+Stage Name: USL League 2: Nor Cal Division
+Score: Marin FC Legends 1 - 5 San Juan SC
+ALM 7:
+Stage Name: USL League Two
+Score: Marin FC Legends 1 - 5 San Juan SC
+ALM 8:
+Stage Name: USL League 2: Nor Cal Division
+Score: Academica SC 1 - 1 Marin FC Legends
+ALM 9:
+Stage Name: USL League 2: Nor Cal Division
+Score: Marin FC Legends 3 - 2 Davis Legacy
+ALM 10:
+Stage Name: USL League 2: Nor Cal Division
+Score: Marin FC Legends 0 - 3 San Francisco City
+today.json updated
+
+Processing Fixtures 75 for today: Ballard FC vs Tacoma Stars
+"Ballard FC" vs "Tacoma Stars"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: USL League 2: Northwest Division
+Score: Ballard FC 3 - 0 Tacoma Stars
+HLM 2:
+Stage Name: USL League Two
+Score: Ballard FC 3 - 0 Tacoma Stars
+HLM 3:
+Stage Name: USL League Two
+Score: Lane United FC 1 - 3 Ballard FC
+HLM 4:
+Stage Name: USL League Two
+Score: Tacoma Stars 0 - 11 Ballard FC
+HLM 5:
+Stage Name: USL League Two
+Score: Ballard FC 0 - 0 West Seattle Junction
+HLM 6:
+Stage Name: USL League 2: Northwest Division
+Score: Ballard FC 0 - 0 Lane United FC
+HLM 7:
+Stage Name: USL League Two
+Score: Ballard FC 0 - 0 Lane United FC
+HLM 8:
+Stage Name: USL League 2: Northwest Division
+Score: Snohomish United 1 - 1 Ballard FC
+HLM 9:
+Stage Name: USL League Two
+Score: Snohomish United 1 - 1 Ballard FC
+HLM 10:
+Stage Name: USL League 2: Northwest Division
+Score: Ballard FC 1 - 0 Bangers FC
+
+Away last matches:
+ALM 1:
+Stage Name: USL League 2: Northwest Division
+Score: Ballard FC 3 - 0 Tacoma Stars
+ALM 2:
+Stage Name: USL League Two
+Score: Ballard FC 3 - 0 Tacoma Stars
+ALM 3:
+Stage Name: USL League Two
+Score: Bigfoot FC 1 - 1 Tacoma Stars
+ALM 4:
+Stage Name: USL League Two
+Score: Midlakes United 2 - 0 Tacoma Stars
+ALM 5:
+Stage Name: USL League Two
+Score: Tacoma Stars 0 - 11 Ballard FC
+ALM 6:
+Stage Name: USL League Two
+Score: West Seattle Junction 0 - 0 Tacoma Stars
+ALM 7:
+Stage Name: USL League 2: Northwest Division
+Score: Bangers FC 2 - 1 Tacoma Stars
+ALM 8:
+Stage Name: USL League Two
+Score: Bangers FC 2 - 1 Tacoma Stars
+ALM 9:
+Stage Name: USL League 2: Northwest Division
+Score: Tacoma Stars 2 - 3 Oly Town FC
+ALM 10:
+Stage Name: USL League 2: Northwest Division
+Score: Tacoma Stars 0 - 0 Bangers FC
+today.json updated
+
+Processing Fixtures 76 for today: Davis Legacy vs Academica SC
+"Davis Legacy" vs "Academica SC"
+H2H 1:
+Stage Name: USL League Two
+Score: Academica SC 0 - 0 Davis Legacy
+H2H 2:
+Stage Name: USL League Two
+Score: Davis Legacy 3 - 2 Academica SC
+H2H 3:
+Stage Name: USL League Two
+Score: Academica SC 1 - 2 Davis Legacy
+H2H 4:
+Stage Name: USL League Two
+Score: Davis Legacy 3 - 4 Academica SC
+H2H 5:
+Stage Name: USL League Two
+Score: Academica SC 2 - 1 Davis Legacy
+
+Home last matches:
+HLM 1:
+Stage Name: USL League Two
+Score: Davis Legacy 0 - 2 Academica SC
+HLM 2:
+Stage Name: USL League Two
+Score: San Francisco City 2 - 0 Davis Legacy
+HLM 3:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Francisco Glens SC 0 - 2 Davis Legacy
+HLM 4:
+Stage Name: USL League 2: Nor Cal Division
+Score: Davis Legacy 1 - 2 Monterey Bay FC 2
+HLM 5:
+Stage Name: USL League 2: Nor Cal Division
+Score: Marin FC Legends 3 - 2 Davis Legacy
+HLM 6:
+Stage Name: USL League 2: Nor Cal Division
+Score: Project 51O 4 - 0 Davis Legacy
+HLM 7:
+Stage Name: USL League Two
+Score: San Juan SC 1 - 0 Davis Legacy
+HLM 8:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Juan SC 1 - 0 Davis Legacy
+HLM 9:
+Stage Name: USL League 2: Nor Cal Division
+Score: Almaden FC 2 - 2 Davis Legacy
+HLM 10:
+Stage Name: USL League 2: Nor Cal Division
+Score: Davis Legacy 3 - 0 Project 51O
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: Davis Legacy 0 - 2 Academica SC
+ALM 2:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Francisco City 2 - 3 Academica SC
+ALM 3:
+Stage Name: USL League Two
+Score: San Francisco City 2 - 3 Academica SC
+ALM 4:
+Stage Name: USL League 2: Nor Cal Division
+Score: San Francisco Glens SC 6 - 0 Academica SC
+ALM 5:
+Stage Name: USL League Two
+Score: San Francisco Glens SC 6 - 0 Academica SC
+ALM 6:
+Stage Name: USL League 2: Nor Cal Division
+Score: Academica SC 1 - 1 Marin FC Legends
+ALM 7:
+Stage Name: USL League 2: Nor Cal Division
+Score: Academica SC 2 - 2 San Francisco City
+ALM 8:
+Stage Name: USL League Two
+Score: Monterey Bay FC 2 0 - 1 Academica SC
+ALM 9:
+Stage Name: USL League 2: Nor Cal Division
+Score: Monterey Bay FC 2 0 - 1 Academica SC
+ALM 10:
+Stage Name: USL League Two
+Score: Marin FC Legends 1 - 1 Academica SC
+today.json updated
+
+Processing Fixtures 77 for today: Lane United FC vs Bangers FC
+"Lane United FC" vs "Bangers FC"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: USL League 2: Northwest Division
+Score: Lane United FC 2 - 1 Bangers FC
+HLM 2:
+Stage Name: USL League Two
+Score: Lane United FC 2 - 1 Bangers FC
+HLM 3:
+Stage Name: USL League Two
+Score: Oly Town FC 1 - 2 Lane United FC
+HLM 4:
+Stage Name: USL League Two
+Score: Lane United FC 1 - 3 Ballard FC
+HLM 5:
+Stage Name: USL League Two
+Score: Bangers FC 1 - 1 Lane United FC
+HLM 6:
+Stage Name: USL League 2: Northwest Division
+Score: Lane United FC 4 - 1 Oly Town FC
+HLM 7:
+Stage Name: USL League Two
+Score: Lane United FC 4 - 1 Oly Town FC
+HLM 8:
+Stage Name: USL League 2: Northwest Division
+Score: Ballard FC 0 - 0 Lane United FC
+HLM 9:
+Stage Name: USL League Two
+Score: Ballard FC 0 - 0 Lane United FC
+HLM 10:
+Stage Name: USL League Two
+Score: Lane United FC 3 - 1 Midlakes United
+
+Away last matches:
+ALM 1:
+Stage Name: USL League 2: Northwest Division
+Score: Lane United FC 2 - 1 Bangers FC
+ALM 2:
+Stage Name: USL League Two
+Score: Lane United FC 2 - 1 Bangers FC
+ALM 3:
+Stage Name: USL League 2: Northwest Division
+Score: West Seattle Junction 1 - 3 Bangers FC
+ALM 4:
+Stage Name: USL League Two
+Score: West Seattle Junction 1 - 3 Bangers FC
+ALM 5:
+Stage Name: USL League Two
+Score: Bangers FC 1 - 1 Lane United FC
+ALM 6:
+Stage Name: USL League Two
+Score: Snohomish United 0 - 1 Bangers FC
+ALM 7:
+Stage Name: USL League Two
+Score: Bangers FC 2 - 1 Tacoma Stars
+ALM 8:
+Stage Name: USL League 2: Northwest Division
+Score: Bangers FC 2 - 1 Tacoma Stars
+ALM 9:
+Stage Name: USL League 2: Northwest Division
+Score: Bangers FC 4 - 2 West Seattle Junction
+ALM 10:
+Stage Name: USL League Two
+Score: Bangers FC 4 - 2 West Seattle Junction
+today.json updated
+
+Processing Fixtures 78 for today: West Seattle Junction vs Midlakes United
+"West Seattle Junction" vs "Midlakes United"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: USL League 2: Northwest Division
+Score: West Seattle Junction 2 - 1 Midlakes United
+HLM 2:
+Stage Name: USL League Two
+Score: West Seattle Junction 2 - 1 Midlakes United
+HLM 3:
+Stage Name: USL League 2: Northwest Division
+Score: West Seattle Junction 1 - 3 Bangers FC
+HLM 4:
+Stage Name: USL League Two
+Score: West Seattle Junction 1 - 3 Bangers FC
+HLM 5:
+Stage Name: USL League Two
+Score: Snohomish United 1 - 0 West Seattle Junction
+HLM 6:
+Stage Name: USL League Two
+Score: West Seattle Junction 0 - 0 Tacoma Stars
+HLM 7:
+Stage Name: USL League Two
+Score: Ballard FC 0 - 0 West Seattle Junction
+HLM 8:
+Stage Name: USL League 2: Northwest Division
+Score: Bangers FC 4 - 2 West Seattle Junction
+HLM 9:
+Stage Name: USL League Two
+Score: Bangers FC 4 - 2 West Seattle Junction
+HLM 10:
+Stage Name: USL League 2: Northwest Division
+Score: Midlakes United 1 - 1 West Seattle Junction
+
+Away last matches:
+ALM 1:
+Stage Name: USL League 2: Northwest Division
+Score: West Seattle Junction 2 - 1 Midlakes United
+ALM 2:
+Stage Name: USL League Two
+Score: West Seattle Junction 2 - 1 Midlakes United
+ALM 3:
+Stage Name: USL League Two
+Score: Midlakes United 2 - 0 Tacoma Stars
+ALM 4:
+Stage Name: USL League Two
+Score: Oly Town FC 1 - 1 Midlakes United
+ALM 5:
+Stage Name: USL League 2: Northwest Division
+Score: Bigfoot FC 3 - 3 Midlakes United
+ALM 6:
+Stage Name: USL League Two
+Score: Bigfoot FC 3 - 3 Midlakes United
+ALM 7:
+Stage Name: USL League 2: Northwest Division
+Score: Midlakes United 1 - 1 West Seattle Junction
+ALM 8:
+Stage Name: USL League Two
+Score: Lane United FC 3 - 1 Midlakes United
+ALM 9:
+Stage Name: USL League 2: Northwest Division
+Score: Lane United FC 3 - 1 Midlakes United
+ALM 10:
+Stage Name: USL League 2: Northwest Division
+Score: Midlakes United 3 - 2 Oly Town FC
+today.json updated
+
+Processing Fixtures 79 for today: Lansing City Football vs Oakland County FC
+"Lansing City Football" vs "Oakland County FC"
+H2H 1:
+Stage Name: USL League 2: Great Lakes Division
+Score: Oakland County FC 3 - 0 Lansing City Football
+H2H 2:
+Stage Name: USL League Two
+Score: Lansing City Football 2 - 0 Oakland County FC
+H2H 3:
+Stage Name: USL League Two
+Score: Oakland County FC 2 - 0 Lansing City Football
+H2H 4:
+Stage Name: USL League Two
+Score: Lansing City Football 2 - 2 Oakland County FC
+H2H 5:
+Stage Name: USL League Two
+Score: Oakland County FC 1 - 1 Lansing City Football
+H2H 6:
+Stage Name: USL League Two: Great Lakes Division 2022
+Score: Lansing City Football 1 - 2 Oakland County FC
+H2H 7:
+Stage Name: USL League Two: Great Lakes Division 2022
+Score: Lansing City Football 1 - 4 Oakland County FC
+H2H 8:
+Stage Name: USL League Two: Great Lakes Division 2022
+Score: Oakland County FC 4 - 2 Lansing City Football
+
+Home last matches:
+HLM 1:
+Stage Name: USL League 2: Great Lakes Division
+Score: Lansing City Football 0 - 2 Northern Indiana FC
+HLM 2:
+Stage Name: USL League Two
+Score: Lansing City Football 0 - 2 Northern Indiana
+HLM 3:
+Stage Name: USL League 2: Great Lakes Division
+Score: Lansing City Football 2 - 3 AFC Ann Arbor
+HLM 4:
+Stage Name: USL League Two
+Score: Lansing City Football 2 - 3 AFC Ann Arbor
+HLM 5:
+Stage Name: USL League 2: Great Lakes Division
+Score: Lansing City Football 1 - 3 Kalamazoo FC
+HLM 6:
+Stage Name: USL League Two
+Score: Lansing City Football 1 - 3 Kalamazoo FC
+HLM 7:
+Stage Name: USL League 2: Great Lakes Division
+Score: Oakland County FC 3 - 0 Lansing City Football
+HLM 8:
+Stage Name: USL League 2: Great Lakes Division
+Score: Lansing City Football 0 - 5 Flint City Bucks
+HLM 9:
+Stage Name: USL League Two
+Score: Lansing City Football 1 - 2 Union FC Macomb
+HLM 10:
+Stage Name: USL League 2: Great Lakes Division
+Score: Lansing City Football 1 - 2 Union FC Macomb
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: Oakland County FC 2 - 4 AFC Ann Arbor
+ALM 2:
+Stage Name: USL League Two
+Score: Oakland County FC 1 - 1 Midwest United FC
+ALM 3:
+Stage Name: USL League 2: Great Lakes Division
+Score: Oakland County FC 3 - 0 Lansing City Football
+ALM 4:
+Stage Name: USL League 2: Great Lakes Division
+Score: Union FC Macomb 1 - 2 Oakland County FC
+ALM 5:
+Stage Name: USL League 2: Great Lakes Division
+Score: Midwest United FC 2 - 1 Oakland County FC
+ALM 6:
+Stage Name: USL League 2: Great Lakes Division
+Score: Oakland County FC 2 - 3 Northern Indiana FC
+ALM 7:
+Stage Name: USL League Two
+Score: AFC Ann Arbor 1 - 3 Oakland County FC
+ALM 8:
+Stage Name: USL League 2: Great Lakes Division
+Score: AFC Ann Arbor 1 - 3 Oakland County FC
+ALM 9:
+Stage Name: USL League Two
+Score: Flint City Bucks 4 - 0 Oakland County FC
+ALM 10:
+Stage Name: USL League 2: Great Lakes Division
+Score: Oakland County FC 3 - 0 Union FC Macomb
+today.json updated
+
+Processing Fixtures 80 for today: Lionsbridge FC vs Annapolis Blues FC
+"Lionsbridge FC" vs "Annapolis Blues FC"
+H2H 1:
+Stage Name: USL League 2: Chesapeake Division
+Score: Annapolis Blues FC 0 - 2 Lionsbridge FC
+
+Home last matches:
+HLM 1:
+Stage Name: USL League Two
+Score: Lionsbridge FC 5 - 0 Christos FC
+HLM 2:
+Stage Name: USL League 2: Chesapeake Division
+Score: Charlottesville Blues 0 - 1 Lionsbridge FC
+HLM 3:
+Stage Name: USL League Two
+Score: Charlottesville Blues 0 - 1 Lionsbridge FC
+HLM 4:
+Stage Name: USL League Two
+Score: Lionsbridge FC 1 - 2 Virginia Beach United
+HLM 5:
+Stage Name: USL League Two
+Score: Lionsbridge FC 3 - 3 Charlottesville Blues
+HLM 6:
+Stage Name: USL League 2: Chesapeake Division
+Score: Lionsbridge FC 3 - 3 Charlottesville Blues
+HLM 7:
+Stage Name: USL League 2: Chesapeake Division
+Score: Annapolis Blues FC 0 - 2 Lionsbridge FC
+HLM 8:
+Stage Name: USL League 2: Chesapeake Division
+Score: Virginia Marauders 2 - 11 Lionsbridge FC
+HLM 9:
+Stage Name: USL League Two
+Score: Virginia Marauders 2 - 11 Lionsbridge FC
+HLM 10:
+Stage Name: USL League 2: Chesapeake Division
+Score: Lionsbridge FC 2 - 2 Nova FC
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: Annapolis Blues FC 2 - 0 Patuxent Football Athletics
+ALM 2:
+Stage Name: USL League Two
+Score: Patuxent Football Athletics 1 - 7 Annapolis Blues FC
+ALM 3:
+Stage Name: USL League 2: Chesapeake Division
+Score: Annapolis Blues FC 0 - 2 Virginia Beach United
+ALM 4:
+Stage Name: USL League 2: Chesapeake Division
+Score: Virginia Marauders 0 - 3 Annapolis Blues FC
+ALM 5:
+Stage Name: USL League 2: Chesapeake Division
+Score: Annapolis Blues FC 0 - 2 Lionsbridge FC
+ALM 6:
+Stage Name: USL League 2: Chesapeake Division
+Score: Virginia Beach United 1 - 3 Annapolis Blues FC
+ALM 7:
+Stage Name: USL League 2: Chesapeake Division
+Score: Annapolis Blues FC 2 - 0 Christos FC
+ALM 8:
+Stage Name: NPSL: East Region: Mid-Atlantic Conference: Playoffs
+Score: Annapolis Blues FC 0 - 2 Virginia Dream FC
+ALM 9:
+Stage Name: NPSL: East Region: Mid-Atlantic Conference: Playoffs
+Score: Annapolis Blues FC 5 - 0 FC Frederick
+ALM 10:
+Stage Name: NPSL: East Region: Mid-Atlantic Conference
+Score: Annapolis Blues FC 5 - 0 Grove Soccer United
+today.json updated
+
+Processing Fixtures 81 for today: Nona FC vs Inter Gainesville KF
+"Nona FC" vs "Inter Gainesville KF"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: USL League Two
+Score: Nona FC 0 - 1 Brave SC
+HLM 2:
+Stage Name: USL League 2: Southeast Division
+Score: Nona FC 0 - 1 The Villages SC
+HLM 3:
+Stage Name: USL League Two
+Score: Brooke House FC 1 - 2 Nona FC
+HLM 4:
+Stage Name: USL League Two
+Score: Nona FC 1 - 0 Brooke House FC
+HLM 5:
+Stage Name: USL League 2: Southeast Division
+Score: Nona FC 1 - 0 Brooke House FC
+HLM 6:
+Stage Name: USL League 2: Southeast Division
+Score: Sporting Jax 2 - 0 Nona FC
+HLM 7:
+Stage Name: USL League Two
+Score: Sporting Jax 2 - 0 Nona FC
+HLM 8:
+Stage Name: USL League 2: Southeast Division
+Score: Brave SC 1 - 0 Nona FC
+HLM 9:
+Stage Name: USL League Two
+Score: Nona FC 1 - 0 Brevard
+HLM 10:
+Stage Name: USL League 2: Southeast Division
+Score: Nona FC 1 - 2 Sporting Jax
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: Inter Gainesville KF 2 - 0 The Villages SC
+ALM 2:
+Stage Name: USL League Two
+Score: Brevard 1 - 0 Inter Gainesville KF
+ALM 3:
+Stage Name: USL League Two
+Score: Sporting Jax 3 - 0 Inter Gainesville KF
+ALM 4:
+Stage Name: USL League 2: Southeast Division
+Score: Sporting Jax 3 - 0 Inter Gainesville KF
+ALM 5:
+Stage Name: USL League 2: Southeast Division
+Score: Brooke House FC 1 - 0 Inter Gainesville KF
+ALM 6:
+Stage Name: USL League 2: Southeast Division
+Score: Sporting Jax 1 - 0 Inter Gainesville KF
+ALM 7:
+Stage Name: USL League Two
+Score: Inter Gainesville KF 2 - 3 Brooke House FC
+ALM 8:
+Stage Name: USL League 2: Southeast Division
+Score: Inter Gainesville KF 2 - 3 Brooke House FC
+ALM 9:
+Stage Name: USL League 2: Southeast Division
+Score: Inter Gainesville KF 1 - 0 Sporting Jax
+ALM 10:
+Stage Name: USL League Two
+Score: Inter Gainesville KF 2 - 1 The Villages SC
+today.json updated
+
+Processing Fixtures 82 for today: Nona FC vs Inter Gainesville KF
+"Nona FC" vs "Inter Gainesville KF"
+H2H 1:
+Stage Name: USL League Two
+Score: Nona FC 2 - 1 Inter Gainesville KF
+H2H 2:
+Stage Name: USL League Two
+Score: Nona FC 3 - 1 Inter Gainesville KF
+H2H 3:
+Stage Name: USL League Two
+Score: Inter Gainesville KF 1 - 5 Nona FC
+
+Home last matches:
+HLM 1:
+Stage Name: USL League Two
+Score: Nona FC 0 - 1 Brave SC
+HLM 2:
+Stage Name: USL League 2: Southeast Division
+Score: Nona FC 0 - 1 The Villages SC
+HLM 3:
+Stage Name: USL League Two
+Score: Brooke House FC 1 - 2 Nona FC
+HLM 4:
+Stage Name: USL League Two
+Score: Nona FC 1 - 0 Brooke House FC
+HLM 5:
+Stage Name: USL League 2: Southeast Division
+Score: Nona FC 1 - 0 Brooke House FC
+HLM 6:
+Stage Name: USL League 2: Southeast Division
+Score: Sporting Jax 2 - 0 Nona FC
+HLM 7:
+Stage Name: USL League Two
+Score: Sporting Jax 2 - 0 Nona FC
+HLM 8:
+Stage Name: USL League 2: Southeast Division
+Score: Brave SC 1 - 0 Nona FC
+HLM 9:
+Stage Name: USL League Two
+Score: Nona FC 1 - 0 Brevard
+HLM 10:
+Stage Name: USL League 2: Southeast Division
+Score: Nona FC 1 - 2 Sporting Jax
+
+Away last matches:
+ALM 1:
+Stage Name: USL League Two
+Score: Inter Gainesville KF 2 - 0 The Villages SC
+ALM 2:
+Stage Name: USL League Two
+Score: Brevard 1 - 0 Inter Gainesville KF
+ALM 3:
+Stage Name: USL League Two
+Score: Sporting Jax 3 - 0 Inter Gainesville KF
+ALM 4:
+Stage Name: USL League 2: Southeast Division
+Score: Sporting Jax 3 - 0 Inter Gainesville KF
+ALM 5:
+Stage Name: USL League 2: Southeast Division
+Score: Brooke House FC 1 - 0 Inter Gainesville KF
+ALM 6:
+Stage Name: USL League 2: Southeast Division
+Score: Sporting Jax 1 - 0 Inter Gainesville KF
+ALM 7:
+Stage Name: USL League Two
+Score: Inter Gainesville KF 2 - 3 Brooke House FC
+ALM 8:
+Stage Name: USL League 2: Southeast Division
+Score: Inter Gainesville KF 2 - 3 Brooke House FC
+ALM 9:
+Stage Name: USL League 2: Southeast Division
+Score: Inter Gainesville KF 1 - 0 Sporting Jax
+ALM 10:
+Stage Name: USL League Two
+Score: Inter Gainesville KF 2 - 1 The Villages SC
+today.json updated
+
+Processing Fixtures 83 for today: Westchester Flames vs FC Motown II
+"Westchester Flames" vs "FC Motown II"
+H2H 1:
+Stage Name: USL League Two
+Score: FC Motown II 5 - 2 Westchester Flames
+H2H 2:
+Stage Name: USL League Two
+Score: FC Motown 2 4 - 4 Westchester Flames
+H2H 3:
+Stage Name: USL League Two
+Score: Westchester Flames 2 - 2 FC Motown 2
+H2H 4:
+Stage Name: USL League Two: Metropolitan Division
+Score: FC Motown 2 2 - 2 Westchester Flames
+H2H 5:
+Stage Name: USL League Two: Metropolitan Division
+Score: Westchester Flames 1 - 4 FC Motown 2
+
+Home last matches:
+HLM 1:
+Stage Name: USL League 2: Metropolitan Division
+Score: Westchester Flames 0 - 1 FC Motown II
+HLM 2:
+Stage Name: USL League Two
+Score: Westchester Flames 0 - 1 FC Motown 2
+HLM 3:
+Stage Name: USL League Two
+Score: Staten Island ASC 1 - 1 Westchester Flames
+HLM 4:
+Stage Name: USL League Two
+Score: Westchester Flames 0 - 2 Staten Island ASC
+HLM 5:
+Stage Name: USL League Two
+Score: Morris Elite SC 2 - 2 Westchester Flames
+HLM 6:
+Stage Name: USL League 2: Metropolitan Division
+Score: Morris Elite SC 2 - 2 Westchester Flames
+HLM 7:
+Stage Name: USL League 2: Metropolitan Division
+Score: Hudson Valley Hammers 1 - 0 Westchester Flames
+HLM 8:
+Stage Name: USL League 2: Metropolitan Division
+Score: Ironbound 0 - 2 Westchester Flames
+HLM 9:
+Stage Name: USL League 2: Metropolitan Division
+Score: Cedar Stars Rush 3 - 1 Westchester Flames
+HLM 10:
+Stage Name: USL League 2: Metropolitan Division
+Score: Westchester Flames 1 - 3 Manhattan SC
+
+Away last matches:
+ALM 1:
+Stage Name: USL League 2: Metropolitan Division
+Score: Westchester Flames 0 - 1 FC Motown II
+ALM 2:
+Stage Name: USL League Two
+Score: FC Motown II 3 - 0 Ironbound
+ALM 3:
+Stage Name: USL League Two
+Score: FC Motown II 3 - 0 Cedar Stars Rush
+ALM 4:
+Stage Name: USL League 2: Metropolitan Division
+Score: Manhattan SC 3 - 4 FC Motown II
+ALM 5:
+Stage Name: USL League 2: Metropolitan Division
+Score: FC Motown II 5 - 2 Staten Island ASC
+ALM 6:
+Stage Name: USL League 2: Metropolitan Division
+Score: Long Island Rough Riders 1 - 3 FC Motown II
+ALM 7:
+Stage Name: USL League 2: Metropolitan Division
+Score: FC Motown II 1 - 0 New Jersey Copa FC
+ALM 8:
+Stage Name: USL League Two: Play-off
+Score: Western Mass Pioneers 3 - 1 FC Motown II
+ALM 9:
+Stage Name: USL League Two
+Score: Staten Island ASC 0 - 5 FC Motown II
+ALM 10:
+Stage Name: USL League Two
+Score: Hudson Valley Hammers 2 - 2 FC Motown II
+today.json updated
+
+Processing Fixtures 84 for today: Ballard FC vs Tacoma Stars
+"Ballard FC" vs "Tacoma Stars"
+H2H 1:
+Stage Name: USL League Two
+Score: Tacoma Stars 0 - 11 Ballard FC
+H2H 2:
+Stage Name: USL League Two
+Score: Ballard FC 3 - 4 Tacoma Stars
+H2H 3:
+Stage Name: USL League Two
+Score: Tacoma Stars 2 - 2 Ballard FC
+
+Home last matches:
+HLM 1:
+Stage Name: USL League 2: Northwest Division
+Score: Ballard FC 3 - 0 Tacoma Stars
+HLM 2:
+Stage Name: USL League Two
+Score: Ballard FC 3 - 0 Tacoma Stars
+HLM 3:
+Stage Name: USL League Two
+Score: Lane United FC 1 - 3 Ballard FC
+HLM 4:
+Stage Name: USL League Two
+Score: Tacoma Stars 0 - 11 Ballard FC
+HLM 5:
+Stage Name: USL League Two
+Score: Ballard FC 0 - 0 West Seattle Junction
+HLM 6:
+Stage Name: USL League 2: Northwest Division
+Score: Ballard FC 0 - 0 Lane United FC
+HLM 7:
+Stage Name: USL League Two
+Score: Ballard FC 0 - 0 Lane United FC
+HLM 8:
+Stage Name: USL League 2: Northwest Division
+Score: Snohomish United 1 - 1 Ballard FC
+HLM 9:
+Stage Name: USL League Two
+Score: Snohomish United 1 - 1 Ballard FC
+HLM 10:
+Stage Name: USL League 2: Northwest Division
+Score: Ballard FC 1 - 0 Bangers FC
+
+Away last matches:
+ALM 1:
+Stage Name: USL League 2: Northwest Division
+Score: Ballard FC 3 - 0 Tacoma Stars
+ALM 2:
+Stage Name: USL League Two
+Score: Ballard FC 3 - 0 Tacoma Stars
+ALM 3:
+Stage Name: USL League Two
+Score: Bigfoot FC 1 - 1 Tacoma Stars
+ALM 4:
+Stage Name: USL League Two
+Score: Midlakes United 2 - 0 Tacoma Stars
+ALM 5:
+Stage Name: USL League Two
+Score: Tacoma Stars 0 - 11 Ballard FC
+ALM 6:
+Stage Name: USL League Two
+Score: West Seattle Junction 0 - 0 Tacoma Stars
+ALM 7:
+Stage Name: USL League 2: Northwest Division
+Score: Bangers FC 2 - 1 Tacoma Stars
+ALM 8:
+Stage Name: USL League Two
+Score: Bangers FC 2 - 1 Tacoma Stars
+ALM 9:
+Stage Name: USL League 2: Northwest Division
+Score: Tacoma Stars 2 - 3 Oly Town FC
+ALM 10:
+Stage Name: USL League 2: Northwest Division
+Score: Tacoma Stars 0 - 0 Bangers FC
+today.json updated
+
+Processing Fixtures 85 for today: Lane United FC vs Bangers FC
+"Lane United FC" vs "Bangers FC"
+H2H 1:
+Stage Name: USL League Two
+Score: Bangers FC 1 - 1 Lane United FC
+
+Home last matches:
+HLM 1:
+Stage Name: USL League 2: Northwest Division
+Score: Lane United FC 2 - 1 Bangers FC
+HLM 2:
+Stage Name: USL League Two
+Score: Lane United FC 2 - 1 Bangers FC
+HLM 3:
+Stage Name: USL League Two
+Score: Oly Town FC 1 - 2 Lane United FC
+HLM 4:
+Stage Name: USL League Two
+Score: Lane United FC 1 - 3 Ballard FC
+HLM 5:
+Stage Name: USL League Two
+Score: Bangers FC 1 - 1 Lane United FC
+HLM 6:
+Stage Name: USL League 2: Northwest Division
+Score: Lane United FC 4 - 1 Oly Town FC
+HLM 7:
+Stage Name: USL League Two
+Score: Lane United FC 4 - 1 Oly Town FC
+HLM 8:
+Stage Name: USL League 2: Northwest Division
+Score: Ballard FC 0 - 0 Lane United FC
+HLM 9:
+Stage Name: USL League Two
+Score: Ballard FC 0 - 0 Lane United FC
+HLM 10:
+Stage Name: USL League Two
+Score: Lane United FC 3 - 1 Midlakes United
+
+Away last matches:
+ALM 1:
+Stage Name: USL League 2: Northwest Division
+Score: Lane United FC 2 - 1 Bangers FC
+ALM 2:
+Stage Name: USL League Two
+Score: Lane United FC 2 - 1 Bangers FC
+ALM 3:
+Stage Name: USL League 2: Northwest Division
+Score: West Seattle Junction 1 - 3 Bangers FC
+ALM 4:
+Stage Name: USL League Two
+Score: West Seattle Junction 1 - 3 Bangers FC
+ALM 5:
+Stage Name: USL League Two
+Score: Bangers FC 1 - 1 Lane United FC
+ALM 6:
+Stage Name: USL League Two
+Score: Snohomish United 0 - 1 Bangers FC
+ALM 7:
+Stage Name: USL League Two
+Score: Bangers FC 2 - 1 Tacoma Stars
+ALM 8:
+Stage Name: USL League 2: Northwest Division
+Score: Bangers FC 2 - 1 Tacoma Stars
+ALM 9:
+Stage Name: USL League 2: Northwest Division
+Score: Bangers FC 4 - 2 West Seattle Junction
+ALM 10:
+Stage Name: USL League Two
+Score: Bangers FC 4 - 2 West Seattle Junction
+today.json updated
+
+Processing Fixtures 86 for today: West Seattle Junction vs Midlakes United
+"West Seattle Junction" vs "Midlakes United"
+H2H 1:
+Stage Name: USL League 2: Northwest Division
+Score: Midlakes United 1 - 1 West Seattle Junction
+H2H 2:
+Stage Name: USL League Two
+Score: West Seattle Junction 2 - 2 Midlakes United
+H2H 3:
+Stage Name: USL League Two
+Score: Midlakes United 1 - 4 West Seattle Junction
+
+Home last matches:
+HLM 1:
+Stage Name: USL League 2: Northwest Division
+Score: West Seattle Junction 2 - 1 Midlakes United
+HLM 2:
+Stage Name: USL League Two
+Score: West Seattle Junction 2 - 1 Midlakes United
+HLM 3:
+Stage Name: USL League 2: Northwest Division
+Score: West Seattle Junction 1 - 3 Bangers FC
+HLM 4:
+Stage Name: USL League Two
+Score: West Seattle Junction 1 - 3 Bangers FC
+HLM 5:
+Stage Name: USL League Two
+Score: Snohomish United 1 - 0 West Seattle Junction
+HLM 6:
+Stage Name: USL League Two
+Score: West Seattle Junction 0 - 0 Tacoma Stars
+HLM 7:
+Stage Name: USL League Two
+Score: Ballard FC 0 - 0 West Seattle Junction
+HLM 8:
+Stage Name: USL League 2: Northwest Division
+Score: Bangers FC 4 - 2 West Seattle Junction
+HLM 9:
+Stage Name: USL League Two
+Score: Bangers FC 4 - 2 West Seattle Junction
+HLM 10:
+Stage Name: USL League 2: Northwest Division
+Score: Midlakes United 1 - 1 West Seattle Junction
+
+Away last matches:
+ALM 1:
+Stage Name: USL League 2: Northwest Division
+Score: West Seattle Junction 2 - 1 Midlakes United
+ALM 2:
+Stage Name: USL League Two
+Score: West Seattle Junction 2 - 1 Midlakes United
+ALM 3:
+Stage Name: USL League Two
+Score: Midlakes United 2 - 0 Tacoma Stars
+ALM 4:
+Stage Name: USL League Two
+Score: Oly Town FC 1 - 1 Midlakes United
+ALM 5:
+Stage Name: USL League 2: Northwest Division
+Score: Bigfoot FC 3 - 3 Midlakes United
+ALM 6:
+Stage Name: USL League Two
+Score: Bigfoot FC 3 - 3 Midlakes United
+ALM 7:
+Stage Name: USL League 2: Northwest Division
+Score: Midlakes United 1 - 1 West Seattle Junction
+ALM 8:
+Stage Name: USL League Two
+Score: Lane United FC 3 - 1 Midlakes United
+ALM 9:
+Stage Name: USL League 2: Northwest Division
+Score: Lane United FC 3 - 1 Midlakes United
+ALM 10:
+Stage Name: USL League 2: Northwest Division
+Score: Midlakes United 3 - 2 Oly Town FC
+today.json updated
+
+Processing Fixtures 87 for today: Duluth FC vs Siouxland United FC
+"Duluth FC" vs "Siouxland United FC"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Duluth FC 3 - 2 Siouxland United FC
+HLM 2:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Des Moines United FC 0 - 1 Duluth FC
+HLM 3:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Duluth FC 0 - 0 Sioux Falls Thunder FC
+HLM 4:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Joy St Louis Park 2 - 2 Duluth FC
+HLM 5:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Minnesota Blizzard FC 1 - 2 Duluth FC
+HLM 6:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Siouxland United FC 1 - 0 Duluth FC
+HLM 7:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Duluth FC 1 - 0 Minnesota Blizzard FC
+HLM 8:
+Stage Name: US Open Cup
+Score: Forward Madison FC 5 - 1 Duluth FC
+HLM 9:
+Stage Name: NPSL: National Play-offs
+Score: El Farolito SC 3 - 0 Duluth FC
+HLM 10:
+Stage Name: NPSL: Midwest Region: Playoffs
+Score: Steel City 2 - 3 Duluth FC
+
+Away last matches:
+ALM 1:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Duluth FC 3 - 2 Siouxland United FC
+ALM 2:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Minnesota Blizzard FC 0 - 2 Siouxland United FC
+ALM 3:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Siouxland United FC 7 - 2 Sioux Falls Thunder FC
+ALM 4:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Joy St Louis Park 1 - 2 Siouxland United FC
+ALM 5:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Siouxland United FC 1 - 0 Duluth FC
+ALM 6:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Siouxland United FC 4 - 1 Minnesota Blizzard FC
+ALM 7:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Des Moines United FC 2 - 1 Siouxland United FC
+ALM 8:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Siouxland United FC 3 - 2 Duluth FC
+ALM 9:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Siouxland United FC 3 - 1 Sioux Falls Thunder FC
+ALM 10:
+Stage Name: NPSL: Midwest Region: North Conference
+Score: Dakota Fusion FC 3 - 2 Siouxland United FC
+today.json updated
+
+Processing Fixtures 88 for today: Arkansas Wolves vs Oklahoma United FC
+"Arkansas Wolves" vs "Oklahoma United FC"
+No H2H data found
+
+Home last matches:
+HLM 1:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Arkansas Wolves 4 - 3 Oklahoma United FC
+HLM 2:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: West Texas FC 4 - 0 Arkansas Wolves
+HLM 3:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Oklahoma United FC 3 - 1 Arkansas Wolves
+HLM 4:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Arkansas Wolves 3 - 1 CF10 Houston FC
+HLM 5:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Lubbock Matadors 2 - 0 Arkansas Wolves
+HLM 6:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Fort Worth Vaqueros 2 - 1 Arkansas Wolves
+HLM 7:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Arkansas Wolves 0 - 3 Fort Worth Vaqueros
+HLM 8:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Arkansas Wolves 0 - 1 Lubbock Matadors
+HLM 9:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Arkansas Wolves 2 - 1 FC Brownsville
+HLM 10:
+Stage Name: NPSL: South Region: Heartland Conference
+Score: Demize 0 - 2 Arkansas Wolves
+
+Away last matches:
+ALM 1:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Arkansas Wolves 4 - 3 Oklahoma United FC
+ALM 2:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Oklahoma United FC 2 - 2 Lubbock Matadors
+ALM 3:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Oklahoma United FC 4 - 0 CF10 Houston FC
+ALM 4:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Oklahoma United FC 3 - 4 West Texas FC
+ALM 5:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Oklahoma United FC 3 - 1 Arkansas Wolves
+ALM 6:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: CF10 Houston FC 0 - 3 Oklahoma United FC
+ALM 7:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Oklahoma United FC 2 - 1 Fort Worth Vaqueros
+ALM 8:
+Stage Name: NPSL: South Region: Lone Star Conference
+Score: Fort Worth Vaqueros 1 - 5 Oklahoma United FC
+today.json updated
+
+Processing Fixtures 89 for today: Shortan Guzor vs Qizilqum Zarafshon
+"Shortan Guzor" vs "Qizilqum Zarafshon"
+H2H 1:
+Stage Name: Uzbek League
+Score: Shortan Guzor 1 - 1 Qizilqum Zarafshon
+H2H 2:
+Stage Name: Uzbek League
+Score: Qizilqum Zarafshon 2 - 0 Shortan Guzor
+H2H 3:
+Stage Name: Uzbek League
+Score: Qizilqum Zarafshon 2 - 0 Shortan Guzor
+H2H 4:
+Stage Name: Uzbek League
+Score: Shortan Guzor 0 - 1 Qizilqum Zarafshon
+H2H 5:
+Stage Name: Uzbek League
+Score: Shortan Guzor 1 - 3 Qizilqum Zarafshon
+H2H 6:
+Stage Name: Uzbek League
+Score: Qizilqum Zarafshon 3 - 1 Shortan Guzor
+H2H 7:
+Stage Name: Uzbek League
+Score: Qizilqum Zarafshon 2 - 1 Shortan Guzor
+H2H 8:
+Stage Name: Uzbek League
+Score: Shortan Guzor 2 - 0 Qizilqum Zarafshon
+H2H 9:
+Stage Name: Uzbek League
+Score: Shortan Guzor 2 - 0 Qizilqum Zarafshon
+H2H 10:
+Stage Name: Uzbek League
+Score: Qizilqum Zarafshon 2 - 0 Shortan Guzor
+
+Home last matches:
+HLM 1:
+Stage Name: Super League
+Score: Buxoro 3 - 1 Shortan Guzor
+HLM 2:
+Stage Name: Super League
+Score: Shortan Guzor 2 - 1 Surkhon-2011
+HLM 3:
+Stage Name: Cup
+Score: Shortan Guzor 4 - 1 FK Aral Samali
+HLM 4:
+Stage Name: Super League
+Score: AGMK 0 - 0 Shortan Guzor
+HLM 5:
+Stage Name: Super League
+Score: Neftchi Fargona 4 - 0 Shortan Guzor
+HLM 6:
+Stage Name: Super League
+Score: Shortan Guzor 1 - 0 Andijon
+HLM 7:
+Stage Name: Super League
+Score: Sogdiyona Jizzax 1 - 1 Shortan Guzor
+HLM 8:
+Stage Name: Super League
+Score: Shortan Guzor 1 - 3 Dinamo Samarkand
+HLM 9:
+Stage Name: Super League
+Score: Pakhtakor Tashkent 1 - 0 Shortan Guzor
+HLM 10:
+Stage Name: Super League
+Score: Shortan Guzor 0 - 1 Mashal Muborak
+
+Away last matches:
+ALM 1:
+Stage Name: Super League
+Score: Qizilqum Zarafshon 1 - 1 Neftchi Fargona
+ALM 2:
+Stage Name: Cup
+Score: Sogdiyona Jizzax 4 - 1 Qizilqum Zarafshon
+ALM 3:
+Stage Name: Super League
+Score: Andijon 1 - 1 Qizilqum Zarafshon
+ALM 4:
+Stage Name: Super League
+Score: Qizilqum Zarafshon 0 - 0 Sogdiyona Jizzax
+ALM 5:
+Stage Name: Super League
+Score: Qizilqum Zarafshon 0 - 3 Xorazm
+ALM 6:
+Stage Name: Super League
+Score: Dinamo Samarkand 3 - 2 Qizilqum Zarafshon
+ALM 7:
+Stage Name: Super League
+Score: Qizilqum Zarafshon 0 - 3 Pakhtakor Tashkent
+ALM 8:
+Stage Name: Super League
+Score: Mashal Muborak 2 - 2 Qizilqum Zarafshon
+ALM 9:
+Stage Name: Super League
+Score: Qizilqum Zarafshon 3 - 2 Navbahor Namangan
+ALM 10:
+Stage Name: Super League
+Score: Nasaf Qarshi 4 - 0 Qizilqum Zarafshon
+today.json updated
+
+Processing Fixtures 90 for today: CISA vs Colorado Storm
+"CISA" vs "Colorado Storm"
+H2H 1:
+Stage Name: USL League 2: Mountain Division
+Score: CISA 0 - 4 Colorado Storm
+
+Home last matches:
+HLM 1:
+Stage Name: USL League 2: Mountain Division
+Score: CISA 1 - 5 Colorado Storm
+HLM 2:
+Stage Name: USL League Two
+Score: CISA 1 - 5 Colorado Storm
+HLM 3:
+Stage Name: USL League 2: Mountain Division
+Score: CISA 0 - 4 Colorado Storm
+HLM 4:
+Stage Name: USL League Two
+Score: CISA 0 - 4 Colorado Storm
+HLM 5:
+Stage Name: USL League Two
+Score: CISA 2 - 3 Albion SC Colorado
+HLM 6:
+Stage Name: USL League Two
+Score: Utah United 2 - 0 CISA
+HLM 7:
+Stage Name: USL League Two
+Score: Utah United 8 - 0 CISA
+HLM 8:
+Stage Name: USL League Two
+Score: Flatirons Rush 0 - 0 CISA
+HLM 9:
+Stage Name: USL League Two
+Score: CISA 0 - 1 Flatirons Rush
+HLM 10:
+Stage Name: USL League 2: Mountain Division
+Score: CISA 0 - 1 Flatirons Rush
+
+Away last matches:
+ALM 1:
+Stage Name: USL League 2: Mountain Division
+Score: CISA 1 - 5 Colorado Storm
+ALM 2:
+Stage Name: USL League Two
+Score: CISA 1 - 5 Colorado Storm
+ALM 3:
+Stage Name: USL League 2: Mountain Division
+Score: CISA 0 - 4 Colorado Storm
+ALM 4:
+Stage Name: USL League Two
+Score: CISA 0 - 4 Colorado Storm
+ALM 5:
+Stage Name: USL League Two
+Score: Colorado Storm 2 - 0 Albion SC Colorado
+ALM 6:
+Stage Name: USL League 2: Mountain Division
+Score: Colorado Storm 2 - 2 Flatirons Rush
+ALM 7:
+Stage Name: USL League Two
+Score: Colorado Storm 2 - 2 Flatirons Rush
+ALM 8:
+Stage Name: USL League 2: Mountain Division
+Score: Utah United 1 - 0 Colorado Storm
+ALM 9:
+Stage Name: USL League 2: Mountain Division
+Score: Utah United 1 - 2 Colorado Storm
+ALM 10:
+Stage Name: USL League Two
+Score: Albion SC Colorado 3 - 2 Colorado Storm
+today.json updated
+All Fixtures processed for today
+today.json updated
+=== Scraping Tomorrow's Fixtures ===
