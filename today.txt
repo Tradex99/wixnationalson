@@ -532,32 +532,32 @@ HLM 1:
 Stage Name: Club Friendlies 2025
 Score: Aris 1 - 3 Livingston
 HLM 2:
-Stage Name: Super League: Conference League Group
-Score: Aris 4 - 2 Asteras Tripolis
+Stage Name: Club Friendlies 2025
+Score: Aris 1 - 3 Livingston
 HLM 3:
 Stage Name: Super League: Conference League Group
-Score: OFI Crete 1 - 1 Aris
+Score: Aris 4 - 2 Asteras Tripolis
 HLM 4:
 Stage Name: Super League: Conference League Group
-Score: Atromitos 1 - 1 Aris
+Score: OFI Crete 1 - 1 Aris
 HLM 5:
 Stage Name: Super League: Conference League Group
-Score: Aris 1 - 0 Atromitos
+Score: Atromitos 1 - 1 Aris
 HLM 6:
 Stage Name: Super League: Conference League Group
-Score: Aris 2 - 0 OFI Crete
+Score: Aris 1 - 0 Atromitos
 HLM 7:
 Stage Name: Super League: Conference League Group
-Score: Asteras Tripolis 0 - 2 Aris
+Score: Aris 2 - 0 OFI Crete
 HLM 8:
-Stage Name: Super League
-Score: Aris 0 - 0 AEK Athens
+Stage Name: Super League: Conference League Group
+Score: Asteras Tripolis 0 - 2 Aris
 HLM 9:
 Stage Name: Super League
-Score: NFC Volos 1 - 1 Aris
+Score: Aris 0 - 0 AEK Athens
 HLM 10:
 Stage Name: Super League
-Score: Aris 2 - 1 Panetolikos
+Score: NFC Volos 1 - 1 Aris
 
 Away last matches:
 ALM 1:
@@ -565,31 +565,31 @@ Stage Name: Club Friendlies 2025
 Score: Aris 1 - 3 Livingston
 ALM 2:
 Stage Name: Club Friendlies 2025
-Score: Alloa Athletic 1 - 3 Livingston
+Score: Aris 1 - 3 Livingston
 ALM 3:
-Stage Name: Premiership: Qualification
-Score: Ross County 2 - 4 Livingston
+Stage Name: Club Friendlies 2025
+Score: Alloa Athletic 1 - 3 Livingston
 ALM 4:
 Stage Name: Premiership: Qualification
-Score: Livingston 1 - 1 Ross County
+Score: Ross County 2 - 4 Livingston
 ALM 5:
 Stage Name: Premiership: Qualification
-Score: Livingston 2 - 0 Partick Thistle
+Score: Livingston 1 - 1 Ross County
 ALM 6:
 Stage Name: Premiership: Qualification
-Score: Partick Thistle 0 - 2 Livingston
+Score: Livingston 2 - 0 Partick Thistle
 ALM 7:
-Stage Name: Championship
-Score: Livingston 0 - 1 Partick Thistle
+Stage Name: Premiership: Qualification
+Score: Partick Thistle 0 - 2 Livingston
 ALM 8:
 Stage Name: Championship
-Score: Hamilton Academical 0 - 3 Livingston
+Score: Livingston 0 - 1 Partick Thistle
 ALM 9:
 Stage Name: Championship
-Score: Livingston 5 - 0 Ayr United
+Score: Hamilton Academical 0 - 3 Livingston
 ALM 10:
 Stage Name: Championship
-Score: Greenock Morton 1 - 2 Livingston
+Score: Livingston 5 - 0 Ayr United
 today.json updated
 
 Processing Fixtures 8 for today: Aris vs Livingston
@@ -601,32 +601,32 @@ HLM 1:
 Stage Name: Club Friendlies 2025
 Score: Aris 1 - 3 Livingston
 HLM 2:
-Stage Name: Super League: Conference League Group
-Score: Aris 4 - 2 Asteras Tripolis
+Stage Name: Club Friendlies 2025
+Score: Aris 1 - 3 Livingston
 HLM 3:
 Stage Name: Super League: Conference League Group
-Score: OFI Crete 1 - 1 Aris
+Score: Aris 4 - 2 Asteras Tripolis
 HLM 4:
 Stage Name: Super League: Conference League Group
-Score: Atromitos 1 - 1 Aris
+Score: OFI Crete 1 - 1 Aris
 HLM 5:
 Stage Name: Super League: Conference League Group
-Score: Aris 1 - 0 Atromitos
+Score: Atromitos 1 - 1 Aris
 HLM 6:
 Stage Name: Super League: Conference League Group
-Score: Aris 2 - 0 OFI Crete
+Score: Aris 1 - 0 Atromitos
 HLM 7:
 Stage Name: Super League: Conference League Group
-Score: Asteras Tripolis 0 - 2 Aris
+Score: Aris 2 - 0 OFI Crete
 HLM 8:
-Stage Name: Super League
-Score: Aris 0 - 0 AEK Athens
+Stage Name: Super League: Conference League Group
+Score: Asteras Tripolis 0 - 2 Aris
 HLM 9:
 Stage Name: Super League
-Score: NFC Volos 1 - 1 Aris
+Score: Aris 0 - 0 AEK Athens
 HLM 10:
 Stage Name: Super League
-Score: Aris 2 - 1 Panetolikos
+Score: NFC Volos 1 - 1 Aris
 
 Away last matches:
 ALM 1:
@@ -634,31 +634,31 @@ Stage Name: Club Friendlies 2025
 Score: Aris 1 - 3 Livingston
 ALM 2:
 Stage Name: Club Friendlies 2025
-Score: Alloa Athletic 1 - 3 Livingston
+Score: Aris 1 - 3 Livingston
 ALM 3:
-Stage Name: Premiership: Qualification
-Score: Ross County 2 - 4 Livingston
+Stage Name: Club Friendlies 2025
+Score: Alloa Athletic 1 - 3 Livingston
 ALM 4:
 Stage Name: Premiership: Qualification
-Score: Livingston 1 - 1 Ross County
+Score: Ross County 2 - 4 Livingston
 ALM 5:
 Stage Name: Premiership: Qualification
-Score: Livingston 2 - 0 Partick Thistle
+Score: Livingston 1 - 1 Ross County
 ALM 6:
 Stage Name: Premiership: Qualification
-Score: Partick Thistle 0 - 2 Livingston
+Score: Livingston 2 - 0 Partick Thistle
 ALM 7:
-Stage Name: Championship
-Score: Livingston 0 - 1 Partick Thistle
+Stage Name: Premiership: Qualification
+Score: Partick Thistle 0 - 2 Livingston
 ALM 8:
 Stage Name: Championship
-Score: Hamilton Academical 0 - 3 Livingston
+Score: Livingston 0 - 1 Partick Thistle
 ALM 9:
 Stage Name: Championship
-Score: Livingston 5 - 0 Ayr United
+Score: Hamilton Academical 0 - 3 Livingston
 ALM 10:
 Stage Name: Championship
-Score: Greenock Morton 1 - 2 Livingston
+Score: Livingston 5 - 0 Ayr United
 today.json updated
 
 Processing Fixtures 9 for today: FC Copenhagen vs Sparta Prague
@@ -4325,66 +4325,66 @@ No H2H data found
 Home last matches:
 HLM 1:
 Stage Name: 1st Division
-Score: FK Ekibastuz 1 - 1 Turkistan FC
+Score: Turkistan FC 1 - 1 Aktobe Reserves
 HLM 2:
 Stage Name: 1st Division
-Score: Turkistan FC 1 - 7 Irtysh Pavlodar
+Score: FK Ekibastuz 1 - 1 Turkistan FC
 HLM 3:
 Stage Name: 1st Division
-Score: Khan Tengri 4 - 3 Turkistan FC
+Score: Turkistan FC 1 - 7 Irtysh Pavlodar
 HLM 4:
 Stage Name: 1st Division
-Score: Turkistan FC 0 - 1 SD Family
+Score: Khan Tengri 4 - 3 Turkistan FC
 HLM 5:
 Stage Name: 1st Division
-Score: Turkistan FC 0 - 3 Altai Semey
+Score: Turkistan FC 0 - 1 SD Family
 HLM 6:
 Stage Name: 1st Division
-Score: Kaspyi Aktau 4 - 0 Turkistan FC
+Score: Turkistan FC 0 - 3 Altai Semey
 HLM 7:
 Stage Name: 1st Division
-Score: Turkistan FC 1 - 0 Taraz
+Score: Kaspyi Aktau 4 - 0 Turkistan FC
 HLM 8:
 Stage Name: 1st Division
-Score: Akademia Ontustyk 3 - 0 Turkistan FC
+Score: Turkistan FC 1 - 0 Taraz
 HLM 9:
 Stage Name: 1st Division
-Score: Turkistan FC 0 - 1 Jetisay FC
+Score: Akademia Ontustyk 3 - 0 Turkistan FC
 HLM 10:
 Stage Name: 1st Division
-Score: Akas FC 3 - 1 Turkistan FC
+Score: Turkistan FC 0 - 1 Jetisay FC
 
 Away last matches:
 ALM 1:
 Stage Name: 1st Division
-Score: Aktobe Reserves 0 - 3 Kaspyi Aktau
+Score: Turkistan FC 1 - 1 Aktobe Reserves
 ALM 2:
 Stage Name: 1st Division
-Score: Taraz 3 - 3 Aktobe Reserves
+Score: Aktobe Reserves 0 - 3 Kaspyi Aktau
 ALM 3:
 Stage Name: 1st Division
-Score: Aktobe Reserves 1 - 2 Akademia Ontustyk
+Score: Taraz 3 - 3 Aktobe Reserves
 ALM 4:
 Stage Name: 1st Division
-Score: Jetisay FC 3 - 0 Aktobe Reserves
+Score: Aktobe Reserves 1 - 2 Akademia Ontustyk
 ALM 5:
 Stage Name: 1st Division
-Score: Aktobe Reserves 1 - 3 Akas FC
+Score: Jetisay FC 3 - 0 Aktobe Reserves
 ALM 6:
 Stage Name: 1st Division
-Score: Shakhter Karagandy 3 - 1 Aktobe Reserves
+Score: Aktobe Reserves 1 - 3 Akas FC
 ALM 7:
 Stage Name: 1st Division
-Score: Aktobe Reserves 1 - 1 Kairat-Zhastar
+Score: Shakhter Karagandy 3 - 1 Aktobe Reserves
 ALM 8:
 Stage Name: 1st Division
-Score: Altai Semey 0 - 0 Aktobe Reserves
+Score: Aktobe Reserves 1 - 1 Kairat-Zhastar
 ALM 9:
 Stage Name: 1st Division
-Score: FK Ekibastuz 3 - 3 Aktobe Reserves
+Score: Altai Semey 0 - 0 Aktobe Reserves
 ALM 10:
 Stage Name: 1st Division
-Score: Aktobe Reserves 0 - 1 Irtysh Pavlodar
+Score: FK Ekibastuz 3 - 3 Aktobe Reserves
 today.json updated
 
 Processing Fixtures 61 for today: SD Family vs FK Ekibastuz

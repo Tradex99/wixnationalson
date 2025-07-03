@@ -1,0 +1,44 @@
+{
+  "OVER 1.5 STARTED HERE": [
+    {
+      "teams": "Spain Women vs Portugal Women",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Peoria City vs Des Moines Menace",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Lansing City Football vs Oakland County FC",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    }
+  ],
+  "OVER 2.5 STARTED HERE": [
+    {
+      "teams": "Nona FC vs Inter Gainesville KF",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
+    }
+  ],
+  "OVER 3.5 STARTED HERE": [
+    {
+      "teams": "Westchester Flames vs FC Motown II",
+      "analysis": "All 5/5 H2H are over 3.5 Goals"
+    },
+    {
+      "teams": "Ballard FC vs Tacoma Stars",
+      "analysis": "All 3/3 H2H are over 3.5 Goals"
+    }
+  ],
+  "WIN STARTED HERE": [
+    {
+      "teams": "Spain Women vs Portugal Women",
+      "winner": "Spain Women",
+      "analysis": "Spain Women won all 5/5 H2H matches"
+    },
+    {
+      "teams": "Nona FC vs Inter Gainesville KF",
+      "winner": "Nona FC",
+      "analysis": "Nona FC won all 3/3 H2H matches"
+    }
+  ]
+}

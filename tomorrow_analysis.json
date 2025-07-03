@@ -1,0 +1,51 @@
+{
+  "OVER 1.5 STARTED HERE": [
+    {
+      "teams": "Shelbourne vs Cork City",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Laferrere vs Villa San Carlos",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "RFS vs FK Liepaja",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Tacoma Defiance vs The Town FC",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    }
+  ],
+  "OVER 2.5 STARTED HERE": [
+    {
+      "teams": "Dinamo Moscow vs Partizan Beograd",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Green Gully Cavaliers vs Melbourne Victory Youth",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Caboolture FC vs Capalaba",
+      "analysis": "All 5/5 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Logan Lightning vs Holland Park Hawks",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
+    }
+  ],
+  "OVER 3.5 STARTED HERE": [],
+  "WIN STARTED HERE": [
+    {
+      "teams": "Fortuna Sittard vs Genk",
+      "winner": "Genk",
+      "analysis": "Genk won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Green Gully Cavaliers vs Melbourne Victory Youth",
+      "winner": "Green Gully Cavaliers",
+      "analysis": "Green Gully Cavaliers won all 3/3 H2H matches"
+    }
+  ]
+}
