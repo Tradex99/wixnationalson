@@ -2,7 +2,7 @@ const fs = require('fs');
 const { firefox } = require('playwright');
 
 (async () => {
-  const browser = await firefox.launch({ headless: false }); // Headless mode OFF
+  const browser = await firefox.launch({ headless: true }); // Headless mode OFF
   const context = await browser.newContext();
   const page = await context.newPage();
 
