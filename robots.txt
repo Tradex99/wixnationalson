@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://wixnation.com/sitemap.xml
