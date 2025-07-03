@@ -2,15 +2,27 @@ const fs = require('fs');
 const { firefox } = require('playwright');
 
 (async () => {
-  const browser = await firefox.launch({ headless: true });
+  const browser = await firefox.launch({ headless: false }); // Headless mode OFF
   const context = await browser.newContext();
   const page = await context.newPage();
 
   try {
     await page.goto('https://www.livescore.com/en/', { waitUntil: 'networkidle' });
+    await page.waitForTimeout(5000); // Give dynamic elements time to render
 
-    // Updated selector to match <a> with href containing "/en/football/" and class="pg"
-    const matchLinkSelector = 'a.pg[href*="/en/football/"]';
+    // Click the center of the page
+    const viewport = page.viewportSize();
+    if (viewport) {
+      const centerX = viewport.width / 2;
+      const centerY = viewport.height / 2;
+      await page.mouse.click(centerX, centerY);
+      console.log(`Clicked center of page at (${centerX}, ${centerY})`);
+    }
+
+    // Optional screenshot for debug
+    await page.screenshot({ path: 'debug.png', fullPage: true });
+
+    const matchLinkSelector = 'a[href^="/en/football/"]';
     const apiPathPattern = /\/_next\/data\/([^\/]+)\/en\/football\//;
 
     async function clickAndWaitForKey() {
@@ -23,7 +35,7 @@ const { firefox } = require('playwright');
               const url = response.url();
               return apiPathPattern.test(url);
             },
-            { timeout: 15000 } // Increased timeout
+            { timeout: 15000 }
           ).catch(() => null),
           page.click(matchLinkSelector).catch((err) => {
             console.error('Click failed:', err.message);
@@ -46,13 +58,9 @@ const { firefox } = require('playwright');
       }
     }
 
-    // Wait for the selector to appear
-    await page.waitForSelector(matchLinkSelector, { timeout: 15000 }).catch((err) => {
-      console.error('Selector not found:', err.message);
-      throw new Error('Failed to find the next match link');
-    });
-
+    await page.waitForSelector(matchLinkSelector, { timeout: 30000 });
     await clickAndWaitForKey();
+
   } catch (error) {
     console.error('Script failed:', error.message);
   } finally {
