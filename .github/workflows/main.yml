@@ -2,8 +2,8 @@ name: Runner
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # Daily at midnight UTC
-  workflow_dispatch:        # Manual trigger from GitHub UI
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -52,8 +52,8 @@ jobs:
           done
 
           if [ "$files_to_commit" = "true" ]; then
-            git commit -m "Auto-commit: Update generated output files"
+            git commit -m "Auto-commit: Update output files"
             git push
           else
-            echo "No output files found skipping commit/push."
-          
+            echo "No output files found. Skipping commit and push."
+          fi
