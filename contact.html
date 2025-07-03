@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Contact Us - WiXnation Unlimited Football Scraper</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet" />
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  <style>
+    .hero-contact {
+      background: url('assets/ball.jpg') no-repeat center center;
+      background-size: cover;
+      min-height: 38vh;
+      position: relative;
+      padding: 40px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+    .hero-overlay {
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-color: rgba(0, 0, 0, 0.65);
+      z-index: 1;
+    }
+    .hero-content {
+      position: relative;
+      z-index: 2;
+    }
+    section {
+      padding: 60px 0;
+    }
+    .form-control, .btn {
+      border-radius: 0.375rem;
+    }
+  </style>
+</head>
+<body>
+  <header class="bg-black text-white">
+    <nav class="navbar navbar-dark container-fluid">
+      <div class="container-fluid d-flex justify-content-between align-items-center">
+        <a class="navbar-brand" href="index">
+          <img src="assets/wix.png" alt="Wix Logo" width="100" height="50">
+        </a>
+        <button class="btn btn-outline-light" onclick="history.back()">← Back</button>
+      </div>
+    </nav>
+    <div class="hero-contact">
+      <div class="hero-overlay"></div>
+      <div class="hero-content container">
+        <h1 class="display-4 fw-bold">Contact Us</h1>
+        <p class="lead">We'd love to hear from you. Reach out directly or use the form below.</p>
+      </div>
+    </div>
+  </header>
+
+  <section class="bg-light">
+    <div class="container" data-aos="fade-up">
+      <div class="row justify-content-center">
+        <div class="col-md-8">
+          <h2 class="text-center mb-4">Send Us a Message</h2>
+
+          <form id="contactForm" action="https://wixnation.henrygreen311.workers.dev/" method="POST">
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label for="firstName" class="form-label">First Name</label>
+                <input type="text" class="form-control" name="first-name" id="firstName" required>
+              </div>
+              <div class="col-md-6 mb-3">
+                <label for="lastName" class="form-label">Last Name</label>
+                <input type="text" class="form-control" name="last-name" id="lastName" required>
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label for="emailInput" class="form-label">Email address</label>
+              <input type="email" class="form-control" name="email" id="emailInput" required>
+            </div>
+
+            <div class="mb-3">
+              <label for="messageInput" class="form-label">
+                Your Message <br>
+                <small class="text-muted">Help us improve the platform with your feedback and feature suggestions.</small>
+              </label>
+              <textarea class="form-control" name="message" id="messageInput" rows="5" required></textarea>
+            </div>
+
+            <!-- reCAPTCHA -->
+            <div class="mb-3">
+              <div class="g-recaptcha" data-sitekey="6LeUP9MqAAAAAIKxybxWGOKYxL7_uJ-dz3cq2mo9"></div>
+            </div>
+
+            <!-- Spam honeypot -->
+            <input type="text" name="_gotcha" style="display:none">
+
+            <div id="formAlert" class="mt-3"></div>
+
+            <div class="d-grid mt-4">
+              <button type="submit" class="btn btn-primary">Send Message</button>
+            </div>
+          </form>
+
+          <div class="mt-5 text-center">
+            <p class="mb-1">Prefer direct email?</p>
+            <a href="mailto:admin@wixnation.com" class="btn btn-outline-dark">Email: admin@wixnation.com</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="bg-black text-white pt-4 pb-3">
+    <div class="container text-center">
+      <div class="mb-3">
+        <img src="assets/wix.png" alt="WiXnation Logo" width="120">
+      </div>
+      <ul class="nav justify-content-center mb-3">
+        <li class="nav-item"><a href="index" class="nav-link text-white-50 px-3">Home</a></li>
+        <li class="nav-item"><a href="about-us" class="nav-link text-white-50 px-3">About</a></li>
+        <li class="nav-item"><a href="policy" class="nav-link text-white-50 px-3">Policy</a></li>
+        <li class="nav-item"><a href="service" class="nav-link text-white-50 px-3">Service</a></li>
+        <li class="nav-item"><a href="contact" class="nav-link text-white-50 px-3">Contact</a></li>
+      </ul>
+      <small class="text-white-50">&copy; <span id="year"></span> WiXnation Football Scraper. All rights reserved.</small>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <script>
+    AOS.init({ duration: 1000, once: true });
+    document.getElementById("year").textContent = new Date().getFullYear();
+
+    document.getElementById("contactForm").addEventListener("submit", async function(e) {
+      e.preventDefault();
+      const form = e.target;
+      const formData = new FormData(form);
+      const alertBox = document.getElementById("formAlert");
+
+      // Ensure reCAPTCHA is completed
+      const recaptchaResponse = grecaptcha.getResponse();
+      if (!recaptchaResponse) {
+        alertBox.innerHTML = `<div class="alert alert-warning">⚠️ Please complete the reCAPTCHA.</div>`;
+        return;
+      }
+
+      formData.append("g-recaptcha-response", recaptchaResponse);
+
+      try {
+        const res = await fetch(form.action, {
+          method: "POST",
+          body: formData
+        });
+
+        if (res.ok) {
+          alertBox.innerHTML = `<div class="alert alert-success">✅ Thank you! Your message has been sent successfully.</div>`;
+          form.querySelectorAll("input, textarea, button").forEach(el => el.disabled = true);
+        } else {
+          const error = await res.json();
+          alertBox.innerHTML = `<div class="alert alert-danger">❌ ${error.message || 'Something went wrong. Please try again later.'}</div>`;
+        }
+      } catch (err) {
+        alertBox.innerHTML = `<div class="alert alert-danger">⚠️ Network error. Check your connection.</div>`;
+      }
+    });
+  </script>
+</body>
+</html>

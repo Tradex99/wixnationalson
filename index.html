@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+ <!-- Primary Meta Tags -->
+<title>WiXnation | Football Scraper & Match Predictor</title>
+<meta name="description" content="Scrape football match fixtures, analyze H2H data, and predict outcomes with WiXnation. Fast, reliable, and built for sharp analysis.">
+<meta name="keywords" content="football scraper, H2H stats, match fixtures, betting data, match predictions, football analysis, over 1.5 goals, football stats API">
+<meta name="author" content="WiXnation">
+<link rel="canonical" href="https://wixnation.com/">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://wixnation.com/">
+<meta property="og:title" content="WiXnation | Football Scraper & Match Predictor">
+<meta property="og:description" content="Analyze football fixtures, scrape live data, and make smart predictions with WiXnation’s utility.">
+<meta property="og:image" content="https://wixnation.com/assets/wix.jpg">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://wixnation.com/">
+<meta name="twitter:title" content="WiXnation | Football Scraper & Predictor">
+<meta name="twitter:description" content="Scrape, analyze and predict football matches using WiXnation’s advanced data tool.">
+<meta name="twitter:image" content="https://wixnation.com/assets/wix.jpg">
+
+<!-- Robots & Indexing -->
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+  <title>WiXnation Unlimited Football Scraper</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet" />
+
+  <style>
+    .custom-toggler {
+      background: none;
+      border: none;
+      font-size: 1.8rem;
+      color: white;
+    }
+    .offcanvas-end { width: 50% !important; }
+    .offcanvas-body {
+      display: flex; align-items: center; justify-content: center;
+      flex-direction: column;
+    }
+    .hero-section {
+      background: url('assets/ball.jpg') no-repeat center center;
+      background-size: cover; min-height: 38vh;
+      position: relative; padding: 40px 20px;
+      display: flex; align-items: center; justify-content: center;
+      text-align: center;
+    }
+    .hero-overlay {
+      position: absolute; top: 0; left: 0;
+      height: 100%; width: 100%;
+      background-color: rgba(0, 0, 0, 0.6);
+      z-index: 1;
+    }
+    .hero-content {
+      position: relative; z-index: 2; color: white;
+    }
+    .hero-content h1 {
+      font-weight: 700; margin-bottom: 15px;
+    }
+    .hero-content p {
+      color: #fff; max-width: 680px; margin: 0 auto;
+    }
+    .content-card {
+      background: white; padding: 30px;
+      margin: 40px auto; max-width: 700px;
+      border: 1px solid #ddd;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      border-radius: 8px; position: relative;
+    }
+    .recommended-badge {
+      position: absolute; top: 10px; right: 15px;
+      background-color: #28a745; color: white;
+      padding: 5px 10px; font-size: 0.75rem;
+      border-radius: 5px;
+    }
+    .loader {
+      border: 4px solid #f3f3f3;
+      border-top: 4px solid #007bff;
+      border-radius: 50%;
+      width: 40px; height: 40px;
+      animation: spin 1s linear infinite;
+      margin: 20px auto;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .btn-group { margin-top: 10px; }
+    .btn-group .btn { margin-right: 10px; }
+    html {
+  scroll-behavior: smooth;
+}
+  </style>
+</head>
+<body>
+
+<!-- NAV + HERO -->
+<header class="bg-black text-white">
+  <nav class="navbar navbar-dark container-fluid">
+    <div class="container-fluid d-flex justify-content-between align-items-center">
+      <a class="navbar-brand" href="#">
+        <img src="assets/wix.png" alt="Wix Logo" width="100" height="50" class="d-inline-block align-text-top">
+      </a>
+      <button class="custom-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar">
+        ☰
+      </button>
+      <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasNavbar">
+        <div class="offcanvas-header">
+          <button type="button" class="btn-close btn-close-white ms-auto" data-bs-dismiss="offcanvas"></button>
+        </div>
+        <div class="offcanvas-body">
+          <ul class="navbar-nav text-center">
+            <li class="nav-item"><a class="nav-link active" href="index">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="about-us">About</a></li>
+            <li class="nav-item"><a class="nav-link" href="policy">Policy</a></li>
+            <li class="nav-item"><a class="nav-link" href="service">Services</a></li>
+            <li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <section class="hero-section">
+    <div class="hero-overlay"></div>
+    <div class="hero-content container">
+      <h1>WiXnation Unlimited Football Scraper</h1>
+      <p>Efficiently extract football fixtures, head-to-head statistics, and historical home/away match data — empowering rapid and data-driven match analysis.</p>
+    </div>
+  </section>
+</header>
+
+<!-- SCRAPER TOOL TABS -->
+<div class="container my-5">
+  <div class="p-4 bg-light rounded shadow-sm">
+
+    <!-- Nav Tabs -->
+    <ul class="nav nav-tabs mb-3" id="scraperTab" role="tablist">
+      <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="today-tab" data-bs-toggle="tab" data-bs-target="#today" type="button" role="tab">Today</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="tomorrow-tab" data-bs-toggle="tab" data-bs-target="#tomorrow" type="button" role="tab">Tomorrow</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="analysis-tab" data-bs-toggle="tab" data-bs-target="#analysis" type="button" role="tab">Analysis</button>
+      </li>
+    </ul>
+
+    <!-- Tab Contents -->
+    <div class="tab-content" id="scraperTabContent">
+
+      <!-- TODAY TAB -->
+      <div class="tab-pane fade show active" id="today" role="tabpanel" aria-labelledby="today-tab" data-aos="fade-up">
+        <div class="content-card text-center">
+          <p>Click the button below to scrape today’s football fixtures, H2H stats, and all home/away stats.</p>
+          <button id="scrapeTodayBtn" class="btn btn-primary">Scrape Today</button>
+          <div id="loaderToday" class="loader" style="display: none;"></div>
+          <div id="downloadTodayLinks" style="display: none;">
+            <div class="btn-group">
+              <a id="viewTodayJson" class="btn btn-outline-primary" target="_blank">View JSON</a>
+              <a id="todayJsonDownload" class="btn btn-success" download="today.json">Download JSON</a>
+            </div>
+            <div class="btn-group">
+              <a id="viewTodayTxt" class="btn btn-outline-secondary" target="_blank">View TXT</a>
+              <a id="todayTxtDownload" class="btn btn-secondary" download="today.txt">Download TXT</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TOMORROW TAB -->
+      <div class="tab-pane fade" id="tomorrow" role="tabpanel" aria-labelledby="tomorrow-tab" data-aos="fade-up">
+        <div class="content-card text-center">
+          <span class="recommended-badge">Recommended</span>
+          <p>Click the button below to scrape tomorrow’s football fixtures, H2H stats, and all home/away stats.</p>
+          <button id="scrapeTomorrowBtn" class="btn btn-primary">Scrape Tomorrow</button>
+          <div id="loaderTomorrow" class="loader" style="display: none;"></div>
+          <div id="downloadTomorrowLinks" style="display: none;">
+            <div class="btn-group">
+              <a id="viewTomorrowJson" class="btn btn-outline-primary" target="_blank">View JSON</a>
+              <a id="tomorrowJsonDownload" class="btn btn-success" download="tomorrow.json">Download JSON</a>
+            </div>
+            <div class="btn-group">
+              <a id="viewTomorrowTxt" class="btn btn-outline-secondary" target="_blank">View TXT</a>
+              <a id="tomorrowTxtDownload" class="btn btn-secondary" download="tomorrow.txt">Download TXT</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ANALYSIS TAB -->
+      <div class="tab-pane fade" id="analysis" role="tabpanel" aria-labelledby="analysis-tab" data-aos="fade-up">
+        <div class="content-card text-center">
+          <p>
+            Click the button below to access predictive insights like Over 1.5, Over 3.5, and Win Strength based on live scraped match data.
+            <br><br>
+            <strong class="text-danger">Disclaimer:</strong> These forecasts do not guarantee winnings. Always conduct your own analysis and gamble responsibly.
+          </p>
+          <button id="scrapeAnalysisBtn" class="btn btn-primary">Get Match Analysis</button>
+          <div id="loaderAnalysis" class="loader" style="display: none;"></div>
+          <div id="downloadAnalysisLinks" style="display: none;">
+            <div class="btn-group">
+              <a id="viewTodayAnalysisJson" class="btn btn-outline-primary" target="_blank">View Today JSON</a>
+              <a id="todayAnalysisJsonDownload" class="btn btn-success" download="today_analysis.json">Download Today JSON</a>
+            </div>
+            <div class="btn-group">
+              <a id="viewTodayAnalysisTxt" class="btn btn-outline-secondary" target="_blank">View Today TXT</a>
+              <a id="todayAnalysisTxtDownload" class="btn btn-secondary" download="today_analysis.txt">Download Today TXT</a>
+            </div>
+            <div class="btn-group">
+              <a id="viewTomorrowAnalysisJson" class="btn btn-outline-primary" target="_blank">View Tomorrow JSON</a>
+              <a id="tomorrowAnalysisJsonDownload" class="btn btn-success" download="tomorrow_analysis.json">Download Tomorrow JSON</a>
+            </div>
+            <div class="btn-group">
+              <a id="viewTomorrowAnalysisTxt" class="btn btn-outline-secondary" target="_blank">View Tomorrow TXT</a>
+              <a id="tomorrowAnalysisTxtDownload" class="btn btn-secondary" download="tomorrow_analysis.txt">Download Tomorrow TXT</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- FEATURES SECTION -->
+<section class="py-5 text-white" style="background: linear-gradient(to right, #1e3c72, #2a5298);">
+  <div class="container text-center">
+    <h2 class="mb-4" data-aos="fade-up">Why Choose <span class="text-warning">WiXnation Scraper?</span></h2>
+    <div class="row">
+      <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="p-4 rounded bg-opacity-25 bg-dark h-100 shadow-sm">
+          <h5 class="mb-2 text-warning">⚡ Lightning Fast</h5>
+          <p>Scrape today’s and tomorrow’s match stats in under 10 seconds — no delay, no hassle.</p>
+        </div>
+      </div>
+      <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="p-4 rounded bg-opacity-25 bg-dark h-100 shadow-sm">
+          <h5 class="mb-2 text-warning">🎯 Precision Data</h5>
+          <p>Get H2H, recent forms, goals, and more with top-tier accuracy pulled from reliable endpoints.</p>
+        </div>
+      </div>
+      <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="300">
+        <div class="p-4 rounded bg-opacity-25 bg-dark h-100 shadow-sm">
+          <h5 class="mb-2 text-warning">🔐 No Account Needed</h5>
+          <p>Just click & scrape. No registration, cookies, or hidden steps — just raw data access.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ SECTION -->
+<section class="py-5 bg-light">
+  <div class="container">
+    <h2 class="text-center mb-4" data-aos="fade-up">Frequently Asked Questions</h2>
+
+    <div class="accordion" id="faqAccordion">
+
+      <!-- FAQ 1 -->
+      <div class="accordion-item" data-aos="fade-up" data-aos-delay="100">
+        <h2 class="accordion-header" id="faq1">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
+            ⚖️ Is using this scraper tool legally compliant?
+          </button>
+        </h2>
+        <div id="collapse1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Yes. The scraper exclusively retrieves data from publicly available endpoints and does not breach any authentication walls, terms of service, or private APIs. It’s built to comply with ethical scraping standards.
+          </div>
+        </div>
+      </div>
+
+      <!-- FAQ 2 -->
+      <div class="accordion-item" data-aos="fade-up" data-aos-delay="150">
+        <h2 class="accordion-header" id="faq2">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2">
+            🔐 Do I need to sign up or log in to use it?
+          </button>
+        </h2>
+        <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            No user registration or login is required. You can access all scraping functionalities anonymously, with no cookies, tracking, or personal data collection involved.
+          </div>
+        </div>
+      </div>
+
+      <!-- FAQ 3 -->
+      <div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
+        <h2 class="accordion-header" id="faq3">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3">
+            ⚙️ What kind of data does the scraper extract?
+          </button>
+        </h2>
+        <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            The scraper retrieves daily football match fixtures, head-to-head (H2H) statistics, home/away performance metrics, and predictive insights such as Over/Under and Win Strength analytics.
+          </div>
+        </div>
+      </div>
+
+      <!-- FAQ 4 -->
+      <div class="accordion-item" data-aos="fade-up" data-aos-delay="250">
+        <h2 class="accordion-header" id="faq4">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4">
+            📊 Can I rely on the predictions for betting?
+          </button>
+        </h2>
+        <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            While the tool offers valuable insights based on recent data patterns, it does not guarantee outcomes. It is intended to supplement — not replace — your personal analysis and decision-making.
+          </div>
+        </div>
+      </div>
+
+      <!-- FAQ 5 -->
+      <div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
+        <h2 class="accordion-header" id="faq5">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5">
+            🌐 Can I integrate this scraper with other tools or platforms?
+          </button>
+        </h2>
+        <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Absolutely. Since the scraper provides downloadable JSON and TXT formats, the output can be integrated into data visualization platforms, custom dashboards, or analytical models without restriction.
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- CLIENT TESTIMONIALS CONTAINER -->
+<div class="container my-5">
+  <div class="p-4 border rounded shadow-sm bg-white position-relative">
+
+    <!-- Section Title and Subtitle -->
+    <div class="text-center mb-4" data-aos="fade-up">
+      <h4 class="mb-2">Client Testimonials</h4>
+      <p class="text-muted mb-0">Here's what our satisfied users are saying about WiXnation's scraper utility.</p>
+    </div>
+
+    <!-- Feedback Entries -->
+    <div class="row justify-content-center">
+      <div class="col-md-6 mb-4" data-aos="fade-right" data-aos-delay="100">
+        <div class="p-3 border rounded shadow-sm bg-light">
+          <p class="mb-2">“This scraper tool saves me hours every matchday. Highly reliable and accurate!”</p>
+          <div class="text-warning">★★★★★</div>
+          <small class="text-muted">— Samuel A., Nigeria</small>
+        </div>
+      </div>
+
+      <div class="col-md-6 mb-4" data-aos="fade-left" data-aos-delay="200">
+        <div class="p-3 border rounded shadow-sm bg-light">
+          <p class="mb-2">“Great job by the developers. Makes data analysis super easy and fast.”</p>
+          <div class="text-warning">★★★★★</div>
+          <small class="text-muted">— Clara M., Kenya</small>
+        </div>
+      </div>
+
+      <div class="col-md-6 mb-4" data-aos="zoom-in" data-aos-delay="300">
+        <div class="p-3 border rounded shadow-sm bg-light">
+          <p class="mb-2">“I love the clean layout and accurate H2H data. A must-have for bettors.”</p>
+          <div class="text-warning">★★★★★</div>
+          <small class="text-muted">— David O., South Africa</small>
+        </div>
+      </div>
+
+      <div class="col-md-6 mb-4" data-aos="flip-left" data-aos-delay="400">
+        <div class="p-3 border rounded shadow-sm bg-light">
+          <p class="mb-2">“I trust this tool every time I want to analyze fixtures. Simple and powerful.”</p>
+          <div class="text-warning">★★★★★</div>
+          <small class="text-muted">— Amina T., Ghana</small>
+        </div>
+      </div>
+
+      <div class="col-md-6 mb-4" data-aos="fade-up" data-aos-delay="500">
+        <div class="p-3 border rounded shadow-sm bg-light">
+          <p class="mb-2">“User-friendly and very detailed scraping results. Highly recommended!”</p>
+          <div class="text-warning">★★★★★</div>
+          <small class="text-muted">— Joseph E., Uganda</small>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- FOOTER -->
+<footer class="bg-dark text-white pt-5 pb-3 mt-5">
+  <div class="container text-center">
+
+    <!-- Brand Logo -->
+    <div class="mb-3">
+      <a href="#">
+        <img src="assets/wix.png" alt="WiXnation Logo" width="120" height="auto" class="d-inline-block align-middle">
+      </a>
+    </div>
+
+    <!-- Footer Navigation -->
+    <ul class="nav justify-content-center mb-4">
+      <li class="nav-item">
+        <a href="index" class="nav-link px-3 text-white-50">Home</a>
+      </li>
+      <li class="nav-item">
+        <a href="about-us" class="nav-link px-3 text-white-50">About</a>
+      </li>
+      <li class="nav-item">
+        <a href="policy" class="nav-link px-3 text-white-50">Policy</a>
+      </li>
+      <li class="nav-item">
+        <a href="service" class="nav-link px-3 text-white-50">Service</a>
+      </li>
+      <li class="nav-item">
+        <a href="contact" class="nav-link px-3 text-white-50">Contact</a>
+      </li>
+    </ul>
+
+    <!-- Copyright -->
+    <small class="text-white-50">
+      &copy; <span id="year"></span> WiXnation Football Scraper. All rights reserved.
+    </small>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+  async function handleScrape(config) {
+    const { buttonId, loaderId, linksId, resources } = config;
+
+    const button = document.getElementById(buttonId);
+    const loader = document.getElementById(loaderId);
+    const links = document.getElementById(linksId);
+
+    button.disabled = true;
+    button.innerText = 'Loading... Please wait';
+    loader.style.display = 'block';
+    links.style.display = 'none';
+
+    try {
+      await new Promise(res => setTimeout(res, 10000));
+      await Promise.all(resources.map(async r => {
+        const response = await fetch(r.url);
+        const data = await response.text();
+        const blob = new Blob([data], { type: r.type });
+        const objUrl = URL.createObjectURL(blob);
+        document.getElementById(r.viewId).href = objUrl;
+        document.getElementById(r.downloadId).href = objUrl;
+      }));
+      links.style.display = 'block';
+    } catch (err) {
+      alert('Failed to retrieve data. Please try again.');
+    } finally {
+      button.disabled = false;
+      button.innerText = button.getAttribute('data-original') || 'Retry';
+      loader.style.display = 'none';
+    }
+  }
+
+  // Configs
+  document.getElementById('scrapeTodayBtn').setAttribute('data-original', 'Scrape Today');
+  document.getElementById('scrapeTomorrowBtn').setAttribute('data-original', 'Scrape Tomorrow');
+  document.getElementById('scrapeAnalysisBtn').setAttribute('data-original', 'Get Match Analysis');
+
+  document.getElementById('scrapeTodayBtn').addEventListener('click', () =>
+    handleScrape({
+      buttonId: 'scrapeTodayBtn',
+      loaderId: 'loaderToday',
+      linksId: 'downloadTodayLinks',
+      resources: [
+        { url: 'https://sparkling-sunset-e7d3.henrygreen311.workers.dev/api/today.json', type: 'application/json', downloadId: 'todayJsonDownload', viewId: 'viewTodayJson' },
+        { url: 'https://sparkling-sunset-e7d3.henrygreen311.workers.dev/api/today.txt', type: 'text/plain', downloadId: 'todayTxtDownload', viewId: 'viewTodayTxt' }
+      ]
+    }));
+
+  document.getElementById('scrapeTomorrowBtn').addEventListener('click', () =>
+    handleScrape({
+      buttonId: 'scrapeTomorrowBtn',
+      loaderId: 'loaderTomorrow',
+      linksId: 'downloadTomorrowLinks',
+      resources: [
+        { url: 'https://raw.githubusercontent.com/bugman51/LivescoreScraper/refs/heads/main/tomorrow.json', type: 'application/json', downloadId: 'tomorrowJsonDownload', viewId: 'viewTomorrowJson' },
+        { url: 'https://raw.githubusercontent.com/bugman51/LivescoreScraper/refs/heads/main/tomorrow.txt', type: 'text/plain', downloadId: 'tomorrowTxtDownload', viewId: 'viewTomorrowTxt' }
+      ]
+    }));
+
+  document.getElementById('scrapeAnalysisBtn').addEventListener('click', () =>
+    handleScrape({
+      buttonId: 'scrapeAnalysisBtn',
+      loaderId: 'loaderAnalysis',
+      linksId: 'downloadAnalysisLinks',
+      resources: [
+        { url: 'https://raw.githubusercontent.com/bugman51/LivescoreScraper/refs/heads/main/today_analysis.json', type: 'application/json', downloadId: 'todayAnalysisJsonDownload', viewId: 'viewTodayAnalysisJson' },
+        { url: 'https://raw.githubusercontent.com/bugman51/LivescoreScraper/refs/heads/main/today_analysis.txt', type: 'text/plain', downloadId: 'todayAnalysisTxtDownload', viewId: 'viewTodayAnalysisTxt' },
+        { url: 'https://raw.githubusercontent.com/bugman51/LivescoreScraper/refs/heads/main/tomorrow_analysis.json', type: 'application/json', downloadId: 'tomorrowAnalysisJsonDownload', viewId: 'viewTomorrowAnalysisJson' },
+        { url: 'https://raw.githubusercontent.com/bugman51/LivescoreScraper/refs/heads/main/tomorrow_analysis.txt', type: 'text/plain', downloadId: 'tomorrowAnalysisTxtDownload', viewId: 'viewTomorrowAnalysisTxt' }
+      ]
+    }));
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init({
+    duration: 1000,
+    once: true
+  });
+</script>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>

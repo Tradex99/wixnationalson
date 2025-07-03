@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Us - WiXnation Unlimited Football Scraper</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet" />
+  <style>
+    .hero-about {
+   background: url('assets/ball.jpg') no-repeat center center;
+      background-size: cover; min-height: 38vh;
+      position: relative; padding: 40px 20px;
+      display: flex; align-items: center; justify-content: center;
+      text-align: center;
+    }
+    .hero-overlay {
+      position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+      background-color: rgba(0, 0, 0, 0.65);
+      z-index: 1;
+    }
+    .hero-content {
+      position: relative; z-index: 2;
+    }
+    section {
+      padding: 60px 0;
+    }
+  </style>
+</head>
+<body>
+
+<header class="bg-black text-white">
+  <nav class="navbar navbar-dark container-fluid">
+    <div class="container-fluid d-flex justify-content-between align-items-center">
+      <a class="navbar-brand" href="index">
+        <img src="assets/wix.png" alt="Wix Logo" width="100" height="50">
+      </a>
+      <button class="btn btn-outline-light" onclick="history.back()">← Back</button>
+    </div>
+  </nav>
+
+  <div class="hero-about">
+    <div class="hero-overlay"></div>
+    <div class="hero-content container">
+      <h1 class="display-4 fw-bold">About WiXnation Scraper</h1>
+      <p class="lead">Empowering Data-Driven Decisions for Every Football Enthusiast</p>
+    </div>
+  </div>
+</header>
+
+<section class="bg-white text-dark">
+  <div class="container" data-aos="fade-up">
+    <h2 class="text-center mb-4">Our Mission</h2>
+    <p class="text-center mx-auto" style="max-width: 800px;">
+      At <strong>WiXnation</strong>, we are committed to transforming the way football data is accessed and analyzed. Our platform is engineered to deliver lightning-fast insights for today's and tomorrow's fixtures. Whether you're a data analyst, bettor, or football strategist, WiXnation empowers you with reliable, real-time data — no logins, no friction, just results.
+    </p>
+  </div>
+</section>
+
+<section class="bg-light">
+  <div class="container" data-aos="fade-up">
+    <h2 class="text-center mb-4">What We Offer</h2>
+    <div class="row text-center">
+      <div class="col-md-4 mb-4">
+        <h5 class="text-primary">⚽ Fixture Intelligence</h5>
+        <p>Extract matchday statistics with a single click — from head-to-head history to home/away forms.</p>
+      </div>
+      <div class="col-md-4 mb-4">
+        <h5 class="text-primary">📊 Predictive Analytics</h5>
+        <p>Get auto-generated predictions including Over/Under goals and win strength — backed by clean data models.</p>
+      </div>
+      <div class="col-md-4 mb-4">
+        <h5 class="text-primary">🛡️ Privacy First</h5>
+        <p>Our tools require no registration or cookies. Your usage is anonymous, secure, and unrestricted.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bg-white">
+  <div class="container" data-aos="fade-up">
+    <h2 class="text-center mb-4">Built for Speed & Simplicity</h2>
+    <p class="mx-auto text-center" style="max-width: 800px;">
+      We understand the value of time. Our scraper architecture is optimized for performance — delivering structured match data in under 10 seconds. With GitHub-powered endpoints and Cloudflare hosting, the platform ensures consistent uptime and transparency. Anyone can view the source and validate the process.
+    </p>
+  </div>
+</section>
+
+<section class="bg-dark text-white">
+  <div class="container" data-aos="fade-up">
+    <h2 class="text-center mb-4">Why Users Trust Us</h2>
+    <p class="text-center mx-auto" style="max-width: 800px;">
+      Users from across Africa and beyond rely on WiXnation daily for reliable data and clean insights. Our tool is consistently praised for its intuitive interface, speed, and commitment to accuracy.
+    </p>
+  </div>
+</section>
+
+<footer class="bg-black text-white pt-4 pb-3">
+  <div class="container text-center">
+    <div class="mb-3">
+      <img src="assets/wix.png" alt="WiXnation Logo" width="120">
+    </div>
+    <ul class="nav justify-content-center mb-3">
+      <li class="nav-item"><a href="index" class="nav-link text-white-50 px-3">Home</a></li>
+      <li class="nav-item"><a href="about-us" class="nav-link text-white-50 px-3">About</a></li>
+      <li class="nav-item"><a href="policy" class="nav-link text-white-50 px-3">Policy</a></li>
+      <li class="nav-item"><a href="service" class="nav-link text-white-50 px-3">Service</a></li>
+      <li class="nav-item"><a href="contact" class="nav-link text-white-50 px-3">Contact</a></li>
+    </ul>
+    <small class="text-white-50">&copy; <span id="year"></span> WiXnation Football Scraper. All rights reserved.</small>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init({ duration: 1000, once: true });
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>
