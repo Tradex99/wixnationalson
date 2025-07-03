@@ -3,7 +3,7 @@ name: Runner
 on:
   schedule:
     - cron: '0 0 * * *'   # Daily at midnight UTC
-  workflow_dispatch:        # Manual trigger
+  workflow_dispatch:        # Manual trigger from GitHub UI
 
 jobs:
   run-script:
@@ -31,17 +31,29 @@ jobs:
       - name: Make run.sh Executable
         run: chmod +x run.sh
 
-      - name: Run Bash Script
+      - name: Execute run.sh Script
         run: ./run.sh
 
-      - name: Push key.txt if it exists
+      - name: Push Files if They Exist
         run: |
-          if [ -f key.txt ]; then
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git add key.txt
-            git commit -m "Auto-commit: Add/Update key.txt [GitHub Actions]"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          files_to_commit=""
+
+          for file in today.json today.txt tomorrow.json tomorrow.txt key.txt; do
+            if [ -f "$file" ]; then
+              echo "$file found. Adding to commit."
+              git add "$file"
+              files_to_commit="true"
+            else
+              echo "$file not found. Skipping."
+            fi
+          done
+
+          if [ "$files_to_commit" = "true" ]; then
+            git commit -m "Auto-commit: Update generated output files"
             git push
           else
-            echo "key.txt not found skipping push."
-    
+            echo "No output files found skipping commit/push."
+          
