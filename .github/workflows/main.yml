@@ -41,7 +41,13 @@ jobs:
 
           files_to_commit=""
 
-          for file in today.json today.txt tomorrow.json tomorrow.txt key.txt; do
+          for file in \
+            today.json today.txt \
+            tomorrow.json tomorrow.txt \
+            key.txt \
+            today_analysis.json today_analysis.txt \
+            tomorrow_analysis.json tomorrow_analysis.txt; do
+
             if [ -f "$file" ]; then
               echo "$file found. Adding to commit."
               git add "$file"
