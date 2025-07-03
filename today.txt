@@ -529,67 +529,67 @@ No H2H data found
 
 Home last matches:
 HLM 1:
-Stage Name: Super League: Conference League Group
-Score: Aris 4 - 2 Asteras Tripolis
+Stage Name: Club Friendlies 2025
+Score: Aris 1 - 3 Livingston
 HLM 2:
 Stage Name: Super League: Conference League Group
-Score: OFI Crete 1 - 1 Aris
+Score: Aris 4 - 2 Asteras Tripolis
 HLM 3:
 Stage Name: Super League: Conference League Group
-Score: Atromitos 1 - 1 Aris
+Score: OFI Crete 1 - 1 Aris
 HLM 4:
 Stage Name: Super League: Conference League Group
-Score: Aris 1 - 0 Atromitos
+Score: Atromitos 1 - 1 Aris
 HLM 5:
 Stage Name: Super League: Conference League Group
-Score: Aris 2 - 0 OFI Crete
+Score: Aris 1 - 0 Atromitos
 HLM 6:
 Stage Name: Super League: Conference League Group
-Score: Asteras Tripolis 0 - 2 Aris
+Score: Aris 2 - 0 OFI Crete
 HLM 7:
-Stage Name: Super League
-Score: Aris 0 - 0 AEK Athens
+Stage Name: Super League: Conference League Group
+Score: Asteras Tripolis 0 - 2 Aris
 HLM 8:
 Stage Name: Super League
-Score: NFC Volos 1 - 1 Aris
+Score: Aris 0 - 0 AEK Athens
 HLM 9:
 Stage Name: Super League
-Score: Aris 2 - 1 Panetolikos
+Score: NFC Volos 1 - 1 Aris
 HLM 10:
 Stage Name: Super League
-Score: Levadiakos 4 - 1 Aris
+Score: Aris 2 - 1 Panetolikos
 
 Away last matches:
 ALM 1:
 Stage Name: Club Friendlies 2025
-Score: Alloa Athletic 1 - 3 Livingston
+Score: Aris 1 - 3 Livingston
 ALM 2:
-Stage Name: Premiership: Qualification
-Score: Ross County 2 - 4 Livingston
+Stage Name: Club Friendlies 2025
+Score: Alloa Athletic 1 - 3 Livingston
 ALM 3:
 Stage Name: Premiership: Qualification
-Score: Livingston 1 - 1 Ross County
+Score: Ross County 2 - 4 Livingston
 ALM 4:
 Stage Name: Premiership: Qualification
-Score: Livingston 2 - 0 Partick Thistle
+Score: Livingston 1 - 1 Ross County
 ALM 5:
 Stage Name: Premiership: Qualification
-Score: Partick Thistle 0 - 2 Livingston
+Score: Livingston 2 - 0 Partick Thistle
 ALM 6:
-Stage Name: Championship
-Score: Livingston 0 - 1 Partick Thistle
+Stage Name: Premiership: Qualification
+Score: Partick Thistle 0 - 2 Livingston
 ALM 7:
 Stage Name: Championship
-Score: Hamilton Academical 0 - 3 Livingston
+Score: Livingston 0 - 1 Partick Thistle
 ALM 8:
 Stage Name: Championship
-Score: Livingston 5 - 0 Ayr United
+Score: Hamilton Academical 0 - 3 Livingston
 ALM 9:
 Stage Name: Championship
-Score: Greenock Morton 1 - 2 Livingston
+Score: Livingston 5 - 0 Ayr United
 ALM 10:
 Stage Name: Championship
-Score: Livingston 3 - 0 Queen's Park
+Score: Greenock Morton 1 - 2 Livingston
 today.json updated
 
 Processing Fixtures 8 for today: Aris vs Livingston
