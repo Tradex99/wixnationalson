@@ -1,33 +1,39 @@
 OVER 1.5 STARTED HERE
 
-Teams: Spain Women vs Portugal Women
+Teams: Shelbourne vs Cork City
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Laferrere vs Villa San Carlos
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: Peoria City vs Des Moines Menace
-Analysis: All 9/9 H2H are over 1.5 Goals
+Teams: RFS vs FK Liepaja
+Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Lansing City Football vs Oakland County FC
-Analysis: All 8/8 H2H are over 1.5 Goals
+Teams: Tacoma Defiance vs The Town FC
+Analysis: All 9/9 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Nona FC vs Inter Gainesville KF
+Teams: Dinamo Moscow vs Partizan Beograd
 Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Green Gully Cavaliers vs Melbourne Victory Youth
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Caboolture FC vs Capalaba
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Logan Lightning vs Holland Park Hawks
+Analysis: All 10/10 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Westchester Flames vs FC Motown II
-Analysis: All 5/5 H2H are over 3.5 Goals
-
-Teams: Ballard FC vs Tacoma Stars
-Analysis: All 3/3 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Spain Women vs Portugal Women
-Analysis: Spain Women won all 5/5 H2H matches
-Winner: Spain Women
+Teams: Fortuna Sittard vs Genk
+Analysis: Genk won all 3/3 H2H matches
+Winner: Genk
 
-Teams: Nona FC vs Inter Gainesville KF
-Analysis: Nona FC won all 3/3 H2H matches
-Winner: Nona FC
+Teams: Green Gully Cavaliers vs Melbourne Victory Youth
+Analysis: Green Gully Cavaliers won all 3/3 H2H matches
+Winner: Green Gully Cavaliers
