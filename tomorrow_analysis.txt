@@ -1,128 +1,73 @@
 OVER 1.5 STARTED HERE
 
-Teams: Real Madrid vs Borussia Dortmund
+Teams: San Jose Earthquakes vs New York Red Bulls
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: LA Galaxy vs Vancouver Whitecaps
+Teams: Djurgaarden vs Degerfors
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Machida Zelvia vs Shimizu S-Pulse
-Analysis: All 5/5 H2H are over 1.5 Goals
+Teams: Elfsborg vs BK Haecken
+Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Kawasaki Frontale vs Kashima Antlers
+Teams: Canberra Croatia FC vs Tigers FC
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Fredericia vs Viborg
+Teams: St Albans Saints vs Melbourne Knights
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Sturm Graz vs Mura
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: O'Connor Knights vs Tuggeranong United
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Adamstown Rosebud FC vs Broadmeadow Magic
+Teams: Brisbane Strikers vs Redlands United
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Bankstown City Lions vs Inter Lions FC
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Blacktown Spartans vs Hakoah Sydney City East
+Teams: Talinna Kalev vs Tammeka
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: SD Raiders FC vs Bonnyrigg White Eagles
+Teams: KuPS Akatemia vs PK Keski-Uusimaa
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Atlantis vs FC Jazz
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: SWQ Thunder vs Rochedale Rovers
+Teams: Grobina vs FK Metta
 Analysis: All 8/8 H2H are over 1.5 Goals
 
-Teams: Santiago Wanderers vs Curico Unido
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: FC Tallinn vs Tartu JK Welco
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Vestri vs Valur
+Teams: IL Sandviken vs Brann 2
 Analysis: All 7/7 H2H are over 1.5 Goals
 
-Teams: Tochigi City FC vs FC Ryukyu
-Analysis: All 8/8 H2H are over 1.5 Goals
+Teams: Deportivo Coopsol vs Universidad San Martin
+Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Comerciantes Unidos vs Ayacucho FC
-Analysis: All 10/10 H2H are over 1.5 Goals
+Teams: Oakland Roots vs Detroit City FC
+Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: Christos FC vs Patuxent Football Athletics
+Teams: FC Cincinnati II vs New York City FC II
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Mississippi Brilla vs Little Rock Rangers
 Analysis: All 8/8 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Nice vs Lausanne
+Teams: Gungahlin United vs Yoogali Soccer Club
 Analysis: All 4/4 H2H are over 2.5 Goals
 
-Teams: Western Sydney Wanderers FC Youth vs APIA Leichhardt Tigers
-Analysis: All 6/6 H2H are over 2.5 Goals
+Teams: Ballard FC vs Midlakes United
+Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Adelaide United Youth vs Para Hills Knights
-Analysis: All 10/10 H2H are over 2.5 Goals
-
-Teams: Salisbury United vs The Cove
-Analysis: All 9/9 H2H are over 2.5 Goals
-
-Teams: Melbourne City FC Youth vs Western United FC Youth
-Analysis: All 5/5 H2H are over 2.5 Goals
-
-Teams: Omiya Ardija vs Iwaki FC
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Pors Football vs Arendal Fotball
-Analysis: All 6/6 H2H are over 2.5 Goals
-
-Teams: Gjoevik-Lyn vs Kongsvinger 2
-Analysis: All 5/5 H2H are over 2.5 Goals
-
-Teams: Brevard vs Brave SC
-Analysis: All 6/6 H2H are over 2.5 Goals
-
-Teams: Manhattan SC vs Morris Elite SC
-Analysis: All 4/4 H2H are over 2.5 Goals
+Teams: Davis Legacy vs Marin FC Legends
+Analysis: All 7/7 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Fremantle City FC vs Stirling Macedonia FC
-Analysis: All 4/4 H2H are over 3.5 Goals
-
-Teams: Rydalmere vs UNSW FC
-Analysis: All 3/3 H2H are over 3.5 Goals
-
-Teams: North Lakes United FC vs Taringa Rovers
-Analysis: All 5/5 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Cambuur vs Feyenoord
-Analysis: Feyenoord won all 10/10 H2H matches
-Winner: Feyenoord
+Teams: Nagano Parceiro vs FC Osaka
+Analysis: FC Osaka won all 4/4 H2H matches
+Winner: FC Osaka
 
-Teams: Deportivo Rincon vs Olimpo
-Analysis: Olimpo won all 3/3 H2H matches
-Winner: Olimpo
+Teams: Ballard FC vs Midlakes United
+Analysis: Ballard FC won all 3/3 H2H matches
+Winner: Ballard FC
 
-Teams: St George City vs Mt Druitt Town Rangers
-Analysis: St George City won all 3/3 H2H matches
-Winner: St George City
-
-Teams: TB Tvoeroyri vs NSI Runavik
-Analysis: NSI Runavik won all 10/10 H2H matches
-Winner: NSI Runavik
-
-Teams: Rhode Island vs Birmingham Legion
-Analysis: Rhode Island won all 3/3 H2H matches
-Winner: Rhode Island
-
-Teams: Manhattan SC vs Morris Elite SC
-Analysis: Manhattan SC won all 4/4 H2H matches
-Winner: Manhattan SC
-
-Teams: Virginia Beach United vs Charlottesville Blues
-Analysis: Virginia Beach United won all 3/3 H2H matches
-Winner: Virginia Beach United
+Teams: Redlands vs Southern California Seahorses
+Analysis: Redlands won all 5/5 H2H matches
+Winner: Redlands

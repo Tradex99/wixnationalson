@@ -1,39 +1,131 @@
 OVER 1.5 STARTED HERE
 
-Teams: Shelbourne vs Cork City
+Teams: Real Madrid vs Borussia Dortmund
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Laferrere vs Villa San Carlos
+Teams: LA Galaxy vs Vancouver Whitecaps
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Machida Zelvia vs Shimizu S-Pulse
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: RFS vs FK Liepaja
+Teams: Kawasaki Frontale vs Kashima Antlers
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Tacoma Defiance vs The Town FC
+Teams: Fredericia vs Viborg
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Sturm Graz vs Mura
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: O'Connor Knights vs Tuggeranong United
 Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: Adamstown Rosebud FC vs Broadmeadow Magic
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Bankstown City Lions vs Inter Lions FC
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: SD Raiders FC vs Bonnyrigg White Eagles
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: SWQ Thunder vs Rochedale Rovers
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Manningham United Blues vs Kingston City
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Santiago Wanderers vs Curico Unido
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: FC Tallinn vs Tartu JK Welco
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Vestri vs Valur
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Tochigi City FC vs FC Ryukyu
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Comerciantes Unidos vs Ayacucho FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Christos FC vs Patuxent Football Athletics
+Analysis: All 8/8 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Dinamo Moscow vs Partizan Beograd
-Analysis: All 3/3 H2H are over 2.5 Goals
+Teams: Nice vs Lausanne
+Analysis: All 4/4 H2H are over 2.5 Goals
 
-Teams: Green Gully Cavaliers vs Melbourne Victory Youth
-Analysis: All 3/3 H2H are over 2.5 Goals
+Teams: Western Sydney Wanderers FC Youth vs APIA Leichhardt Tigers
+Analysis: All 6/6 H2H are over 2.5 Goals
 
-Teams: Caboolture FC vs Capalaba
+Teams: Adelaide United Youth vs Para Hills Knights
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Salisbury United vs The Cove
+Analysis: All 9/9 H2H are over 2.5 Goals
+
+Teams: Melbourne City FC Youth vs Western United FC Youth
 Analysis: All 5/5 H2H are over 2.5 Goals
 
-Teams: Logan Lightning vs Holland Park Hawks
-Analysis: All 10/10 H2H are over 2.5 Goals
+Teams: Omiya Ardija vs Iwaki FC
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Pors Football vs Arendal Fotball
+Analysis: All 6/6 H2H are over 2.5 Goals
+
+Teams: Gjoevik-Lyn vs Kongsvinger 2
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Brevard vs Brave SC
+Analysis: All 6/6 H2H are over 2.5 Goals
+
+Teams: Manhattan SC vs Morris Elite SC
+Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Heracles vs Almelose Selectie
+Analysis: All 5/5 H2H are over 3.5 Goals
+
+Teams: Fremantle City FC vs Stirling Macedonia FC
+Analysis: All 4/4 H2H are over 3.5 Goals
+
+Teams: Rydalmere vs UNSW FC
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: North Lakes United FC vs Taringa Rovers
+Analysis: All 5/5 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Fortuna Sittard vs Genk
-Analysis: Genk won all 3/3 H2H matches
-Winner: Genk
+Teams: Cambuur vs Feyenoord
+Analysis: Feyenoord won all 10/10 H2H matches
+Winner: Feyenoord
 
-Teams: Green Gully Cavaliers vs Melbourne Victory Youth
-Analysis: Green Gully Cavaliers won all 3/3 H2H matches
-Winner: Green Gully Cavaliers
+Teams: Deportivo Rincon vs Olimpo
+Analysis: Olimpo won all 3/3 H2H matches
+Winner: Olimpo
+
+Teams: St George City vs Mt Druitt Town Rangers
+Analysis: St George City won all 3/3 H2H matches
+Winner: St George City
+
+Teams: TB Tvoeroyri vs NSI Runavik
+Analysis: NSI Runavik won all 10/10 H2H matches
+Winner: NSI Runavik
+
+Teams: Rhode Island vs Birmingham Legion
+Analysis: Rhode Island won all 3/3 H2H matches
+Winner: Rhode Island
+
+Teams: Manhattan SC vs Morris Elite SC
+Analysis: Manhattan SC won all 4/4 H2H matches
+Winner: Manhattan SC
+
+Teams: Virginia Beach United vs Charlottesville Blues
+Analysis: Virginia Beach United won all 3/3 H2H matches
+Winner: Virginia Beach United
