@@ -1,73 +1,35 @@
 OVER 1.5 STARTED HERE
 
-Teams: San Jose Earthquakes vs New York Red Bulls
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Djurgaarden vs Degerfors
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Elfsborg vs BK Haecken
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Canberra Croatia FC vs Tigers FC
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: St Albans Saints vs Melbourne Knights
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Brisbane Strikers vs Redlands United
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Talinna Kalev vs Tammeka
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: KuPS Akatemia vs PK Keski-Uusimaa
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Atlantis vs FC Jazz
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Grobina vs FK Metta
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: IL Sandviken vs Brann 2
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Deportivo Coopsol vs Universidad San Martin
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Oakland Roots vs Detroit City FC
+Teams: Spain Women vs Belgium Women
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: FC Cincinnati II vs New York City FC II
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Mississippi Brilla vs Little Rock Rangers
-Analysis: All 8/8 H2H are over 1.5 Goals
+Teams: Real Monarchs SLC vs St. Louis City II
+Analysis: All 5/5 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Gungahlin United vs Yoogali Soccer Club
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Ballard FC vs Midlakes United
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Davis Legacy vs Marin FC Legends
-Analysis: All 7/7 H2H are over 2.5 Goals
-
 OVER 3.5 STARTED HERE
+
+Teams: Hill Country Lobos vs Twin City Toucans
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: Oly Town FC vs Tacoma Stars
+Analysis: All 3/3 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Nagano Parceiro vs FC Osaka
-Analysis: FC Osaka won all 4/4 H2H matches
-Winner: FC Osaka
+Teams: Spain Women vs Belgium Women
+Analysis: Spain Women won all 5/5 H2H matches
+Winner: Spain Women
 
-Teams: Ballard FC vs Midlakes United
-Analysis: Ballard FC won all 3/3 H2H matches
-Winner: Ballard FC
+Teams: Portugal Women vs Italy Women
+Analysis: Italy Women won all 3/3 H2H matches
+Winner: Italy Women
 
-Teams: Redlands vs Southern California Seahorses
-Analysis: Redlands won all 5/5 H2H matches
-Winner: Redlands
+Teams: Real Monarchs SLC vs St. Louis City II
+Analysis: St. Louis City II won all 5/5 H2H matches
+Winner: St. Louis City II
+
+Teams: Hill Country Lobos vs Twin City Toucans
+Analysis: Twin City Toucans won all 3/3 H2H matches
+Winner: Twin City Toucans
