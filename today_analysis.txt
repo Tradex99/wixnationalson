@@ -1,35 +1,32 @@
 OVER 1.5 STARTED HERE
 
-Teams: Spain Women vs Belgium Women
+Teams: Poland Women vs Sweden Women
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: Real Monarchs SLC vs St. Louis City II
-Analysis: All 5/5 H2H are over 1.5 Goals
+Teams: Vermont Green FC vs Albany Rush
+Analysis: All 6/6 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
+Teams: Japan vs Hong Kong
+Analysis: All 3/3 H2H are over 2.5 Goals
+
 OVER 3.5 STARTED HERE
-
-Teams: Hill Country Lobos vs Twin City Toucans
-Analysis: All 3/3 H2H are over 3.5 Goals
-
-Teams: Oly Town FC vs Tacoma Stars
-Analysis: All 3/3 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Spain Women vs Belgium Women
-Analysis: Spain Women won all 5/5 H2H matches
-Winner: Spain Women
+Teams: Poland Women vs Sweden Women
+Analysis: Sweden Women won all 5/5 H2H matches
+Winner: Sweden Women
 
-Teams: Portugal Women vs Italy Women
-Analysis: Italy Women won all 3/3 H2H matches
-Winner: Italy Women
+Teams: Japan vs Hong Kong
+Analysis: Japan won all 3/3 H2H matches
+Winner: Japan
 
-Teams: Real Monarchs SLC vs St. Louis City II
-Analysis: St. Louis City II won all 5/5 H2H matches
-Winner: St. Louis City II
+Teams: Brevard vs Nona FC
+Analysis: Nona FC won all 8/8 H2H matches
+Winner: Nona FC
 
-Teams: Hill Country Lobos vs Twin City Toucans
-Analysis: Twin City Toucans won all 3/3 H2H matches
-Winner: Twin City Toucans
+Teams: Vermont Green FC vs Albany Rush
+Analysis: Vermont Green FC won all 6/6 H2H matches
+Winner: Vermont Green FC
