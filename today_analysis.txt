@@ -1,32 +1,55 @@
 OVER 1.5 STARTED HERE
 
-Teams: Poland Women vs Sweden Women
-Analysis: All 5/5 H2H are over 1.5 Goals
+Teams: Austria Wien vs Floridsdorfer AC
+Analysis: All 8/8 H2H are over 1.5 Goals
 
-Teams: Vermont Green FC vs Albany Rush
-Analysis: All 6/6 H2H are over 1.5 Goals
+Teams: Weston Workers vs Lambton Jaffas FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Eastern Suburbs vs Lions FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Minnesota United vs Chicago Fire
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Lehigh Valley United vs West Chester United
+Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Japan vs Hong Kong
+Teams: Western United FC Youth vs Bulleen Lions
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: KFUM 2 vs Frigg
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Hudson Valley Hammers vs Long Island Rough Riders
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Ironbound vs Manhattan SC
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Hattiesburg FC vs Louisiana Krewe
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Midlakes United vs Lane United FC
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Hill Country Lobos vs Twin City Toucans
+Analysis: All 3/3 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Poland Women vs Sweden Women
-Analysis: Sweden Women won all 5/5 H2H matches
-Winner: Sweden Women
+Teams: France Women vs Wales Women
+Analysis: France Women won all 4/4 H2H matches
+Winner: France Women
 
-Teams: Japan vs Hong Kong
-Analysis: Japan won all 3/3 H2H matches
-Winner: Japan
+Teams: Chicago Dutch Lions FC vs River Light FC
+Analysis: River Light FC won all 3/3 H2H matches
+Winner: River Light FC
 
-Teams: Brevard vs Nona FC
-Analysis: Nona FC won all 8/8 H2H matches
-Winner: Nona FC
-
-Teams: Vermont Green FC vs Albany Rush
-Analysis: Vermont Green FC won all 6/6 H2H matches
-Winner: Vermont Green FC
+Teams: Hill Country Lobos vs Twin City Toucans
+Analysis: Twin City Toucans won all 3/3 H2H matches
+Winner: Twin City Toucans
