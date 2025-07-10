@@ -1,73 +1,44 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Austria Wien vs Floridsdorfer AC",
+      "teams": "Huachipato vs Deportes Concepcion",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Ranheim 2 vs Melhus",
       "analysis": "All 8/8 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Weston Workers vs Lambton Jaffas FC",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
+      "teams": "Ventura County Fusion vs Redlands",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Eastern Suburbs vs Lions FC",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Minnesota United vs Chicago Fire",
+      "teams": "San Francisco City vs Project 51O",
       "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Lehigh Valley United vs West Chester United",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Western United FC Youth vs Bulleen Lions",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "KFUM 2 vs Frigg",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Hudson Valley Hammers vs Long Island Rough Riders",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Ironbound vs Manhattan SC",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
       "teams": "Hattiesburg FC vs Louisiana Krewe",
       "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Midlakes United vs Lane United FC",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "Hill Country Lobos vs Twin City Toucans",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "France Women vs Wales Women",
-      "winner": "France Women",
-      "analysis": "France Women won all 4/4 H2H matches"
+      "teams": "FC Rapperswil-Jona vs Basel",
+      "winner": "Basel",
+      "analysis": "Basel won all 3/3 H2H matches"
     },
     {
-      "teams": "Chicago Dutch Lions FC vs River Light FC",
-      "winner": "River Light FC",
-      "analysis": "River Light FC won all 3/3 H2H matches"
+      "teams": "Albion SC Colorado vs CISA",
+      "winner": "Albion SC Colorado",
+      "analysis": "Albion SC Colorado won all 4/4 H2H matches"
     },
     {
-      "teams": "Hill Country Lobos vs Twin City Toucans",
-      "winner": "Twin City Toucans",
-      "analysis": "Twin City Toucans won all 3/3 H2H matches"
+      "teams": "Tennessee SC vs Birmingham Legion FC 2",
+      "winner": "Tennessee SC",
+      "analysis": "Tennessee SC won all 3/3 H2H matches"
     }
   ]
 }

@@ -1,31 +1,46 @@
 OVER 1.5 STARTED HERE
 
-Teams: Huachipato vs Deportes Concepcion
-Analysis: All 6/6 H2H are over 1.5 Goals
+Teams: Sandhausen vs Freiburg
+Analysis: All 9/9 H2H are over 1.5 Goals
 
-Teams: Ranheim 2 vs Melhus
-Analysis: All 8/8 H2H are over 1.5 Goals
+Teams: Manly United vs Blacktown City FC
+Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Ventura County Fusion vs Redlands
-Analysis: All 6/6 H2H are over 1.5 Goals
+Teams: University Azzurri FC vs Darwin Olympic
+Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: San Francisco City vs Project 51O
+Teams: Blacktown Spartans vs Bankstown City Lions
 Analysis: All 7/7 H2H are over 1.5 Goals
 
+Teams: Southside Eagles vs Caboolture FC
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: UMF Selfoss vs Fylkir
+Analysis: All 10/10 H2H are over 1.5 Goals
+
 OVER 2.5 STARTED HERE
+
+Teams: Telstar vs SC Heerenveen
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Hellenic vs Garuda FC
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Christos FC vs Virginia Marauders
+Analysis: All 6/6 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: FC Rapperswil-Jona vs Basel
-Analysis: Basel won all 3/3 H2H matches
-Winner: Basel
+Teams: Telstar vs SC Heerenveen
+Analysis: SC Heerenveen won all 5/5 H2H matches
+Winner: SC Heerenveen
 
-Teams: Albion SC Colorado vs CISA
-Analysis: Albion SC Colorado won all 4/4 H2H matches
-Winner: Albion SC Colorado
+Teams: Hong Kong vs South Korea
+Analysis: South Korea won all 3/3 H2H matches
+Winner: South Korea
 
-Teams: Tennessee SC vs Birmingham Legion FC 2
-Analysis: Tennessee SC won all 3/3 H2H matches
-Winner: Tennessee SC
+Teams: Hellenic vs Garuda FC
+Analysis: Hellenic won all 4/4 H2H matches
+Winner: Hellenic
