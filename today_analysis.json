@@ -1,44 +1,60 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Huachipato vs Deportes Concepcion",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
+      "teams": "Sandhausen vs Freiburg",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Ranheim 2 vs Melhus",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
+      "teams": "Manly United vs Blacktown City FC",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Ventura County Fusion vs Redlands",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
+      "teams": "University Azzurri FC vs Darwin Olympic",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "San Francisco City vs Project 51O",
+      "teams": "Blacktown Spartans vs Bankstown City Lions",
       "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Southside Eagles vs Caboolture FC",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "UMF Selfoss vs Fylkir",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Hattiesburg FC vs Louisiana Krewe",
+      "teams": "Telstar vs SC Heerenveen",
+      "analysis": "All 5/5 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Hellenic vs Garuda FC",
       "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Christos FC vs Virginia Marauders",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "FC Rapperswil-Jona vs Basel",
-      "winner": "Basel",
-      "analysis": "Basel won all 3/3 H2H matches"
+      "teams": "Telstar vs SC Heerenveen",
+      "winner": "SC Heerenveen",
+      "analysis": "SC Heerenveen won all 5/5 H2H matches"
     },
     {
-      "teams": "Albion SC Colorado vs CISA",
-      "winner": "Albion SC Colorado",
-      "analysis": "Albion SC Colorado won all 4/4 H2H matches"
+      "teams": "Hong Kong vs South Korea",
+      "winner": "South Korea",
+      "analysis": "South Korea won all 3/3 H2H matches"
     },
     {
-      "teams": "Tennessee SC vs Birmingham Legion FC 2",
-      "winner": "Tennessee SC",
-      "analysis": "Tennessee SC won all 3/3 H2H matches"
+      "teams": "Hellenic vs Garuda FC",
+      "winner": "Hellenic",
+      "analysis": "Hellenic won all 4/4 H2H matches"
     }
   ]
 }

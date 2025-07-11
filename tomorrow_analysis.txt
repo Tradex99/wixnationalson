@@ -1,46 +1,146 @@
 OVER 1.5 STARTED HERE
 
-Teams: Sandhausen vs Freiburg
+Teams: Basel vs Winterthur
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Mt Druitt Town Rangers vs Sydney FC Youth
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Adamstown Rosebud FC vs Newcastle Olympic
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Devonport City vs Clarence Zebras
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Armadale vs Bayswater City
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Canterbury Bankstown FC vs SD Raiders FC
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Deportivo Pasto vs Tolima
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: KuPS W vs PK-35 Helsinki W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Galway United FC W vs Sligo Rovers W
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: FC Ryukyu vs Gainare Tottori
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Club Leon W vs Tijuana W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FC Milsami Orhei vs CS Petrocub
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Aalesund 2 vs Byaasen
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Stranraer vs Ross County
 Analysis: All 9/9 H2H are over 1.5 Goals
 
-Teams: Manly United vs Blacktown City FC
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: University Azzurri FC vs Darwin Olympic
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Blacktown Spartans vs Bankstown City Lions
+Teams: Uruguay Montevideo vs Cerrito
 Analysis: All 7/7 H2H are over 1.5 Goals
 
-Teams: Southside Eagles vs Caboolture FC
-Analysis: All 7/7 H2H are over 1.5 Goals
+Teams: Morris Elite SC vs Hudson Valley Hammers
+Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: UMF Selfoss vs Fylkir
+Teams: Reading United A.C. vs Lehigh Valley United
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Telstar vs SC Heerenveen
-Analysis: All 5/5 H2H are over 2.5 Goals
+Teams: Centro Espanol vs Yupanqui
+Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Hellenic vs Garuda FC
+Teams: Wolves FC vs Olympic FC
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Kingborough Lions vs Launceston United
+Analysis: All 7/7 H2H are over 2.5 Goals
+
+Teams: Western Knights vs Olympic Kingsway
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Souths United vs Pine Hills
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Kongsvinger 2 vs Nordstrand
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Mokpo City vs Yeoju Sejong
 Analysis: All 4/4 H2H are over 2.5 Goals
 
-Teams: Christos FC vs Virginia Marauders
-Analysis: All 6/6 H2H are over 2.5 Goals
+Teams: Elgin City vs Raith Rovers
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Inter Gainesville KF vs Nona FC
+Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Capalaba vs Broadbeach United
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: KFG Gardabaer vs Vikingur Olafsvik
+Analysis: All 5/5 H2H are over 3.5 Goals
+
+Teams: Treaty United W vs Shamrock Rovers W
+Analysis: All 5/5 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Telstar vs SC Heerenveen
-Analysis: SC Heerenveen won all 5/5 H2H matches
-Winner: SC Heerenveen
+Teams: Grazer AK vs ASK Voitsberg
+Analysis: Grazer AK won all 3/3 H2H matches
+Winner: Grazer AK
 
-Teams: Hong Kong vs South Korea
-Analysis: South Korea won all 3/3 H2H matches
-Winner: South Korea
+Teams: Umraniyespor vs Galatasaray
+Analysis: Galatasaray won all 7/7 H2H matches
+Winner: Galatasaray
 
-Teams: Hellenic vs Garuda FC
-Analysis: Hellenic won all 4/4 H2H matches
-Winner: Hellenic
+Teams: Kingborough Lions vs Launceston United
+Analysis: Kingborough Lions won all 7/7 H2H matches
+Winner: Kingborough Lions
+
+Teams: Capalaba vs Broadbeach United
+Analysis: Broadbeach United won all 3/3 H2H matches
+Winner: Broadbeach United
+
+Teams: North Star FC vs North Lakes United FC
+Analysis: North Star FC won all 5/5 H2H matches
+Winner: North Star FC
+
+Teams: PK Keski-Uusimaa vs KPV
+Analysis: KPV won all 4/4 H2H matches
+Winner: KPV
+
+Teams: Galway United FC W vs Sligo Rovers W
+Analysis: Galway United FC W won all 5/5 H2H matches
+Winner: Galway United FC W
+
+Teams: Kongsvinger 2 vs Nordstrand
+Analysis: Kongsvinger 2 won all 3/3 H2H matches
+Winner: Kongsvinger 2
+
+Teams: CD UT Cajamarca vs Alianza Lima
+Analysis: Alianza Lima won all 4/4 H2H matches
+Winner: Alianza Lima
+
+Teams: Elgin City vs Raith Rovers
+Analysis: Raith Rovers won all 3/3 H2H matches
+Winner: Raith Rovers
+
+Teams: Clyde vs Motherwell
+Analysis: Motherwell won all 4/4 H2H matches
+Winner: Motherwell
+
+Teams: Seacoast United Phantoms vs Albany Rush
+Analysis: Seacoast United Phantoms won all 5/5 H2H matches
+Winner: Seacoast United Phantoms
+
+Teams: Inter Gainesville KF vs Nona FC
+Analysis: Nona FC won all 3/3 H2H matches
+Winner: Nona FC
