@@ -1,112 +1,47 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Brann vs Viking",
+      "teams": "IA Akranes vs KR Reykjavik",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "IF Gnistan vs FC Haka J",
-      "analysis": "All 9/9 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Victoriano Arenas vs Canuelas",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "St George FC vs St George City",
+      "teams": "Tigres W vs Toluca W",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Deportes Temuco vs Deportes Concepcion",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Talinna Kalev vs Harju Jalgpallikool",
+      "teams": "Colorado Rapids II vs Vancouver Whitecaps II",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "SalPa vs KaPa Kapylan Pallo",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "CF America W vs Cruz Azul W",
+      "teams": "Houston Dynamo II vs North Texas SC",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Sportivo Trinidense vs Olimpia",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Minnesota United II vs Real Monarchs SLC",
+      "teams": "Los Angeles FC II vs Portland Timbers II",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Inter Miami CF II vs Crown Legacy",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Westchester Flames vs Long Island Rough Riders",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Urena SC vs Real Frontera",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "CAPS United vs Triangle FC",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Highlanders vs GreenFuel FC",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Yoogali Soccer Club vs Tigers FC",
+      "teams": "Brann 2 vs Jerv",
       "analysis": "All 5/5 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Monterey Bay FC 2 vs Marin FC Legends",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
+      "teams": "Amsg FC vs Ventura County Fusion",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "JJK Jyvaskyla vs OLS",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Preston North End vs Liverpool",
-      "winner": "Liverpool",
-      "analysis": "Liverpool won all 4/4 H2H matches"
+      "teams": "Amsg FC vs Ventura County Fusion",
+      "winner": "Ventura County Fusion",
+      "analysis": "Ventura County Fusion won all 3/3 H2H matches"
     },
     {
-      "teams": "Arsenal Sarandi vs Racing de Cordoba",
-      "winner": "Racing de Cordoba",
-      "analysis": "Racing de Cordoba won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Chinese Taipei W vs China W",
-      "winner": "China W",
-      "analysis": "China W won all 4/4 H2H matches"
-    },
-    {
-      "teams": "EIF vs SJK Akatemia",
-      "winner": "EIF",
-      "analysis": "EIF won all 8/8 H2H matches"
-    },
-    {
-      "teams": "Tobol Kostanay vs Okzhetpes Kokshetau",
-      "winner": "Tobol Kostanay",
-      "analysis": "Tobol Kostanay won all 10/10 H2H matches"
-    },
-    {
-      "teams": "Westchester Flames vs Long Island Rough Riders",
-      "winner": "Long Island Rough Riders",
-      "analysis": "Long Island Rough Riders won all 10/10 H2H matches"
+      "teams": "Nona FC vs Inter Gainesville KF",
+      "winner": "Nona FC",
+      "analysis": "Nona FC won all 4/4 H2H matches"
     }
   ]
 }
