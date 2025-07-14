@@ -1,36 +1,17 @@
 OVER 1.5 STARTED HERE
 
-Teams: IA Akranes vs KR Reykjavik
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Tigres W vs Toluca W
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Colorado Rapids II vs Vancouver Whitecaps II
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Houston Dynamo II vs North Texas SC
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Los Angeles FC II vs Portland Timbers II
-Analysis: All 6/6 H2H are over 1.5 Goals
-
 OVER 2.5 STARTED HERE
 
-Teams: Brann 2 vs Jerv
-Analysis: All 5/5 H2H are over 2.5 Goals
-
-Teams: Amsg FC vs Ventura County Fusion
+Teams: Cove Rangers vs Spartans
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Sassuolo vs Real Vicenza
+Analysis: All 5/5 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Amsg FC vs Ventura County Fusion
-Analysis: Ventura County Fusion won all 3/3 H2H matches
-Winner: Ventura County Fusion
-
-Teams: Nona FC vs Inter Gainesville KF
-Analysis: Nona FC won all 4/4 H2H matches
-Winner: Nona FC
+Teams: Sassuolo vs Real Vicenza
+Analysis: Sassuolo won all 5/5 H2H matches
+Winner: Sassuolo

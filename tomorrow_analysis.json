@@ -1,47 +1,22 @@
 {
-  "OVER 1.5 STARTED HERE": [
-    {
-      "teams": "IA Akranes vs KR Reykjavik",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Tigres W vs Toluca W",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Colorado Rapids II vs Vancouver Whitecaps II",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Houston Dynamo II vs North Texas SC",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Los Angeles FC II vs Portland Timbers II",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    }
-  ],
+  "OVER 1.5 STARTED HERE": [],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Brann 2 vs Jerv",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Amsg FC vs Ventura County Fusion",
+      "teams": "Cove Rangers vs Spartans",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [],
+  "OVER 3.5 STARTED HERE": [
+    {
+      "teams": "Sassuolo vs Real Vicenza",
+      "analysis": "All 5/5 H2H are over 3.5 Goals"
+    }
+  ],
   "WIN STARTED HERE": [
     {
-      "teams": "Amsg FC vs Ventura County Fusion",
-      "winner": "Ventura County Fusion",
-      "analysis": "Ventura County Fusion won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Nona FC vs Inter Gainesville KF",
-      "winner": "Nona FC",
-      "analysis": "Nona FC won all 4/4 H2H matches"
+      "teams": "Sassuolo vs Real Vicenza",
+      "winner": "Sassuolo",
+      "analysis": "Sassuolo won all 5/5 H2H matches"
     }
   ]
 }
