@@ -1,22 +1,56 @@
 {
-  "OVER 1.5 STARTED HERE": [],
+  "OVER 1.5 STARTED HERE": [
+    {
+      "teams": "Orlando City vs New York City FC",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Philadelphia Union vs CF Montreal",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Kyoto Sanga FC vs Yokohama FC",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Shonan Bellmare vs Shimizu S-Pulse",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Ajax vs PAOK FC",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Grasshopper vs FC Rapperswil-Jona",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "New York City FC II vs Toronto FC II",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    }
+  ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Cove Rangers vs Spartans",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
+      "teams": "Kashima Antlers vs V-Varen Nagasaki",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "Sassuolo vs Real Vicenza",
-      "analysis": "All 5/5 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Sassuolo vs Real Vicenza",
-      "winner": "Sassuolo",
-      "analysis": "Sassuolo won all 5/5 H2H matches"
+      "teams": "Kashima Antlers vs V-Varen Nagasaki",
+      "winner": "Kashima Antlers",
+      "analysis": "Kashima Antlers won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Nagoya Grampus Eight vs Roasso Kumamoto",
+      "winner": "Nagoya Grampus Eight",
+      "analysis": "Nagoya Grampus Eight won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Cooks Hill United FC vs Broadmeadow Magic",
+      "winner": "Broadmeadow Magic",
+      "analysis": "Broadmeadow Magic won all 6/6 H2H matches"
     }
   ]
 }

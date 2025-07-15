@@ -1,17 +1,43 @@
 OVER 1.5 STARTED HERE
 
+Teams: Orlando City vs New York City FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Philadelphia Union vs CF Montreal
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Kyoto Sanga FC vs Yokohama FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Shonan Bellmare vs Shimizu S-Pulse
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Ajax vs PAOK FC
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Grasshopper vs FC Rapperswil-Jona
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: New York City FC II vs Toronto FC II
+Analysis: All 10/10 H2H are over 1.5 Goals
+
 OVER 2.5 STARTED HERE
 
-Teams: Cove Rangers vs Spartans
-Analysis: All 3/3 H2H are over 2.5 Goals
+Teams: Kashima Antlers vs V-Varen Nagasaki
+Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Sassuolo vs Real Vicenza
-Analysis: All 5/5 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Sassuolo vs Real Vicenza
-Analysis: Sassuolo won all 5/5 H2H matches
-Winner: Sassuolo
+Teams: Kashima Antlers vs V-Varen Nagasaki
+Analysis: Kashima Antlers won all 4/4 H2H matches
+Winner: Kashima Antlers
+
+Teams: Nagoya Grampus Eight vs Roasso Kumamoto
+Analysis: Nagoya Grampus Eight won all 3/3 H2H matches
+Winner: Nagoya Grampus Eight
+
+Teams: Cooks Hill United FC vs Broadmeadow Magic
+Analysis: Broadmeadow Magic won all 6/6 H2H matches
+Winner: Broadmeadow Magic
