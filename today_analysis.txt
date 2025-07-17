@@ -1,17 +1,27 @@
 OVER 1.5 STARTED HERE
 
-OVER 2.5 STARTED HERE
+Teams: Orlando City vs New York City FC
+Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Cove Rangers vs Spartans
-Analysis: All 3/3 H2H are over 2.5 Goals
+Teams: San Jose Earthquakes vs FC Dallas
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: CF America vs Tijuana
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: KuPS W vs Jypk W
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+OVER 2.5 STARTED HERE
 
 OVER 3.5 STARTED HERE
 
-Teams: Sassuolo vs Real Vicenza
-Analysis: All 5/5 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Sassuolo vs Real Vicenza
-Analysis: Sassuolo won all 5/5 H2H matches
-Winner: Sassuolo
+Teams: Aktobe vs Legia Warszawa
+Analysis: Legia Warszawa won all 3/3 H2H matches
+Winner: Legia Warszawa
+
+Teams: KuPS W vs Jypk W
+Analysis: KuPS W won all 7/7 H2H matches
+Winner: KuPS W
