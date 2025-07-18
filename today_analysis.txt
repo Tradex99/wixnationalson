@@ -1,27 +1,57 @@
 OVER 1.5 STARTED HERE
 
-Teams: Orlando City vs New York City FC
+Teams: Spain Women vs Switzerland Women
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: FC KTP vs FC Inter Turku
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: San Jose Earthquakes vs FC Dallas
+Teams: Modbury Jets vs FK Beograd
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: CF America vs Tijuana
-Analysis: All 10/10 H2H are over 1.5 Goals
+Teams: West Torrens Birkalla vs Adelaide United Youth
+Analysis: All 9/9 H2H are over 1.5 Goals
 
-Teams: KuPS W vs Jypk W
+Teams: Brunswick City vs Manningham United Blues
 Analysis: All 7/7 H2H are over 1.5 Goals
 
+Teams: SK Dynamo Ceske Budejovice vs FC Zbrojovka Brno
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FCI Levadia U21 vs Talinna Kalev U21
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Leiknir Reykjavik vs Throttur Reykjavik
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Shamrock Rovers vs Wexford FC
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: FC Astana vs FC Turan
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Alianza Atletico vs Sport Huancayo
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Radomlje vs Aluminij
+Analysis: All 10/10 H2H are over 1.5 Goals
+
 OVER 2.5 STARTED HERE
+
+Teams: Garuda FC vs University Azzurri FC
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Uruguay W vs Peru W
+Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: Aktobe vs Legia Warszawa
-Analysis: Legia Warszawa won all 3/3 H2H matches
-Winner: Legia Warszawa
+Teams: Erzgebirge Aue vs Borussia M'gladbach
+Analysis: Borussia M'gladbach won all 4/4 H2H matches
+Winner: Borussia M'gladbach
 
-Teams: KuPS W vs Jypk W
-Analysis: KuPS W won all 7/7 H2H matches
-Winner: KuPS W
+Teams: Uruguay W vs Peru W
+Analysis: Uruguay W won all 3/3 H2H matches
+Winner: Uruguay W
