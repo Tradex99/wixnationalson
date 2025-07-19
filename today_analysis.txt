@@ -1,57 +1,188 @@
 OVER 1.5 STARTED HERE
 
-Teams: Spain Women vs Switzerland Women
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: FC KTP vs FC Inter Turku
+Teams: Columbus Crew vs DC United
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Modbury Jets vs FK Beograd
+Teams: New England Revolution vs Orlando City
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: West Torrens Birkalla vs Adelaide United Youth
-Analysis: All 9/9 H2H are over 1.5 Goals
+Teams: Oesters IF vs Malmo FF
+Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Brunswick City vs Manningham United Blues
+Teams: Jablonec vs Sparta Prague
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Beijing Guoan vs Shanghai Shenhua
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Oud-Heverlee Leuven vs RFC Seraing
 Analysis: All 7/7 H2H are over 1.5 Goals
 
-Teams: SK Dynamo Ceske Budejovice vs FC Zbrojovka Brno
+Teams: RKC Waalwijk vs FC Utrecht
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: FCI Levadia U21 vs Talinna Kalev U21
+Teams: Wollongong Wolves vs Manly United
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Leiknir Reykjavik vs Throttur Reykjavik
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Shamrock Rovers vs Wexford FC
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: FC Astana vs FC Turan
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Alianza Atletico vs Sport Huancayo
+Teams: St George City vs Marconi Stallions
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: Radomlje vs Aluminij
+Teams: Brisbane City vs Lions FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Adelaide Comets vs Adelaide Raiders
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Glenorchy Knights vs Launceston United
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Stirling Macedonia FC vs Sorrento
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Darwin Olympic vs Casuarina
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Rydalmere vs Hills United FC
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Mitchelton vs Souths United
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Samford Rangers vs Taringa Rovers
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Colo Colo vs La Serena
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: SJK Akatemia vs JaePS
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Gainare Tottori vs Azul Claro Numazu
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FC Juarez W vs Puebla W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Dacia-2 Buiucani vs FC Milsami Orhei
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Stord vs Sandnes 2
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Universidad San Martin vs Deportivo Coopsol
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Jeonnam Dragons vs Suwon Bluewings
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Sandvikens IF vs Vasteraas SK
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Sporting Kansas City II vs North Texas SC
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: Crown Legacy vs Philadelphia Union II
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Monagas SC vs Estudiantes Merida
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Real Frontera vs Academia Rey
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Garuda FC vs University Azzurri FC
+Teams: Jeju United vs FC Anyang
 Analysis: All 5/5 H2H are over 2.5 Goals
 
-Teams: Uruguay W vs Peru W
+Teams: Kickers Emden vs Werder Bremen
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Clarence Zebras vs Kingborough Lions
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Olympic Kingsway vs Armadale
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Perth Glory Youth vs Western Knights
 Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: UNSW FC vs Blacktown Spartans
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: North Lakes United FC vs Maroochydore FC
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Fjoera vs Os
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Cusco FC vs Alianza Lima
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Chattanooga FC vs Inter Miami CF II
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Carolina Core vs Atlanta United II
+Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Hakoah Sydney City East vs Inter Lions FC
+Analysis: All 5/5 H2H are over 3.5 Goals
+
+Teams: Broadbeach United vs Brisbane Strikers
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: Logan Lightning vs Redlands United
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: South Adelaide vs Salisbury United
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: Vindbjart vs Vaag
+Analysis: All 6/6 H2H are over 3.5 Goals
+
+Teams: Portland Timbers II vs Minnesota United II
+Analysis: All 6/6 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Erzgebirge Aue vs Borussia M'gladbach
-Analysis: Borussia M'gladbach won all 4/4 H2H matches
-Winner: Borussia M'gladbach
+Teams: Kickers Emden vs Werder Bremen
+Analysis: Werder Bremen won all 4/4 H2H matches
+Winner: Werder Bremen
 
-Teams: Uruguay W vs Peru W
-Analysis: Uruguay W won all 3/3 H2H matches
-Winner: Uruguay W
+Teams: Claypole vs Mercedes
+Analysis: Claypole won all 3/3 H2H matches
+Winner: Claypole
+
+Teams: Glenorchy Knights vs Launceston United
+Analysis: Glenorchy Knights won all 7/7 H2H matches
+Winner: Glenorchy Knights
+
+Teams: South Adelaide vs Salisbury United
+Analysis: South Adelaide won all 3/3 H2H matches
+Winner: South Adelaide
+
+Teams: Eastern Lions SC vs Western United FC Youth
+Analysis: Western United FC Youth won all 5/5 H2H matches
+Winner: Western United FC Youth
+
+Teams: EPS vs OLS
+Analysis: OLS won all 3/3 H2H matches
+Winner: OLS
+
+Teams: PK-35 Helsinki W vs Aaland United W
+Analysis: Aaland United W won all 10/10 H2H matches
+Winner: Aaland United W
+
+Teams: FC Yelimay vs Zhenis
+Analysis: FC Yelimay won all 3/3 H2H matches
+Winner: FC Yelimay
+
+Teams: Tigres W vs Necaxa W
+Analysis: Tigres W won all 10/10 H2H matches
+Winner: Tigres W
+
+Teams: Pogon Grodzisk Mazowiecki vs Stal Rzeszow
+Analysis: Stal Rzeszow won all 3/3 H2H matches
+Winner: Stal Rzeszow
