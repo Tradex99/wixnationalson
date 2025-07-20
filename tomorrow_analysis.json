@@ -1,102 +1,51 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Los Angeles FC vs LA Galaxy",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Sao Paulo vs Corinthians",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Broendby IF vs Silkeborg",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Tromsoe vs Bryne",
-      "analysis": "All 9/9 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Gamba Osaka vs Kawasaki Frontale",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Yokohama F.Marinos vs Nagoya Grampus Eight",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Gornik Zabrze vs Lechia Gdansk",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Motor Lublin vs Arka Gdynia",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "APIA Leichhardt Tigers vs Sydney United 58",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Central Coast Mariners Youth vs St George FC",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Moreton City Excelsior vs Eastern Suburbs",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "South Hobart vs Devonport City",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Treze vs America RN",
+      "teams": "Lokomotiv Plovdiv vs Dobrudzha Dobrich",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "LDU de Quito vs Deportivo Cuenca",
+      "teams": "Nomme United vs Flora Tallinn U21",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FK Tukums 2000 vs Grobina",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Colorado Rapids II vs Tacoma Defiance",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Ventura County FC vs Los Angeles FC II",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Sportivo Belgrano vs San Martin de Formosa",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
+      "teams": "Dock Sud vs CSD Flandria",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Wolves FC vs Peninsula Power",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
+      "teams": "Kagoshima United vs FC Osaka",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Throttur Vogum vs Kari",
+      "teams": "Encarnacion FC vs Guairena",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Humaita SC vs Manaus FC",
-      "winner": "Manaus FC",
-      "analysis": "Manaus FC won all 3/3 H2H matches"
+      "teams": "Lokomotiv Plovdiv vs Dobrudzha Dobrich",
+      "winner": "Lokomotiv Plovdiv",
+      "analysis": "Lokomotiv Plovdiv won all 6/6 H2H matches"
     },
     {
-      "teams": "KuPS Akatemia vs KPV",
-      "winner": "KPV",
-      "analysis": "KPV won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Throttur Vogum vs Kari",
-      "winner": "Throttur Vogum",
-      "analysis": "Throttur Vogum won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Zeleznicar Pancevo vs Partizan Beograd",
-      "winner": "Partizan Beograd",
-      "analysis": "Partizan Beograd won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Colombia W vs Paraguay W",
-      "winner": "Colombia W",
-      "analysis": "Colombia W won all 3/3 H2H matches"
+      "teams": "Club River Plate vs Pastoreo FC",
+      "winner": "Pastoreo FC",
+      "analysis": "Pastoreo FC won all 3/3 H2H matches"
     }
   ]
 }

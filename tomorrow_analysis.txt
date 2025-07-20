@@ -1,78 +1,39 @@
 OVER 1.5 STARTED HERE
 
-Teams: Los Angeles FC vs LA Galaxy
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Sao Paulo vs Corinthians
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Broendby IF vs Silkeborg
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Tromsoe vs Bryne
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Gamba Osaka vs Kawasaki Frontale
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Yokohama F.Marinos vs Nagoya Grampus Eight
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Gornik Zabrze vs Lechia Gdansk
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Motor Lublin vs Arka Gdynia
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: APIA Leichhardt Tigers vs Sydney United 58
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Central Coast Mariners Youth vs St George FC
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Moreton City Excelsior vs Eastern Suburbs
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: South Hobart vs Devonport City
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Treze vs America RN
+Teams: Lokomotiv Plovdiv vs Dobrudzha Dobrich
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: LDU de Quito vs Deportivo Cuenca
+Teams: Nomme United vs Flora Tallinn U21
 Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FK Tukums 2000 vs Grobina
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Colorado Rapids II vs Tacoma Defiance
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Ventura County FC vs Los Angeles FC II
+Analysis: All 8/8 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Sportivo Belgrano vs San Martin de Formosa
-Analysis: All 4/4 H2H are over 2.5 Goals
+Teams: Dock Sud vs CSD Flandria
+Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Wolves FC vs Peninsula Power
-Analysis: All 5/5 H2H are over 2.5 Goals
+Teams: Kagoshima United vs FC Osaka
+Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Throttur Vogum vs Kari
+Teams: Encarnacion FC vs Guairena
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: Humaita SC vs Manaus FC
-Analysis: Manaus FC won all 3/3 H2H matches
-Winner: Manaus FC
+Teams: Lokomotiv Plovdiv vs Dobrudzha Dobrich
+Analysis: Lokomotiv Plovdiv won all 6/6 H2H matches
+Winner: Lokomotiv Plovdiv
 
-Teams: KuPS Akatemia vs KPV
-Analysis: KPV won all 3/3 H2H matches
-Winner: KPV
-
-Teams: Throttur Vogum vs Kari
-Analysis: Throttur Vogum won all 3/3 H2H matches
-Winner: Throttur Vogum
-
-Teams: Zeleznicar Pancevo vs Partizan Beograd
-Analysis: Partizan Beograd won all 4/4 H2H matches
-Winner: Partizan Beograd
-
-Teams: Colombia W vs Paraguay W
-Analysis: Colombia W won all 3/3 H2H matches
-Winner: Colombia W
+Teams: Club River Plate vs Pastoreo FC
+Analysis: Pastoreo FC won all 3/3 H2H matches
+Winner: Pastoreo FC
