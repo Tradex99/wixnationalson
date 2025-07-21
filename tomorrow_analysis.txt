@@ -1,39 +1,30 @@
 OVER 1.5 STARTED HERE
 
-Teams: Lokomotiv Plovdiv vs Dobrudzha Dobrich
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Nomme United vs Flora Tallinn U21
+Teams: Arbroath vs Annan Athletic
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: FK Tukums 2000 vs Grobina
-Analysis: All 6/6 H2H are over 1.5 Goals
+Teams: Clyde vs Stenhousemuir
+Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Colorado Rapids II vs Tacoma Defiance
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Ventura County FC vs Los Angeles FC II
-Analysis: All 8/8 H2H are over 1.5 Goals
+Teams: Motherwell vs Greenock Morton
+Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Dock Sud vs CSD Flandria
-Analysis: All 3/3 H2H are over 2.5 Goals
+Teams: Loddefjord vs Gneist
+Analysis: All 4/4 H2H are over 2.5 Goals
 
-Teams: Kagoshima United vs FC Osaka
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Encarnacion FC vs Guairena
-Analysis: All 3/3 H2H are over 2.5 Goals
+Teams: Brechin City vs Cove Rangers
+Analysis: All 6/6 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: Lokomotiv Plovdiv vs Dobrudzha Dobrich
-Analysis: Lokomotiv Plovdiv won all 6/6 H2H matches
-Winner: Lokomotiv Plovdiv
+Teams: Claypole vs Mercedes
+Analysis: Claypole won all 3/3 H2H matches
+Winner: Claypole
 
-Teams: Club River Plate vs Pastoreo FC
-Analysis: Pastoreo FC won all 3/3 H2H matches
-Winner: Pastoreo FC
+Teams: Alianza FC Valledupar vs Tolima
+Analysis: Tolima won all 3/3 H2H matches
+Winner: Tolima
