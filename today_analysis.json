@@ -1,51 +1,39 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Lokomotiv Plovdiv vs Dobrudzha Dobrich",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Nomme United vs Flora Tallinn U21",
+      "teams": "Arbroath vs Annan Athletic",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "FK Tukums 2000 vs Grobina",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
+      "teams": "Clyde vs Stenhousemuir",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Colorado Rapids II vs Tacoma Defiance",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Ventura County FC vs Los Angeles FC II",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
+      "teams": "Motherwell vs Greenock Morton",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Dock Sud vs CSD Flandria",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
+      "teams": "Loddefjord vs Gneist",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Kagoshima United vs FC Osaka",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Encarnacion FC vs Guairena",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
+      "teams": "Brechin City vs Cove Rangers",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Lokomotiv Plovdiv vs Dobrudzha Dobrich",
-      "winner": "Lokomotiv Plovdiv",
-      "analysis": "Lokomotiv Plovdiv won all 6/6 H2H matches"
+      "teams": "Claypole vs Mercedes",
+      "winner": "Claypole",
+      "analysis": "Claypole won all 3/3 H2H matches"
     },
     {
-      "teams": "Club River Plate vs Pastoreo FC",
-      "winner": "Pastoreo FC",
-      "analysis": "Pastoreo FC won all 3/3 H2H matches"
+      "teams": "Alianza FC Valledupar vs Tolima",
+      "winner": "Tolima",
+      "analysis": "Tolima won all 3/3 H2H matches"
     }
   ]
 }

@@ -1,39 +1,27 @@
 {
-  "OVER 1.5 STARTED HERE": [
-    {
-      "teams": "Arbroath vs Annan Athletic",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Clyde vs Stenhousemuir",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Motherwell vs Greenock Morton",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    }
-  ],
+  "OVER 1.5 STARTED HERE": [],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Loddefjord vs Gneist",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Brechin City vs Cove Rangers",
-      "analysis": "All 6/6 H2H are over 2.5 Goals"
+      "teams": "Palestino vs Bolivar",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Claypole vs Mercedes",
-      "winner": "Claypole",
-      "analysis": "Claypole won all 3/3 H2H matches"
+      "teams": "Palestino vs Bolivar",
+      "winner": "Bolivar",
+      "analysis": "Bolivar won all 3/3 H2H matches"
     },
     {
-      "teams": "Alianza FC Valledupar vs Tolima",
-      "winner": "Tolima",
-      "analysis": "Tolima won all 3/3 H2H matches"
+      "teams": "Club Brugge vs Patro Eisden",
+      "winner": "Club Brugge",
+      "analysis": "Club Brugge won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Treaty United W vs Athlone Town W",
+      "winner": "Athlone Town W",
+      "analysis": "Athlone Town W won all 10/10 H2H matches"
     }
   ]
 }

@@ -1,30 +1,22 @@
 OVER 1.5 STARTED HERE
 
-Teams: Arbroath vs Annan Athletic
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Clyde vs Stenhousemuir
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Motherwell vs Greenock Morton
-Analysis: All 10/10 H2H are over 1.5 Goals
-
 OVER 2.5 STARTED HERE
 
-Teams: Loddefjord vs Gneist
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Brechin City vs Cove Rangers
-Analysis: All 6/6 H2H are over 2.5 Goals
+Teams: Palestino vs Bolivar
+Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: Claypole vs Mercedes
-Analysis: Claypole won all 3/3 H2H matches
-Winner: Claypole
+Teams: Palestino vs Bolivar
+Analysis: Bolivar won all 3/3 H2H matches
+Winner: Bolivar
 
-Teams: Alianza FC Valledupar vs Tolima
-Analysis: Tolima won all 3/3 H2H matches
-Winner: Tolima
+Teams: Club Brugge vs Patro Eisden
+Analysis: Club Brugge won all 3/3 H2H matches
+Winner: Club Brugge
+
+Teams: Treaty United W vs Athlone Town W
+Analysis: Athlone Town W won all 10/10 H2H matches
+Winner: Athlone Town W
