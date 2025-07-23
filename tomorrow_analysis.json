@@ -2,26 +2,21 @@
   "OVER 1.5 STARTED HERE": [],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Palestino vs Bolivar",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
+      "teams": "Hibernians vs Spartak Trnava",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Palestino vs Bolivar",
-      "winner": "Bolivar",
-      "analysis": "Bolivar won all 3/3 H2H matches"
+      "teams": "Hibernians vs Spartak Trnava",
+      "winner": "Spartak Trnava",
+      "analysis": "Spartak Trnava won all 4/4 H2H matches"
     },
     {
-      "teams": "Club Brugge vs Patro Eisden",
-      "winner": "Club Brugge",
-      "analysis": "Club Brugge won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Treaty United W vs Athlone Town W",
-      "winner": "Athlone Town W",
-      "analysis": "Athlone Town W won all 10/10 H2H matches"
+      "teams": "Guarani vs Universidad de Chile",
+      "winner": "Universidad de Chile",
+      "analysis": "Universidad de Chile won all 3/3 H2H matches"
     }
   ]
 }
