@@ -1,18 +1,54 @@
 OVER 1.5 STARTED HERE
 
-OVER 2.5 STARTED HERE
+Teams: Columbus Crew vs Orlando City
+Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Hibernians vs Spartak Trnava
-Analysis: All 4/4 H2H are over 2.5 Goals
+Teams: Cracovia vs Termalica Nieciecza
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Heracles vs Excelsior
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Cheltenham Town vs Bristol City
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Dandenong City vs Oakleigh Cannons
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Garuda FC vs Darwin Hearts
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Moreland City FC vs Bulleen Lions
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Northcote City vs Kingston City
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: EIF vs TPS
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: RW Erfurt vs FSV Luckenwalde
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Fylkir vs Fjoelnir
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: IR Reykjavik vs Njardvik
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Xamax vs Stade Nyonnais
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+OVER 2.5 STARTED HERE
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: Hibernians vs Spartak Trnava
-Analysis: Spartak Trnava won all 4/4 H2H matches
-Winner: Spartak Trnava
+Teams: Botev Vratsa vs Ludogorets Razgrad
+Analysis: Ludogorets Razgrad won all 10/10 H2H matches
+Winner: Ludogorets Razgrad
 
-Teams: Guarani vs Universidad de Chile
-Analysis: Universidad de Chile won all 3/3 H2H matches
-Winner: Universidad de Chile
+Teams: Yantra vs Pirin Blagoevgrad
+Analysis: Pirin Blagoevgrad won all 4/4 H2H matches
+Winner: Pirin Blagoevgrad
