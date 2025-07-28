@@ -1,70 +1,35 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Columbus Crew vs Orlando City",
+      "teams": "Cruz Azul W vs Atletico de San Luis W",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Cracovia vs Termalica Nieciecza",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Heracles vs Excelsior",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Cheltenham Town vs Bristol City",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Dandenong City vs Oakleigh Cannons",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Garuda FC vs Darwin Hearts",
+      "teams": "Los Angeles FC II vs Sporting Kansas City II",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Moreland City FC vs Bulleen Lions",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Northcote City vs Kingston City",
-      "analysis": "All 9/9 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "EIF vs TPS",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "RW Erfurt vs FSV Luckenwalde",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Fylkir vs Fjoelnir",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "IR Reykjavik vs Njardvik",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Xamax vs Stade Nyonnais",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [],
-  "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": [
+  "OVER 3.5 STARTED HERE": [
     {
-      "teams": "Botev Vratsa vs Ludogorets Razgrad",
-      "winner": "Ludogorets Razgrad",
-      "analysis": "Ludogorets Razgrad won all 10/10 H2H matches"
+      "teams": "Viimsi JK vs Talinna Kalev U21",
+      "analysis": "All 6/6 H2H are over 3.5 Goals"
     },
     {
-      "teams": "Yantra vs Pirin Blagoevgrad",
-      "winner": "Pirin Blagoevgrad",
-      "analysis": "Pirin Blagoevgrad won all 4/4 H2H matches"
+      "teams": "Chile W vs Paraguay W",
+      "analysis": "All 3/3 H2H are over 3.5 Goals"
+    }
+  ],
+  "WIN STARTED HERE": [
+    {
+      "teams": "B36 Torshavn vs TB Tvoeroyri",
+      "winner": "B36 Torshavn",
+      "analysis": "B36 Torshavn won all 10/10 H2H matches"
+    },
+    {
+      "teams": "Deportivo Riestra vs Atletico Tucuman",
+      "winner": "Deportivo Riestra",
+      "analysis": "Deportivo Riestra won all 3/3 H2H matches"
     }
   ]
 }

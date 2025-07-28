@@ -1,151 +1,24 @@
 OVER 1.5 STARTED HERE
 
-Teams: Los Angeles FC vs Portland Timbers
+Teams: Thor Akureyri vs Grindavik
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Brommapojkarna vs Malmo FF
+Teams: Santos Laguna W vs Tigres W
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Sandefjord vs Sarpsborg 08
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: SV Lafnitz vs TSV Hartberg
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Suwon FC vs FC Anyang
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Chesterfield vs Sheffield United
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Adelaide Raiders vs Croydon Kings
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Riverside Olympic vs Devonport City
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Redlands United vs Brisbane Strikers
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Southside Eagles vs SWQ Thunder
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Salisbury United vs Fulham United FC
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Vipers FC vs Adelaide Cobras
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Altos vs Maranhao
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: La Serena vs Cobresal
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Yanbian Longding vs Liaoning Tieren
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Flora Tallinn U21 vs Nomme Kalju U21
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Jypk W vs HJK Helsinki W
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Jahn Regensburg II vs DJK Gebenbach
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: FC Suederelbe vs TSV Sasel
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Thespakusatsu Gunma vs Kagoshima United
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Sport Boys vs Sporting Cristal
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Cheonan City vs Gyeongnam FC
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Dundee FC vs Montrose
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Dunfermline Athletic vs Stirling Albion
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Hamilton Academical vs Dumbarton
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Radnicki Nis vs Mladost Lucani
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Huntsville City FC vs Orlando City B
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: North Carolina FC vs Loudoun United
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Charleston Battery vs Tampa Bay Rowdies
+Teams: Mazatlan FC W vs Pachuca W
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Shanghai Port vs Qingdao West Coast
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Liverpool vs AC Milan
-Analysis: All 6/6 H2H are over 2.5 Goals
-
-Teams: Adelaide United Youth vs Campbelltown City
-Analysis: All 10/10 H2H are over 2.5 Goals
-
-Teams: West Adelaide vs Cumberland United
-Analysis: All 7/7 H2H are over 2.5 Goals
-
-Teams: Melbourne City FC Youth vs Caroline Springs George Cross
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: SV Curslack-Neuengamme vs HEBC Hamburg
-Analysis: All 6/6 H2H are over 2.5 Goals
-
-Teams: CD Recoleta vs Cerro Porteno
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Wisla Krakow vs LKS Lodz
-Analysis: All 10/10 H2H are over 2.5 Goals
-
 OVER 3.5 STARTED HERE
-
-Teams: TSV 1861 Noerdlingen vs Gundelfingen
-Analysis: All 4/4 H2H are over 3.5 Goals
-
-Teams: Alianza Universidad vs Ayacucho FC
-Analysis: All 3/3 H2H are over 3.5 Goals
-
-Teams: St. Johnstone vs Elgin City
-Analysis: All 3/3 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Bohemians 1905 vs Slavia Prague
-Analysis: Slavia Prague won all 10/10 H2H matches
-Winner: Slavia Prague
+Teams: Union Berlin vs FC Schweinfurt
+Analysis: Union Berlin won all 3/3 H2H matches
+Winner: Union Berlin
 
-Teams: Clarence Zebras vs Glenorchy Knights
-Analysis: Glenorchy Knights won all 10/10 H2H matches
-Winner: Glenorchy Knights
-
-Teams: Riverside Olympic vs Devonport City
-Analysis: Devonport City won all 10/10 H2H matches
-Winner: Devonport City
-
-Teams: RFS vs FK Tukums 2000
-Analysis: RFS won all 10/10 H2H matches
-Winner: RFS
-
-Teams: St. Johnstone vs Elgin City
-Analysis: St. Johnstone won all 3/3 H2H matches
-Winner: St. Johnstone
-
-Teams: FK Crvena Zvezda vs OFK Beograd
-Analysis: FK Crvena Zvezda won all 10/10 H2H matches
-Winner: FK Crvena Zvezda
+Teams: Santos Laguna W vs Tigres W
+Analysis: Tigres W won all 10/10 H2H matches
+Winner: Tigres W
