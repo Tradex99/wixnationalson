@@ -1,35 +1,30 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Cruz Azul W vs Atletico de San Luis W",
+      "teams": "Thor Akureyri vs Grindavik",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Los Angeles FC II vs Sporting Kansas City II",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
+      "teams": "Santos Laguna W vs Tigres W",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Mazatlan FC W vs Pachuca W",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "Viimsi JK vs Talinna Kalev U21",
-      "analysis": "All 6/6 H2H are over 3.5 Goals"
-    },
-    {
-      "teams": "Chile W vs Paraguay W",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "B36 Torshavn vs TB Tvoeroyri",
-      "winner": "B36 Torshavn",
-      "analysis": "B36 Torshavn won all 10/10 H2H matches"
+      "teams": "Union Berlin vs FC Schweinfurt",
+      "winner": "Union Berlin",
+      "analysis": "Union Berlin won all 3/3 H2H matches"
     },
     {
-      "teams": "Deportivo Riestra vs Atletico Tucuman",
-      "winner": "Deportivo Riestra",
-      "analysis": "Deportivo Riestra won all 3/3 H2H matches"
+      "teams": "Santos Laguna W vs Tigres W",
+      "winner": "Tigres W",
+      "analysis": "Tigres W won all 10/10 H2H matches"
     }
   ]
 }
