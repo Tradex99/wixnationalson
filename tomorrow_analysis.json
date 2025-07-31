@@ -1,17 +1,89 @@
 {
-  "OVER 1.5 STARTED HERE": [],
+  "OVER 1.5 STARTED HERE": [
+    {
+      "teams": "Werder Bremen vs Hoffenheim",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Werder Bremen vs Hoffenheim",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Sunshine Coast Wanderers vs Brisbane City",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Melbourne Knights vs Hume City FC",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Port Melbourne Sharks SC vs Dandenong City",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Wurzburger Kickers vs DJK Vilzing",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Burghausen vs Augsburg II",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "BFC Dynamo vs RW Erfurt",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC 08 Villingen vs Reutlingen",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC Pipinsried vs TSV Landsberg",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Los Chankas CYC vs Comerciantes Unidos",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "IFK Haessleholm vs FBK Balkan",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Enskede IK vs FOC Farsta",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    }
+  ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Spartak Trnava vs Hibernians",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
+      "teams": "Amstetten vs Sturm Graz II",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Djerv 1919 vs Sola",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Spartak Trnava vs Hibernians",
-      "winner": "Spartak Trnava",
-      "analysis": "Spartak Trnava won all 5/5 H2H matches"
+      "teams": "SpVgg Hankofen-Hailing vs Viktoria Aschaffenburg",
+      "winner": "Viktoria Aschaffenburg",
+      "analysis": "Viktoria Aschaffenburg won all 4/4 H2H matches"
+    },
+    {
+      "teams": "FC Tuerkiye Wilhelmsburg vs ETSV Hamburg",
+      "winner": "ETSV Hamburg",
+      "analysis": "ETSV Hamburg won all 4/4 H2H matches"
+    },
+    {
+      "teams": "TSV Sasel vs Teutonia Ottensen",
+      "winner": "Teutonia Ottensen",
+      "analysis": "Teutonia Ottensen won all 6/6 H2H matches"
+    },
+    {
+      "teams": "Club Atletico Penarol vs Club Atletico Progreso",
+      "winner": "Club Atletico Penarol",
+      "analysis": "Club Atletico Penarol won all 4/4 H2H matches"
     }
   ]
 }

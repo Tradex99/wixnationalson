@@ -1,48 +1,17 @@
 {
-  "OVER 1.5 STARTED HERE": [
-    {
-      "teams": "Empoli vs Pisa",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Cooks Hill United FC vs Newcastle Olympic",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Hoedd vs Egersund",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Cerro Porteno vs 2 de Mayo",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "One Knoxville SC vs Charlotte Independence",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    }
-  ],
+  "OVER 1.5 STARTED HERE": [],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "New Lambton FC vs Adamstown Rosebud FC",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
+      "teams": "Spartak Trnava vs Hibernians",
+      "analysis": "All 5/5 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "New England Revolution II vs Atlanta United II",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Academico Viseu vs Moreirense",
-      "winner": "Moreirense",
-      "analysis": "Moreirense won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Sporting Cristal vs Sport Huancayo",
-      "winner": "Sporting Cristal",
-      "analysis": "Sporting Cristal won all 5/5 H2H matches"
+      "teams": "Spartak Trnava vs Hibernians",
+      "winner": "Spartak Trnava",
+      "analysis": "Spartak Trnava won all 5/5 H2H matches"
     }
   ]
 }

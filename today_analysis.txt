@@ -1,36 +1,14 @@
 OVER 1.5 STARTED HERE
 
-Teams: Empoli vs Pisa
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Cooks Hill United FC vs Newcastle Olympic
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Hoedd vs Egersund
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Cerro Porteno vs 2 de Mayo
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: One Knoxville SC vs Charlotte Independence
-Analysis: All 6/6 H2H are over 1.5 Goals
-
 OVER 2.5 STARTED HERE
 
-Teams: New Lambton FC vs Adamstown Rosebud FC
-Analysis: All 4/4 H2H are over 2.5 Goals
+Teams: Spartak Trnava vs Hibernians
+Analysis: All 5/5 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: New England Revolution II vs Atlanta United II
-Analysis: All 3/3 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Academico Viseu vs Moreirense
-Analysis: Moreirense won all 4/4 H2H matches
-Winner: Moreirense
-
-Teams: Sporting Cristal vs Sport Huancayo
-Analysis: Sporting Cristal won all 5/5 H2H matches
-Winner: Sporting Cristal
+Teams: Spartak Trnava vs Hibernians
+Analysis: Spartak Trnava won all 5/5 H2H matches
+Winner: Spartak Trnava
