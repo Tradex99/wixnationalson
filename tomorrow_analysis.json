@@ -1,155 +1,34 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Celtic vs St. Mirren",
+      "teams": "Van vs Ararat Armenia",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Atletico MG vs RB Bragantino",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "BK Haecken vs Elfsborg",
+      "teams": "Kingston City vs Moreland City FC",
       "analysis": "All 7/7 H2H are over 1.5 Goals"
     },
     {
-      "teams": "SoenderjyskE vs FC Nordsjaelland",
+      "teams": "Pumas W vs Cruz Azul W",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Molde vs Bryne",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Pardubice vs Sparta Prague",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Tottenham Hotspur vs Newcastle United",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Patronato de Parana vs CA Alvarado",
+      "teams": "Umeaa vs Falkenbergs FF",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Eintracht Norderstedt vs Oldenburg",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "FH Hafnarfjordur vs Vikingur Reykjavik",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "FK Tukums 2000 vs Riga FC",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Grobina vs RFS",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "US Hostert vs FC Victoria Rosport",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "CF Sparta Selemet vs CS Petrocub",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Dacia-2 Buiucani vs FC Sheriff",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Alta vs Tromsdalen",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Atenas vs Fenix",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "North Texas SC vs Colorado Rapids II",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Orlando City B vs New York City FC II",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [
-    {
-      "teams": "San Martin de Tucuman vs River Plate",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Wollongong Wolves vs Sydney FC Youth",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Grange Thistle vs Pine Hills",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Spokane Velocity vs Union Omaha",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
-    }
-  ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "Bay FC vs Houston Dash",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    },
-    {
-      "teams": "FC Gute vs Korsnaes IF FK",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 2.5 STARTED HERE": [],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Pardubice vs Sparta Prague",
-      "winner": "Sparta Prague",
-      "analysis": "Sparta Prague won all 8/8 H2H matches"
+      "teams": "Uganda vs Algeria",
+      "winner": "Algeria",
+      "analysis": "Algeria won all 3/3 H2H matches"
     },
     {
-      "teams": "Grange Thistle vs Pine Hills",
-      "winner": "Grange Thistle",
-      "analysis": "Grange Thistle won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Qingdao Red Lions vs Heilongjiang Ice City FC",
-      "winner": "Heilongjiang Ice City FC",
-      "analysis": "Heilongjiang Ice City FC won all 3/3 H2H matches"
-    },
-    {
-      "teams": "FH Hafnarfjordur vs Vikingur Reykjavik",
-      "winner": "Vikingur Reykjavik",
-      "analysis": "Vikingur Reykjavik won all 10/10 H2H matches"
-    },
-    {
-      "teams": "Grobina vs RFS",
-      "winner": "RFS",
-      "analysis": "RFS won all 6/6 H2H matches"
-    },
-    {
-      "teams": "Auda vs FK Metta",
-      "winner": "Auda",
-      "analysis": "Auda won all 10/10 H2H matches"
-    },
-    {
-      "teams": "Puebla W vs Monterrey W",
-      "winner": "Monterrey W",
-      "analysis": "Monterrey W won all 10/10 H2H matches"
-    },
-    {
-      "teams": "Fyllingsdalen W vs Arna-Bjoernar W",
-      "winner": "Arna-Bjoernar W",
-      "analysis": "Arna-Bjoernar W won all 5/5 H2H matches"
-    },
-    {
-      "teams": "Mamelodi Sundowns FC vs Richards Bay",
-      "winner": "Mamelodi Sundowns FC",
-      "analysis": "Mamelodi Sundowns FC won all 8/8 H2H matches"
+      "teams": "Decic Tuzi vs OFK Mladost Donja Gorica",
+      "winner": "Decic Tuzi",
+      "analysis": "Decic Tuzi won all 4/4 H2H matches"
     }
   ]
 }
