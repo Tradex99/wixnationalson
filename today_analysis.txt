@@ -1,118 +1,27 @@
 OVER 1.5 STARTED HERE
 
-Teams: Celtic vs St. Mirren
+Teams: Van vs Ararat Armenia
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Atletico MG vs RB Bragantino
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: BK Haecken vs Elfsborg
+Teams: Kingston City vs Moreland City FC
 Analysis: All 7/7 H2H are over 1.5 Goals
 
-Teams: SoenderjyskE vs FC Nordsjaelland
+Teams: Pumas W vs Cruz Azul W
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Molde vs Bryne
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Pardubice vs Sparta Prague
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Tottenham Hotspur vs Newcastle United
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Patronato de Parana vs CA Alvarado
+Teams: Umeaa vs Falkenbergs FF
 Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Eintracht Norderstedt vs Oldenburg
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: FH Hafnarfjordur vs Vikingur Reykjavik
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: FK Tukums 2000 vs Riga FC
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Grobina vs RFS
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: US Hostert vs FC Victoria Rosport
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: CF Sparta Selemet vs CS Petrocub
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Dacia-2 Buiucani vs FC Sheriff
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Alta vs Tromsdalen
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Atenas vs Fenix
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: North Texas SC vs Colorado Rapids II
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Orlando City B vs New York City FC II
-Analysis: All 7/7 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: San Martin de Tucuman vs River Plate
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Wollongong Wolves vs Sydney FC Youth
-Analysis: All 10/10 H2H are over 2.5 Goals
-
-Teams: Grange Thistle vs Pine Hills
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Spokane Velocity vs Union Omaha
-Analysis: All 5/5 H2H are over 2.5 Goals
-
 OVER 3.5 STARTED HERE
-
-Teams: Bay FC vs Houston Dash
-Analysis: All 3/3 H2H are over 3.5 Goals
-
-Teams: FC Gute vs Korsnaes IF FK
-Analysis: All 3/3 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Pardubice vs Sparta Prague
-Analysis: Sparta Prague won all 8/8 H2H matches
-Winner: Sparta Prague
+Teams: Uganda vs Algeria
+Analysis: Algeria won all 3/3 H2H matches
+Winner: Algeria
 
-Teams: Grange Thistle vs Pine Hills
-Analysis: Grange Thistle won all 3/3 H2H matches
-Winner: Grange Thistle
-
-Teams: Qingdao Red Lions vs Heilongjiang Ice City FC
-Analysis: Heilongjiang Ice City FC won all 3/3 H2H matches
-Winner: Heilongjiang Ice City FC
-
-Teams: FH Hafnarfjordur vs Vikingur Reykjavik
-Analysis: Vikingur Reykjavik won all 10/10 H2H matches
-Winner: Vikingur Reykjavik
-
-Teams: Grobina vs RFS
-Analysis: RFS won all 6/6 H2H matches
-Winner: RFS
-
-Teams: Auda vs FK Metta
-Analysis: Auda won all 10/10 H2H matches
-Winner: Auda
-
-Teams: Puebla W vs Monterrey W
-Analysis: Monterrey W won all 10/10 H2H matches
-Winner: Monterrey W
-
-Teams: Fyllingsdalen W vs Arna-Bjoernar W
-Analysis: Arna-Bjoernar W won all 5/5 H2H matches
-Winner: Arna-Bjoernar W
-
-Teams: Mamelodi Sundowns FC vs Richards Bay
-Analysis: Mamelodi Sundowns FC won all 8/8 H2H matches
-Winner: Mamelodi Sundowns FC
+Teams: Decic Tuzi vs OFK Mladost Donja Gorica
+Analysis: Decic Tuzi won all 4/4 H2H matches
+Winner: Decic Tuzi

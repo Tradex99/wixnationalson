@@ -1,34 +1,42 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Van vs Ararat Armenia",
+      "teams": "FC Tuerkiye Wilhelmsburg vs Niendorfer TSV",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Kingston City vs Moreland City FC",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
+      "teams": "SV Halstenbek-Rellingen vs TSV Sasel",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Pumas W vs Cruz Azul W",
+      "teams": "IA Akranes vs Valur",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Umeaa vs Falkenbergs FF",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
+      "teams": "Pachuca W vs Toluca W",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Lyn Fotball W vs Vaalerenga W",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Podbeskidzie Bielsko-Biala vs Resovia",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [],
+  "OVER 2.5 STARTED HERE": [
+    {
+      "teams": "Oldenburger SV vs SV Preussen 09 Reinfeld",
+      "analysis": "All 7/7 H2H are over 2.5 Goals"
+    }
+  ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Uganda vs Algeria",
-      "winner": "Algeria",
-      "analysis": "Algeria won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Decic Tuzi vs OFK Mladost Donja Gorica",
-      "winner": "Decic Tuzi",
-      "analysis": "Decic Tuzi won all 4/4 H2H matches"
+      "teams": "Hoenefoss W vs Kolbotn W",
+      "winner": "Kolbotn W",
+      "analysis": "Kolbotn W won all 4/4 H2H matches"
     }
   ]
 }
