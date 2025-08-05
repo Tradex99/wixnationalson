@@ -1,42 +1,40 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "FC Tuerkiye Wilhelmsburg vs Niendorfer TSV",
+      "teams": "Vendsyssel FF vs AaB",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "SV Halstenbek-Rellingen vs TSV Sasel",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "IA Akranes vs Valur",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Pachuca W vs Toluca W",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Lyn Fotball W vs Vaalerenga W",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Podbeskidzie Bielsko-Biala vs Resovia",
+      "teams": "VfR Neumunster vs FC Kilia Kiel",
       "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Aasane vs Lyn",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "KKS 1925 Kalisz vs GKS Jastrzebie",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Luzern II vs Basel II",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Oldenburger SV vs SV Preussen 09 Reinfeld",
-      "analysis": "All 7/7 H2H are over 2.5 Goals"
+      "teams": "JJK Jyvaskyla vs EPS",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "OLS vs KuPS Akatemia",
+      "analysis": "All 5/5 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Tampere United vs FC Jazz",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": [
-    {
-      "teams": "Hoenefoss W vs Kolbotn W",
-      "winner": "Kolbotn W",
-      "analysis": "Kolbotn W won all 4/4 H2H matches"
-    }
-  ]
+  "WIN STARTED HERE": []
 }
