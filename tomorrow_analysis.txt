@@ -1,31 +1,23 @@
 OVER 1.5 STARTED HERE
 
-Teams: Vendsyssel FF vs AaB
+Teams: Zalgiris Vilnius vs Suduva
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: VfR Neumunster vs FC Kilia Kiel
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Aasane vs Lyn
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: KKS 1925 Kalisz vs GKS Jastrzebie
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Luzern II vs Basel II
-Analysis: All 6/6 H2H are over 1.5 Goals
+Teams: Sola vs Vidar
+Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: JJK Jyvaskyla vs EPS
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: OLS vs KuPS Akatemia
+Teams: Bayern Munich vs Tottenham Hotspur
 Analysis: All 5/5 H2H are over 2.5 Goals
 
-Teams: Tampere United vs FC Jazz
-Analysis: All 10/10 H2H are over 2.5 Goals
+Teams: Union Magdalena vs Deportivo Pasto
+Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
+
+Teams: Port Vale vs Cardiff City
+Analysis: Cardiff City won all 6/6 H2H matches
+Winner: Cardiff City

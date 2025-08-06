@@ -1,40 +1,30 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Vendsyssel FF vs AaB",
+      "teams": "Zalgiris Vilnius vs Suduva",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "VfR Neumunster vs FC Kilia Kiel",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Aasane vs Lyn",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "KKS 1925 Kalisz vs GKS Jastrzebie",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Luzern II vs Basel II",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
+      "teams": "Sola vs Vidar",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "JJK Jyvaskyla vs EPS",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "OLS vs KuPS Akatemia",
+      "teams": "Bayern Munich vs Tottenham Hotspur",
       "analysis": "All 5/5 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Tampere United vs FC Jazz",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
+      "teams": "Union Magdalena vs Deportivo Pasto",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": []
+  "WIN STARTED HERE": [
+    {
+      "teams": "Port Vale vs Cardiff City",
+      "winner": "Cardiff City",
+      "analysis": "Cardiff City won all 6/6 H2H matches"
+    }
+  ]
 }
