@@ -1,23 +1,104 @@
 OVER 1.5 STARTED HERE
 
-Teams: Zalgiris Vilnius vs Suduva
+Teams: Casa Pia AC vs Sporting CP
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: De Graafschap vs VVV-Venlo
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Sola vs Vidar
+Teams: FC Den Bosch vs Jong Ajax
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FC Copenhagen vs AGF
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Viborg vs SoenderjyskE
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Korona Kielce vs Radomiak Radom
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Elche vs Almeria
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: SK Austria Klagenfurt vs Young Violets
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: SKN St. Poelten vs SW Bregenz
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Atletico Nacional vs Alianza FC Valledupar
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: SK Lisen vs FC Zbrojovka Brno
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Klaksvik vs B68 Toftir
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Bourg en Bresse Peronnas 01 vs AC Ajaccio
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: ATSV Erlangen vs DJK Gebenbach
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Leher vs OSC Bremerhaven
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Fylkir vs Thor Akureyri
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Njardvik vs UMF Selfoss
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Borneo FC Samarinda vs Bhayangkara FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Academia Cantolao vs Deportivo Coopsol
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Enkoeping vs AFC Eskilstuna
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: IK Franke vs Skiljebo SK
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: New York City FC II vs Chicago Fire FC II
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: SG Dynamo Schwerin vs TSG Neustrelitz
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Johor Darul Ta'zim FC vs Selangor
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Bayern Munich vs Tottenham Hotspur
-Analysis: All 5/5 H2H are over 2.5 Goals
+Teams: Shillong Lajong vs Northeast United FC
+Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Union Magdalena vs Deportivo Pasto
-Analysis: All 4/4 H2H are over 2.5 Goals
+Teams: Bray Wanderers vs Cobh Ramblers
+Analysis: All 10/10 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Hertha Berlin II vs FC Eilenburg
+Analysis: All 6/6 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Port Vale vs Cardiff City
-Analysis: Cardiff City won all 6/6 H2H matches
-Winner: Cardiff City
+Teams: Casa Pia AC vs Sporting CP
+Analysis: Sporting CP won all 7/7 H2H matches
+Winner: Sporting CP
+
+Teams: Shillong Lajong vs Northeast United FC
+Analysis: Northeast United FC won all 3/3 H2H matches
+Winner: Northeast United FC
+
+Teams: Comerciantes Unidos vs Cienciano
+Analysis: Cienciano won all 3/3 H2H matches
+Winner: Cienciano
+
+Teams: Enkoeping vs AFC Eskilstuna
+Analysis: AFC Eskilstuna won all 5/5 H2H matches
+Winner: AFC Eskilstuna

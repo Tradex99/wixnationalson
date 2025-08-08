@@ -1,30 +1,138 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Zalgiris Vilnius vs Suduva",
+      "teams": "Casa Pia AC vs Sporting CP",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "De Graafschap vs VVV-Venlo",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Sola vs Vidar",
+      "teams": "FC Den Bosch vs Jong Ajax",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC Copenhagen vs AGF",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Viborg vs SoenderjyskE",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Korona Kielce vs Radomiak Radom",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Elche vs Almeria",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SK Austria Klagenfurt vs Young Violets",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SKN St. Poelten vs SW Bregenz",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Atletico Nacional vs Alianza FC Valledupar",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SK Lisen vs FC Zbrojovka Brno",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Klaksvik vs B68 Toftir",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Bourg en Bresse Peronnas 01 vs AC Ajaccio",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "ATSV Erlangen vs DJK Gebenbach",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Leher vs OSC Bremerhaven",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Fylkir vs Thor Akureyri",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Njardvik vs UMF Selfoss",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Borneo FC Samarinda vs Bhayangkara FC",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Academia Cantolao vs Deportivo Coopsol",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Enkoeping vs AFC Eskilstuna",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "IK Franke vs Skiljebo SK",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "New York City FC II vs Chicago Fire FC II",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SG Dynamo Schwerin vs TSG Neustrelitz",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Johor Darul Ta'zim FC vs Selangor",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Bayern Munich vs Tottenham Hotspur",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
+      "teams": "Shillong Lajong vs Northeast United FC",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Union Magdalena vs Deportivo Pasto",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
+      "teams": "Bray Wanderers vs Cobh Ramblers",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [],
+  "OVER 3.5 STARTED HERE": [
+    {
+      "teams": "Hertha Berlin II vs FC Eilenburg",
+      "analysis": "All 6/6 H2H are over 3.5 Goals"
+    }
+  ],
   "WIN STARTED HERE": [
     {
-      "teams": "Port Vale vs Cardiff City",
-      "winner": "Cardiff City",
-      "analysis": "Cardiff City won all 6/6 H2H matches"
+      "teams": "Casa Pia AC vs Sporting CP",
+      "winner": "Sporting CP",
+      "analysis": "Sporting CP won all 7/7 H2H matches"
+    },
+    {
+      "teams": "Shillong Lajong vs Northeast United FC",
+      "winner": "Northeast United FC",
+      "analysis": "Northeast United FC won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Comerciantes Unidos vs Cienciano",
+      "winner": "Cienciano",
+      "analysis": "Cienciano won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Enkoeping vs AFC Eskilstuna",
+      "winner": "AFC Eskilstuna",
+      "analysis": "AFC Eskilstuna won all 5/5 H2H matches"
     }
   ]
 }
