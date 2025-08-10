@@ -1,156 +1,24 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "FC Cincinnati vs Charlotte",
+      "teams": "Volda vs Aalesund 2",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Tacoma Defiance vs Los Angeles FC II",
       "analysis": "All 7/7 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Minnesota United vs Colorado Rapids",
+      "teams": "New York Red Bulls II vs Philadelphia Union II",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Young Boys vs Sion",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "IFK Norrkoeping vs Hammarby IF",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Yoogali Soccer Club vs Tuggeranong United",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "SWQ Thunder vs Capalaba",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "America RN vs Juazeirense",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Aarhus Fremad II vs Hobro II",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "RW Erfurt vs Greifswalder FC",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Germania Halberstadt vs VfB Auerbach",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "RW Koblenz vs Kaiserslautern II",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "CD Olimpia vs Juticalpa",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Budafok vs FC Ajka",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Vikingur Reykjavik vs Stjarnan",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Nojima Stella W vs JEF W",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "RFS vs SK Super Nova",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Skeid vs Egersund",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Sotra Sportsklubb vs Brann 2",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Tromsdalen vs Stjoerdals Blink",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Floeya vs Harstad",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "FC Tulsa vs New Mexico United",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [
+  "OVER 2.5 STARTED HERE": [],
+  "OVER 3.5 STARTED HERE": [
     {
-      "teams": "Sandefjord vs Viking",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Tianjin Jinmen Tiger vs Qingdao West Coast",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Chicago Red Stars vs Bay FC",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Central Coast Mariners Youth vs Rockdale Ilinden",
-      "analysis": "All 7/7 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Adamstown Rosebud FC vs New Lambton FC",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Elverum vs Kongsvinger 2",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Bodrum FK vs Pendikspor",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
+      "teams": "KR Reykjavik vs Afturelding",
+      "analysis": "All 4/4 H2H are over 3.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": [
-    {
-      "teams": "Ajax vs Telstar",
-      "winner": "Ajax",
-      "analysis": "Ajax won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Queanbeyan City vs Canberra Croatia FC",
-      "winner": "Canberra Croatia FC",
-      "analysis": "Canberra Croatia FC won all 4/4 H2H matches"
-    },
-    {
-      "teams": "EPS vs RoPS",
-      "winner": "RoPS",
-      "analysis": "RoPS won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Riga FC vs Grobina",
-      "winner": "Riga FC",
-      "analysis": "Riga FC won all 6/6 H2H matches"
-    },
-    {
-      "teams": "Corvinul Hunedoara vs Chindia Targoviste",
-      "winner": "Corvinul Hunedoara",
-      "analysis": "Corvinul Hunedoara won all 3/3 H2H matches"
-    },
-    {
-      "teams": "NK Krsko vs ND Ilirija Ljubljana",
-      "winner": "ND Ilirija Ljubljana",
-      "analysis": "ND Ilirija Ljubljana won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Tasmania Berlin vs Hansa Rostock II",
-      "winner": "Hansa Rostock II",
-      "analysis": "Hansa Rostock II won all 5/5 H2H matches"
-    }
-  ]
+  "WIN STARTED HERE": []
 }
