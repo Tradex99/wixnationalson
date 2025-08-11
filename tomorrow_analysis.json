@@ -1,24 +1,75 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Volda vs Aalesund 2",
+      "teams": "Tranmere Rovers vs Burton Albion",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Wigan Athletic vs Notts County",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Tacoma Defiance vs Los Angeles FC II",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
+      "teams": "Whitby vs Stocksbridge Park Steels",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "New York Red Bulls II vs Philadelphia Union II",
+      "teams": "Blumenthaler SV vs Leher",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "TS Woltmershausen vs Werder Bremen III",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Kelty Hearts vs Annan Athletic",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Vasteraas SK vs Orebro SK",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [],
+  "OVER 2.5 STARTED HERE": [
+    {
+      "teams": "Hanwell Town vs Walton and Hersham",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Oberneuland vs BTS Neustadt",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
+    }
+  ],
   "OVER 3.5 STARTED HERE": [
     {
-      "teams": "KR Reykjavik vs Afturelding",
+      "teams": "Hashtag United vs Potters Bar Town",
       "analysis": "All 4/4 H2H are over 3.5 Goals"
     }
   ],
-  "WIN STARTED HERE": []
+  "WIN STARTED HERE": [
+    {
+      "teams": "Benfica vs Nice",
+      "winner": "Benfica",
+      "analysis": "Benfica won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Northampton Town vs Southampton",
+      "winner": "Southampton",
+      "analysis": "Southampton won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Mamelodi Sundowns FC vs AmaZulu FC",
+      "winner": "Mamelodi Sundowns FC",
+      "analysis": "Mamelodi Sundowns FC won all 5/5 H2H matches"
+    },
+    {
+      "teams": "Johor Darul Ta'zim FC vs Negeri Sembilan",
+      "winner": "Johor Darul Ta'zim FC",
+      "analysis": "Johor Darul Ta'zim FC won all 10/10 H2H matches"
+    },
+    {
+      "teams": "Cruz Azul W vs Monterrey W",
+      "winner": "Monterrey W",
+      "analysis": "Monterrey W won all 10/10 H2H matches"
+    }
+  ]
 }

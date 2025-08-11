@@ -1,119 +1,19 @@
 OVER 1.5 STARTED HERE
 
-Teams: FC Cincinnati vs Charlotte
+Teams: Volda vs Aalesund 2
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Tacoma Defiance vs Los Angeles FC II
 Analysis: All 7/7 H2H are over 1.5 Goals
 
-Teams: Minnesota United vs Colorado Rapids
+Teams: New York Red Bulls II vs Philadelphia Union II
 Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Young Boys vs Sion
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: IFK Norrkoeping vs Hammarby IF
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Yoogali Soccer Club vs Tuggeranong United
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: SWQ Thunder vs Capalaba
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: America RN vs Juazeirense
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Aarhus Fremad II vs Hobro II
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: RW Erfurt vs Greifswalder FC
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Germania Halberstadt vs VfB Auerbach
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: RW Koblenz vs Kaiserslautern II
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: CD Olimpia vs Juticalpa
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Budafok vs FC Ajka
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Vikingur Reykjavik vs Stjarnan
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Nojima Stella W vs JEF W
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: RFS vs SK Super Nova
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Skeid vs Egersund
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Sotra Sportsklubb vs Brann 2
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Tromsdalen vs Stjoerdals Blink
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Floeya vs Harstad
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: FC Tulsa vs New Mexico United
-Analysis: All 6/6 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Sandefjord vs Viking
-Analysis: All 10/10 H2H are over 2.5 Goals
-
-Teams: Tianjin Jinmen Tiger vs Qingdao West Coast
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Chicago Red Stars vs Bay FC
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Central Coast Mariners Youth vs Rockdale Ilinden
-Analysis: All 7/7 H2H are over 2.5 Goals
-
-Teams: Adamstown Rosebud FC vs New Lambton FC
-Analysis: All 5/5 H2H are over 2.5 Goals
-
-Teams: Elverum vs Kongsvinger 2
-Analysis: All 10/10 H2H are over 2.5 Goals
-
-Teams: Bodrum FK vs Pendikspor
-Analysis: All 5/5 H2H are over 2.5 Goals
-
 OVER 3.5 STARTED HERE
 
+Teams: KR Reykjavik vs Afturelding
+Analysis: All 4/4 H2H are over 3.5 Goals
+
 WIN STARTED HERE
-
-Teams: Ajax vs Telstar
-Analysis: Ajax won all 3/3 H2H matches
-Winner: Ajax
-
-Teams: Queanbeyan City vs Canberra Croatia FC
-Analysis: Canberra Croatia FC won all 4/4 H2H matches
-Winner: Canberra Croatia FC
-
-Teams: EPS vs RoPS
-Analysis: RoPS won all 3/3 H2H matches
-Winner: RoPS
-
-Teams: Riga FC vs Grobina
-Analysis: Riga FC won all 6/6 H2H matches
-Winner: Riga FC
-
-Teams: Corvinul Hunedoara vs Chindia Targoviste
-Analysis: Corvinul Hunedoara won all 3/3 H2H matches
-Winner: Corvinul Hunedoara
-
-Teams: NK Krsko vs ND Ilirija Ljubljana
-Analysis: ND Ilirija Ljubljana won all 4/4 H2H matches
-Winner: ND Ilirija Ljubljana
-
-Teams: Tasmania Berlin vs Hansa Rostock II
-Analysis: Hansa Rostock II won all 5/5 H2H matches
-Winner: Hansa Rostock II

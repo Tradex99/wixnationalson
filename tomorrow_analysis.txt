@@ -1,19 +1,57 @@
 OVER 1.5 STARTED HERE
 
-Teams: Volda vs Aalesund 2
+Teams: Tranmere Rovers vs Burton Albion
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Wigan Athletic vs Notts County
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Tacoma Defiance vs Los Angeles FC II
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: New York Red Bulls II vs Philadelphia Union II
+Teams: Whitby vs Stocksbridge Park Steels
 Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Blumenthaler SV vs Leher
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: TS Woltmershausen vs Werder Bremen III
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Kelty Hearts vs Annan Athletic
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Vasteraas SK vs Orebro SK
+Analysis: All 5/5 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
+Teams: Hanwell Town vs Walton and Hersham
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Oberneuland vs BTS Neustadt
+Analysis: All 10/10 H2H are over 2.5 Goals
+
 OVER 3.5 STARTED HERE
 
-Teams: KR Reykjavik vs Afturelding
+Teams: Hashtag United vs Potters Bar Town
 Analysis: All 4/4 H2H are over 3.5 Goals
 
 WIN STARTED HERE
+
+Teams: Benfica vs Nice
+Analysis: Benfica won all 3/3 H2H matches
+Winner: Benfica
+
+Teams: Northampton Town vs Southampton
+Analysis: Southampton won all 4/4 H2H matches
+Winner: Southampton
+
+Teams: Mamelodi Sundowns FC vs AmaZulu FC
+Analysis: Mamelodi Sundowns FC won all 5/5 H2H matches
+Winner: Mamelodi Sundowns FC
+
+Teams: Johor Darul Ta'zim FC vs Negeri Sembilan
+Analysis: Johor Darul Ta'zim FC won all 10/10 H2H matches
+Winner: Johor Darul Ta'zim FC
+
+Teams: Cruz Azul W vs Monterrey W
+Analysis: Monterrey W won all 10/10 H2H matches
+Winner: Monterrey W
