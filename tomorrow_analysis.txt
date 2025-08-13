@@ -1,51 +1,30 @@
 OVER 1.5 STARTED HERE
 
-Teams: Madagascar vs Central African Republic
+Teams: Inter Miami CF II vs Huntsville City FC
 Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Baerum vs Stabaek
-Analysis: All 8/8 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Brinkumer SV vs SV Hemelingen
-Analysis: All 9/9 H2H are over 2.5 Goals
-
-Teams: Vatan Sport Bremen vs Geestemuende
-Analysis: All 10/10 H2H are over 2.5 Goals
-
-Teams: Aegir vs Throttur Vogum
+Teams: FC Sheriff vs Anderlecht
 Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Junkeren vs Rana FK
-Analysis: All 4/4 H2H are over 2.5 Goals
+Teams: FC Vaduz vs AZ Alkmaar
+Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Gottne IF vs Kubikenborgs IF
+Teams: New Lambton FC vs Newcastle Olympic
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Deportivo Cali vs Union Magdalena
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Djerv 1919 vs Sotra Sportsklubb
-Analysis: All 3/3 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Djerv 1919 vs Sotra Sportsklubb
-Analysis: Sotra Sportsklubb won all 3/3 H2H matches
-Winner: Sotra Sportsklubb
+Teams: FC Sheriff vs Anderlecht
+Analysis: Anderlecht won all 3/3 H2H matches
+Winner: Anderlecht
 
-Teams: Junkeren vs Rana FK
-Analysis: Junkeren won all 4/4 H2H matches
-Winner: Junkeren
-
-Teams: Nordstrand vs Lyn
-Analysis: Lyn won all 3/3 H2H matches
-Winner: Lyn
-
-Teams: Pors Football vs Odds Ballklubb
-Analysis: Odds Ballklubb won all 4/4 H2H matches
-Winner: Odds Ballklubb
-
-Teams: Vigoer vs IK Start
-Analysis: IK Start won all 3/3 H2H matches
-Winner: IK Start
+Teams: FC Vaduz vs AZ Alkmaar
+Analysis: AZ Alkmaar won all 3/3 H2H matches
+Winner: AZ Alkmaar

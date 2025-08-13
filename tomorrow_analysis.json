@@ -1,67 +1,39 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Madagascar vs Central African Republic",
+      "teams": "Inter Miami CF II vs Huntsville City FC",
       "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Baerum vs Stabaek",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Brinkumer SV vs SV Hemelingen",
-      "analysis": "All 9/9 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Vatan Sport Bremen vs Geestemuende",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Aegir vs Throttur Vogum",
+      "teams": "FC Sheriff vs Anderlecht",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Junkeren vs Rana FK",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
+      "teams": "FC Vaduz vs AZ Alkmaar",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Gottne IF vs Kubikenborgs IF",
+      "teams": "New Lambton FC vs Newcastle Olympic",
+      "analysis": "All 5/5 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Deportivo Cali vs Union Magdalena",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "Djerv 1919 vs Sotra Sportsklubb",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Djerv 1919 vs Sotra Sportsklubb",
-      "winner": "Sotra Sportsklubb",
-      "analysis": "Sotra Sportsklubb won all 3/3 H2H matches"
+      "teams": "FC Sheriff vs Anderlecht",
+      "winner": "Anderlecht",
+      "analysis": "Anderlecht won all 3/3 H2H matches"
     },
     {
-      "teams": "Junkeren vs Rana FK",
-      "winner": "Junkeren",
-      "analysis": "Junkeren won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Nordstrand vs Lyn",
-      "winner": "Lyn",
-      "analysis": "Lyn won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Pors Football vs Odds Ballklubb",
-      "winner": "Odds Ballklubb",
-      "analysis": "Odds Ballklubb won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Vigoer vs IK Start",
-      "winner": "IK Start",
-      "analysis": "IK Start won all 3/3 H2H matches"
+      "teams": "FC Vaduz vs AZ Alkmaar",
+      "winner": "AZ Alkmaar",
+      "analysis": "AZ Alkmaar won all 3/3 H2H matches"
     }
   ]
 }
