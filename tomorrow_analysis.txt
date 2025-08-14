@@ -1,30 +1,97 @@
 OVER 1.5 STARTED HERE
 
-Teams: Inter Miami CF II vs Huntsville City FC
+Teams: Fredericia vs SoenderjyskE
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Zaglebie Lubin vs Lechia Gdansk
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Cracovia vs Widzew Lodz
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Eastern Suburbs vs Gold Coast United FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Heidelberg United vs Oakleigh Cannons
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Hellenic vs Darwin Olympic
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Port Darwin vs Garuda FC
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Brisbane Knights vs Taringa Rovers
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Maroochydore FC vs North Star FC
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Souths United vs Samford Rangers
 Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Kapfenberger SV vs Austria Lustenau
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Odder IGF vs IF Lyseng
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: Frederikssund IK vs Glostrup FK
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Ansbach vs TSV Aubstadt
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FC Pipinsried vs TSV 1861 Noerdlingen
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Victoria Hamburg vs FC Tuerkiye Wilhelmsburg
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Glacis United vs Lynx
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Resovia vs Olimpia Grudziadz
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Celtic vs Falkirk
+Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: FC Sheriff vs Anderlecht
+Teams: 1. FC Saarbrucken vs Magdeburg
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Hume City FC vs Melbourne Victory Youth
 Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: FC Vaduz vs AZ Alkmaar
+Teams: Atletico Grau vs Comerciantes Unidos
 Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: New Lambton FC vs Newcastle Olympic
-Analysis: All 5/5 H2H are over 2.5 Goals
-
-Teams: Deportivo Cali vs Union Magdalena
+Teams: IK Kongahaella vs Vaenersborgs FK
 Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Oriental vs Central Espanol
+Analysis: All 6/6 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Harksheide vs SV Halstenbek-Rellingen
+Analysis: All 4/4 H2H are over 3.5 Goals
+
+Teams: Lindome GIF vs Bergdalens IK
+Analysis: All 3/3 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: FC Sheriff vs Anderlecht
-Analysis: Anderlecht won all 3/3 H2H matches
-Winner: Anderlecht
+Teams: Hume City FC vs Melbourne Victory Youth
+Analysis: Hume City FC won all 3/3 H2H matches
+Winner: Hume City FC
 
-Teams: FC Vaduz vs AZ Alkmaar
-Analysis: AZ Alkmaar won all 3/3 H2H matches
-Winner: AZ Alkmaar
+Teams: Nordmark Satrup vs Union Neumuenster
+Analysis: Union Neumuenster won all 4/4 H2H matches
+Winner: Union Neumuenster
+
+Teams: IK Kongahaella vs Vaenersborgs FK
+Analysis: IK Kongahaella won all 3/3 H2H matches
+Winner: IK Kongahaella
