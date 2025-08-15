@@ -1,39 +1,129 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Inter Miami CF II vs Huntsville City FC",
+      "teams": "Fredericia vs SoenderjyskE",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Zaglebie Lubin vs Lechia Gdansk",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Cracovia vs Widzew Lodz",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Eastern Suburbs vs Gold Coast United FC",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Heidelberg United vs Oakleigh Cannons",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Hellenic vs Darwin Olympic",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Port Darwin vs Garuda FC",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Brisbane Knights vs Taringa Rovers",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Maroochydore FC vs North Star FC",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Souths United vs Samford Rangers",
       "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Kapfenberger SV vs Austria Lustenau",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Odder IGF vs IF Lyseng",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Frederikssund IK vs Glostrup FK",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Ansbach vs TSV Aubstadt",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC Pipinsried vs TSV 1861 Noerdlingen",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Victoria Hamburg vs FC Tuerkiye Wilhelmsburg",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Glacis United vs Lynx",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Resovia vs Olimpia Grudziadz",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Celtic vs Falkirk",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "FC Sheriff vs Anderlecht",
+      "teams": "1. FC Saarbrucken vs Magdeburg",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Hume City FC vs Melbourne Victory Youth",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "FC Vaduz vs AZ Alkmaar",
+      "teams": "Atletico Grau vs Comerciantes Unidos",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "New Lambton FC vs Newcastle Olympic",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
+      "teams": "IK Kongahaella vs Vaenersborgs FK",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Deportivo Cali vs Union Magdalena",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
+      "teams": "Oriental vs Central Espanol",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": [
+  "OVER 3.5 STARTED HERE": [
     {
-      "teams": "FC Sheriff vs Anderlecht",
-      "winner": "Anderlecht",
-      "analysis": "Anderlecht won all 3/3 H2H matches"
+      "teams": "Harksheide vs SV Halstenbek-Rellingen",
+      "analysis": "All 4/4 H2H are over 3.5 Goals"
     },
     {
-      "teams": "FC Vaduz vs AZ Alkmaar",
-      "winner": "AZ Alkmaar",
-      "analysis": "AZ Alkmaar won all 3/3 H2H matches"
+      "teams": "Lindome GIF vs Bergdalens IK",
+      "analysis": "All 3/3 H2H are over 3.5 Goals"
+    }
+  ],
+  "WIN STARTED HERE": [
+    {
+      "teams": "Hume City FC vs Melbourne Victory Youth",
+      "winner": "Hume City FC",
+      "analysis": "Hume City FC won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Nordmark Satrup vs Union Neumuenster",
+      "winner": "Union Neumuenster",
+      "analysis": "Union Neumuenster won all 4/4 H2H matches"
+    },
+    {
+      "teams": "IK Kongahaella vs Vaenersborgs FK",
+      "winner": "IK Kongahaella",
+      "analysis": "IK Kongahaella won all 3/3 H2H matches"
     }
   ]
 }
