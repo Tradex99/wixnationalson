@@ -1,54 +1,64 @@
 OVER 1.5 STARTED HERE
 
-Teams: Gil Vicente vs FC Porto
+Teams: Tranmere Rovers vs Burton Albion
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Plymouth Argyle vs Leyton Orient
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Jong Ajax vs Jong AZ Alkmaar
-Analysis: All 10/10 H2H are over 1.5 Goals
+Teams: Altrincham vs Hartlepool United
+Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Jong FC Utrecht vs ADO Den Haag
+Teams: HB Koege vs B 93
 Analysis: All 8/8 H2H are over 1.5 Goals
 
-Teams: Atletico Huila vs Bogota FC
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Oppsal vs Sarpsborg 08 2
+Teams: OB Q W vs Kolding IF W
 Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Radcliffe vs Worksop Town
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Enfield Town vs Hornchurch
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Rushall Olympic vs Ashton United
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Werder Bremen III vs Blumenthaler SV
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Coleraine vs Dungannon Swifts
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Pors 2 vs Odds Ballklubb 2
+Analysis: All 5/5 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Chelsea U23 vs Manchester City U23
+Teams: Brinkumer SV vs SV Hemelingen
+Analysis: All 9/9 H2H are over 2.5 Goals
+
+Teams: Shillong Lajong vs Northeast United FC
 Analysis: All 4/4 H2H are over 2.5 Goals
 
-Teams: Nardo vs Kristiansund BK 2
+Teams: Kongsvinger 2 vs Skjetten
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: RW Essen vs Borussia Dortmund
-Analysis: All 3/3 H2H are over 3.5 Goals
-
-Teams: Sunderland U21 vs Tottenham Hotspur U21
+Teams: Bedford Town vs AFC Telford United
 Analysis: All 3/3 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Algeria vs Niger
-Analysis: Algeria won all 7/7 H2H matches
-Winner: Algeria
+Teams: Bedford Town vs AFC Telford United
+Analysis: AFC Telford United won all 3/3 H2H matches
+Winner: AFC Telford United
 
-Teams: Tombense FC vs Caxias
-Analysis: Tombense FC won all 3/3 H2H matches
-Winner: Tombense FC
+Teams: Salisbury FC vs Bath City
+Analysis: Bath City won all 3/3 H2H matches
+Winner: Bath City
 
-Teams: Sunderland U21 vs Tottenham Hotspur U21
-Analysis: Tottenham Hotspur U21 won all 3/3 H2H matches
-Winner: Tottenham Hotspur U21
-
-Teams: EIF vs SJK Akatemia
-Analysis: EIF won all 9/9 H2H matches
-Winner: EIF
-
-Teams: Nardo vs Kristiansund BK 2
-Analysis: Nardo won all 3/3 H2H matches
-Winner: Nardo
+Teams: Shillong Lajong vs Northeast United FC
+Analysis: Northeast United FC won all 4/4 H2H matches
+Winner: Northeast United FC
