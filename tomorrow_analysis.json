@@ -1,85 +1,27 @@
 {
-  "OVER 1.5 STARTED HERE": [
-    {
-      "teams": "Tranmere Rovers vs Burton Albion",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Plymouth Argyle vs Leyton Orient",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Altrincham vs Hartlepool United",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "HB Koege vs B 93",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "OB Q W vs Kolding IF W",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Radcliffe vs Worksop Town",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Enfield Town vs Hornchurch",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Rushall Olympic vs Ashton United",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Werder Bremen III vs Blumenthaler SV",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Coleraine vs Dungannon Swifts",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Pors 2 vs Odds Ballklubb 2",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    }
-  ],
+  "OVER 1.5 STARTED HERE": [],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Brinkumer SV vs SV Hemelingen",
-      "analysis": "All 9/9 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Shillong Lajong vs Northeast United FC",
+      "teams": "FC Hanau 93 vs Hanauer SC 1960",
       "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Kongsvinger 2 vs Skjetten",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [
     {
-      "teams": "Bedford Town vs AFC Telford United",
+      "teams": "Loudoun United vs Sacramento Republic FC",
       "analysis": "All 3/3 H2H are over 3.5 Goals"
     }
   ],
   "WIN STARTED HERE": [
     {
-      "teams": "Bedford Town vs AFC Telford United",
-      "winner": "AFC Telford United",
-      "analysis": "AFC Telford United won all 3/3 H2H matches"
+      "teams": "Kolbotn W vs SK Brann W",
+      "winner": "SK Brann W",
+      "analysis": "SK Brann W won all 10/10 H2H matches"
     },
     {
-      "teams": "Salisbury FC vs Bath City",
-      "winner": "Bath City",
-      "analysis": "Bath City won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Shillong Lajong vs Northeast United FC",
-      "winner": "Northeast United FC",
-      "analysis": "Northeast United FC won all 4/4 H2H matches"
+      "teams": "Loudoun United vs Sacramento Republic FC",
+      "winner": "Sacramento Republic FC",
+      "analysis": "Sacramento Republic FC won all 3/3 H2H matches"
     }
   ]
 }
