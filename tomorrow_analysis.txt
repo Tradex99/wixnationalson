@@ -1,16 +1,87 @@
 OVER 1.5 STARTED HERE
 
-Teams: Anderlecht vs AEK Athens
-Analysis: All 6/6 H2H are over 1.5 Goals
+Teams: Bayern Munich vs RB Leipzig
+Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Assyriska FF vs Sandvikens IF
-Analysis: All 6/6 H2H are over 1.5 Goals
+Teams: Eibar vs Granada
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Toronto Awaba vs West Wallsend
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Mindil Aces vs Port Darwin
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Hellenic vs Casuarina
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: AGF U19 vs Esbjerg U19
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Sunderland U18 vs Manchester City U18
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FSV Zwickau vs Carl Zeiss Jena
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Valur vs Vestri
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Yverdon vs FC Wil 1900
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Crown Legacy vs Inter Miami CF II
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Flint Town United vs Caernarfon
+Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Al-Ahli vs Al-Sadd
-Analysis: All 10/10 H2H are over 2.5 Goals
+Teams: Southampton U23 vs Sunderland U21
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Wehen Wiesbaden vs RW Essen
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: FC Tuerkiye Wilhelmsburg vs Vorwarts-Wacker
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: FOC Farsta vs Huddinge IF
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: SG Dynamo Schwerin vs Tennis Borussia
+Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Palmeiras vs Universitario de Deportes
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: Manchester City U23 vs West Ham United U23
+Analysis: All 4/4 H2H are over 3.5 Goals
+
+Teams: Bergdalens IK vs Landvetter IS
+Analysis: All 3/3 H2H are over 3.5 Goals
+
 WIN STARTED HERE
+
+Teams: Paris Saint-Germain vs Angers
+Analysis: Paris Saint-Germain won all 10/10 H2H matches
+Winner: Paris Saint-Germain
+
+Teams: Palmeiras vs Universitario de Deportes
+Analysis: Palmeiras won all 3/3 H2H matches
+Winner: Palmeiras
+
+Teams: Alianza FC vs LD Alajuelense
+Analysis: LD Alajuelense won all 3/3 H2H matches
+Winner: LD Alajuelense
+
+Teams: FC Normannia Gmuend vs Goeppinger SV
+Analysis: Goeppinger SV won all 4/4 H2H matches
+Winner: Goeppinger SV
+
+Teams: Sol de America vs Pastoreo FC
+Analysis: Sol de America won all 3/3 H2H matches
+Winner: Sol de America

@@ -1,31 +1,20 @@
 {
-  "OVER 1.5 STARTED HERE": [],
+  "OVER 1.5 STARTED HERE": [
+    {
+      "teams": "Anderlecht vs AEK Athens",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Assyriska FF vs Sandvikens IF",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    }
+  ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Logan Lightning vs Brisbane Strikers",
-      "analysis": "All 7/7 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "FC Hanau 93 vs Hanauer SC 1960",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
+      "teams": "Al-Ahli vs Al-Sadd",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "Loudoun United vs Sacramento Republic FC",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    }
-  ],
-  "WIN STARTED HERE": [
-    {
-      "teams": "Kolbotn W vs SK Brann W",
-      "winner": "SK Brann W",
-      "analysis": "SK Brann W won all 10/10 H2H matches"
-    },
-    {
-      "teams": "Loudoun United vs Sacramento Republic FC",
-      "winner": "Sacramento Republic FC",
-      "analysis": "Sacramento Republic FC won all 3/3 H2H matches"
-    }
-  ]
+  "OVER 3.5 STARTED HERE": [],
+  "WIN STARTED HERE": []
 }
