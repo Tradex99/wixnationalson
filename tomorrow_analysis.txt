@@ -1,210 +1,32 @@
 OVER 1.5 STARTED HERE
 
-Teams: Real Oviedo vs Real Madrid
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: FCV Dender EH vs Oud-Heverlee Leuven
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Charlotte vs New York Red Bulls
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Greuther Furth vs Holstein Kiel
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Juventude vs Botafogo FR
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Villa Mitre vs Argentino Monte Maiz
+Teams: Reading vs AFC Wimbledon
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: Defensores de Cambaceres vs Berazategui
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Tuggeranong United vs O'Connor Knights
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Caboolture FC vs Brisbane Strikers
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Holland Park Hawks vs SWQ Thunder
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Brunswick City vs Melbourne City FC Youth
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Kingston City vs Eastern Lions SC
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: SK Rapid Wien II vs Young Violets
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Guabira vs Nacional Potosi
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Jorge Wilstermann vs Bolivar
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Universidad Catolica vs Union Espanola
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Aarhus Fremad II vs VRI
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Freiburg II vs Sonnenhof Grossaspach
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Uhlenhorster SC Paloma vs Harksheide
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: SV Todesfelde vs Inter Tuerkspor Kiel
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Lupo-Martini Wolfsburg vs Spelle-Venhaus
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Rot Weiss Ahlen vs ASC Dortmund
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: SpVgg Vreden vs Preussen Munster II
+Teams: Cardiff City vs Cheltenham Town
 Analysis: All 8/8 H2H are over 1.5 Goals
 
-Teams: FH Hafnarfjordur vs IBV Vestmannaeyjar
+Teams: Eintracht Braunschweig vs VfB Stuttgart
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Austria Lustenau vs Kapfenberger SV
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Chapelton vs Tivoli Gardens
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Cerezo Osaka Sakai W vs Nojima Stella W
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Flekkeroey vs Brattvaag
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Ullern vs Harstad
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Lillehammer FK vs Lillestroem 2
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Kongsvinger 2 vs Skedsmo
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Mokpo City vs Siheung Citizen FC
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Viggbyholms IK FF vs IK Franke
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: BK Forward vs Aatvidaberg
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Ming Chuan University vs Hang Yuan
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Al Bataeh vs Khorfakkan
+Teams: Amstetten vs First Vienna FC
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Urena SC vs Academia Rey
+Teams: Bogota FC vs Cucuta
 Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: TSG Neustrelitz vs Eintracht Mahlsdorf
-Analysis: All 8/8 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Gungahlin United vs Yoogali Soccer Club
-Analysis: All 5/5 H2H are over 2.5 Goals
-
-Teams: FK Beograd vs Adelaide United Youth
-Analysis: All 8/8 H2H are over 2.5 Goals
-
-Teams: Ipswich FC vs Rochedale Rovers
-Analysis: All 7/7 H2H are over 2.5 Goals
-
-Teams: Logan Lightning vs Broadbeach United
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Central SC vs Maranhao
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: SV Hemelingen vs Oberneuland
-Analysis: All 7/7 H2H are over 2.5 Goals
-
-Teams: Budapest Honved vs Aqvital FC Csakvar
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: CD Ayense vs Caja Oblatos Cfd
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Jerv vs Lysekloster
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Umeaa IK W vs Oerebro W
+Teams: Madagascar vs Sudan
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Caroline Springs George Cross vs Western United FC Youth
-Analysis: All 3/3 H2H are over 3.5 Goals
-
-Teams: Aasane 2 vs Foerde
-Analysis: All 3/3 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Leandro N. Alem vs Lugano
-Analysis: Leandro N. Alem won all 3/3 H2H matches
-Winner: Leandro N. Alem
-
-Teams: Holland Park Hawks vs SWQ Thunder
-Analysis: SWQ Thunder won all 5/5 H2H matches
-Winner: SWQ Thunder
-
-Teams: Southside Eagles vs Redlands United
-Analysis: Redlands United won all 3/3 H2H matches
-Winner: Redlands United
-
-Teams: Deportes Santa Cruz vs Curico Unido
-Analysis: Deportes Santa Cruz won all 3/3 H2H matches
-Winner: Deportes Santa Cruz
-
-Teams: St Joseph's vs College 1975
-Analysis: St Joseph's won all 8/8 H2H matches
-Winner: St Joseph's
-
-Teams: Kuching FA vs Johor Darul Ta'zim FC
-Analysis: Johor Darul Ta'zim FC won all 4/4 H2H matches
-Winner: Johor Darul Ta'zim FC
-
-Teams: Reboceros de la Piedad vs Tecos
-Analysis: Reboceros de la Piedad won all 4/4 H2H matches
-Winner: Reboceros de la Piedad
-
-Teams: CD Ayense vs Caja Oblatos Cfd
-Analysis: CD Ayense won all 4/4 H2H matches
-Winner: CD Ayense
-
-Teams: Frigg vs Sortland IL
-Analysis: Frigg won all 3/3 H2H matches
-Winner: Frigg
-
-Teams: Aasane 2 vs Foerde
-Analysis: Foerde won all 3/3 H2H matches
-Winner: Foerde
-
-Teams: Fortuna Aalesund W vs Odds Ballklubb W
-Analysis: Fortuna Aalesund W won all 3/3 H2H matches
-Winner: Fortuna Aalesund W
-
-Teams: FK Radnik Surdulica vs Zeleznicar Pancevo
-Analysis: Zeleznicar Pancevo won all 3/3 H2H matches
-Winner: Zeleznicar Pancevo
-
-Teams: Komarno vs Spartak Trnava
-Analysis: Spartak Trnava won all 3/3 H2H matches
-Winner: Spartak Trnava
-
-Teams: Yeni Mersin Idmanyurdu vs Menemen FK
-Analysis: Menemen FK won all 4/4 H2H matches
-Winner: Menemen FK
+Teams: Valur vs Afturelding
+Analysis: Valur won all 4/4 H2H matches
+Winner: Valur
