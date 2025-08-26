@@ -1,42 +1,19 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Reading vs AFC Wimbledon",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Cardiff City vs Cheltenham Town",
+      "teams": "SV Horn vs LASK",
       "analysis": "All 8/8 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Eintracht Braunschweig vs VfB Stuttgart",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Austria Lustenau vs Kapfenberger SV",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Amstetten vs First Vienna FC",
+      "teams": "SC Weiche Flensburg vs Blau-Weiss Lohne",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Bogota FC vs Cucuta",
+      "teams": "Pachuca W vs Atlas W",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [
-    {
-      "teams": "Madagascar vs Sudan",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    }
-  ],
+  "OVER 2.5 STARTED HERE": [],
   "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": [
-    {
-      "teams": "Valur vs Afturelding",
-      "winner": "Valur",
-      "analysis": "Valur won all 4/4 H2H matches"
-    }
-  ]
+  "WIN STARTED HERE": []
 }

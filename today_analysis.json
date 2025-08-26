@@ -1,97 +1,42 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Forest Green Rovers vs Eastleigh",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Woking vs York City",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Jong AZ Alkmaar vs Cambuur",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Jorge Wilstermann vs Bolivar",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Darlington vs AFC Telford United",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Lancaster City vs Workington",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Chatham Town vs Folkestone Invicta",
+      "teams": "Reading vs AFC Wimbledon",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
     },
     {
-      "teams": "FK Liepaja vs SK Super Nova",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Viking 2 vs Hinna FK",
+      "teams": "Cardiff City vs Cheltenham Town",
       "analysis": "All 8/8 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Haugesund 2 vs Stord",
+      "teams": "Eintracht Braunschweig vs VfB Stuttgart",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Austria Lustenau vs Kapfenberger SV",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Club Sportivo Carapegua vs Tacuary",
-      "analysis": "All 9/9 H2H are over 1.5 Goals"
+      "teams": "Amstetten vs First Vienna FC",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Lion City Sailors FC vs Hougang United FC",
+      "teams": "Bogota FC vs Cucuta",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Trelleborgs FF vs Landskrona BoIS",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Real Monarchs SLC vs Minnesota United II",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Hashtag United vs Billericay",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "West Bromwich Albion U21 vs Aston Villa U21",
+      "teams": "Madagascar vs Sudan",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "NK Bistrica vs Dravinja",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "Elverum vs Stroemsgodset 2",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Chatham Town vs Folkestone Invicta",
-      "winner": "Chatham Town",
-      "analysis": "Chatham Town won all 5/5 H2H matches"
-    },
-    {
-      "teams": "Elverum vs Stroemsgodset 2",
-      "winner": "Elverum",
-      "analysis": "Elverum won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Colwyn Bay vs TNS",
-      "winner": "TNS",
-      "analysis": "TNS won all 3/3 H2H matches"
+      "teams": "Valur vs Afturelding",
+      "winner": "Valur",
+      "analysis": "Valur won all 4/4 H2H matches"
     }
   ]
 }

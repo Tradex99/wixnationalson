@@ -1,73 +1,32 @@
 OVER 1.5 STARTED HERE
 
-Teams: Forest Green Rovers vs Eastleigh
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Woking vs York City
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Jong AZ Alkmaar vs Cambuur
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Jorge Wilstermann vs Bolivar
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Darlington vs AFC Telford United
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Lancaster City vs Workington
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Chatham Town vs Folkestone Invicta
+Teams: Reading vs AFC Wimbledon
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: FK Liepaja vs SK Super Nova
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Viking 2 vs Hinna FK
+Teams: Cardiff City vs Cheltenham Town
 Analysis: All 8/8 H2H are over 1.5 Goals
 
-Teams: Haugesund 2 vs Stord
+Teams: Eintracht Braunschweig vs VfB Stuttgart
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Austria Lustenau vs Kapfenberger SV
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Club Sportivo Carapegua vs Tacuary
-Analysis: All 9/9 H2H are over 1.5 Goals
+Teams: Amstetten vs First Vienna FC
+Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Lion City Sailors FC vs Hougang United FC
+Teams: Bogota FC vs Cucuta
 Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Trelleborgs FF vs Landskrona BoIS
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Real Monarchs SLC vs Minnesota United II
-Analysis: All 7/7 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Hashtag United vs Billericay
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: West Bromwich Albion U21 vs Aston Villa U21
+Teams: Madagascar vs Sudan
 Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: NK Bistrica vs Dravinja
-Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Elverum vs Stroemsgodset 2
-Analysis: All 3/3 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Chatham Town vs Folkestone Invicta
-Analysis: Chatham Town won all 5/5 H2H matches
-Winner: Chatham Town
-
-Teams: Elverum vs Stroemsgodset 2
-Analysis: Elverum won all 3/3 H2H matches
-Winner: Elverum
-
-Teams: Colwyn Bay vs TNS
-Analysis: TNS won all 3/3 H2H matches
-Winner: TNS
+Teams: Valur vs Afturelding
+Analysis: Valur won all 4/4 H2H matches
+Winner: Valur
