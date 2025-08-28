@@ -1,16 +1,27 @@
 OVER 1.5 STARTED HERE
 
-Teams: SV Horn vs LASK
-Analysis: All 8/8 H2H are over 1.5 Goals
+Teams: AEK Athens vs Anderlecht
+Analysis: All 7/7 H2H are over 1.5 Goals
 
-Teams: SC Weiche Flensburg vs Blau-Weiss Lohne
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Pachuca W vs Atlas W
+Teams: Al-Sadd vs Al-Gharafa
 Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Etoile du Sahel vs AS Gabes
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Cong An Ha Noi vs Ha Noi FC
+Analysis: All 7/7 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
+
+Teams: Genk vs Lech Poznan
+Analysis: Genk won all 3/3 H2H matches
+Winner: Genk
+
+Teams: FC Differdange 03 vs Drita
+Analysis: Drita won all 3/3 H2H matches
+Winner: Drita

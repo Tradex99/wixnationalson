@@ -1,19 +1,34 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "SV Horn vs LASK",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
+      "teams": "AEK Athens vs Anderlecht",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
     },
     {
-      "teams": "SC Weiche Flensburg vs Blau-Weiss Lohne",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Pachuca W vs Atlas W",
+      "teams": "Al-Sadd vs Al-Gharafa",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Etoile du Sahel vs AS Gabes",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Cong An Ha Noi vs Ha Noi FC",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [],
   "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": []
+  "WIN STARTED HERE": [
+    {
+      "teams": "Genk vs Lech Poznan",
+      "winner": "Genk",
+      "analysis": "Genk won all 3/3 H2H matches"
+    },
+    {
+      "teams": "FC Differdange 03 vs Drita",
+      "winner": "Drita",
+      "analysis": "Drita won all 3/3 H2H matches"
+    }
+  ]
 }
