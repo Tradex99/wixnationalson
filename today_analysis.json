@@ -1,34 +1,97 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "AEK Athens vs Anderlecht",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Al-Sadd vs Al-Gharafa",
+      "teams": "Lecce vs AC Milan",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Etoile du Sahel vs AS Gabes",
+      "teams": "Montpellier vs Amiens",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Cong An Ha Noi vs Ha Noi FC",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
+      "teams": "Jong PSV vs Jong AZ Alkmaar",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Garuda FC vs Mindil Aces",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Port Darwin vs Hellenic",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SK Austria Klagenfurt vs FC Admira Wacker Modling",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Herlev vs Avarta",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Chateauroux vs Orleans",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Ansbach vs Viktoria Aschaffenburg",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC Ismaning vs FC Deisenhofen",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Vatan Sport Bremen vs Habenhauser FV",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Harksheide vs TSV Buchholz",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "CF America W vs Santos Laguna W",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [],
-  "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": [
+  "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Genk vs Lech Poznan",
-      "winner": "Genk",
-      "analysis": "Genk won all 3/3 H2H matches"
+      "teams": "Oberneuland vs Geestemuende",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
     },
     {
-      "teams": "FC Differdange 03 vs Drita",
-      "winner": "Drita",
-      "analysis": "Drita won all 3/3 H2H matches"
+      "teams": "IF Haga vs IK Tord",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Landvetter IS vs BK Astrio",
+      "analysis": "All 7/7 H2H are over 2.5 Goals"
+    }
+  ],
+  "OVER 3.5 STARTED HERE": [
+    {
+      "teams": "Hertha Berlin vs Elversberg",
+      "analysis": "All 4/4 H2H are over 3.5 Goals"
+    },
+    {
+      "teams": "ATSV Erlangen vs SV Fortuna Regensberg",
+      "analysis": "All 4/4 H2H are over 3.5 Goals"
+    }
+  ],
+  "WIN STARTED HERE": [
+    {
+      "teams": "Garuda FC vs Mindil Aces",
+      "winner": "Mindil Aces",
+      "analysis": "Mindil Aces won all 5/5 H2H matches"
+    },
+    {
+      "teams": "Le Puy vs Bourg en Bresse Peronnas 01",
+      "winner": "Bourg en Bresse Peronnas 01",
+      "analysis": "Bourg en Bresse Peronnas 01 won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Dundalk vs Kerry",
+      "winner": "Dundalk",
+      "analysis": "Dundalk won all 3/3 H2H matches"
     }
   ]
 }

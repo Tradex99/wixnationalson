@@ -1,73 +1,322 @@
 OVER 1.5 STARTED HERE
 
-Teams: Lecce vs AC Milan
+Teams: VfB Stuttgart vs Borussia M'gladbach
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Montpellier vs Amiens
+Teams: Doncaster Rovers vs Rotherham United
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Jong PSV vs Jong AZ Alkmaar
+Teams: Exeter City vs Peterborough United
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Garuda FC vs Mindil Aces
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Port Darwin vs Hellenic
+Teams: Westerlo vs Royal Antwerp
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: SK Austria Klagenfurt vs FC Admira Wacker Modling
+Teams: Vissel Kobe vs Yokohama F.Marinos
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Herlev vs Avarta
+Teams: Daegu FC vs Suwon FC
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Chateauroux vs Orleans
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Ansbach vs Viktoria Aschaffenburg
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: FC Ismaning vs FC Deisenhofen
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Vatan Sport Bremen vs Habenhauser FV
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Harksheide vs TSV Buchholz
+Teams: ASO Chlef vs USM Khenchela
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: CF America W vs Santos Laguna W
+Teams: Valentine Phoenix vs West Wallsend
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Adelaide United Youth vs North Eastern Metro Stars
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Clarence Zebras vs Devonport City
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Dulwich Hill FC vs SD Raiders FC
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Olympiakos Nicosia vs Anorthosis
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Oesterbro IF W vs AaB W
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Esbjerg U19 vs Lyngby U19
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FC Copenhagen U19 vs SoenderjyskE U19
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: AC Horsens U19 vs Broendby U19
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: AaB U19 vs AGF U19
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: OB U17 vs FC Nordsjaelland U17
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Worksop Town vs Chester FC
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Worthing vs Maidstone United
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Alvechurch vs Barwell FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Carshalton Athletic vs Wingate & Finchley
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Brighton U18 vs Norwich City U18
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Manchester City U18 vs Blackburn Rovers U18
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Middlesbrough U18 vs Sunderland U18
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Tottenham Hotspur U18 vs Crystal Palace U18
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Chelsea U18 vs Aston Villa U18
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Derby County U18 vs Manchester United U18
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Newcastle United U18 vs Leeds United U18
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Nomme Kalju U21 vs FC Elva
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: FC Suduroy vs Klaksvik
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Kolkheti-1913 Poti vs FC Gagra
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Altonaer FC 93 vs SC Weiche Flensburg
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Jahn Regensburg II vs SpVgg Weiden
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Brinkumer SV vs FC Union 60
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Blumenthaler SV vs SG Aumund-Vegesack
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: SV Curslack-Neuengamme vs FC Suederelbe
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FC Hanau 93 vs Huenfelder SV
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: SV Gonsenheim vs Arminia Ludwigshafen
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: RW Koblenz vs FV Diefflen
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Manchester 62 FC vs St Joseph's
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Ujpest vs MTK Budapest
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: UMF Selfoss vs Thor Akureyri
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Urawa W vs JEF W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Bangor vs Dungannon Swifts
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Annagh United vs Newington FC
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: Stjoerdals Blink vs Stroemmen
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: Vindbjart vs Brodd
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Alianza Universidad vs Los Chankas CYC
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: Al-Sailiya vs Al-Shamal
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Partizan Beograd vs FK Radnik Surdulica
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Varbergs BoIS FC vs Falkenbergs FF
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Gottne IF vs IFK Luleaa
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Onsala BK vs Lindome GIF
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Qviding FIF vs Laholms FK
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Eskilstuna United DFF W vs Jitex BK W
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Bulle vs Young Boys II
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: River Plate vs Nacional
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Oberneuland vs Geestemuende
+Teams: Hoffenheim vs Eintracht Frankfurt
 Analysis: All 10/10 H2H are over 2.5 Goals
 
-Teams: IF Haga vs IK Tord
+Teams: PSV Eindhoven vs Telstar
 Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Landvetter IS vs BK Astrio
+Teams: Launceston United vs Kingborough Lions
+Analysis: All 8/8 H2H are over 2.5 Goals
+
+Teams: Inter Lions FC vs Bonnyrigg White Eagles
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Logan Lightning vs Brisbane Strikers
 Analysis: All 7/7 H2H are over 2.5 Goals
+
+Teams: Plymouth Parkway vs Frome Town
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: KuPS Akatemia vs EPS
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: PK Keski-Uusimaa vs FC Jazz
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: DJK Teutonia St. Toenis vs FC Buederich
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Delmenhorst vs MTV Wolfenbuettel
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Germania Halberstadt vs FC Grimma
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Hertha Wiesbach vs Eisbachtaler Sportfreunde
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Queen's University vs Harland & Wolff Welders FC
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Stord vs Sola
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Flint vs Fram Larvik
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Motala AIF FK vs Grebbestads IF
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: 1928 Bucaspor vs Sanliurfaspor
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Barry Town vs TNS
+Analysis: All 10/10 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Hertha Berlin vs Elversberg
-Analysis: All 4/4 H2H are over 3.5 Goals
+Teams: TS Woltmershausen vs SV Hemelingen
+Analysis: All 6/6 H2H are over 3.5 Goals
 
-Teams: ATSV Erlangen vs SV Fortuna Regensberg
+Teams: Volsungur vs Grindavik
+Analysis: All 5/5 H2H are over 3.5 Goals
+
+Teams: Foerde vs Loddefjord
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: Mendiola FC 1991 vs Manila Digger
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: Port FC vs Rayong FC
 Analysis: All 4/4 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Garuda FC vs Mindil Aces
-Analysis: Mindil Aces won all 5/5 H2H matches
-Winner: Mindil Aces
+Teams: PSV Eindhoven vs Telstar
+Analysis: PSV Eindhoven won all 3/3 H2H matches
+Winner: PSV Eindhoven
 
-Teams: Le Puy vs Bourg en Bresse Peronnas 01
-Analysis: Bourg en Bresse Peronnas 01 won all 3/3 H2H matches
-Winner: Bourg en Bresse Peronnas 01
+Teams: Central Cordoba de Rosario vs Mercedes
+Analysis: Central Cordoba de Rosario won all 3/3 H2H matches
+Winner: Central Cordoba de Rosario
 
-Teams: Dundalk vs Kerry
-Analysis: Dundalk won all 3/3 H2H matches
-Winner: Dundalk
+Teams: Victoriano Arenas vs Juventud Unida San Miguel
+Analysis: Victoriano Arenas won all 3/3 H2H matches
+Winner: Victoriano Arenas
+
+Teams: Launceston United vs Kingborough Lions
+Analysis: Kingborough Lions won all 8/8 H2H matches
+Winner: Kingborough Lions
+
+Teams: Inter San Carlos vs Deportivo Upala FC
+Analysis: Inter San Carlos won all 4/4 H2H matches
+Winner: Inter San Carlos
+
+Teams: Berkhamsted vs St. Ives Town
+Analysis: St. Ives Town won all 4/4 H2H matches
+Winner: St. Ives Town
+
+Teams: FC Suduroy vs Klaksvik
+Analysis: Klaksvik won all 8/8 H2H matches
+Winner: Klaksvik
+
+Teams: Delmenhorst vs MTV Wolfenbuettel
+Analysis: Delmenhorst won all 3/3 H2H matches
+Winner: Delmenhorst
+
+Teams: Hertha Wiesbach vs Eisbachtaler Sportfreunde
+Analysis: Hertha Wiesbach won all 3/3 H2H matches
+Winner: Hertha Wiesbach
+
+Teams: Persijap Jepara vs Arema FC
+Analysis: Arema FC won all 8/8 H2H matches
+Winner: Arema FC
+
+Teams: FC Imabari vs Iwaki FC
+Analysis: FC Imabari won all 3/3 H2H matches
+Winner: FC Imabari
+
+Teams: Vidar vs Torvastad
+Analysis: Vidar won all 3/3 H2H matches
+Winner: Vidar
+
+Teams: Mendiola FC 1991 vs Manila Digger
+Analysis: Manila Digger won all 3/3 H2H matches
+Winner: Manila Digger
+
+Teams: Sevilla Atletico vs UD Ibiza
+Analysis: UD Ibiza won all 4/4 H2H matches
+Winner: UD Ibiza
+
+Teams: Aengelholms FF vs Torslanda IK
+Analysis: Aengelholms FF won all 7/7 H2H matches
+Winner: Aengelholms FF
+
+Teams: Piteaa W vs IFK Norrkoeping W
+Analysis: Piteaa W won all 5/5 H2H matches
+Winner: Piteaa W
+
+Teams: Port FC vs Rayong FC
+Analysis: Port FC won all 4/4 H2H matches
+Winner: Port FC
+
+Teams: 1928 Bucaspor vs Sanliurfaspor
+Analysis: Sanliurfaspor won all 3/3 H2H matches
+Winner: Sanliurfaspor

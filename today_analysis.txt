@@ -1,27 +1,73 @@
 OVER 1.5 STARTED HERE
 
-Teams: AEK Athens vs Anderlecht
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Al-Sadd vs Al-Gharafa
+Teams: Lecce vs AC Milan
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Etoile du Sahel vs AS Gabes
+Teams: Montpellier vs Amiens
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Cong An Ha Noi vs Ha Noi FC
-Analysis: All 7/7 H2H are over 1.5 Goals
+Teams: Jong PSV vs Jong AZ Alkmaar
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Garuda FC vs Mindil Aces
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Port Darwin vs Hellenic
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: SK Austria Klagenfurt vs FC Admira Wacker Modling
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Herlev vs Avarta
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Chateauroux vs Orleans
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Ansbach vs Viktoria Aschaffenburg
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FC Ismaning vs FC Deisenhofen
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: Vatan Sport Bremen vs Habenhauser FV
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Harksheide vs TSV Buchholz
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: CF America W vs Santos Laguna W
+Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
+Teams: Oberneuland vs Geestemuende
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: IF Haga vs IK Tord
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Landvetter IS vs BK Astrio
+Analysis: All 7/7 H2H are over 2.5 Goals
+
 OVER 3.5 STARTED HERE
+
+Teams: Hertha Berlin vs Elversberg
+Analysis: All 4/4 H2H are over 3.5 Goals
+
+Teams: ATSV Erlangen vs SV Fortuna Regensberg
+Analysis: All 4/4 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Genk vs Lech Poznan
-Analysis: Genk won all 3/3 H2H matches
-Winner: Genk
+Teams: Garuda FC vs Mindil Aces
+Analysis: Mindil Aces won all 5/5 H2H matches
+Winner: Mindil Aces
 
-Teams: FC Differdange 03 vs Drita
-Analysis: Drita won all 3/3 H2H matches
-Winner: Drita
+Teams: Le Puy vs Bourg en Bresse Peronnas 01
+Analysis: Bourg en Bresse Peronnas 01 won all 3/3 H2H matches
+Winner: Bourg en Bresse Peronnas 01
+
+Teams: Dundalk vs Kerry
+Analysis: Dundalk won all 3/3 H2H matches
+Winner: Dundalk
