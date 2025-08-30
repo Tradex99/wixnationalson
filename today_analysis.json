@@ -1,97 +1,422 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Lecce vs AC Milan",
+      "teams": "VfB Stuttgart vs Borussia M'gladbach",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Montpellier vs Amiens",
+      "teams": "Doncaster Rovers vs Rotherham United",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Jong PSV vs Jong AZ Alkmaar",
+      "teams": "Exeter City vs Peterborough United",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Garuda FC vs Mindil Aces",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Port Darwin vs Hellenic",
+      "teams": "Westerlo vs Royal Antwerp",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "SK Austria Klagenfurt vs FC Admira Wacker Modling",
+      "teams": "Vissel Kobe vs Yokohama F.Marinos",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Herlev vs Avarta",
+      "teams": "Daegu FC vs Suwon FC",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Chateauroux vs Orleans",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Ansbach vs Viktoria Aschaffenburg",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "FC Ismaning vs FC Deisenhofen",
-      "analysis": "All 9/9 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Vatan Sport Bremen vs Habenhauser FV",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Harksheide vs TSV Buchholz",
+      "teams": "ASO Chlef vs USM Khenchela",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "CF America W vs Santos Laguna W",
+      "teams": "Yoogali Soccer Club vs O'Connor Knights",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Valentine Phoenix vs West Wallsend",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Adelaide United Youth vs North Eastern Metro Stars",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Clarence Zebras vs Devonport City",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Dulwich Hill FC vs SD Raiders FC",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Olympiakos Nicosia vs Anorthosis",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Oesterbro IF W vs AaB W",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Esbjerg U19 vs Lyngby U19",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC Copenhagen U19 vs SoenderjyskE U19",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "AC Horsens U19 vs Broendby U19",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "AaB U19 vs AGF U19",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "OB U17 vs FC Nordsjaelland U17",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Worksop Town vs Chester FC",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Worthing vs Maidstone United",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Alvechurch vs Barwell FC",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Carshalton Athletic vs Wingate & Finchley",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Brighton U18 vs Norwich City U18",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Manchester City U18 vs Blackburn Rovers U18",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Middlesbrough U18 vs Sunderland U18",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Tottenham Hotspur U18 vs Crystal Palace U18",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Chelsea U18 vs Aston Villa U18",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Derby County U18 vs Manchester United U18",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Leeds United U18 vs Newcastle United U18",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Nomme Kalju U21 vs FC Elva",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC Suduroy vs Klaksvik",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Kolkheti-1913 Poti vs FC Gagra",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Altonaer FC 93 vs SC Weiche Flensburg",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SSV Jeddeloh II vs Bremer SV",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Jahn Regensburg II vs SpVgg Weiden",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Brinkumer SV vs FC Union 60",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Blumenthaler SV vs SG Aumund-Vegesack",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SV Curslack-Neuengamme vs FC Suederelbe",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC Hanau 93 vs Huenfelder SV",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Arminia Ludwigshafen vs SV Gonsenheim",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "RW Koblenz vs FV Diefflen",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Manchester 62 FC vs St Joseph's",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Ujpest vs MTK Budapest",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "UMF Selfoss vs Thor Akureyri",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Urawa W vs JEF W",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Bangor vs Dungannon Swifts",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Annagh United vs Newington FC",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Stjoerdals Blink vs Stroemmen",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Vindbjart vs Brodd",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Alianza Universidad vs Los Chankas CYC",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Al-Sailiya vs Al-Shamal",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Partizan Beograd vs FK Radnik Surdulica",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Varbergs BoIS FC vs Falkenbergs FF",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Gottne IF vs IFK Luleaa",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Onsala BK vs Lindome GIF",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Qviding FIF vs Laholms FK",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Eskilstuna United DFF W vs Jitex BK W",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Bulle vs Young Boys II",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "River Plate vs Nacional",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Oberneuland vs Geestemuende",
+      "teams": "Hoffenheim vs Eintracht Frankfurt",
       "analysis": "All 10/10 H2H are over 2.5 Goals"
     },
     {
-      "teams": "IF Haga vs IK Tord",
+      "teams": "PSV Eindhoven vs Telstar",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Landvetter IS vs BK Astrio",
+      "teams": "Launceston United vs Kingborough Lions",
+      "analysis": "All 8/8 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Inter Lions FC vs Bonnyrigg White Eagles",
+      "analysis": "All 5/5 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Logan Lightning vs Brisbane Strikers",
       "analysis": "All 7/7 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Plymouth Parkway vs Frome Town",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "KuPS Akatemia vs EPS",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "PK Keski-Uusimaa vs FC Jazz",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "DJK Teutonia St. Toenis vs FC Buederich",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Delmenhorst vs MTV Wolfenbuettel",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Germania Halberstadt vs FC Grimma",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Hertha Wiesbach vs Eisbachtaler Sportfreunde",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Queen's University vs Harland & Wolff Welders FC",
+      "analysis": "All 5/5 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Stord vs Sola",
+      "analysis": "All 5/5 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Flint vs Fram Larvik",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Motala AIF FK vs Grebbestads IF",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "1928 Bucaspor vs Sanliurfaspor",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Barry Town vs TNS",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [
     {
-      "teams": "Hertha Berlin vs Elversberg",
-      "analysis": "All 4/4 H2H are over 3.5 Goals"
+      "teams": "TS Woltmershausen vs SV Hemelingen",
+      "analysis": "All 6/6 H2H are over 3.5 Goals"
     },
     {
-      "teams": "ATSV Erlangen vs SV Fortuna Regensberg",
+      "teams": "Volsungur vs Grindavik",
+      "analysis": "All 5/5 H2H are over 3.5 Goals"
+    },
+    {
+      "teams": "Foerde vs Loddefjord",
+      "analysis": "All 3/3 H2H are over 3.5 Goals"
+    },
+    {
+      "teams": "Mendiola FC 1991 vs Manila Digger",
+      "analysis": "All 3/3 H2H are over 3.5 Goals"
+    },
+    {
+      "teams": "Port FC vs Rayong FC",
       "analysis": "All 4/4 H2H are over 3.5 Goals"
     }
   ],
   "WIN STARTED HERE": [
     {
-      "teams": "Garuda FC vs Mindil Aces",
-      "winner": "Mindil Aces",
-      "analysis": "Mindil Aces won all 5/5 H2H matches"
+      "teams": "PSV Eindhoven vs Telstar",
+      "winner": "PSV Eindhoven",
+      "analysis": "PSV Eindhoven won all 3/3 H2H matches"
     },
     {
-      "teams": "Le Puy vs Bourg en Bresse Peronnas 01",
-      "winner": "Bourg en Bresse Peronnas 01",
-      "analysis": "Bourg en Bresse Peronnas 01 won all 3/3 H2H matches"
+      "teams": "Central Cordoba de Rosario vs Mercedes",
+      "winner": "Central Cordoba de Rosario",
+      "analysis": "Central Cordoba de Rosario won all 3/3 H2H matches"
     },
     {
-      "teams": "Dundalk vs Kerry",
-      "winner": "Dundalk",
-      "analysis": "Dundalk won all 3/3 H2H matches"
+      "teams": "Launceston United vs Kingborough Lions",
+      "winner": "Kingborough Lions",
+      "analysis": "Kingborough Lions won all 8/8 H2H matches"
+    },
+    {
+      "teams": "Berkhamsted vs St. Ives Town",
+      "winner": "St. Ives Town",
+      "analysis": "St. Ives Town won all 4/4 H2H matches"
+    },
+    {
+      "teams": "FC Suduroy vs Klaksvik",
+      "winner": "Klaksvik",
+      "analysis": "Klaksvik won all 8/8 H2H matches"
+    },
+    {
+      "teams": "Delmenhorst vs MTV Wolfenbuettel",
+      "winner": "Delmenhorst",
+      "analysis": "Delmenhorst won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Hertha Wiesbach vs Eisbachtaler Sportfreunde",
+      "winner": "Hertha Wiesbach",
+      "analysis": "Hertha Wiesbach won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Persijap Jepara vs Arema FC",
+      "winner": "Arema FC",
+      "analysis": "Arema FC won all 8/8 H2H matches"
+    },
+    {
+      "teams": "FC Imabari vs Iwaki FC",
+      "winner": "FC Imabari",
+      "analysis": "FC Imabari won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Vidar vs Torvastad",
+      "winner": "Vidar",
+      "analysis": "Vidar won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Mendiola FC 1991 vs Manila Digger",
+      "winner": "Manila Digger",
+      "analysis": "Manila Digger won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Sevilla Atletico vs UD Ibiza",
+      "winner": "UD Ibiza",
+      "analysis": "UD Ibiza won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Aengelholms FF vs Torslanda IK",
+      "winner": "Aengelholms FF",
+      "analysis": "Aengelholms FF won all 7/7 H2H matches"
+    },
+    {
+      "teams": "Piteaa W vs IFK Norrkoeping W",
+      "winner": "Piteaa W",
+      "analysis": "Piteaa W won all 5/5 H2H matches"
+    },
+    {
+      "teams": "Port FC vs Rayong FC",
+      "winner": "Port FC",
+      "analysis": "Port FC won all 4/4 H2H matches"
+    },
+    {
+      "teams": "1928 Bucaspor vs Sanliurfaspor",
+      "winner": "Sanliurfaspor",
+      "analysis": "Sanliurfaspor won all 3/3 H2H matches"
     }
   ]
 }
