@@ -1,53 +1,43 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Odder IGF vs IF Lyseng",
+      "teams": "Slovakia vs Germany",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Madagascar vs Central African Republic",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Norway vs Finland",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "JS Saoura vs ASO Chlef",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
       "teams": "CD Luis Angel Firpo vs 11 Deportivo FC U20",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Noettingen vs Karlsruher SC II",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Hoegaborgs BK vs Soelvesborgs GOIF",
-      "analysis": "All 9/9 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Academia Rey vs Real Frontera",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Sundby W vs Broendby W",
-      "analysis": "All 6/6 H2H are over 2.5 Goals"
+      "teams": "Guinea-Bissau vs Sierra Leone",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "Hoenefoss W vs Vaalerenga W",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Clarence Zebras vs Glenorchy Knights",
-      "winner": "Glenorchy Knights",
-      "analysis": "Glenorchy Knights won all 10/10 H2H matches"
+      "teams": "Mauritius vs Cape Verde",
+      "winner": "Cape Verde",
+      "analysis": "Cape Verde won all 3/3 H2H matches"
     },
     {
-      "teams": "Sundby W vs Broendby W",
-      "winner": "Broendby W",
-      "analysis": "Broendby W won all 6/6 H2H matches"
-    },
-    {
-      "teams": "Hoenefoss W vs Vaalerenga W",
-      "winner": "Vaalerenga W",
-      "analysis": "Vaalerenga W won all 3/3 H2H matches"
+      "teams": "Algeria vs Botswana",
+      "winner": "Algeria",
+      "analysis": "Algeria won all 3/3 H2H matches"
     }
   ]
 }

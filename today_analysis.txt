@@ -1,41 +1,37 @@
 OVER 1.5 STARTED HERE
 
-Teams: Ferro Carril Oeste vs Racing de Cordoba
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Lincoln City vs Notts County
+Teams: Odder IGF vs IF Lyseng
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: King's Lynn Town vs Kidderminster Harriers
-Analysis: All 7/7 H2H are over 1.5 Goals
+Teams: Noettingen vs Karlsruher SC II
+Analysis: All 8/8 H2H are over 1.5 Goals
 
-Teams: AFC Totton vs Chesham United
+Teams: Hoegaborgs BK vs Soelvesborgs GOIF
 Analysis: All 9/9 H2H are over 1.5 Goals
 
-Teams: Atlas W vs Mazatlan FC W
+Teams: Academia Rey vs Real Frontera
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
+Teams: Sundby W vs Broendby W
+Analysis: All 6/6 H2H are over 2.5 Goals
+
 OVER 3.5 STARTED HERE
 
-Teams: GVI vs Broenshoej
+Teams: Hoenefoss W vs Vaalerenga W
 Analysis: All 3/3 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Angel City FC vs Bay FC
-Analysis: Bay FC won all 3/3 H2H matches
-Winner: Bay FC
+Teams: Clarence Zebras vs Glenorchy Knights
+Analysis: Glenorchy Knights won all 10/10 H2H matches
+Winner: Glenorchy Knights
 
-Teams: GVI vs Broenshoej
-Analysis: Broenshoej won all 3/3 H2H matches
-Winner: Broenshoej
+Teams: Sundby W vs Broendby W
+Analysis: Broendby W won all 6/6 H2H matches
+Winner: Broendby W
 
-Teams: Holbaek vs Ishoej IF
-Analysis: Ishoej IF won all 4/4 H2H matches
-Winner: Ishoej IF
-
-Teams: Chindia Targoviste vs CSC Dumbravita
-Analysis: Chindia Targoviste won all 4/4 H2H matches
-Winner: Chindia Targoviste
+Teams: Hoenefoss W vs Vaalerenga W
+Analysis: Vaalerenga W won all 3/3 H2H matches
+Winner: Vaalerenga W

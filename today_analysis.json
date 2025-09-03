@@ -1,53 +1,49 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Ferro Carril Oeste vs Racing de Cordoba",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Lincoln City vs Notts County",
+      "teams": "Odder IGF vs IF Lyseng",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "King's Lynn Town vs Kidderminster Harriers",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
+      "teams": "Noettingen vs Karlsruher SC II",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
     },
     {
-      "teams": "AFC Totton vs Chesham United",
+      "teams": "Hoegaborgs BK vs Soelvesborgs GOIF",
       "analysis": "All 9/9 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Atlas W vs Mazatlan FC W",
+      "teams": "Academia Rey vs Real Frontera",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [],
+  "OVER 2.5 STARTED HERE": [
+    {
+      "teams": "Sundby W vs Broendby W",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
+    }
+  ],
   "OVER 3.5 STARTED HERE": [
     {
-      "teams": "GVI vs Broenshoej",
+      "teams": "Hoenefoss W vs Vaalerenga W",
       "analysis": "All 3/3 H2H are over 3.5 Goals"
     }
   ],
   "WIN STARTED HERE": [
     {
-      "teams": "Angel City FC vs Bay FC",
-      "winner": "Bay FC",
-      "analysis": "Bay FC won all 3/3 H2H matches"
+      "teams": "Clarence Zebras vs Glenorchy Knights",
+      "winner": "Glenorchy Knights",
+      "analysis": "Glenorchy Knights won all 10/10 H2H matches"
     },
     {
-      "teams": "GVI vs Broenshoej",
-      "winner": "Broenshoej",
-      "analysis": "Broenshoej won all 3/3 H2H matches"
+      "teams": "Sundby W vs Broendby W",
+      "winner": "Broendby W",
+      "analysis": "Broendby W won all 6/6 H2H matches"
     },
     {
-      "teams": "Holbaek vs Ishoej IF",
-      "winner": "Ishoej IF",
-      "analysis": "Ishoej IF won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Chindia Targoviste vs CSC Dumbravita",
-      "winner": "Chindia Targoviste",
-      "analysis": "Chindia Targoviste won all 4/4 H2H matches"
+      "teams": "Hoenefoss W vs Vaalerenga W",
+      "winner": "Vaalerenga W",
+      "analysis": "Vaalerenga W won all 3/3 H2H matches"
     }
   ]
 }
