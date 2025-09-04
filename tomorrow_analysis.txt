@@ -1,33 +1,68 @@
 OVER 1.5 STARTED HERE
 
-Teams: Slovakia vs Germany
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Madagascar vs Central African Republic
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Norway vs Finland
-Analysis: All 5/5 H2H are over 1.5 Goals
-
 Teams: JS Saoura vs ASO Chlef
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: CD Luis Angel Firpo vs 11 Deportivo FC U20
+Teams: Kolding IF W vs HB Koege W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: TPS vs EIF
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: 1. FC Nuremberg II vs DJK Vilzing
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Hinna FK vs Madla
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Vittsjo GIK W vs FC Rosengaard W
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Guinea-Bissau vs Sierra Leone
+Teams: Italy vs Estonia
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: KaPa Kapylan Pallo vs JaePS
+Analysis: All 8/8 H2H are over 2.5 Goals
+
+Teams: FC Astoria Walldorf vs Freiberg
+Analysis: All 6/6 H2H are over 2.5 Goals
+
+Teams: Eutin 08 vs FC Kilia Kiel
+Analysis: All 6/6 H2H are over 2.5 Goals
+
+Teams: IK Kongahaella vs Vaenersborgs IF
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: Mauritius vs Cape Verde
-Analysis: Cape Verde won all 3/3 H2H matches
-Winner: Cape Verde
+Teams: Italy vs Estonia
+Analysis: Italy won all 3/3 H2H matches
+Winner: Italy
 
-Teams: Algeria vs Botswana
-Analysis: Algeria won all 3/3 H2H matches
-Winner: Algeria
+Teams: Montenegro vs Czechia
+Analysis: Czechia won all 6/6 H2H matches
+Winner: Czechia
+
+Teams: Djibouti vs Burkina Faso
+Analysis: Burkina Faso won all 3/3 H2H matches
+Winner: Burkina Faso
+
+Teams: Morocco vs Niger
+Analysis: Morocco won all 5/5 H2H matches
+Winner: Morocco
+
+Teams: Ivory Coast vs Burundi
+Analysis: Ivory Coast won all 4/4 H2H matches
+Winner: Ivory Coast
+
+Teams: Australia vs New Zealand
+Analysis: Australia won all 7/7 H2H matches
+Winner: Australia
+
+Teams: IK Kongahaella vs Vaenersborgs IF
+Analysis: IK Kongahaella won all 3/3 H2H matches
+Winner: IK Kongahaella

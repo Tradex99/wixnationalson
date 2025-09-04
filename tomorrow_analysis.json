@@ -1,43 +1,88 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Slovakia vs Germany",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Madagascar vs Central African Republic",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Norway vs Finland",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
       "teams": "JS Saoura vs ASO Chlef",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "CD Luis Angel Firpo vs 11 Deportivo FC U20",
+      "teams": "Kolding IF W vs HB Koege W",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "TPS vs EIF",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "1. FC Nuremberg II vs DJK Vilzing",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Hinna FK vs Madla",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Vittsjo GIK W vs FC Rosengaard W",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Guinea-Bissau vs Sierra Leone",
+      "teams": "Italy vs Estonia",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "KaPa Kapylan Pallo vs JaePS",
+      "analysis": "All 8/8 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "FC Astoria Walldorf vs Freiberg",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Eutin 08 vs FC Kilia Kiel",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "IK Kongahaella vs Vaenersborgs IF",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Mauritius vs Cape Verde",
-      "winner": "Cape Verde",
-      "analysis": "Cape Verde won all 3/3 H2H matches"
+      "teams": "Italy vs Estonia",
+      "winner": "Italy",
+      "analysis": "Italy won all 3/3 H2H matches"
     },
     {
-      "teams": "Algeria vs Botswana",
-      "winner": "Algeria",
-      "analysis": "Algeria won all 3/3 H2H matches"
+      "teams": "Montenegro vs Czechia",
+      "winner": "Czechia",
+      "analysis": "Czechia won all 6/6 H2H matches"
+    },
+    {
+      "teams": "Djibouti vs Burkina Faso",
+      "winner": "Burkina Faso",
+      "analysis": "Burkina Faso won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Morocco vs Niger",
+      "winner": "Morocco",
+      "analysis": "Morocco won all 5/5 H2H matches"
+    },
+    {
+      "teams": "Ivory Coast vs Burundi",
+      "winner": "Ivory Coast",
+      "analysis": "Ivory Coast won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Australia vs New Zealand",
+      "winner": "Australia",
+      "analysis": "Australia won all 7/7 H2H matches"
+    },
+    {
+      "teams": "IK Kongahaella vs Vaenersborgs IF",
+      "winner": "IK Kongahaella",
+      "analysis": "IK Kongahaella won all 3/3 H2H matches"
     }
   ]
 }
