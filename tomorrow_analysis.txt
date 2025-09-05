@@ -1,68 +1,303 @@
 OVER 1.5 STARTED HERE
 
-Teams: JS Saoura vs ASO Chlef
+Teams: Plymouth Argyle vs Stockport County
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Woking vs Gateshead FC
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Kolding IF W vs HB Koege W
+Teams: Logrono W vs Real Sociedad W
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Moreton City Excelsior vs Eastern Suburbs
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: TPS vs EIF
+Teams: Devonport City vs South Hobart
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: 1. FC Nuremberg II vs DJK Vilzing
+Teams: Launceston United vs Glenorchy Knights
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: FK BSK Banja Luka vs Sloboda Novi Grad
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Hinna FK vs Madla
+Teams: Unity vs Scarborough SC
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Naestved II vs Ledoeje-Smoerum Fodbold
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Hedensted vs Young Boys FD
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Noerresundby vs Aarhus Fremad II
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Aalborg Freja vs Viby IF
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Vittsjo GIK W vs FC Rosengaard W
+Teams: B93 W vs Oesterbro IF W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Tiverton vs Bracknell Town
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Hayes & Yeading United vs Metropolitan Police
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: KuPS W vs HPS W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: TSV Aubstadt vs Augsburg II
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: 1. CfR Pforzheim vs SV Oberachern
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Karlsruher SC II vs FSV 08 Bissingen
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Tuerkspor Augsburg vs FC Ismaning
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: FC Pipinsried vs SV Heimstetten
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Teutonia Ottensen vs SV Curslack-Neuengamme
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: MTV Wolfenbuettel vs TuS Bersenbrueck
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Kaiserslautern II vs FV Diefflen
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FV Engers vs SV Gonsenheim
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Rot Weiss Ahlen vs Lippstadt
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: INAC Kobe Leonessa W vs Cerezo Osaka Sakai W
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Tlaxcala FC vs Alebrijes Oaxaca
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: SC Heerenveen W vs FC Twente W
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Pors Football vs Eik-Toensberg
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Brann 2 vs Lysekloster
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Kristiansund BK 2 vs Volda
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Os vs Askoy
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: Sandnes 2 vs Stord
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: FK Smederevo 1924 vs FK Graficar
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Barakaldo vs Zamora
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Gefle vs Haninge
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Sollentuna FK vs Orebro Syrianska
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Kiruna FF vs Friska Viljor
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Grebbestads IF vs Lidkoepings FK
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: IFK Trelleborg FK vs Raeppe GOIF
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Bavois vs Bulle
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Cham vs Kriens
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Young Boys II vs Basel II
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: Miami FC vs Hartford Athletic
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Italy vs Estonia
+Teams: Bromley vs Gillingham
 Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: KaPa Kapylan Pallo vs JaePS
-Analysis: All 8/8 H2H are over 2.5 Goals
+Teams: FC Cologne W vs RB Leipzig W
+Analysis: All 4/4 H2H are over 2.5 Goals
 
-Teams: FC Astoria Walldorf vs Freiberg
+Teams: Canberra Croatia FC vs Tigers FC
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: SD Raiders FC vs Central Coast Mariners Youth
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Kingborough Lions vs Clarence Zebras
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Hellenic vs Garuda FC
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Western United FC Youth vs Brunswick City
 Analysis: All 6/6 H2H are over 2.5 Goals
 
-Teams: Eutin 08 vs FC Kilia Kiel
-Analysis: All 6/6 H2H are over 2.5 Goals
+Teams: Chambly vs Chantilly US
+Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: IK Kongahaella vs Vaenersborgs IF
+Teams: VfB Eichstatt vs Unterhaching
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Werder Bremen II vs Blau-Weiss Lohne
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: SV Hemelingen vs Blumenthaler SV
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Heider SV vs Nordmark Satrup
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Strindheim vs Asker
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Grorud vs Levanger
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Floeya vs Baerum
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Aasane 2 vs Fana
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Gneist vs Bjarg
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Fram Larvik vs Oppsal
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Stabaek 2 vs Grei
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Club Sportivo Carapegua vs Pastoreo FC
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Daejeon Korail vs Yeoju Sejong
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Jitex BK W vs IK Uppsala Fotboll W
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Santos vs ADA Jaen
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Fuglebakken KFUM Aarhus vs ASA Aarhus
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: East Kilbride vs Hamilton Academical
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: Skiljebo SK vs Korsnaes IF FK
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: Schaffhausen vs SC Bruehl
+Analysis: All 3/3 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Italy vs Estonia
-Analysis: Italy won all 3/3 H2H matches
-Winner: Italy
+Teams: San Marino vs Bosnia and Herzegovina
+Analysis: Bosnia and Herzegovina won all 3/3 H2H matches
+Winner: Bosnia and Herzegovina
 
-Teams: Montenegro vs Czechia
-Analysis: Czechia won all 6/6 H2H matches
-Winner: Czechia
+Teams: England vs Andorra
+Analysis: England won all 7/7 H2H matches
+Winner: England
 
-Teams: Djibouti vs Burkina Faso
-Analysis: Burkina Faso won all 3/3 H2H matches
-Winner: Burkina Faso
+Teams: Arsenal W vs London City Lionesses
+Analysis: Arsenal W won all 5/5 H2H matches
+Winner: Arsenal W
 
-Teams: Morocco vs Niger
-Analysis: Morocco won all 5/5 H2H matches
-Winner: Morocco
+Teams: Launceston United vs Glenorchy Knights
+Analysis: Glenorchy Knights won all 8/8 H2H matches
+Winner: Glenorchy Knights
 
-Teams: Ivory Coast vs Burundi
-Analysis: Ivory Coast won all 4/4 H2H matches
-Winner: Ivory Coast
+Teams: Hellenic vs Garuda FC
+Analysis: Hellenic won all 5/5 H2H matches
+Winner: Hellenic
 
-Teams: Australia vs New Zealand
-Analysis: Australia won all 7/7 H2H matches
-Winner: Australia
+Teams: FA 2000 vs Nykoebing FC
+Analysis: Nykoebing FC won all 4/4 H2H matches
+Winner: Nykoebing FC
 
-Teams: IK Kongahaella vs Vaenersborgs IF
-Analysis: IK Kongahaella won all 3/3 H2H matches
-Winner: IK Kongahaella
+Teams: Peterborough Sports vs AFC Fylde
+Analysis: AFC Fylde won all 3/3 H2H matches
+Winner: AFC Fylde
+
+Teams: Stratford Town vs Spalding United
+Analysis: Spalding United won all 3/3 H2H matches
+Winner: Spalding United
+
+Teams: Dartford vs Canvey Island
+Analysis: Dartford won all 6/6 H2H matches
+Winner: Dartford
+
+Teams: Chambly vs Chantilly US
+Analysis: Chambly won all 3/3 H2H matches
+Winner: Chambly
+
+Teams: FC 08 Villingen vs FC Denzlingen
+Analysis: FC 08 Villingen won all 4/4 H2H matches
+Winner: FC 08 Villingen
+
+Teams: Eisbachtaler Sportfreunde vs FV Dudenhofen
+Analysis: FV Dudenhofen won all 3/3 H2H matches
+Winner: FV Dudenhofen
+
+Teams: Fylkir vs Volsungur
+Analysis: Fylkir won all 3/3 H2H matches
+Winner: Fylkir
+
+Teams: Vegalta Sendai W vs Urawa W
+Analysis: Urawa W won all 10/10 H2H matches
+Winner: Urawa W
+
+Teams: SC Heerenveen W vs FC Twente W
+Analysis: FC Twente W won all 8/8 H2H matches
+Winner: FC Twente W
+
+Teams: Gneist vs Bjarg
+Analysis: Bjarg won all 3/3 H2H matches
+Winner: Bjarg
+
+Teams: Fram Larvik vs Oppsal
+Analysis: Fram Larvik won all 3/3 H2H matches
+Winner: Fram Larvik
+
+Teams: East Kilbride vs Hamilton Academical
+Analysis: Hamilton Academical won all 3/3 H2H matches
+Winner: Hamilton Academical
+
+Teams: Taby FK vs IFK Oesteraakers FK
+Analysis: Taby FK won all 3/3 H2H matches
+Winner: Taby FK
+
+Teams: TNS vs Haverfordwest
+Analysis: TNS won all 10/10 H2H matches
+Winner: TNS
