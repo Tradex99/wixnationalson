@@ -1,193 +1,59 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "North Macedonia vs Liechtenstein",
+      "teams": "UAE vs Bahrain",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Athletic Club W vs Barcelona W",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Gimnasia Mendoza vs CA Gimnasia de Jujuy",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "FK BSK Banja Luka vs Sloboda Novi Grad",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "SC Eltersdorf vs Neudrossenfeld",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Niendorfer TSV vs TSV Sasel",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Lupo-Martini Wolfsburg vs Delmenhorst",
+      "teams": "Carl Zeiss Jena W vs Hoffenheim W",
       "analysis": "All 8/8 H2H are over 1.5 Goals"
     },
     {
-      "teams": "TSG Sprockhoevel vs ASC Dortmund",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Thailand vs Iraq",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Hapoel Kfar Shalem vs Hapoel Afula",
+      "teams": "Deportes Recoleta vs San Marcos",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Novara vs Trento",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Virtus Bergamo Alzanoseriate vs Union ASD Casatese",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Lentigione vs Crema",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Recanatese vs SN Notaresco",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Frigg vs Harstad",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "CD Ibiza Islas Pitiusas vs Terrassa FC",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Assyriska FF vs Karlstad",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Rentistas vs Tacuarembo FC",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "FC Tulsa vs Birmingham Legion",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Columbus Crew II vs Inter Miami CF II",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
+      "teams": "HamKam 2 vs Lillestroem 2",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Guillermo Brown vs Juventud Unida Universitario",
-      "analysis": "All 6/6 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Adler Weidenhausen vs Turk Gucu Friedberg",
-      "analysis": "All 6/6 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Racing United vs Mount Pleasant",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Real Frontera vs Titanes de Guanare",
+      "teams": "Club Atletico Colon vs Estudiantes de Rio Cuarto",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "Lyon W vs Marseille W",
-      "analysis": "All 4/4 H2H are over 3.5 Goals"
-    },
-    {
-      "teams": "Jerv vs Brattvaag",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    },
-    {
-      "teams": "Pors 2 vs Flint",
-      "analysis": "All 5/5 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Germany vs Northern Ireland",
-      "winner": "Germany",
-      "analysis": "Germany won all 6/6 H2H matches"
+      "teams": "Kosovo vs Sweden",
+      "winner": "Sweden",
+      "analysis": "Sweden won all 3/3 H2H matches"
     },
     {
-      "teams": "Turkiye vs Spain",
-      "winner": "Spain",
-      "analysis": "Spain won all 3/3 H2H matches"
+      "teams": "Israel vs Italy",
+      "winner": "Italy",
+      "analysis": "Italy won all 4/4 H2H matches"
     },
     {
-      "teams": "Athletic Club W vs Barcelona W",
-      "winner": "Barcelona W",
-      "analysis": "Barcelona W won all 10/10 H2H matches"
+      "teams": "Uganda vs Somalia",
+      "winner": "Uganda",
+      "analysis": "Uganda won all 3/3 H2H matches"
     },
     {
-      "teams": "Bay FC vs Kansas City Current",
-      "winner": "Kansas City Current",
-      "analysis": "Kansas City Current won all 3/3 H2H matches"
+      "teams": "Malaysia vs Palestine",
+      "winner": "Palestine",
+      "analysis": "Palestine won all 3/3 H2H matches"
     },
     {
-      "teams": "Lyon W vs Marseille W",
-      "winner": "Lyon W",
-      "analysis": "Lyon W won all 4/4 H2H matches"
+      "teams": "France U21 vs Serbia U21",
+      "winner": "France U21",
+      "analysis": "France U21 won all 4/4 H2H matches"
     },
     {
-      "teams": "AD Sarchi vs Deportivo Upala FC",
-      "winner": "AD Sarchi",
-      "analysis": "AD Sarchi won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Freiburg II vs TSV Schott Mainz",
-      "winner": "Freiburg II",
-      "analysis": "Freiburg II won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Geestemuende vs TS Woltmershausen",
-      "winner": "Geestemuende",
-      "analysis": "Geestemuende won all 6/6 H2H matches"
-    },
-    {
-      "teams": "Castelfidardo vs Sammaurese",
-      "winner": "Sammaurese",
-      "analysis": "Sammaurese won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Cynthialbalonga vs Olbia",
-      "winner": "Olbia",
-      "analysis": "Olbia won all 6/6 H2H matches"
-    },
-    {
-      "teams": "Racing United vs Mount Pleasant",
-      "winner": "Mount Pleasant",
-      "analysis": "Mount Pleasant won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Racing FC Porto Palmeiras vs Deportiva Venados",
-      "winner": "Racing FC Porto Palmeiras",
-      "analysis": "Racing FC Porto Palmeiras won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Tvaakers IF vs Varbergs GIF FK",
-      "winner": "Tvaakers IF",
-      "analysis": "Tvaakers IF won all 3/3 H2H matches"
-    },
-    {
-      "teams": "El Paso Locomotive vs Loudoun United",
-      "winner": "El Paso Locomotive",
-      "analysis": "El Paso Locomotive won all 3/3 H2H matches"
-    },
-    {
-      "teams": "North Texas SC vs Ventura County FC",
-      "winner": "North Texas SC",
-      "analysis": "North Texas SC won all 4/4 H2H matches"
+      "teams": "Arsenal Sarandi vs Tristan Suarez",
+      "winner": "Tristan Suarez",
+      "analysis": "Tristan Suarez won all 3/3 H2H matches"
     }
   ]
 }
