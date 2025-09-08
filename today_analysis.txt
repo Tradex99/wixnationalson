@@ -1,147 +1,46 @@
 OVER 1.5 STARTED HERE
 
-Teams: North Macedonia vs Liechtenstein
+Teams: UAE vs Bahrain
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Athletic Club W vs Barcelona W
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Gimnasia Mendoza vs CA Gimnasia de Jujuy
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: FK BSK Banja Luka vs Sloboda Novi Grad
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: SC Eltersdorf vs Neudrossenfeld
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Niendorfer TSV vs TSV Sasel
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Lupo-Martini Wolfsburg vs Delmenhorst
+Teams: Carl Zeiss Jena W vs Hoffenheim W
 Analysis: All 8/8 H2H are over 1.5 Goals
 
-Teams: TSG Sprockhoevel vs ASC Dortmund
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Thailand vs Iraq
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Hapoel Kfar Shalem vs Hapoel Afula
+Teams: Deportes Recoleta vs San Marcos
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: Novara vs Trento
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Virtus Bergamo Alzanoseriate vs Union ASD Casatese
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Lentigione vs Crema
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Recanatese vs SN Notaresco
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Frigg vs Harstad
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: CD Ibiza Islas Pitiusas vs Terrassa FC
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Assyriska FF vs Karlstad
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Rentistas vs Tacuarembo FC
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Miami FC vs Hartford Athletic
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: FC Tulsa vs Birmingham Legion
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Columbus Crew II vs Inter Miami CF II
-Analysis: All 8/8 H2H are over 1.5 Goals
+Teams: HamKam 2 vs Lillestroem 2
+Analysis: All 7/7 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Guillermo Brown vs Juventud Unida Universitario
-Analysis: All 6/6 H2H are over 2.5 Goals
-
-Teams: Adler Weidenhausen vs Turk Gucu Friedberg
-Analysis: All 6/6 H2H are over 2.5 Goals
-
-Teams: Racing United vs Mount Pleasant
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Real Frontera vs Titanes de Guanare
+Teams: Club Atletico Colon vs Estudiantes de Rio Cuarto
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Lyon W vs Marseille W
-Analysis: All 4/4 H2H are over 3.5 Goals
-
-Teams: Jerv vs Brattvaag
-Analysis: All 3/3 H2H are over 3.5 Goals
-
-Teams: Pors 2 vs Flint
-Analysis: All 5/5 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Germany vs Northern Ireland
-Analysis: Germany won all 6/6 H2H matches
-Winner: Germany
+Teams: Kosovo vs Sweden
+Analysis: Sweden won all 3/3 H2H matches
+Winner: Sweden
 
-Teams: Turkiye vs Spain
-Analysis: Spain won all 3/3 H2H matches
-Winner: Spain
+Teams: Israel vs Italy
+Analysis: Italy won all 4/4 H2H matches
+Winner: Italy
 
-Teams: Athletic Club W vs Barcelona W
-Analysis: Barcelona W won all 10/10 H2H matches
-Winner: Barcelona W
+Teams: Uganda vs Somalia
+Analysis: Uganda won all 3/3 H2H matches
+Winner: Uganda
 
-Teams: Bay FC vs Kansas City Current
-Analysis: Kansas City Current won all 3/3 H2H matches
-Winner: Kansas City Current
+Teams: Malaysia vs Palestine
+Analysis: Palestine won all 3/3 H2H matches
+Winner: Palestine
 
-Teams: Lyon W vs Marseille W
-Analysis: Lyon W won all 4/4 H2H matches
-Winner: Lyon W
+Teams: France U21 vs Serbia U21
+Analysis: France U21 won all 4/4 H2H matches
+Winner: France U21
 
-Teams: Freiburg II vs TSV Schott Mainz
-Analysis: Freiburg II won all 4/4 H2H matches
-Winner: Freiburg II
-
-Teams: Geestemuende vs TS Woltmershausen
-Analysis: Geestemuende won all 6/6 H2H matches
-Winner: Geestemuende
-
-Teams: Castelfidardo vs Sammaurese
-Analysis: Sammaurese won all 4/4 H2H matches
-Winner: Sammaurese
-
-Teams: Cynthialbalonga vs Olbia
-Analysis: Olbia won all 6/6 H2H matches
-Winner: Olbia
-
-Teams: Racing United vs Mount Pleasant
-Analysis: Mount Pleasant won all 3/3 H2H matches
-Winner: Mount Pleasant
-
-Teams: Racing FC Porto Palmeiras vs Deportiva Venados
-Analysis: Racing FC Porto Palmeiras won all 4/4 H2H matches
-Winner: Racing FC Porto Palmeiras
-
-Teams: Tvaakers IF vs Varbergs GIF FK
-Analysis: Tvaakers IF won all 3/3 H2H matches
-Winner: Tvaakers IF
-
-Teams: El Paso Locomotive vs Loudoun United
-Analysis: El Paso Locomotive won all 3/3 H2H matches
-Winner: El Paso Locomotive
-
-Teams: North Texas SC vs Ventura County FC
-Analysis: North Texas SC won all 4/4 H2H matches
-Winner: North Texas SC
+Teams: Arsenal Sarandi vs Tristan Suarez
+Analysis: Tristan Suarez won all 3/3 H2H matches
+Winner: Tristan Suarez

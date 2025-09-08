@@ -1,46 +1,43 @@
 OVER 1.5 STARTED HERE
 
-Teams: UAE vs Bahrain
-Analysis: All 10/10 H2H are over 1.5 Goals
+Teams: Cyprus vs Romania
+Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Carl Zeiss Jena W vs Hoffenheim W
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Deportes Recoleta vs San Marcos
+Teams: El Salvador vs Suriname
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: HamKam 2 vs Lillestroem 2
-Analysis: All 7/7 H2H are over 1.5 Goals
+Teams: Stamford AFC vs Redditch United
+Analysis: All 5/5 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Club Atletico Colon vs Estudiantes de Rio Cuarto
+Teams: Kenya vs Seychelles
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: Kosovo vs Sweden
-Analysis: Sweden won all 3/3 H2H matches
-Winner: Sweden
+Teams: Kenya vs Seychelles
+Analysis: Kenya won all 3/3 H2H matches
+Winner: Kenya
 
-Teams: Israel vs Italy
-Analysis: Italy won all 4/4 H2H matches
-Winner: Italy
+Teams: New Zealand vs Australia
+Analysis: Australia won all 8/8 H2H matches
+Winner: Australia
 
-Teams: Uganda vs Somalia
-Analysis: Uganda won all 3/3 H2H matches
-Winner: Uganda
+Teams: Estonia vs Andorra
+Analysis: Estonia won all 9/9 H2H matches
+Winner: Estonia
 
-Teams: Malaysia vs Palestine
-Analysis: Palestine won all 3/3 H2H matches
-Winner: Palestine
+Teams: Malta vs San Marino
+Analysis: Malta won all 3/3 H2H matches
+Winner: Malta
 
-Teams: France U21 vs Serbia U21
-Analysis: France U21 won all 4/4 H2H matches
-Winner: France U21
+Teams: Montenegro U21 vs Sweden U21
+Analysis: Sweden U21 won all 4/4 H2H matches
+Winner: Sweden U21
 
-Teams: Arsenal Sarandi vs Tristan Suarez
-Analysis: Tristan Suarez won all 3/3 H2H matches
-Winner: Tristan Suarez
+Teams: AD Sarchi vs Deportivo Upala FC
+Analysis: AD Sarchi won all 4/4 H2H matches
+Winner: AD Sarchi
