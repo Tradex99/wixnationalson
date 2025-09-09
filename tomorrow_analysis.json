@@ -1,55 +1,21 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Cyprus vs Romania",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
+      "teams": "Taunton Town vs Weymouth",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
     },
     {
-      "teams": "El Salvador vs Suriname",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Stamford AFC vs Redditch United",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
+      "teams": "Nojima Stella W vs NTV Beleza W",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [
-    {
-      "teams": "Kenya vs Seychelles",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    }
-  ],
+  "OVER 2.5 STARTED HERE": [],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Kenya vs Seychelles",
-      "winner": "Kenya",
-      "analysis": "Kenya won all 3/3 H2H matches"
-    },
-    {
-      "teams": "New Zealand vs Australia",
-      "winner": "Australia",
-      "analysis": "Australia won all 8/8 H2H matches"
-    },
-    {
-      "teams": "Estonia vs Andorra",
-      "winner": "Estonia",
-      "analysis": "Estonia won all 9/9 H2H matches"
-    },
-    {
-      "teams": "Malta vs San Marino",
-      "winner": "Malta",
-      "analysis": "Malta won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Montenegro U21 vs Sweden U21",
-      "winner": "Sweden U21",
-      "analysis": "Sweden U21 won all 4/4 H2H matches"
-    },
-    {
-      "teams": "AD Sarchi vs Deportivo Upala FC",
-      "winner": "AD Sarchi",
-      "analysis": "AD Sarchi won all 4/4 H2H matches"
+      "teams": "Olympic Kingsway vs Perth Glory Youth",
+      "winner": "Olympic Kingsway",
+      "analysis": "Olympic Kingsway won all 6/6 H2H matches"
     }
   ]
 }
