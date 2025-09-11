@@ -1,20 +1,177 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Hobro vs Lyngby",
+      "teams": "Sevilla vs Elche",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "IA Akranes vs Breidablik",
+      "teams": "Bayer Leverkusen vs Eintracht Frankfurt",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Al Ittihad vs Al Fateh",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Partick Thistle vs Airdrieonians",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Pau vs Red Star",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Barcelona W vs Logrono W",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Arsenal Dzerzhinsk vs Slavia Mozyr",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Atletico Huila vs Boca Juniors de Cali",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC Roskilde vs AB",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Tarup-Paarup vs Esbjerg fB II",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Talinna Kalev U21 vs FC Tallinn",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "OSC Bremerhaven vs SV Hemelingen",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Harksheide vs Niendorfer TSV",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SpVg Frechen 20 vs Koenigsdorf",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Hertha Wiesbach vs FV Eppelborn",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Westfalia Rhynern vs Arminia Bielefeld II",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Persib Bandung vs Persebaya Surabaya",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Al-Shahaniya vs Al-Sadd",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Geylang International FC vs Albirex Niigata FC",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FK Pohronie vs FC Petrzalka 1898",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "IFK Haessleholm vs Soelvesborgs GOIF",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Al-Dhafra vs Dibba Al Fujairah",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Ajman vs Al Bataeh",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Crown Legacy vs Chattanooga FC",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Varbergs GIF FK vs Laholms FK",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
+      "teams": "FC Den Bosch vs FC Dordrecht",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Jong FC Utrecht vs RKC Waalwijk",
+      "analysis": "All 7/7 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Central Coast Mariners Youth vs SD Raiders FC",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "VSG Altglienicke vs FSV Zwickau",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "ASV Cham vs SV Fortuna Regensberg",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Oberneuland vs FC Union 60",
+      "analysis": "All 9/9 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "San Marino Academy U22 vs La Fiorita",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "IK Franke vs FC Jaerfaella",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": []
+  "OVER 3.5 STARTED HERE": [
+    {
+      "teams": "Sport Huancayo vs Los Chankas CYC",
+      "analysis": "All 3/3 H2H are over 3.5 Goals"
+    }
+  ],
+  "WIN STARTED HERE": [
+    {
+      "teams": "Al Shabab vs Al Hazm",
+      "winner": "Al Shabab",
+      "analysis": "Al Shabab won all 10/10 H2H matches"
+    },
+    {
+      "teams": "Barcelona W vs Logrono W",
+      "winner": "Barcelona W",
+      "analysis": "Barcelona W won all 6/6 H2H matches"
+    },
+    {
+      "teams": "Gandzasar vs Van",
+      "winner": "Van",
+      "analysis": "Van won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Versailles vs Concarneau",
+      "winner": "Concarneau",
+      "analysis": "Concarneau won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Hertha Wiesbach vs FV Eppelborn",
+      "winner": "Hertha Wiesbach",
+      "analysis": "Hertha Wiesbach won all 5/5 H2H matches"
+    },
+    {
+      "teams": "FC Arzignano Valchiampo vs Giana Erminio",
+      "winner": "FC Arzignano Valchiampo",
+      "analysis": "FC Arzignano Valchiampo won all 4/4 H2H matches"
+    },
+    {
+      "teams": "San Marino Academy U22 vs La Fiorita",
+      "winner": "La Fiorita",
+      "analysis": "La Fiorita won all 4/4 H2H matches"
+    }
+  ]
 }

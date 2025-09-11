@@ -1,15 +1,26 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Taunton Town vs Weymouth",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
+      "teams": "Hobro vs Lyngby",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Nojima Stella W vs NTV Beleza W",
+      "teams": "IA Akranes vs Breidablik",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [],
+  "OVER 2.5 STARTED HERE": [
+    {
+      "teams": "Varbergs GIF FK vs Laholms FK",
+      "analysis": "All 5/5 H2H are over 2.5 Goals"
+    }
+  ],
   "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": []
+  "WIN STARTED HERE": [
+    {
+      "teams": "Johor Darul Ta'zim FC vs Pulau Pinang",
+      "winner": "Johor Darul Ta'zim FC",
+      "analysis": "Johor Darul Ta'zim FC won all 10/10 H2H matches"
+    }
+  ]
 }
