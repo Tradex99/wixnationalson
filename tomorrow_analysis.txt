@@ -1,134 +1,26 @@
 OVER 1.5 STARTED HERE
 
-Teams: Sevilla vs Elche
+Teams: Always Ready vs Universitario de Vinto
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Bayer Leverkusen vs Eintracht Frankfurt
+Teams: Nomme Kalju U21 vs Flora Tallinn U21
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Al Ittihad vs Al Fateh
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Partick Thistle vs Airdrieonians
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Pau vs Red Star
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Barcelona W vs Logrono W
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Arsenal Dzerzhinsk vs Slavia Mozyr
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Atletico Huila vs Boca Juniors de Cali
+Teams: Ayacucho FC vs Cusco FC
 Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: FC Roskilde vs AB
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Tarup-Paarup vs Esbjerg fB II
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Talinna Kalev U21 vs FC Tallinn
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: OSC Bremerhaven vs SV Hemelingen
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Harksheide vs Niendorfer TSV
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: SpVg Frechen 20 vs Koenigsdorf
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Hertha Wiesbach vs FV Eppelborn
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Westfalia Rhynern vs Arminia Bielefeld II
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Persib Bandung vs Persebaya Surabaya
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Al-Shahaniya vs Al-Sadd
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Geylang International FC vs Albirex Niigata FC
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: FK Pohronie vs FC Petrzalka 1898
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: IFK Haessleholm vs Soelvesborgs GOIF
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Al-Dhafra vs Dibba Al Fujairah
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Ajman vs Al Bataeh
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Crown Legacy vs Chattanooga FC
-Analysis: All 5/5 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: FC Den Bosch vs FC Dordrecht
+Teams: Kazma vs Al-Tadhamon
 Analysis: All 10/10 H2H are over 2.5 Goals
 
-Teams: Jong FC Utrecht vs RKC Waalwijk
-Analysis: All 7/7 H2H are over 2.5 Goals
-
-Teams: Central Coast Mariners Youth vs SD Raiders FC
-Analysis: All 6/6 H2H are over 2.5 Goals
-
-Teams: VSG Altglienicke vs FSV Zwickau
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: ASV Cham vs SV Fortuna Regensberg
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Oberneuland vs FC Union 60
-Analysis: All 9/9 H2H are over 2.5 Goals
-
-Teams: San Marino Academy U22 vs La Fiorita
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: IK Franke vs FC Jaerfaella
+Teams: Union Omaha vs Spokane Velocity
 Analysis: All 6/6 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Sport Huancayo vs Los Chankas CYC
-Analysis: All 3/3 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Al Shabab vs Al Hazm
-Analysis: Al Shabab won all 10/10 H2H matches
-Winner: Al Shabab
-
-Teams: Barcelona W vs Logrono W
-Analysis: Barcelona W won all 6/6 H2H matches
-Winner: Barcelona W
-
-Teams: Gandzasar vs Van
-Analysis: Van won all 3/3 H2H matches
-Winner: Van
-
-Teams: Versailles vs Concarneau
-Analysis: Concarneau won all 4/4 H2H matches
-Winner: Concarneau
-
-Teams: Hertha Wiesbach vs FV Eppelborn
-Analysis: Hertha Wiesbach won all 5/5 H2H matches
-Winner: Hertha Wiesbach
-
-Teams: FC Arzignano Valchiampo vs Giana Erminio
-Analysis: FC Arzignano Valchiampo won all 4/4 H2H matches
-Winner: FC Arzignano Valchiampo
-
-Teams: San Marino Academy U22 vs La Fiorita
-Analysis: La Fiorita won all 4/4 H2H matches
-Winner: La Fiorita
+Teams: FC Copenhagen vs Bayer Leverkusen
+Analysis: Bayer Leverkusen won all 3/3 H2H matches
+Winner: Bayer Leverkusen

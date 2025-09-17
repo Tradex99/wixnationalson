@@ -1,20 +1,32 @@
 OVER 1.5 STARTED HERE
 
-Teams: Hobro vs Lyngby
+Teams: Bayern Munich vs Chelsea
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Lugano vs Lausanne
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: IA Akranes vs Breidablik
+Teams: The Strongest vs Independiente Petrolero
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Narva Trans vs Nomme Kalju FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Harju Jalgpallikool vs FC Kuressaare
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Al Fahaheel vs Al-Arabi
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Varbergs GIF FK vs Laholms FK
-Analysis: All 5/5 H2H are over 2.5 Goals
+Teams: Kifisia FC vs Asteras Tripolis
+Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: Johor Darul Ta'zim FC vs Pulau Pinang
-Analysis: Johor Darul Ta'zim FC won all 10/10 H2H matches
-Winner: Johor Darul Ta'zim FC
+Teams: IF Lyseng vs FC Roskilde
+Analysis: FC Roskilde won all 4/4 H2H matches
+Winner: FC Roskilde
