@@ -1,42 +1,34 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Bayern Munich vs Chelsea",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Lugano vs Lausanne",
+      "teams": "Always Ready vs Universitario de Vinto",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "The Strongest vs Independiente Petrolero",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Narva Trans vs Nomme Kalju FC",
+      "teams": "Nomme Kalju U21 vs Flora Tallinn U21",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Harju Jalgpallikool vs FC Kuressaare",
+      "teams": "Ayacucho FC vs Cusco FC",
       "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Al Fahaheel vs Al-Arabi",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Kifisia FC vs Asteras Tripolis",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
+      "teams": "Kazma vs Al-Tadhamon",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Union Omaha vs Spokane Velocity",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "IF Lyseng vs FC Roskilde",
-      "winner": "FC Roskilde",
-      "analysis": "FC Roskilde won all 4/4 H2H matches"
+      "teams": "FC Copenhagen vs Bayer Leverkusen",
+      "winner": "Bayer Leverkusen",
+      "analysis": "Bayer Leverkusen won all 3/3 H2H matches"
     }
   ]
 }

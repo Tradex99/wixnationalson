@@ -1,32 +1,26 @@
 OVER 1.5 STARTED HERE
 
-Teams: Bayern Munich vs Chelsea
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Lugano vs Lausanne
+Teams: Always Ready vs Universitario de Vinto
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: The Strongest vs Independiente Petrolero
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Narva Trans vs Nomme Kalju FC
+Teams: Nomme Kalju U21 vs Flora Tallinn U21
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Harju Jalgpallikool vs FC Kuressaare
+Teams: Ayacucho FC vs Cusco FC
 Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Al Fahaheel vs Al-Arabi
-Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Kifisia FC vs Asteras Tripolis
-Analysis: All 3/3 H2H are over 2.5 Goals
+Teams: Kazma vs Al-Tadhamon
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Union Omaha vs Spokane Velocity
+Analysis: All 6/6 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: IF Lyseng vs FC Roskilde
-Analysis: FC Roskilde won all 4/4 H2H matches
-Winner: FC Roskilde
+Teams: FC Copenhagen vs Bayer Leverkusen
+Analysis: Bayer Leverkusen won all 3/3 H2H matches
+Winner: Bayer Leverkusen

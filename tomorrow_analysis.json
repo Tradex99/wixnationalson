@@ -1,34 +1,84 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Always Ready vs Universitario de Vinto",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
+      "teams": "JIPPO vs EIF",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Nomme Kalju U21 vs Flora Tallinn U21",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
+      "teams": "KaPa Kapylan Pallo vs SJK Akatemia",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Ayacucho FC vs Cusco FC",
+      "teams": "1. FC Saarbrucken vs FC Schweinfurt",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "TSV Buchbach vs Unterhaching",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "1. FC Duren vs FC Hennef 05",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Hinna FK vs Sola",
       "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Olimpia vs Sportivo Trinidense",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Deportivo Garcilaso vs FBC Melgar",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Odra Opole vs Stal Rzeszow",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Oestersunds FK vs Umeaa",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Al-Wahda vs Al-Dhafra",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Cardiff Met University vs TNS",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Kazma vs Al-Tadhamon",
+      "teams": "SK Rapid Wien II vs FC Admira Wacker Modling",
+      "analysis": "All 5/5 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Vatan Sport Bremen vs Oberneuland",
       "analysis": "All 10/10 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Union Omaha vs Spokane Velocity",
-      "analysis": "All 6/6 H2H are over 2.5 Goals"
+      "teams": "Poza Rica vs Caja Oblatos Cfd",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "FC Copenhagen vs Bayer Leverkusen",
-      "winner": "Bayer Leverkusen",
-      "analysis": "Bayer Leverkusen won all 3/3 H2H matches"
+      "teams": "TSV Steinbach Haiger vs Sonnenhof Grossaspach",
+      "winner": "TSV Steinbach Haiger",
+      "analysis": "TSV Steinbach Haiger won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Poza Rica vs Caja Oblatos Cfd",
+      "winner": "Poza Rica",
+      "analysis": "Poza Rica won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Cardiff Met University vs TNS",
+      "winner": "TNS",
+      "analysis": "TNS won all 10/10 H2H matches"
     }
   ]
 }

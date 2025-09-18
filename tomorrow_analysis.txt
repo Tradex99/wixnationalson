@@ -1,26 +1,64 @@
 OVER 1.5 STARTED HERE
 
-Teams: Always Ready vs Universitario de Vinto
-Analysis: All 10/10 H2H are over 1.5 Goals
+Teams: JIPPO vs EIF
+Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: Nomme Kalju U21 vs Flora Tallinn U21
-Analysis: All 10/10 H2H are over 1.5 Goals
+Teams: KaPa Kapylan Pallo vs SJK Akatemia
+Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Ayacucho FC vs Cusco FC
+Teams: 1. FC Saarbrucken vs FC Schweinfurt
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: TSV Buchbach vs Unterhaching
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: 1. FC Duren vs FC Hennef 05
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Hinna FK vs Sola
 Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Olimpia vs Sportivo Trinidense
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Deportivo Garcilaso vs FBC Melgar
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Odra Opole vs Stal Rzeszow
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Oestersunds FK vs Umeaa
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Al-Wahda vs Al-Dhafra
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Cardiff Met University vs TNS
+Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Kazma vs Al-Tadhamon
+Teams: SK Rapid Wien II vs FC Admira Wacker Modling
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Vatan Sport Bremen vs Oberneuland
 Analysis: All 10/10 H2H are over 2.5 Goals
 
-Teams: Union Omaha vs Spokane Velocity
-Analysis: All 6/6 H2H are over 2.5 Goals
+Teams: Poza Rica vs Caja Oblatos Cfd
+Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: FC Copenhagen vs Bayer Leverkusen
-Analysis: Bayer Leverkusen won all 3/3 H2H matches
-Winner: Bayer Leverkusen
+Teams: TSV Steinbach Haiger vs Sonnenhof Grossaspach
+Analysis: TSV Steinbach Haiger won all 4/4 H2H matches
+Winner: TSV Steinbach Haiger
+
+Teams: Poza Rica vs Caja Oblatos Cfd
+Analysis: Poza Rica won all 4/4 H2H matches
+Winner: Poza Rica
+
+Teams: Cardiff Met University vs TNS
+Analysis: TNS won all 10/10 H2H matches
+Winner: TNS
