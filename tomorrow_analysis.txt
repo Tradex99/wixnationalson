@@ -1,64 +1,50 @@
 OVER 1.5 STARTED HERE
 
-Teams: JIPPO vs EIF
+Teams: Randers FC vs FC Nordsjaelland
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Botev Vratsa vs PFC CSKA Sofia
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Dinamo Bucuresti vs FCV Farul Constanta
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: CD Luis Angel Firpo U20 vs Municipal Limeno U20
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Al-Qadsia vs Al Fahaheel
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Houston Dynamo II vs Portland Timbers II
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: KaPa Kapylan Pallo vs SJK Akatemia
+Teams: Tacoma Defiance vs Colorado Rapids II
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: 1. FC Saarbrucken vs FC Schweinfurt
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: TSV Buchbach vs Unterhaching
+Teams: Ventura County FC vs The Town FC
 Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: 1. FC Duren vs FC Hennef 05
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Hinna FK vs Sola
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Olimpia vs Sportivo Trinidense
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Deportivo Garcilaso vs FBC Melgar
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Odra Opole vs Stal Rzeszow
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Oestersunds FK vs Umeaa
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Al-Wahda vs Al-Dhafra
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Cardiff Met University vs TNS
-Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: SK Rapid Wien II vs FC Admira Wacker Modling
-Analysis: All 5/5 H2H are over 2.5 Goals
-
-Teams: Vatan Sport Bremen vs Oberneuland
-Analysis: All 10/10 H2H are over 2.5 Goals
-
-Teams: Poza Rica vs Caja Oblatos Cfd
-Analysis: All 4/4 H2H are over 2.5 Goals
+Teams: Nomme Kalju U21 vs Nomme United
+Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: TSV Steinbach Haiger vs Sonnenhof Grossaspach
-Analysis: TSV Steinbach Haiger won all 4/4 H2H matches
-Winner: TSV Steinbach Haiger
+Teams: Napoli vs Pisa
+Analysis: Napoli won all 3/3 H2H matches
+Winner: Napoli
 
-Teams: Poza Rica vs Caja Oblatos Cfd
-Analysis: Poza Rica won all 4/4 H2H matches
-Winner: Poza Rica
+Teams: Bay FC vs Gotham FC
+Analysis: Gotham FC won all 3/3 H2H matches
+Winner: Gotham FC
 
-Teams: Cardiff Met University vs TNS
-Analysis: TNS won all 10/10 H2H matches
-Winner: TNS
+Teams: Nomme Kalju U21 vs Nomme United
+Analysis: Nomme United won all 3/3 H2H matches
+Winner: Nomme United
+
+Teams: Tanjong Pagar United FC vs Lion City Sailors FC
+Analysis: Lion City Sailors FC won all 10/10 H2H matches
+Winner: Lion City Sailors FC

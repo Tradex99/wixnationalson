@@ -1,84 +1,65 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "JIPPO vs EIF",
+      "teams": "Randers FC vs FC Nordsjaelland",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Botev Vratsa vs PFC CSKA Sofia",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Dinamo Bucuresti vs FCV Farul Constanta",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "CD Luis Angel Firpo U20 vs Municipal Limeno U20",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Al-Qadsia vs Al Fahaheel",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Houston Dynamo II vs Portland Timbers II",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
     },
     {
-      "teams": "KaPa Kapylan Pallo vs SJK Akatemia",
+      "teams": "Tacoma Defiance vs Colorado Rapids II",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "1. FC Saarbrucken vs FC Schweinfurt",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "TSV Buchbach vs Unterhaching",
+      "teams": "Ventura County FC vs The Town FC",
       "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "1. FC Duren vs FC Hennef 05",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Hinna FK vs Sola",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Olimpia vs Sportivo Trinidense",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Deportivo Garcilaso vs FBC Melgar",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Odra Opole vs Stal Rzeszow",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Oestersunds FK vs Umeaa",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Al-Wahda vs Al-Dhafra",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Cardiff Met University vs TNS",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "SK Rapid Wien II vs FC Admira Wacker Modling",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Vatan Sport Bremen vs Oberneuland",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Poza Rica vs Caja Oblatos Cfd",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
+      "teams": "Nomme Kalju U21 vs Nomme United",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "TSV Steinbach Haiger vs Sonnenhof Grossaspach",
-      "winner": "TSV Steinbach Haiger",
-      "analysis": "TSV Steinbach Haiger won all 4/4 H2H matches"
+      "teams": "Napoli vs Pisa",
+      "winner": "Napoli",
+      "analysis": "Napoli won all 3/3 H2H matches"
     },
     {
-      "teams": "Poza Rica vs Caja Oblatos Cfd",
-      "winner": "Poza Rica",
-      "analysis": "Poza Rica won all 4/4 H2H matches"
+      "teams": "Bay FC vs Gotham FC",
+      "winner": "Gotham FC",
+      "analysis": "Gotham FC won all 3/3 H2H matches"
     },
     {
-      "teams": "Cardiff Met University vs TNS",
-      "winner": "TNS",
-      "analysis": "TNS won all 10/10 H2H matches"
+      "teams": "Nomme Kalju U21 vs Nomme United",
+      "winner": "Nomme United",
+      "analysis": "Nomme United won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Tanjong Pagar United FC vs Lion City Sailors FC",
+      "winner": "Lion City Sailors FC",
+      "analysis": "Lion City Sailors FC won all 10/10 H2H matches"
     }
   ]
 }
