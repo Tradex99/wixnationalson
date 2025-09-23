@@ -1,62 +1,86 @@
 OVER 1.5 STARTED HERE
 
-Teams: AC Milan vs Lecce
-Analysis: All 10/10 H2H are over 1.5 Goals
+Teams: Freiburg vs Basel
+Analysis: All 9/9 H2H are over 1.5 Goals
 
-Teams: Red Star vs Troyes
+Teams: Newcastle United vs Bradford City
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Ilves vs IF Gnistan
-Analysis: All 5/5 H2H are over 1.5 Goals
+Teams: Aldershot Town vs Yeovil Town
+Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: AFC Sudbury vs Royston Town
-Analysis: All 5/5 H2H are over 1.5 Goals
+Teams: Lyngby vs FC Copenhagen
+Analysis: All 8/8 H2H are over 1.5 Goals
 
-Teams: DJK Vilzing vs Bayern Munich II
+Teams: Manchester City W vs Everton W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: U.S. Ancona vs San Marino Calcio
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Nojima Stella W vs NTV Beleza W
+Teams: FC Milsami Orhei vs CS Petrocub
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Club Leon W vs Santos Laguna W
+Teams: Vaalerenga W vs Lyn Fotball W
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Dumbarton vs Kelty Hearts
-Analysis: All 5/5 H2H are over 1.5 Goals
+Teams: IK Oddevold vs Falkenbergs FF
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: Landskrona BoIS vs Kalmar FF
+Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Gateshead FC vs Hartlepool United
-Analysis: All 8/8 H2H are over 2.5 Goals
-
-Teams: PFC CSKA-Sofia II vs Etar
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Toluca W vs CF America W
-Analysis: All 10/10 H2H are over 2.5 Goals
-
-Teams: Cusco FC vs Asociacion Deportiva Tarma
+Teams: B 93 vs Broendby IF
 Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Stenhousemuir vs East Kilbride
+Teams: Esenler Erokspor vs Istanbulspor
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Vejle U17 vs FC Copenhagen U17
+Analysis: All 3/3 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Jong Genk vs Beerschot
-Analysis: Beerschot won all 4/4 H2H matches
-Winner: Beerschot
+Teams: LD Alajuelense vs CD Motagua
+Analysis: LD Alajuelense won all 3/3 H2H matches
+Winner: LD Alajuelense
 
-Teams: Burghausen vs SpVgg Hankofen-Hailing
-Analysis: Burghausen won all 4/4 H2H matches
-Winner: Burghausen
+Teams: Lyngby vs FC Copenhagen
+Analysis: FC Copenhagen won all 8/8 H2H matches
+Winner: FC Copenhagen
 
-Teams: Al Wehda vs Al Ittihad
-Analysis: Al Ittihad won all 10/10 H2H matches
-Winner: Al Ittihad
+Teams: B 93 vs Broendby IF
+Analysis: Broendby IF won all 3/3 H2H matches
+Winner: Broendby IF
 
-Teams: Colwyn Bay vs Bala Town
-Analysis: Bala Town won all 3/3 H2H matches
-Winner: Bala Town
+Teams: Vejle U17 vs FC Copenhagen U17
+Analysis: FC Copenhagen U17 won all 3/3 H2H matches
+Winner: FC Copenhagen U17
+
+Teams: Charlton Athletic W vs West Ham United W
+Analysis: West Ham United W won all 3/3 H2H matches
+Winner: West Ham United W
+
+Teams: Scanzorosciate vs Brusaporto
+Analysis: Scanzorosciate won all 4/4 H2H matches
+Winner: Scanzorosciate
+
+Teams: Floriana vs Zabbar St. Patrick
+Analysis: Floriana won all 4/4 H2H matches
+Winner: Floriana
+
+Teams: Olimpia vs Atletico Tembetary
+Analysis: Olimpia won all 3/3 H2H matches
+Winner: Olimpia
+
+Teams: Al Orobah vs Al Qadsiah
+Analysis: Al Qadsiah won all 3/3 H2H matches
+Winner: Al Qadsiah
+
+Teams: Esenler Erokspor vs Istanbulspor
+Analysis: Istanbulspor won all 3/3 H2H matches
+Winner: Istanbulspor

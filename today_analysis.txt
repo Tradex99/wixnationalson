@@ -1,53 +1,62 @@
 OVER 1.5 STARTED HERE
 
-Teams: Randers FC vs FC Nordsjaelland
+Teams: AC Milan vs Lecce
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Botev Vratsa vs PFC CSKA Sofia
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Dinamo Bucuresti vs FCV Farul Constanta
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: CD Luis Angel Firpo vs Municipal Limeno
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Al-Qadsia vs Al Fahaheel
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Houston Dynamo II vs Portland Timbers II
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Tacoma Defiance vs Colorado Rapids II
+Teams: Red Star vs Troyes
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Ventura County FC vs The Town FC
-Analysis: All 8/8 H2H are over 1.5 Goals
+Teams: Ilves vs IF Gnistan
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: AFC Sudbury vs Royston Town
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: DJK Vilzing vs Bayern Munich II
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Nojima Stella W vs NTV Beleza W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Club Leon W vs Santos Laguna W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Dumbarton vs Kelty Hearts
+Analysis: All 5/5 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: GV San Jose vs Blooming
+Teams: Gateshead FC vs Hartlepool United
+Analysis: All 8/8 H2H are over 2.5 Goals
+
+Teams: PFC CSKA-Sofia II vs Etar
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Toluca W vs CF America W
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Cusco FC vs Asociacion Deportiva Tarma
 Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Nomme Kalju U21 vs Nomme United
+Teams: Stenhousemuir vs East Kilbride
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: Napoli vs Pisa
-Analysis: Napoli won all 3/3 H2H matches
-Winner: Napoli
+Teams: Jong Genk vs Beerschot
+Analysis: Beerschot won all 4/4 H2H matches
+Winner: Beerschot
 
-Teams: Bay FC vs Gotham FC
-Analysis: Gotham FC won all 3/3 H2H matches
-Winner: Gotham FC
+Teams: Burghausen vs SpVgg Hankofen-Hailing
+Analysis: Burghausen won all 4/4 H2H matches
+Winner: Burghausen
 
-Teams: Nomme Kalju U21 vs Nomme United
-Analysis: Nomme United won all 3/3 H2H matches
-Winner: Nomme United
+Teams: Al Wehda vs Al Ittihad
+Analysis: Al Ittihad won all 10/10 H2H matches
+Winner: Al Ittihad
 
-Teams: Tanjong Pagar United FC vs Lion City Sailors FC
-Analysis: Lion City Sailors FC won all 10/10 H2H matches
-Winner: Lion City Sailors FC
+Teams: Colwyn Bay vs Bala Town
+Analysis: Bala Town won all 3/3 H2H matches
+Winner: Bala Town
