@@ -1,86 +1,51 @@
 OVER 1.5 STARTED HERE
 
-Teams: Freiburg vs Basel
-Analysis: All 9/9 H2H are over 1.5 Goals
+Teams: San Antonio Bulo Bulo vs The Strongest
+Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: Newcastle United vs Bradford City
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Aldershot Town vs Yeovil Town
+Teams: Velbert vs FC Bocholt
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Lyngby vs FC Copenhagen
+Teams: Al-Rayyan vs Al-Gharafa
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Al-Sadd vs Al-Duhail SC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FK Graficar vs Loznica
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Tanjong Pagar United FC vs Young Lions
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Umeaa vs Vasteraas SK
 Analysis: All 8/8 H2H are over 1.5 Goals
 
-Teams: Manchester City W vs Everton W
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: U.S. Ancona vs San Marino Calcio
+Teams: Simba SC vs Fountain Gate FC
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: FC Milsami Orhei vs CS Petrocub
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Vaalerenga W vs Lyn Fotball W
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: IK Oddevold vs Falkenbergs FF
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Landskrona BoIS vs Kalmar FF
+Teams: Sivasspor vs Adana Demirspor
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: B 93 vs Broendby IF
-Analysis: All 3/3 H2H are over 2.5 Goals
+Teams: Al Hilal vs Al Akhdoud
+Analysis: All 4/4 H2H are over 2.5 Goals
 
-Teams: Esenler Erokspor vs Istanbulspor
+Teams: Sandvikens IF vs Helsingborgs IF
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Vejle U17 vs FC Copenhagen U17
+Teams: Los Chankas CYC vs Sporting Cristal
 Analysis: All 3/3 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: LD Alajuelense vs CD Motagua
-Analysis: LD Alajuelense won all 3/3 H2H matches
-Winner: LD Alajuelense
+Teams: Al Shabab vs Al Kholood
+Analysis: Al Shabab won all 3/3 H2H matches
+Winner: Al Shabab
 
-Teams: Lyngby vs FC Copenhagen
-Analysis: FC Copenhagen won all 8/8 H2H matches
-Winner: FC Copenhagen
-
-Teams: B 93 vs Broendby IF
-Analysis: Broendby IF won all 3/3 H2H matches
-Winner: Broendby IF
-
-Teams: Vejle U17 vs FC Copenhagen U17
-Analysis: FC Copenhagen U17 won all 3/3 H2H matches
-Winner: FC Copenhagen U17
-
-Teams: Charlton Athletic W vs West Ham United W
-Analysis: West Ham United W won all 3/3 H2H matches
-Winner: West Ham United W
-
-Teams: Scanzorosciate vs Brusaporto
-Analysis: Scanzorosciate won all 4/4 H2H matches
-Winner: Scanzorosciate
-
-Teams: Floriana vs Zabbar St. Patrick
-Analysis: Floriana won all 4/4 H2H matches
-Winner: Floriana
-
-Teams: Olimpia vs Atletico Tembetary
-Analysis: Olimpia won all 3/3 H2H matches
-Winner: Olimpia
-
-Teams: Al Orobah vs Al Qadsiah
-Analysis: Al Qadsiah won all 3/3 H2H matches
-Winner: Al Qadsiah
-
-Teams: Esenler Erokspor vs Istanbulspor
-Analysis: Istanbulspor won all 3/3 H2H matches
-Winner: Istanbulspor
+Teams: Al Hilal vs Al Akhdoud
+Analysis: Al Hilal won all 4/4 H2H matches
+Winner: Al Hilal

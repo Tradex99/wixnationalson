@@ -1,81 +1,112 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "AC Milan vs Lecce",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
+      "teams": "Freiburg vs Basel",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Red Star vs Troyes",
+      "teams": "Newcastle United vs Bradford City",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Ilves vs IF Gnistan",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
+      "teams": "Aldershot Town vs Yeovil Town",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "AFC Sudbury vs Royston Town",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
+      "teams": "Lyngby vs FC Copenhagen",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
     },
     {
-      "teams": "DJK Vilzing vs Bayern Munich II",
+      "teams": "Manchester City W vs Everton W",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "U.S. Ancona vs San Marino Calcio",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Nojima Stella W vs NTV Beleza W",
+      "teams": "FC Milsami Orhei vs CS Petrocub",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Club Leon W vs Santos Laguna W",
+      "teams": "Vaalerenga W vs Lyn Fotball W",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Dumbarton vs Kelty Hearts",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
+      "teams": "IK Oddevold vs Falkenbergs FF",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Landskrona BoIS vs Kalmar FF",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Gateshead FC vs Hartlepool United",
-      "analysis": "All 8/8 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "PFC CSKA-Sofia II vs Etar",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Toluca W vs CF America W",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Cusco FC vs Asociacion Deportiva Tarma",
+      "teams": "B 93 vs Broendby IF",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Stenhousemuir vs East Kilbride",
+      "teams": "Esenler Erokspor vs Istanbulspor",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [],
+  "OVER 3.5 STARTED HERE": [
+    {
+      "teams": "Vejle U17 vs FC Copenhagen U17",
+      "analysis": "All 3/3 H2H are over 3.5 Goals"
+    }
+  ],
   "WIN STARTED HERE": [
     {
-      "teams": "Jong Genk vs Beerschot",
-      "winner": "Beerschot",
-      "analysis": "Beerschot won all 4/4 H2H matches"
+      "teams": "LD Alajuelense vs CD Motagua",
+      "winner": "LD Alajuelense",
+      "analysis": "LD Alajuelense won all 3/3 H2H matches"
     },
     {
-      "teams": "Burghausen vs SpVgg Hankofen-Hailing",
-      "winner": "Burghausen",
-      "analysis": "Burghausen won all 4/4 H2H matches"
+      "teams": "Lyngby vs FC Copenhagen",
+      "winner": "FC Copenhagen",
+      "analysis": "FC Copenhagen won all 8/8 H2H matches"
     },
     {
-      "teams": "Al Wehda vs Al Ittihad",
-      "winner": "Al Ittihad",
-      "analysis": "Al Ittihad won all 10/10 H2H matches"
+      "teams": "B 93 vs Broendby IF",
+      "winner": "Broendby IF",
+      "analysis": "Broendby IF won all 3/3 H2H matches"
     },
     {
-      "teams": "Colwyn Bay vs Bala Town",
-      "winner": "Bala Town",
-      "analysis": "Bala Town won all 3/3 H2H matches"
+      "teams": "Vejle U17 vs FC Copenhagen U17",
+      "winner": "FC Copenhagen U17",
+      "analysis": "FC Copenhagen U17 won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Charlton Athletic W vs West Ham United W",
+      "winner": "West Ham United W",
+      "analysis": "West Ham United W won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Scanzorosciate vs Brusaporto",
+      "winner": "Scanzorosciate",
+      "analysis": "Scanzorosciate won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Floriana vs Zabbar St. Patrick",
+      "winner": "Floriana",
+      "analysis": "Floriana won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Olimpia vs Atletico Tembetary",
+      "winner": "Olimpia",
+      "analysis": "Olimpia won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Al Orobah vs Al Qadsiah",
+      "winner": "Al Qadsiah",
+      "analysis": "Al Qadsiah won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Esenler Erokspor vs Istanbulspor",
+      "winner": "Istanbulspor",
+      "analysis": "Istanbulspor won all 3/3 H2H matches"
     }
   ]
 }
