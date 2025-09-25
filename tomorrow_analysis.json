@@ -1,68 +1,117 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "San Antonio Bulo Bulo vs The Strongest",
+      "teams": "FC Twente vs Fortuna Sittard",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Benfica vs Gil Vicente",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Schalke 04 vs Greuther Furth",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SKN St. Poelten vs Sturm Graz II",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Muharraq vs Malkia",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Horsens fS vs Hedensted",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Velbert vs FC Bocholt",
+      "teams": "Silkeborg U19 vs FC Copenhagen U19",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Al-Rayyan vs Al-Gharafa",
+      "teams": "EIF vs KaPa Kapylan Pallo",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Al-Sadd vs Al-Duhail SC",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
+      "teams": "Sandhausen vs Kickers Offenbach",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
     },
     {
-      "teams": "FK Graficar vs Loznica",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Tanjong Pagar United FC vs Young Lions",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Umeaa vs Vasteraas SK",
+      "teams": "Sportfreunde Siegen vs Bochum II",
       "analysis": "All 8/8 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Simba SC vs Fountain Gate FC",
+      "teams": "Oberneuland vs Brinkumer SV",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "TuS Dassendorf vs FC Tuerkiye Wilhelmsburg",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FV Engers vs Eisbachtaler Sportfreunde",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Preussen Munster II vs FC Gievenbeck",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Sivasspor vs Adana Demirspor",
+      "teams": "Semen Padang vs Bali United",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Aluminij vs Radomlje",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "One Knoxville SC vs Charlotte Independence",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Al Hilal vs Al Akhdoud",
+      "teams": "FC Liefering vs SV Stripfing",
       "analysis": "All 4/4 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Sandvikens IF vs Helsingborgs IF",
+      "teams": "Qarabag FK vs Gabala FK",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Leher vs Geestemuende",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Dundela vs Harland & Wolff Welders FC",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Hoegaborgs BK vs Nosaby IF",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "Los Chankas CYC vs Sporting Cristal",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Al Shabab vs Al Kholood",
-      "winner": "Al Shabab",
-      "analysis": "Al Shabab won all 3/3 H2H matches"
+      "teams": "Shanghai Shenhua vs Meizhou Hakka",
+      "winner": "Shanghai Shenhua",
+      "analysis": "Shanghai Shenhua won all 7/7 H2H matches"
     },
     {
-      "teams": "Al Hilal vs Al Akhdoud",
-      "winner": "Al Hilal",
-      "analysis": "Al Hilal won all 4/4 H2H matches"
+      "teams": "Rouen vs Bourg en Bresse Peronnas 01",
+      "winner": "Rouen",
+      "analysis": "Rouen won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Blau-Weiss Lohne vs VfB Lubeck",
+      "winner": "VfB Lubeck",
+      "analysis": "VfB Lubeck won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Kheybar Khorramabad vs Sepahan",
+      "winner": "Sepahan",
+      "analysis": "Sepahan won all 3/3 H2H matches"
     }
   ]
 }
