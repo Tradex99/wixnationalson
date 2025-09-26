@@ -1,51 +1,92 @@
 OVER 1.5 STARTED HERE
 
-Teams: San Antonio Bulo Bulo vs The Strongest
+Teams: FC Twente vs Fortuna Sittard
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Benfica vs Gil Vicente
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Schalke 04 vs Greuther Furth
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: SKN St. Poelten vs Sturm Graz II
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Muharraq vs Malkia
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Horsens fS vs Hedensted
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: Velbert vs FC Bocholt
+Teams: Silkeborg U19 vs FC Copenhagen U19
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Al-Rayyan vs Al-Gharafa
+Teams: EIF vs KaPa Kapylan Pallo
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Al-Sadd vs Al-Duhail SC
-Analysis: All 10/10 H2H are over 1.5 Goals
+Teams: Sandhausen vs Kickers Offenbach
+Analysis: All 9/9 H2H are over 1.5 Goals
 
-Teams: FK Graficar vs Loznica
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Tanjong Pagar United FC vs Young Lions
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Umeaa vs Vasteraas SK
+Teams: Sportfreunde Siegen vs Bochum II
 Analysis: All 8/8 H2H are over 1.5 Goals
 
-Teams: Simba SC vs Fountain Gate FC
+Teams: Oberneuland vs Brinkumer SV
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: TuS Dassendorf vs FC Tuerkiye Wilhelmsburg
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FV Engers vs Eisbachtaler Sportfreunde
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Preussen Munster II vs FC Gievenbeck
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Sivasspor vs Adana Demirspor
+Teams: Semen Padang vs Bali United
 Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Ulsan Citizen FC vs Siheung Citizen FC
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Aluminij vs Radomlje
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: One Knoxville SC vs Charlotte Independence
+Analysis: All 7/7 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Al Hilal vs Al Akhdoud
+Teams: FC Liefering vs SV Stripfing
 Analysis: All 4/4 H2H are over 2.5 Goals
 
-Teams: Sandvikens IF vs Helsingborgs IF
+Teams: Qarabag FK vs Gabala FK
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Leher vs Geestemuende
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Dundela vs Harland & Wolff Welders FC
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Hoegaborgs BK vs Nosaby IF
 Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Los Chankas CYC vs Sporting Cristal
-Analysis: All 3/3 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Al Shabab vs Al Kholood
-Analysis: Al Shabab won all 3/3 H2H matches
-Winner: Al Shabab
+Teams: Shanghai Shenhua vs Meizhou Hakka
+Analysis: Shanghai Shenhua won all 7/7 H2H matches
+Winner: Shanghai Shenhua
 
-Teams: Al Hilal vs Al Akhdoud
-Analysis: Al Hilal won all 4/4 H2H matches
-Winner: Al Hilal
+Teams: Rouen vs Bourg en Bresse Peronnas 01
+Analysis: Rouen won all 4/4 H2H matches
+Winner: Rouen
+
+Teams: Blau-Weiss Lohne vs VfB Lubeck
+Analysis: VfB Lubeck won all 4/4 H2H matches
+Winner: VfB Lubeck
+
+Teams: Kheybar Khorramabad vs Sepahan
+Analysis: Sepahan won all 3/3 H2H matches
+Winner: Sepahan
