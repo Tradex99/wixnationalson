@@ -1,44 +1,46 @@
 OVER 1.5 STARTED HERE
 
-Teams: Beşiktaş vs Kocaelispor
+Teams: FC Emmen vs Vitesse
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: CD Jaguares vs Real Cartagena
-Analysis: All 10/10 H2H are over 1.5 Goals
+Teams: Willem II vs Helmond Sport
+Analysis: All 9/9 H2H are over 1.5 Goals
 
-Teams: Stjarnan vs Vikingur Reykjavik
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Huntsville City FC vs Inter Miami CF II
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: The Town FC vs Tacoma Defiance
+Teams: Atlas W vs Toluca W
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Eik-Toensberg vs Brann 2
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Gjoevik-Lyn vs HamKam 2
+Teams: Marseille vs Ajax
 Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Truro City vs Eastleigh
+Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: SC Paderborn 07 II vs Borussia M'gladbach II
-Analysis: Borussia M'gladbach II won all 4/4 H2H matches
-Winner: Borussia M'gladbach II
+Teams: Chelsea vs Benfica
+Analysis: Chelsea won all 4/4 H2H matches
+Winner: Chelsea
 
-Teams: Lincoln Red Imps FC vs Europa Point
-Analysis: Lincoln Red Imps FC won all 10/10 H2H matches
-Winner: Lincoln Red Imps FC
+Teams: Amazonas FC vs Chapecoense AF
+Analysis: Chapecoense AF won all 3/3 H2H matches
+Winner: Chapecoense AF
 
-Teams: Skedsmo vs Stroemsgodset 2
-Analysis: Stroemsgodset 2 won all 3/3 H2H matches
-Winner: Stroemsgodset 2
+Teams: Walton and Hersham vs Sholing
+Analysis: Walton and Hersham won all 4/4 H2H matches
+Winner: Walton and Hersham
 
-Teams: Stabaek 2 vs Sarpsborg 08 2
-Analysis: Sarpsborg 08 2 won all 3/3 H2H matches
-Winner: Sarpsborg 08 2
+Teams: Dartford vs Burgess Hill Town
+Analysis: Dartford won all 3/3 H2H matches
+Winner: Dartford
+
+Teams: Necaxa W vs Monterrey W
+Analysis: Monterrey W won all 10/10 H2H matches
+Winner: Monterrey W
+
+Teams: Haugesund 2 vs Hinna FK
+Analysis: Haugesund 2 won all 5/5 H2H matches
+Winner: Haugesund 2
