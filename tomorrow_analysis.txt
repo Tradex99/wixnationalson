@@ -1,46 +1,67 @@
 OVER 1.5 STARTED HERE
 
-Teams: FC Emmen vs Vitesse
+Teams: Barcelona vs Paris Saint-Germain
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Willem II vs Helmond Sport
-Analysis: All 9/9 H2H are over 1.5 Goals
+Teams: FV Diefflen vs SC Idar-Oberstein
+Analysis: All 8/8 H2H are over 1.5 Goals
 
-Teams: Atlas W vs Toluca W
+Teams: Kaiserslautern II vs Hertha Wiesbach
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Pirmasens vs SV Auersmacher
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Wormatia Worms vs SV Gonsenheim
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: OFK Mladost Donja Gorica vs Decic Tuzi
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: FC Cincinnati II vs New York Red Bulls II
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Da Nang vs Ha Noi FC
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Marseille vs Ajax
-Analysis: All 5/5 H2H are over 2.5 Goals
+Teams: Shanghai Shenhua vs Ulsan Hyundai
+Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Truro City vs Eastleigh
+Teams: Sampdoria vs Catanzaro
 Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: FC Kosice vs DAC 1904 Dunajska Streda
+Analysis: All 6/6 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Vejle U17 vs FC Copenhagen U17
+Analysis: All 3/3 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Chelsea vs Benfica
-Analysis: Chelsea won all 4/4 H2H matches
-Winner: Chelsea
+Teams: Shanghai Shenhua vs Ulsan Hyundai
+Analysis: Ulsan Hyundai won all 3/3 H2H matches
+Winner: Ulsan Hyundai
 
-Teams: Amazonas FC vs Chapecoense AF
-Analysis: Chapecoense AF won all 3/3 H2H matches
-Winner: Chapecoense AF
+Teams: Brackley Town vs Wealdstone
+Analysis: Brackley Town won all 3/3 H2H matches
+Winner: Brackley Town
 
-Teams: Walton and Hersham vs Sholing
-Analysis: Walton and Hersham won all 4/4 H2H matches
-Winner: Walton and Hersham
+Teams: Vejle U17 vs FC Copenhagen U17
+Analysis: FC Copenhagen U17 won all 3/3 H2H matches
+Winner: FC Copenhagen U17
 
-Teams: Dartford vs Burgess Hill Town
-Analysis: Dartford won all 3/3 H2H matches
-Winner: Dartford
+Teams: Cork City FC W vs Athlone Town W
+Analysis: Athlone Town W won all 10/10 H2H matches
+Winner: Athlone Town W
 
-Teams: Necaxa W vs Monterrey W
-Analysis: Monterrey W won all 10/10 H2H matches
-Winner: Monterrey W
+Teams: OFK Mladost Donja Gorica vs Decic Tuzi
+Analysis: Decic Tuzi won all 5/5 H2H matches
+Winner: Decic Tuzi
 
-Teams: Haugesund 2 vs Hinna FK
-Analysis: Haugesund 2 won all 5/5 H2H matches
-Winner: Haugesund 2
+Teams: Cusco FC vs Deportivo Garcilaso
+Analysis: Cusco FC won all 3/3 H2H matches
+Winner: Cusco FC
