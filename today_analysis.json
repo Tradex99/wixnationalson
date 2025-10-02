@@ -1,88 +1,38 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Barcelona vs Paris Saint-Germain",
+      "teams": "1. CfR Pforzheim vs Noettingen",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "FV Diefflen vs SC Idar-Oberstein",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
+      "teams": "SV Erlbach vs SV Heimstetten",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Kaiserslautern II vs Hertha Wiesbach",
+      "teams": "Budissa Bautzen vs VfB Krieschow",
       "analysis": "All 7/7 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Pirmasens vs SV Auersmacher",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Wormatia Worms vs SV Gonsenheim",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "OFK Mladost Donja Gorica vs Decic Tuzi",
+      "teams": "Fredrikstad 2 vs Odds Ballklubb 2",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
     },
     {
       "teams": "FC Cincinnati II vs New York Red Bulls II",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Da Nang vs Ha Noi FC",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Shanghai Shenhua vs Ulsan Hyundai",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Sampdoria vs Catanzaro",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "FC Kosice vs DAC 1904 Dunajska Streda",
-      "analysis": "All 6/6 H2H are over 2.5 Goals"
+      "teams": "Young Lions vs Hougang United FC",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [
-    {
-      "teams": "Vejle U17 vs FC Copenhagen U17",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    }
-  ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Shanghai Shenhua vs Ulsan Hyundai",
-      "winner": "Ulsan Hyundai",
-      "analysis": "Ulsan Hyundai won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Brackley Town vs Wealdstone",
-      "winner": "Brackley Town",
-      "analysis": "Brackley Town won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Vejle U17 vs FC Copenhagen U17",
-      "winner": "FC Copenhagen U17",
-      "analysis": "FC Copenhagen U17 won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Cork City FC W vs Athlone Town W",
-      "winner": "Athlone Town W",
-      "analysis": "Athlone Town W won all 10/10 H2H matches"
-    },
-    {
-      "teams": "OFK Mladost Donja Gorica vs Decic Tuzi",
-      "winner": "Decic Tuzi",
-      "analysis": "Decic Tuzi won all 5/5 H2H matches"
-    },
-    {
-      "teams": "Cusco FC vs Deportivo Garcilaso",
-      "winner": "Cusco FC",
-      "analysis": "Cusco FC won all 3/3 H2H matches"
+      "teams": "Aatvidaberg vs Smedby AIS",
+      "winner": "Aatvidaberg",
+      "analysis": "Aatvidaberg won all 3/3 H2H matches"
     }
   ]
 }

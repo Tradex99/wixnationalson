@@ -1,67 +1,29 @@
 OVER 1.5 STARTED HERE
 
-Teams: Barcelona vs Paris Saint-Germain
+Teams: 1. CfR Pforzheim vs Noettingen
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: FV Diefflen vs SC Idar-Oberstein
-Analysis: All 8/8 H2H are over 1.5 Goals
+Teams: SV Erlbach vs SV Heimstetten
+Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Kaiserslautern II vs Hertha Wiesbach
+Teams: Budissa Bautzen vs VfB Krieschow
 Analysis: All 7/7 H2H are over 1.5 Goals
 
-Teams: Pirmasens vs SV Auersmacher
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Wormatia Worms vs SV Gonsenheim
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: OFK Mladost Donja Gorica vs Decic Tuzi
+Teams: Fredrikstad 2 vs Odds Ballklubb 2
 Analysis: All 5/5 H2H are over 1.5 Goals
 
 Teams: FC Cincinnati II vs New York Red Bulls II
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Da Nang vs Ha Noi FC
-Analysis: All 10/10 H2H are over 1.5 Goals
-
 OVER 2.5 STARTED HERE
 
-Teams: Shanghai Shenhua vs Ulsan Hyundai
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Sampdoria vs Catanzaro
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: FC Kosice vs DAC 1904 Dunajska Streda
-Analysis: All 6/6 H2H are over 2.5 Goals
+Teams: Young Lions vs Hougang United FC
+Analysis: All 10/10 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Vejle U17 vs FC Copenhagen U17
-Analysis: All 3/3 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Shanghai Shenhua vs Ulsan Hyundai
-Analysis: Ulsan Hyundai won all 3/3 H2H matches
-Winner: Ulsan Hyundai
-
-Teams: Brackley Town vs Wealdstone
-Analysis: Brackley Town won all 3/3 H2H matches
-Winner: Brackley Town
-
-Teams: Vejle U17 vs FC Copenhagen U17
-Analysis: FC Copenhagen U17 won all 3/3 H2H matches
-Winner: FC Copenhagen U17
-
-Teams: Cork City FC W vs Athlone Town W
-Analysis: Athlone Town W won all 10/10 H2H matches
-Winner: Athlone Town W
-
-Teams: OFK Mladost Donja Gorica vs Decic Tuzi
-Analysis: Decic Tuzi won all 5/5 H2H matches
-Winner: Decic Tuzi
-
-Teams: Cusco FC vs Deportivo Garcilaso
-Analysis: Cusco FC won all 3/3 H2H matches
-Winner: Cusco FC
+Teams: Aatvidaberg vs Smedby AIS
+Analysis: Aatvidaberg won all 3/3 H2H matches
+Winner: Aatvidaberg

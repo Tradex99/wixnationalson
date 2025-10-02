@@ -1,34 +1,98 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "1. CfR Pforzheim vs Noettingen",
+      "teams": "Paris FC vs Lorient",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Jong Ajax vs De Graafschap",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "SV Erlbach vs SV Heimstetten",
+      "teams": "Ayia Napa vs Omonia 29 Maiou",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Budissa Bautzen vs VfB Krieschow",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
+      "teams": "PK Keski-Uusimaa vs EPS",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Fredrikstad 2 vs Odds Ballklubb 2",
+      "teams": "HPS W vs KuPS W",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "ASV Neumarkt vs ASV Cham",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Cobh Ramblers vs Bray Wanderers",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Pianese vs US Livorno 1915",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Hinna FK vs Staal Joerpeland",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Maritimo vs Academico Viseu",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "IFK Haessleholm vs IFK Trelleborg FK",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Young Lions vs Hougang United FC",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
+      "teams": "Pau vs Clermont Foot 63",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "West Bromwich Albion U21 vs Leeds United U21",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Terengganu vs Kelantan The Real Warriors",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Cerro Porteno vs CD Recoleta",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [],
+  "OVER 3.5 STARTED HERE": [
+    {
+      "teams": "Everton U21 vs Manchester United U21",
+      "analysis": "All 4/4 H2H are over 3.5 Goals"
+    },
+    {
+      "teams": "Greifswalder FC vs BFC Preussen",
+      "analysis": "All 4/4 H2H are over 3.5 Goals"
+    }
+  ],
   "WIN STARTED HERE": [
     {
-      "teams": "Aatvidaberg vs Smedby AIS",
-      "winner": "Aatvidaberg",
-      "analysis": "Aatvidaberg won all 3/3 H2H matches"
+      "teams": "Eintracht Frankfurt W vs Carl Zeiss Jena W",
+      "winner": "Eintracht Frankfurt W",
+      "analysis": "Eintracht Frankfurt W won all 8/8 H2H matches"
+    },
+    {
+      "teams": "Fulham U21 vs Liverpool U21",
+      "winner": "Liverpool U21",
+      "analysis": "Liverpool U21 won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Terengganu vs Kelantan The Real Warriors",
+      "winner": "Terengganu",
+      "analysis": "Terengganu won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Jitex BK W vs BK Haecken W B",
+      "winner": "Jitex BK W",
+      "analysis": "Jitex BK W won all 3/3 H2H matches"
     }
   ]
 }
