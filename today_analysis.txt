@@ -1,29 +1,74 @@
 OVER 1.5 STARTED HERE
 
-Teams: 1. CfR Pforzheim vs Noettingen
+Teams: Paris FC vs Lorient
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Jong Ajax vs De Graafschap
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: SV Erlbach vs SV Heimstetten
+Teams: Ayia Napa vs Omonia 29 Maiou
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Budissa Bautzen vs VfB Krieschow
-Analysis: All 7/7 H2H are over 1.5 Goals
+Teams: PK Keski-Uusimaa vs EPS
+Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Fredrikstad 2 vs Odds Ballklubb 2
+Teams: HPS W vs KuPS W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: ASV Neumarkt vs ASV Cham
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: Cobh Ramblers vs Bray Wanderers
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Pianese vs US Livorno 1915
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: FC Cincinnati II vs New York Red Bulls II
+Teams: Hinna FK vs Staal Joerpeland
 Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Maritimo vs Academico Viseu
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: IFK Haessleholm vs IFK Trelleborg FK
+Analysis: All 5/5 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Young Lions vs Hougang United FC
-Analysis: All 10/10 H2H are over 2.5 Goals
+Teams: Pau vs Clermont Foot 63
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: West Bromwich Albion U21 vs Leeds United U21
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Terengganu vs Kelantan The Real Warriors
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Cerro Porteno vs CD Recoleta
+Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Everton U21 vs Manchester United U21
+Analysis: All 4/4 H2H are over 3.5 Goals
+
+Teams: Greifswalder FC vs BFC Preussen
+Analysis: All 4/4 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Aatvidaberg vs Smedby AIS
-Analysis: Aatvidaberg won all 3/3 H2H matches
-Winner: Aatvidaberg
+Teams: Eintracht Frankfurt W vs Carl Zeiss Jena W
+Analysis: Eintracht Frankfurt W won all 8/8 H2H matches
+Winner: Eintracht Frankfurt W
+
+Teams: Fulham U21 vs Liverpool U21
+Analysis: Liverpool U21 won all 3/3 H2H matches
+Winner: Liverpool U21
+
+Teams: Terengganu vs Kelantan The Real Warriors
+Analysis: Terengganu won all 4/4 H2H matches
+Winner: Terengganu
+
+Teams: Jitex BK W vs BK Haecken W B
+Analysis: Jitex BK W won all 3/3 H2H matches
+Winner: Jitex BK W
