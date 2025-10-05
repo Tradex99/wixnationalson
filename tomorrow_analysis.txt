@@ -1,231 +1,37 @@
 OVER 1.5 STARTED HERE
 
-Teams: Newcastle United vs Nottingham Forest
+Teams: Tijuana vs Monterrey
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Feyenoord vs FC Utrecht
+Teams: Chico FC vs Atletico Nacional
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Celtic vs Motherwell
+Teams: Pachuca W vs Atletico de San Luis W
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Birmingham City W vs Southampton W
+Teams: Brann 2 vs Notodden
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: CF America vs Club Santos Laguna
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Viking vs Brann
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Kifisia FC vs AEK Athens
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Panathinaikos vs Atromitos
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Botev Vratsa vs Botev Plovdiv
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: CE Carroi vs FC Santa Coloma
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Guillermo Brown vs Villa Mitre
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Kortrijk vs SK Beveren
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Deportivo Upala FC vs Grecia
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Quepos Cambute vs Inter San Carlos
+Teams: Stroemsgodset 2 vs Lillestroem 2
 Analysis: All 9/9 H2H are over 1.5 Goals
 
-Teams: FC Tallinn vs Talinna Kalev U21
+Teams: Sandnes 2 vs Haugesund 2
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Sarpsborg 08 2 vs Fredrikstad 2
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Sandvikens IF vs Oergryte
 Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: 1. FC Phonix Lubeck vs VfB Lubeck
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: HSC Hannover vs SSV Jeddeloh II
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: SV Todesfelde vs Union Neumuenster
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: 1. FC Duren vs SpVg Frechen 20
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: VfL Vichttal vs FC Hennef 05
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: SV Gonsenheim vs RW Koblenz
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: TSG Sprockhoevel vs Preussen Munster II
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Westfalia Rhynern vs SV Schermbeck 2020
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Kisvarda FC vs Diosgyori VTK
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Budafok vs Kozarmisleny
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Vikingur Reykjavik vs FH Hafnarfjordur
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Novara vs Triestina
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Scanzorosciate vs Villa D'Alme
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Gavilanes FC Matamoros vs Correcaminos de la UAT II
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Puebla W vs Tigres W
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Excelsior W vs PEC Zwolle W
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Alta vs Stjoerdals Blink
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Getafe B vs Rayo Majadahonda
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Norrby vs FC Rosengaard
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Huddinge IF vs Nykoepings BIS
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Qviding FIF vs Onsala BK
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: FC Vaduz vs FC Rapperswil-Jona
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Bangkok United vs Nakhon Ratchasima FC
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Ankaraspor vs Inegolspor
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Kastamonuspor 1966 vs Iskenderun FK
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Portland Timbers II vs St. Louis City II
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Estudiantes de la Plata vs Barracas Central
-Analysis: All 6/6 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Ararat Armenia vs Gandzasar
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Ringkoebing vs Oure FA
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Oldenburger SV vs VfR Neumunster
-Analysis: All 6/6 H2H are over 2.5 Goals
-
-Teams: Pesch vs SSV Merten
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: ASD Varesina vs Brusaporto
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Martina vs Francavilla
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Birkenhead United vs Auckland City FC
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Brattvaag vs Arendal Fotball
+Teams: Nosaby IF vs FBK Balkan
 Analysis: All 9/9 H2H are over 2.5 Goals
 
-Teams: Grorud vs Eidsvold TF
-Analysis: All 6/6 H2H are over 2.5 Goals
-
-Teams: Gneist vs Aasane 2
+Teams: Varbergs GIF FK vs Jonsereds IF
 Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Pors 2 vs Oern-Horten
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Pontevedra vs CF Talavera de la Reina
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: SD Amorebieta vs CD Basconia
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Umeaa FC Akademi vs Kubikenborgs IF
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Arameiska-Syrianska IF vs Raegsveds IF
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Shakhtar Donetsk vs Cherkasy
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Orlando City B vs FC Cincinnati II
-Analysis: All 7/7 H2H are over 2.5 Goals
-
-Teams: Sparta Lichtenberg vs SG Dynamo Schwerin
-Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Atletic Escaldes vs CF Esperanca
-Analysis: All 6/6 H2H are over 3.5 Goals
-
-Teams: FC Liege vs Jong Genk
-Analysis: All 4/4 H2H are over 3.5 Goals
-
-Teams: Roasso Kumamoto vs Iwaki FC
-Analysis: All 5/5 H2H are over 3.5 Goals
-
-Teams: Ventura County FC vs Colorado Rapids II
-Analysis: All 3/3 H2H are over 3.5 Goals
-
 WIN STARTED HERE
-
-Teams: Bahia vs Flamengo
-Analysis: Flamengo won all 10/10 H2H matches
-Winner: Flamengo
-
-Teams: Atletic Escaldes vs CF Esperanca
-Analysis: Atletic Escaldes won all 6/6 H2H matches
-Winner: Atletic Escaldes
-
-Teams: Ararat Armenia vs Gandzasar
-Analysis: Ararat Armenia won all 3/3 H2H matches
-Winner: Ararat Armenia
-
-Teams: Puebla W vs Tigres W
-Analysis: Tigres W won all 10/10 H2H matches
-Winner: Tigres W
-
-Teams: Pors 2 vs Oern-Horten
-Analysis: Oern-Horten won all 3/3 H2H matches
-Winner: Oern-Horten
-
-Teams: Team TG FF vs Gefle
-Analysis: Gefle won all 8/8 H2H matches
-Winner: Gefle
-
-Teams: Umeaa FC Akademi vs Kubikenborgs IF
-Analysis: Kubikenborgs IF won all 3/3 H2H matches
-Winner: Kubikenborgs IF
-
-Teams: Shakhtar Donetsk vs Cherkasy
-Analysis: Shakhtar Donetsk won all 4/4 H2H matches
-Winner: Shakhtar Donetsk
