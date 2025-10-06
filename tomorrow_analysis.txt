@@ -1,37 +1,45 @@
 OVER 1.5 STARTED HERE
 
-Teams: Tijuana vs Monterrey
+Teams: Scunthorpe United vs Morecambe
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Accrington Stanley vs Port Vale
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Chico FC vs Atletico Nacional
+Teams: Santos Laguna W vs FC Juarez W
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Pachuca W vs Atletico de San Luis W
+Teams: Institute vs Glentoran
 Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Brann 2 vs Notodden
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Stroemsgodset 2 vs Lillestroem 2
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Sandnes 2 vs Haugesund 2
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Sarpsborg 08 2 vs Fredrikstad 2
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Sandvikens IF vs Oergryte
-Analysis: All 7/7 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Nosaby IF vs FBK Balkan
-Analysis: All 9/9 H2H are over 2.5 Goals
-
-Teams: Varbergs GIF FK vs Jonsereds IF
+Teams: Wycombe Wanderers vs Fulham U21
 Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Harland & Wolff Welders FC vs Dundela
+Analysis: All 10/10 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
+
+Teams: Ballerup-Skovlunde W vs Broendby W
+Analysis: Broendby W won all 10/10 H2H matches
+Winner: Broendby W
+
+Teams: Ukraine U17 vs Italy U17
+Analysis: Italy U17 won all 6/6 H2H matches
+Winner: Italy U17
+
+Teams: FC Utrecht W vs Feyenoord W
+Analysis: FC Utrecht W won all 4/4 H2H matches
+Winner: FC Utrecht W
+
+Teams: Armagh vs Carrick Rangers
+Analysis: Carrick Rangers won all 4/4 H2H matches
+Winner: Carrick Rangers
+
+Teams: Llanelli vs Cardiff Met University
+Analysis: Cardiff Met University won all 4/4 H2H matches
+Winner: Cardiff Met University
