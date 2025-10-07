@@ -1,45 +1,40 @@
 OVER 1.5 STARTED HERE
 
-Teams: Scunthorpe United vs Morecambe
+Teams: Chad vs Mali
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: AD Cofutpa vs Deportivo Upala FC
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Stocksbridge Park Steels vs Rushall Olympic
 Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Accrington Stanley vs Port Vale
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Santos Laguna W vs FC Juarez W
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Institute vs Glentoran
-Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Wycombe Wanderers vs Fulham U21
-Analysis: All 3/3 H2H are over 2.5 Goals
+Teams: Mauritius vs Cameroon
+Analysis: All 5/5 H2H are over 2.5 Goals
 
-Teams: Harland & Wolff Welders FC vs Dundela
-Analysis: All 10/10 H2H are over 2.5 Goals
+Teams: Japan U20 vs France U20
+Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Djibouti vs Egypt
+Analysis: All 3/3 H2H are over 3.5 Goals
+
+Teams: Augsburg vs SSV Ulm 1846
+Analysis: All 3/3 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Ballerup-Skovlunde W vs Broendby W
-Analysis: Broendby W won all 10/10 H2H matches
-Winner: Broendby W
+Teams: Djibouti vs Egypt
+Analysis: Egypt won all 3/3 H2H matches
+Winner: Egypt
 
-Teams: Ukraine U17 vs Italy U17
-Analysis: Italy U17 won all 6/6 H2H matches
-Winner: Italy U17
+Teams: Mauritius vs Cameroon
+Analysis: Cameroon won all 5/5 H2H matches
+Winner: Cameroon
 
-Teams: FC Utrecht W vs Feyenoord W
-Analysis: FC Utrecht W won all 4/4 H2H matches
-Winner: FC Utrecht W
-
-Teams: Armagh vs Carrick Rangers
-Analysis: Carrick Rangers won all 4/4 H2H matches
-Winner: Carrick Rangers
-
-Teams: Llanelli vs Cardiff Met University
-Analysis: Cardiff Met University won all 4/4 H2H matches
-Winner: Cardiff Met University
+Teams: Chad vs Mali
+Analysis: Mali won all 5/5 H2H matches
+Winner: Mali
