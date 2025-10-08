@@ -1,53 +1,41 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Chad vs Mali",
+      "teams": "Cyprus vs Bosnia and Herzegovina",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
     },
     {
       "teams": "AD Cofutpa vs Deportivo Upala FC",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Stocksbridge Park Steels vs Rushall Olympic",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [
-    {
-      "teams": "Mauritius vs Cameroon",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Japan U20 vs France U20",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    }
-  ],
+  "OVER 2.5 STARTED HERE": [],
   "OVER 3.5 STARTED HERE": [
     {
-      "teams": "Djibouti vs Egypt",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    },
-    {
-      "teams": "Augsburg vs SSV Ulm 1846",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
+      "teams": "Laos vs Malaysia",
+      "analysis": "All 7/7 H2H are over 3.5 Goals"
     }
   ],
   "WIN STARTED HERE": [
     {
-      "teams": "Djibouti vs Egypt",
-      "winner": "Egypt",
-      "analysis": "Egypt won all 3/3 H2H matches"
+      "teams": "England vs Wales",
+      "winner": "England",
+      "analysis": "England won all 7/7 H2H matches"
     },
     {
-      "teams": "Mauritius vs Cameroon",
-      "winner": "Cameroon",
-      "analysis": "Cameroon won all 5/5 H2H matches"
+      "teams": "Laos vs Malaysia",
+      "winner": "Malaysia",
+      "analysis": "Malaysia won all 7/7 H2H matches"
     },
     {
-      "teams": "Chad vs Mali",
-      "winner": "Mali",
-      "analysis": "Mali won all 5/5 H2H matches"
+      "teams": "Romania vs Moldova",
+      "winner": "Romania",
+      "analysis": "Romania won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Gualaceo SC vs Independiente del Valle",
+      "winner": "Independiente del Valle",
+      "analysis": "Independiente del Valle won all 4/4 H2H matches"
     }
   ]
 }

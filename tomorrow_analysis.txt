@@ -1,40 +1,32 @@
 OVER 1.5 STARTED HERE
 
-Teams: Chad vs Mali
+Teams: Cyprus vs Bosnia and Herzegovina
 Analysis: All 5/5 H2H are over 1.5 Goals
 
 Teams: AD Cofutpa vs Deportivo Upala FC
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: Stocksbridge Park Steels vs Rushall Olympic
-Analysis: All 6/6 H2H are over 1.5 Goals
-
 OVER 2.5 STARTED HERE
-
-Teams: Mauritius vs Cameroon
-Analysis: All 5/5 H2H are over 2.5 Goals
-
-Teams: Japan U20 vs France U20
-Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Djibouti vs Egypt
-Analysis: All 3/3 H2H are over 3.5 Goals
-
-Teams: Augsburg vs SSV Ulm 1846
-Analysis: All 3/3 H2H are over 3.5 Goals
+Teams: Laos vs Malaysia
+Analysis: All 7/7 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Djibouti vs Egypt
-Analysis: Egypt won all 3/3 H2H matches
-Winner: Egypt
+Teams: England vs Wales
+Analysis: England won all 7/7 H2H matches
+Winner: England
 
-Teams: Mauritius vs Cameroon
-Analysis: Cameroon won all 5/5 H2H matches
-Winner: Cameroon
+Teams: Laos vs Malaysia
+Analysis: Malaysia won all 7/7 H2H matches
+Winner: Malaysia
 
-Teams: Chad vs Mali
-Analysis: Mali won all 5/5 H2H matches
-Winner: Mali
+Teams: Romania vs Moldova
+Analysis: Romania won all 4/4 H2H matches
+Winner: Romania
+
+Teams: Gualaceo SC vs Independiente del Valle
+Analysis: Independiente del Valle won all 4/4 H2H matches
+Winner: Independiente del Valle
