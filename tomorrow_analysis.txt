@@ -1,32 +1,59 @@
 OVER 1.5 STARTED HERE
 
-Teams: Cyprus vs Bosnia and Herzegovina
+Teams: South Korea vs Brazil
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: AD Cofutpa vs Deportivo Upala FC
+Teams: DJK Gebenbach vs ASV Neumarkt
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Brinkumer SV vs TS Woltmershausen
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: FC Suederelbe vs Uhlenhorster SC Paloma
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Kerry vs Wexford FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Treaty United vs Bray Wanderers
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Gjoevik-Lyn vs Stroemsgodset 2
 Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Tabor vs ND Bilje
+Analysis: All 6/6 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-OVER 3.5 STARTED HERE
+Teams: Borussia M'gladbach vs Preussen Muenster
+Analysis: All 3/3 H2H are over 2.5 Goals
 
-Teams: Laos vs Malaysia
-Analysis: All 7/7 H2H are over 3.5 Goals
+Teams: Junkeren vs Tromsoe 2
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Zilina B vs Slovan Bratislava B
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: FOC Farsta vs Raegsveds IF
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: England vs Wales
-Analysis: England won all 7/7 H2H matches
-Winner: England
+Teams: South Korea vs Brazil
+Analysis: Brazil won all 5/5 H2H matches
+Winner: Brazil
 
-Teams: Laos vs Malaysia
-Analysis: Malaysia won all 7/7 H2H matches
-Winner: Malaysia
+Teams: Borussia M'gladbach vs Preussen Muenster
+Analysis: Borussia M'gladbach won all 3/3 H2H matches
+Winner: Borussia M'gladbach
 
-Teams: Romania vs Moldova
-Analysis: Romania won all 4/4 H2H matches
-Winner: Romania
+Teams: Latvia U21 vs Georgia U21
+Analysis: Georgia U21 won all 3/3 H2H matches
+Winner: Georgia U21
 
-Teams: Gualaceo SC vs Independiente del Valle
-Analysis: Independiente del Valle won all 4/4 H2H matches
-Winner: Independiente del Valle
+Teams: FK Zvijezda 09 vs FK Leotar
+Analysis: FK Zvijezda 09 won all 6/6 H2H matches
+Winner: FK Zvijezda 09
