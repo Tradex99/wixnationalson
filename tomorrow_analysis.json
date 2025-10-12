@@ -1,77 +1,21 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "South Korea vs Brazil",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "DJK Gebenbach vs ASV Neumarkt",
+      "teams": "Cork City vs Shelbourne",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Brinkumer SV vs TS Woltmershausen",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "FC Suederelbe vs Uhlenhorster SC Paloma",
+      "teams": "Once Caldas vs Independiente Medellin",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Kerry vs Wexford FC",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Treaty United vs Bray Wanderers",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Gjoevik-Lyn vs Stroemsgodset 2",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Tabor vs ND Bilje",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [
-    {
-      "teams": "Borussia M'gladbach vs Preussen Muenster",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Junkeren vs Tromsoe 2",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Zilina B vs Slovan Bratislava B",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "FOC Farsta vs Raegsveds IF",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    }
-  ],
+  "OVER 2.5 STARTED HERE": [],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "South Korea vs Brazil",
-      "winner": "Brazil",
-      "analysis": "Brazil won all 5/5 H2H matches"
-    },
-    {
-      "teams": "Borussia M'gladbach vs Preussen Muenster",
-      "winner": "Borussia M'gladbach",
-      "analysis": "Borussia M'gladbach won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Latvia U21 vs Georgia U21",
-      "winner": "Georgia U21",
-      "analysis": "Georgia U21 won all 3/3 H2H matches"
-    },
-    {
-      "teams": "FK Zvijezda 09 vs FK Leotar",
-      "winner": "FK Zvijezda 09",
-      "analysis": "FK Zvijezda 09 won all 6/6 H2H matches"
+      "teams": "Northern Ireland vs Germany",
+      "winner": "Germany",
+      "analysis": "Germany won all 7/7 H2H matches"
     }
   ]
 }
