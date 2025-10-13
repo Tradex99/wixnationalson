@@ -1,151 +1,20 @@
 OVER 1.5 STARTED HERE
 
-Teams: Netherlands vs Finland
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Inter Miami CF vs Atlanta United
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: AC Milan W vs Roma W
+Teams: Cork City vs Shelbourne
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 Teams: Villa Mitre vs Guillermo Brown
 Analysis: All 7/7 H2H are over 1.5 Goals
 
-Teams: Deportivo Upala FC vs Inter San Carlos
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Turrialba vs Grecia
+Teams: Once Caldas vs Independiente Medellin
 Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Vatan Sport Bremen vs Blumenthaler SV
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Habenhauser FV vs SG Aumund-Vegesack
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: FC Wegberg-Beeck vs Fortuna Cologne II
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: SSV Merten vs VfL Vichttal
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: DJK Teutonia St. Toenis vs VfB Homberg
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Pirmasens vs Hertha Wiesbach
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Hapoel Rishon LeZion vs Hapoel Kfar Shalem
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Chisola vs Derthona
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Tochigi SC vs Fukushima United
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Ajax W vs Excelsior W
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Sarpsborg 08 2 vs Kvik Halden
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Vaalerenga W vs SK Brann W
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Sabadell vs CD Teruel
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Skiljebo SK vs Viggbyholms IK FF
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: 24 Erzincanspor vs Kastamonuspor 1966
-Analysis: All 5/5 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
-
-Teams: Arsenal W vs Brighton W
-Analysis: All 10/10 H2H are over 2.5 Goals
-
-Teams: Geestemuende vs Werder Bremen III
-Analysis: All 10/10 H2H are over 2.5 Goals
-
-Teams: Athens Kallithea vs Olympiacos B
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: FC Twente W vs FC Utrecht W
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Arendal Fotball vs Lysekloster
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Hoenefoss vs Stjoerdals Blink
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Umeaa FC Akademi vs Piteaa
-Analysis: All 4/4 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: Netherlands vs Finland
-Analysis: Netherlands won all 5/5 H2H matches
-Winner: Netherlands
-
-Teams: San Marino vs Cyprus
-Analysis: Cyprus won all 6/6 H2H matches
-Winner: Cyprus
-
-Teams: Faroe Islands vs Czechia
-Analysis: Czechia won all 4/4 H2H matches
-Winner: Czechia
-
-Teams: Chelsea W vs Tottenham Hotspur W
-Analysis: Chelsea W won all 10/10 H2H matches
-Winner: Chelsea W
-
-Teams: Malta vs Bosnia and Herzegovina
-Analysis: Bosnia and Herzegovina won all 3/3 H2H matches
-Winner: Bosnia and Herzegovina
-
-Teams: Utah Royals vs San Diego Wave FC
-Analysis: San Diego Wave FC won all 3/3 H2H matches
-Winner: San Diego Wave FC
-
-Teams: Qingdao Red Lions vs Guangxi Baoyun
-Analysis: Guangxi Baoyun won all 3/3 H2H matches
-Winner: Guangxi Baoyun
-
-Teams: Deportivo Upala FC vs Inter San Carlos
-Analysis: Inter San Carlos won all 5/5 H2H matches
-Winner: Inter San Carlos
-
-Teams: Zweigen Kanazawa vs Azul Claro Numazu
-Analysis: Azul Claro Numazu won all 3/3 H2H matches
-Winner: Azul Claro Numazu
-
-Teams: Ajax W vs Excelsior W
-Analysis: Ajax W won all 9/9 H2H matches
-Winner: Ajax W
-
-Teams: Arendal Fotball vs Lysekloster
-Analysis: Lysekloster won all 3/3 H2H matches
-Winner: Lysekloster
-
-Teams: Hoenefoss vs Stjoerdals Blink
-Analysis: Hoenefoss won all 3/3 H2H matches
-Winner: Hoenefoss
-
-Teams: Burgos Promesas vs Atletico Astorga
-Analysis: Atletico Astorga won all 4/4 H2H matches
-Winner: Atletico Astorga
-
-Teams: UCAM Murcia vs Xerez Deportivo FC
-Analysis: UCAM Murcia won all 4/4 H2H matches
-Winner: UCAM Murcia
-
-Teams: Varbergs GIF FK vs Bergdalens IK
-Analysis: Varbergs GIF FK won all 3/3 H2H matches
-Winner: Varbergs GIF FK
+Teams: Northern Ireland vs Germany
+Analysis: Germany won all 7/7 H2H matches
+Winner: Germany

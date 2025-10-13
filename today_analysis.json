@@ -1,15 +1,7 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Netherlands vs Finland",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Inter Miami CF vs Atlanta United",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "AC Milan W vs Roma W",
+      "teams": "Cork City vs Shelbourne",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
@@ -17,180 +9,17 @@
       "analysis": "All 7/7 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Deportivo Upala FC vs Inter San Carlos",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Turrialba vs Grecia",
+      "teams": "Once Caldas vs Independiente Medellin",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Vatan Sport Bremen vs Blumenthaler SV",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Habenhauser FV vs SG Aumund-Vegesack",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "FC Wegberg-Beeck vs Fortuna Cologne II",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "SSV Merten vs VfL Vichttal",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "DJK Teutonia St. Toenis vs VfB Homberg",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Pirmasens vs Hertha Wiesbach",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Hapoel Rishon LeZion vs Hapoel Kfar Shalem",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Chisola vs Derthona",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Tochigi SC vs Fukushima United",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Ajax W vs Excelsior W",
-      "analysis": "All 9/9 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Sarpsborg 08 2 vs Kvik Halden",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Vaalerenga W vs SK Brann W",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Sabadell vs CD Teruel",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Skiljebo SK vs Viggbyholms IK FF",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "24 Erzincanspor vs Kastamonuspor 1966",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [
-    {
-      "teams": "Arsenal W vs Brighton W",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Geestemuende vs Werder Bremen III",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Athens Kallithea vs Olympiacos B",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "FC Twente W vs FC Utrecht W",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Arendal Fotball vs Lysekloster",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Hoenefoss vs Stjoerdals Blink",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Umeaa FC Akademi vs Piteaa",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    }
-  ],
+  "OVER 2.5 STARTED HERE": [],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Netherlands vs Finland",
-      "winner": "Netherlands",
-      "analysis": "Netherlands won all 5/5 H2H matches"
-    },
-    {
-      "teams": "San Marino vs Cyprus",
-      "winner": "Cyprus",
-      "analysis": "Cyprus won all 6/6 H2H matches"
-    },
-    {
-      "teams": "Faroe Islands vs Czechia",
-      "winner": "Czechia",
-      "analysis": "Czechia won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Chelsea W vs Tottenham Hotspur W",
-      "winner": "Chelsea W",
-      "analysis": "Chelsea W won all 10/10 H2H matches"
-    },
-    {
-      "teams": "Malta vs Bosnia and Herzegovina",
-      "winner": "Bosnia and Herzegovina",
-      "analysis": "Bosnia and Herzegovina won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Utah Royals vs San Diego Wave FC",
-      "winner": "San Diego Wave FC",
-      "analysis": "San Diego Wave FC won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Qingdao Red Lions vs Guangxi Baoyun",
-      "winner": "Guangxi Baoyun",
-      "analysis": "Guangxi Baoyun won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Deportivo Upala FC vs Inter San Carlos",
-      "winner": "Inter San Carlos",
-      "analysis": "Inter San Carlos won all 5/5 H2H matches"
-    },
-    {
-      "teams": "Zweigen Kanazawa vs Azul Claro Numazu",
-      "winner": "Azul Claro Numazu",
-      "analysis": "Azul Claro Numazu won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Ajax W vs Excelsior W",
-      "winner": "Ajax W",
-      "analysis": "Ajax W won all 9/9 H2H matches"
-    },
-    {
-      "teams": "Arendal Fotball vs Lysekloster",
-      "winner": "Lysekloster",
-      "analysis": "Lysekloster won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Hoenefoss vs Stjoerdals Blink",
-      "winner": "Hoenefoss",
-      "analysis": "Hoenefoss won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Burgos Promesas vs Atletico Astorga",
-      "winner": "Atletico Astorga",
-      "analysis": "Atletico Astorga won all 4/4 H2H matches"
-    },
-    {
-      "teams": "UCAM Murcia vs Xerez Deportivo FC",
-      "winner": "UCAM Murcia",
-      "analysis": "UCAM Murcia won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Varbergs GIF FK vs Bergdalens IK",
-      "winner": "Varbergs GIF FK",
-      "analysis": "Varbergs GIF FK won all 3/3 H2H matches"
+      "teams": "Northern Ireland vs Germany",
+      "winner": "Germany",
+      "analysis": "Germany won all 7/7 H2H matches"
     }
   ]
 }
