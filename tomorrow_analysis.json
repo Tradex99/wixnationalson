@@ -1,26 +1,11 @@
 {
-  "OVER 1.5 STARTED HERE": [
-    {
-      "teams": "Shabana vs Posta Rangers",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    }
-  ],
+  "OVER 1.5 STARTED HERE": [],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Rosenborg 2 vs Aalesund 2",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Lucksta vs Friska Viljor",
+      "teams": "Club Atletico Vinotinto vs Chacaritas",
       "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": [
-    {
-      "teams": "Murang'a Seal vs Sofapaka",
-      "winner": "Murang'a Seal",
-      "analysis": "Murang'a Seal won all 4/4 H2H matches"
-    }
-  ]
+  "WIN STARTED HERE": []
 }
