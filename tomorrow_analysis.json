@@ -1,11 +1,135 @@
 {
-  "OVER 1.5 STARTED HERE": [],
-  "OVER 2.5 STARTED HERE": [
+  "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Club Atletico Vinotinto vs Chacaritas",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
+      "teams": "Paris Saint-Germain vs Strasbourg",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Jong Ajax vs Jong PSV",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Adelaide United vs Sydney FC",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Sanfrecce Hiroshima vs FC Tokyo",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Arsenal Dzerzhinsk vs Isloch",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Olympic Charleroi Chatelet Farciennes vs Eupen",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC Helsingoer vs Ishoej IF",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SV Kirchanschoering vs SV Heimstetten",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "OSC Bremerhaven vs Vatan Sport Bremen",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "1. FC Duren vs FC Wegberg-Beeck",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FV Engers vs RW Koblenz",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Finn Harps vs UCD",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Sohar vs Al-Shabab",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Dukla Banska Bystrica vs FC Petrzalka 1898",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Nk Brinje Grosuplje vs Jadran",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Lunds BK vs Aengelholms FF",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Al Bataeh vs Al-Wahda",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Racing Club vs Aldosivi",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "APIA Leichhardt Tigers vs Sydney United 58",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": []
+  "OVER 2.5 STARTED HERE": [
+    {
+      "teams": "Le Havre W vs Saint Etienne W",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Unterhaching vs SpVgg Bayreuth",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Victoria Hamburg vs SV Curslack-Neuengamme",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Viktoria Berlin vs FC Anker Wismar",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    }
+  ],
+  "OVER 3.5 STARTED HERE": [
+    {
+      "teams": "Horsens fS vs Oure FA",
+      "analysis": "All 3/3 H2H are over 3.5 Goals"
+    },
+    {
+      "teams": "IFK Skoevde FK vs FC Trollhaettan",
+      "analysis": "All 3/3 H2H are over 3.5 Goals"
+    }
+  ],
+  "WIN STARTED HERE": [
+    {
+      "teams": "Qingdao West Coast vs Shanghai Shenhua",
+      "winner": "Shanghai Shenhua",
+      "analysis": "Shanghai Shenhua won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Le Havre W vs Saint Etienne W",
+      "winner": "Le Havre W",
+      "analysis": "Le Havre W won all 4/4 H2H matches"
+    },
+    {
+      "teams": "FC Gareji 1960 vs Dila Gori",
+      "winner": "Dila Gori",
+      "analysis": "Dila Gori won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Glacis United vs Europa FC",
+      "winner": "Europa FC",
+      "analysis": "Europa FC won all 10/10 H2H matches"
+    },
+    {
+      "teams": "IFK Skoevde FK vs FC Trollhaettan",
+      "winner": "FC Trollhaettan",
+      "analysis": "FC Trollhaettan won all 3/3 H2H matches"
+    }
+  ]
 }
