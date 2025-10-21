@@ -1,73 +1,69 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "York City vs Boreham Wood",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Guadalupe FC vs Sporting FC",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Broendby U19 vs OB U19",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Weston Super Mare vs Slough Town",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Workington vs Gainsborough",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Leiston vs AFC Sudbury",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Flora Tallinn vs Narva Trans",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Versailles vs Dijon",
+      "teams": "AS Monaco vs Tottenham Hotspur",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
     },
     {
-      "teams": "LA Force vs Capo",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    }
-  ],
-  "OVER 2.5 STARTED HERE": [
-    {
-      "teams": "Chatham Town vs Dulwich Hamlet",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
+      "teams": "FC Inter Turku vs IF Gnistan",
+      "analysis": "All 8/8 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Dinamo Tbilisi II vs Iberia 1999 II",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
+      "teams": "HFX Wanderers FC vs York United FC",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Gosport Borough vs Bracknell Town",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Harju Jalgpallikool vs Tammeka",
+      "analysis": "All 7/7 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Nojima Stella W vs JEF W",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "IK Start vs Skeid",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Raufoss vs Sogndal",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Stabaek vs Aasane",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [],
+  "OVER 2.5 STARTED HERE": [],
+  "OVER 3.5 STARTED HERE": [
+    {
+      "teams": "Andorra Women vs Gibraltar W",
+      "analysis": "All 3/3 H2H are over 3.5 Goals"
+    }
+  ],
   "WIN STARTED HERE": [
     {
-      "teams": "Radcliffe vs Darlington",
-      "winner": "Darlington",
-      "analysis": "Darlington won all 3/3 H2H matches"
+      "teams": "Andorra Women vs Gibraltar W",
+      "winner": "Andorra Women",
+      "analysis": "Andorra Women won all 3/3 H2H matches"
     },
     {
-      "teams": "Dinamo Tbilisi II vs Iberia 1999 II",
-      "winner": "Iberia 1999 II",
-      "analysis": "Iberia 1999 II won all 3/3 H2H matches"
+      "teams": "APOEL Nicosia vs AEZ Zakakiou",
+      "winner": "APOEL Nicosia",
+      "analysis": "APOEL Nicosia won all 4/4 H2H matches"
     },
     {
-      "teams": "Spaeri vs FC Gonio",
-      "winner": "Spaeri",
-      "analysis": "Spaeri won all 3/3 H2H matches"
+      "teams": "Inter Bratislava vs Skalica",
+      "winner": "Skalica",
+      "analysis": "Skalica won all 4/4 H2H matches"
     },
     {
-      "teams": "Dukla Banska Bystrica vs Puchov",
-      "winner": "Dukla Banska Bystrica",
-      "analysis": "Dukla Banska Bystrica won all 10/10 H2H matches"
+      "teams": "Greece U19 W vs Austria Women U19",
+      "winner": "Austria Women U19",
+      "analysis": "Austria Women U19 won all 3/3 H2H matches"
     }
   ]
 }
