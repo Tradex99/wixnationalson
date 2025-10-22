@@ -1,56 +1,49 @@
 OVER 1.5 STARTED HERE
 
-Teams: York City vs Boreham Wood
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Guadalupe FC vs Sporting FC
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Broendby U19 vs OB U19
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Weston Super Mare vs Slough Town
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Workington vs Gainsborough
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Leiston vs AFC Sudbury
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Flora Tallinn vs Narva Trans
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Versailles vs Dijon
+Teams: AS Monaco vs Tottenham Hotspur
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: LA Force vs Capo
+Teams: FC Inter Turku vs IF Gnistan
+Analysis: All 8/8 H2H are over 1.5 Goals
+
+Teams: HFX Wanderers FC vs York United FC
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Gosport Borough vs Bracknell Town
 Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Harju Jalgpallikool vs Tammeka
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: Nojima Stella W vs JEF W
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: IK Start vs Skeid
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Raufoss vs Sogndal
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Stabaek vs Aasane
+Analysis: All 5/5 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Chatham Town vs Dulwich Hamlet
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Dinamo Tbilisi II vs Iberia 1999 II
-Analysis: All 3/3 H2H are over 2.5 Goals
-
 OVER 3.5 STARTED HERE
+
+Teams: Andorra Women vs Gibraltar W
+Analysis: All 3/3 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Radcliffe vs Darlington
-Analysis: Darlington won all 3/3 H2H matches
-Winner: Darlington
+Teams: Andorra Women vs Gibraltar W
+Analysis: Andorra Women won all 3/3 H2H matches
+Winner: Andorra Women
 
-Teams: Dinamo Tbilisi II vs Iberia 1999 II
-Analysis: Iberia 1999 II won all 3/3 H2H matches
-Winner: Iberia 1999 II
+Teams: APOEL Nicosia vs AEZ Zakakiou
+Analysis: APOEL Nicosia won all 4/4 H2H matches
+Winner: APOEL Nicosia
 
-Teams: Spaeri vs FC Gonio
-Analysis: Spaeri won all 3/3 H2H matches
-Winner: Spaeri
-
-Teams: Dukla Banska Bystrica vs Puchov
-Analysis: Dukla Banska Bystrica won all 10/10 H2H matches
-Winner: Dukla Banska Bystrica
+Teams: Greece U19 W vs Austria Women U19
+Analysis: Austria Women U19 won all 3/3 H2H matches
+Winner: Austria Women U19

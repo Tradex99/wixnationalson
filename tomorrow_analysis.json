@@ -1,69 +1,35 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "AS Monaco vs Tottenham Hotspur",
+      "teams": "AS Roma vs Viktoria Plzen",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
     },
     {
-      "teams": "FC Inter Turku vs IF Gnistan",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "HFX Wanderers FC vs York United FC",
+      "teams": "Tijuana vs Toluca",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Gosport Borough vs Bracknell Town",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Harju Jalgpallikool vs Tammeka",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Nojima Stella W vs JEF W",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "IK Start vs Skeid",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Raufoss vs Sogndal",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Stabaek vs Aasane",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [],
-  "OVER 3.5 STARTED HERE": [
+  "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Andorra Women vs Gibraltar W",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
+      "teams": "FC Tallinn vs Nomme United",
+      "analysis": "All 7/7 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Albania Women U17 vs Israel U17 W",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
+  "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Andorra Women vs Gibraltar W",
-      "winner": "Andorra Women",
-      "analysis": "Andorra Women won all 3/3 H2H matches"
+      "teams": "Shakhtar Donetsk vs Legia Warszawa",
+      "winner": "Shakhtar Donetsk",
+      "analysis": "Shakhtar Donetsk won all 3/3 H2H matches"
     },
     {
-      "teams": "APOEL Nicosia vs AEZ Zakakiou",
-      "winner": "APOEL Nicosia",
-      "analysis": "APOEL Nicosia won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Inter Bratislava vs Skalica",
-      "winner": "Skalica",
-      "analysis": "Skalica won all 4/4 H2H matches"
-    },
-    {
-      "teams": "Greece U19 W vs Austria Women U19",
-      "winner": "Austria Women U19",
-      "analysis": "Austria Women U19 won all 3/3 H2H matches"
+      "teams": "Tammeka U21 vs Viimsi JK",
+      "winner": "Viimsi JK",
+      "analysis": "Viimsi JK won all 3/3 H2H matches"
     }
   ]
 }
