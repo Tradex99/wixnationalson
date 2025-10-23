@@ -1,49 +1,30 @@
 OVER 1.5 STARTED HERE
 
-Teams: AS Monaco vs Tottenham Hotspur
+Teams: AS Roma vs Viktoria Plzen
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: FC Inter Turku vs IF Gnistan
-Analysis: All 8/8 H2H are over 1.5 Goals
+Teams: Tijuana vs Toluca
+Analysis: All 10/10 H2H are over 1.5 Goals
 
 Teams: HFX Wanderers FC vs York United FC
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Gosport Borough vs Bracknell Town
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Harju Jalgpallikool vs Tammeka
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Nojima Stella W vs JEF W
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: IK Start vs Skeid
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Raufoss vs Sogndal
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Stabaek vs Aasane
-Analysis: All 5/5 H2H are over 1.5 Goals
-
 OVER 2.5 STARTED HERE
+
+Teams: FC Tallinn vs Nomme United
+Analysis: All 7/7 H2H are over 2.5 Goals
+
+Teams: Albania Women U17 vs Israel U17 W
+Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Andorra Women vs Gibraltar W
-Analysis: All 3/3 H2H are over 3.5 Goals
-
 WIN STARTED HERE
 
-Teams: Andorra Women vs Gibraltar W
-Analysis: Andorra Women won all 3/3 H2H matches
-Winner: Andorra Women
+Teams: Shakhtar Donetsk vs Legia Warszawa
+Analysis: Shakhtar Donetsk won all 3/3 H2H matches
+Winner: Shakhtar Donetsk
 
-Teams: APOEL Nicosia vs AEZ Zakakiou
-Analysis: APOEL Nicosia won all 4/4 H2H matches
-Winner: APOEL Nicosia
-
-Teams: Greece U19 W vs Austria Women U19
-Analysis: Austria Women U19 won all 3/3 H2H matches
-Winner: Austria Women U19
+Teams: Tammeka U21 vs Viimsi JK
+Analysis: Viimsi JK won all 3/3 H2H matches
+Winner: Viimsi JK
