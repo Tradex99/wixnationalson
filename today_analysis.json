@@ -1,39 +1,107 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "AS Roma vs Viktoria Plzen",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Tijuana vs Toluca",
+      "teams": "Leeds United vs West Ham United",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "HFX Wanderers FC vs York United FC",
+      "teams": "Al Ittihad vs Al Hilal",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Almere City FC vs Jong AZ Alkmaar",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "De Graafschap vs Jong PSV",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Newcastle Jets vs Melbourne Victory",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "ACS Champions FC Arges vs Dinamo Bucuresti",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SW Bregenz vs Kapfenberger SV",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FSV 08 Bissingen vs TSG Backnang",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC Suederelbe vs FC Tuerkiye Wilhelmsburg",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Teutonia Ottensen vs TSV Buchholz",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Lippstadt vs Westfalia Rhynern",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "KKS 1925 Kalisz vs Slask Wroclaw ll",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Partizan Beograd vs Mladost Lucani",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Al-Wahda vs Al-Dhafra",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "FC Tallinn vs Nomme United",
-      "analysis": "All 7/7 H2H are over 2.5 Goals"
+      "teams": "Altonaer FC 93 vs 1. FC Phonix Lubeck",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Albania Women U17 vs Israel U17 W",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
+      "teams": "Balestier Khalsa FC vs Tanjong Pagar United FC",
+      "analysis": "All 10/10 H2H are over 2.5 Goals"
     }
   ],
-  "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": [
+  "OVER 3.5 STARTED HERE": [
     {
-      "teams": "Shakhtar Donetsk vs Legia Warszawa",
-      "winner": "Shakhtar Donetsk",
-      "analysis": "Shakhtar Donetsk won all 3/3 H2H matches"
+      "teams": "Oberneuland vs TS Woltmershausen",
+      "analysis": "All 8/8 H2H are over 3.5 Goals"
     },
     {
-      "teams": "Tammeka U21 vs Viimsi JK",
-      "winner": "Viimsi JK",
-      "analysis": "Viimsi JK won all 3/3 H2H matches"
+      "teams": "Tabor vs Nk Brinje Grosuplje",
+      "analysis": "All 4/4 H2H are over 3.5 Goals"
+    }
+  ],
+  "WIN STARTED HERE": [
+    {
+      "teams": "Northern Ireland W vs Iceland Women",
+      "winner": "Iceland Women",
+      "analysis": "Iceland Women won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Miercurea Ciuc vs Petrolul Ploiesti",
+      "winner": "Petrolul Ploiesti",
+      "analysis": "Petrolul Ploiesti won all 4/4 H2H matches"
+    },
+    {
+      "teams": "SK Dynamo Ceske Budejovice vs SK Prostejov",
+      "winner": "SK Dynamo Ceske Budejovice",
+      "analysis": "SK Dynamo Ceske Budejovice won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Altonaer FC 93 vs 1. FC Phonix Lubeck",
+      "winner": "1. FC Phonix Lubeck",
+      "analysis": "1. FC Phonix Lubeck won all 3/3 H2H matches"
+    },
+    {
+      "teams": "VfB Lubeck vs Kickers Emden",
+      "winner": "VfB Lubeck",
+      "analysis": "VfB Lubeck won all 10/10 H2H matches"
     }
   ]
 }

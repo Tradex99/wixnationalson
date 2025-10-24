@@ -1,30 +1,81 @@
 OVER 1.5 STARTED HERE
 
-Teams: AS Roma vs Viktoria Plzen
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Tijuana vs Toluca
+Teams: Leeds United vs West Ham United
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: HFX Wanderers FC vs York United FC
+Teams: Al Ittihad vs Al Hilal
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Almere City FC vs Jong AZ Alkmaar
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: De Graafschap vs Jong PSV
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Newcastle Jets vs Melbourne Victory
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: ACS Champions FC Arges vs Dinamo Bucuresti
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: SW Bregenz vs Kapfenberger SV
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: FSV 08 Bissingen vs TSG Backnang
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: FC Suederelbe vs FC Tuerkiye Wilhelmsburg
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Teutonia Ottensen vs TSV Buchholz
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Lippstadt vs Westfalia Rhynern
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: KKS 1925 Kalisz vs Slask Wroclaw ll
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Partizan Beograd vs Mladost Lucani
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Al-Wahda vs Al-Dhafra
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: FC Tallinn vs Nomme United
-Analysis: All 7/7 H2H are over 2.5 Goals
-
-Teams: Albania Women U17 vs Israel U17 W
+Teams: Altonaer FC 93 vs 1. FC Phonix Lubeck
 Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Balestier Khalsa FC vs Tanjong Pagar United FC
+Analysis: All 10/10 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Oberneuland vs TS Woltmershausen
+Analysis: All 8/8 H2H are over 3.5 Goals
+
+Teams: Tabor vs Nk Brinje Grosuplje
+Analysis: All 4/4 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Shakhtar Donetsk vs Legia Warszawa
-Analysis: Shakhtar Donetsk won all 3/3 H2H matches
-Winner: Shakhtar Donetsk
+Teams: Northern Ireland W vs Iceland Women
+Analysis: Iceland Women won all 3/3 H2H matches
+Winner: Iceland Women
 
-Teams: Tammeka U21 vs Viimsi JK
-Analysis: Viimsi JK won all 3/3 H2H matches
-Winner: Viimsi JK
+Teams: Miercurea Ciuc vs Petrolul Ploiesti
+Analysis: Petrolul Ploiesti won all 4/4 H2H matches
+Winner: Petrolul Ploiesti
+
+Teams: SK Dynamo Ceske Budejovice vs SK Prostejov
+Analysis: SK Dynamo Ceske Budejovice won all 4/4 H2H matches
+Winner: SK Dynamo Ceske Budejovice
+
+Teams: Altonaer FC 93 vs 1. FC Phonix Lubeck
+Analysis: 1. FC Phonix Lubeck won all 3/3 H2H matches
+Winner: 1. FC Phonix Lubeck
+
+Teams: VfB Lubeck vs Kickers Emden
+Analysis: VfB Lubeck won all 10/10 H2H matches
+Winner: VfB Lubeck
